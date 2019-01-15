@@ -12,75 +12,6 @@ import pandas as pd
 from itertools import chain 
 import statsmodels.api as sm
 
-## Reading arguments
-parser = argparse.ArgumentParser(description='Estimate PTM hotspots in sequence alignments')
-parser.add_argument('--dir',
-                    nargs = '?',
-                    default = "db/alignments",
-                    action="store",
-                    metavar="PATH",
-                    dest = "alignments_dir",
-                    help='directory containing fasta alignments (default: db/alignments)')
-parser.add_argument('--ptmfile',
-                    nargs = '?',
-                    default = "db/all_phosps",
-                    action="store",
-                    metavar="PATH",
-                    dest = "ptm_file",
-                    help='file containing PTMs (default: db/all_phosps)')
-parser.add_argument('-d',
-                    '--domain',
-                    nargs = '?',
-                    action="store",
-                    metavar="PFXXXXX",
-                    dest = "domain",
-                    help='predictions in domain (i.e. Protein kinase domain PF00069)')
-parser.add_argument('--iter',
-                    nargs = '?',
-                    default = 100,
-                    action="store",
-                    dest="how_many_permuts",
-                    metavar="INTEGER",
-                    type=int,
-                    help='number of permutations (default: 100)')
-parser.add_argument('--threshold',
-                    nargs = '?',
-                    default = 0.05,
-                    action="store",
-                    metavar = "FLOAT",
-                    dest="threshold",
-                    type=float,
-                    help='Bonferroni-corrected p-value threshold for calling hotspots (default: 0.05)')
-parser.add_argument('--foreground',
-                    nargs = '?',
-                    default = 2,
-                    action="store",
-                    metavar = "FLOAT",
-                    dest="fore_val",
-                    type=float,
-                    help='effect-size cutoff for calling hotspots (default: 2)')
-parser.add_argument('-o',
-                    '--out',
-                    required=True,
-                    action="store",
-                    metavar = "PATH",
-                    dest="outputFile",
-                    help='output csv file')
-parser.add_argument('--printSites',
-                    dest = "printSites",
-                    action="store_true",
-                    help='print all site predictions instead of hotspot regions',
-                    default=False)
-
-results = parser.parse_args()
-alignments_dir = results.alignments_dir
-ptm_file = results.ptm_file
-how_many_permuts = results.how_many_permuts
-threshold = results.threshold
-fore_val = results.fore_val
-outputFile = results.outputFile
-printSites = results.printSites
-
 ## prepare column names and indexes
 def prepare_cols_indx(alignment_file):
     alignment=open(alignment_file,"r").readlines()
@@ -336,39 +267,109 @@ def find_hotspot_instances(hospot_sites, hotspot_definitions):
 ###########
 ## MAIN
 ###########
-## reading all PTMs
-ptms=open(ptm_file,"r").readlines()
-## check if domain is specified. read all otherwise
-if results.domain:
-    alignmentFiles = [results.domain + ".fasta"]
-    if not os.path.isfile(os.path.join(alignments_dir, alignmentFiles[0])):
-        sys.stderr.write("Domain file does not exist!")
-        sys.exit(1)
-        ## read all
-else:
-    alignmentFiles = os.listdir(alignments_dir)
+if __name__ == '__main__':
+    ## Reading arguments
+    parser = argparse.ArgumentParser(description='Estimate PTM hotspots in sequence alignments')
+    parser.add_argument('--dir',
+                        nargs = '?',
+                        default = "db/alignments",
+                        action="store",
+                        metavar="PATH",
+                        dest = "alignments_dir",
+                        help='directory containing fasta alignments (default: db/alignments)')
+    parser.add_argument('--ptmfile',
+                        nargs = '?',
+                        default = "db/all_phosps",
+                        action="store",
+                        metavar="PATH",
+                        dest = "ptm_file",
+                        help='file containing PTMs (default: db/all_phosps)')
+    parser.add_argument('-d',
+                        '--domain',
+                        nargs = '?',
+                        action="store",
+                        metavar="PFXXXXX",
+                        dest = "domain",
+                        help='predictions in domain (i.e. Protein kinase domain PF00069)')
+    parser.add_argument('--iter',
+                        nargs = '?',
+                        default = 100,
+                        action="store",
+                        dest="how_many_permuts",
+                        metavar="INTEGER",
+                        type=int,
+                        help='number of permutations (default: 100)')
+    parser.add_argument('--threshold',
+                        nargs = '?',
+                        default = 0.05,
+                        action="store",
+                        metavar = "FLOAT",
+                        dest="threshold",
+                        type=float,
+                        help='Bonferroni-corrected p-value threshold for calling hotspots (default: 0.05)')
+    parser.add_argument('--foreground',
+                        nargs = '?',
+                        default = 2,
+                        action="store",
+                        metavar = "FLOAT",
+                        dest="fore_val",
+                        type=float,
+                        help='effect-size cutoff for calling hotspots (default: 2)')
+    parser.add_argument('-o',
+                        '--out',
+                        required=True,
+                        action="store",
+                        metavar = "PATH",
+                        dest="outputFile",
+                        help='output csv file')
+    parser.add_argument('--printSites',
+                        dest = "printSites",
+                        action="store_true",
+                        help='print all site predictions instead of hotspot regions',
+                        default=False)
 
-## estimating all hotspot sites
-allHotspots = []
-for filename in alignmentFiles:
-    print("* " + filename)
-    alignment_path = os.path.join(alignments_dir, filename)
-    getHotspotSitesInFile(alignment_path, ptms, how_many_permuts)
-    allHotspots.append(expanded_dataframe)
-hotspot_sites = pd.concat(allHotspots)
-hotspot_sites = hotspot_sites.loc[:,("domain", "protein", "position", "residue", "position_aln", "foreground", "pvals")].copy()
-hotspot_sites["p_adjust"] = sm.stats.multipletests(hotspot_sites.pvals.tolist(), method='fdr_bh')[1]
-hotspot_sites["hotspot"] = (hotspot_sites.p_adjust <= threshold) & (hotspot_sites.foreground >= fore_val)
+    results = parser.parse_args()
+    alignments_dir = results.alignments_dir
+    ptm_file = results.ptm_file
+    how_many_permuts = results.how_many_permuts
+    threshold = results.threshold
+    fore_val = results.fore_val
+    outputFile = results.outputFile
+    printSites = results.printSites
 
-## estimating hotspot ranges
-#All hotspot range-definitions 
-hotspot_definitions = get_hotspot_regions(hotspot_sites)
-#Match of all hotspots into   
-hotspot_regions = find_hotspot_instances(hotspot_sites, hotspot_definitions)
+    ## reading all PTMs
+    ptms=open(ptm_file,"r").readlines()
+    ## check if domain is specified. read all otherwise
+    if results.domain:
+        alignmentFiles = [results.domain + ".fasta"]
+        if not os.path.isfile(os.path.join(alignments_dir, alignmentFiles[0])):
+            sys.stderr.write("Domain file does not exist!")
+            sys.exit(1)
+            ## read all
+    else:
+        alignmentFiles = os.listdir(alignments_dir)
 
-print("Done!")
+    ## estimating all hotspot sites
+    allHotspots = []
+    for filename in alignmentFiles:
+        print("* " + filename)
+        alignment_path = os.path.join(alignments_dir, filename)
+        getHotspotSitesInFile(alignment_path, ptms, how_many_permuts)
+        allHotspots.append(expanded_dataframe)
+    hotspot_sites = pd.concat(allHotspots)
+    hotspot_sites = hotspot_sites.loc[:,("domain", "protein", "position", "residue", "position_aln", "foreground", "pvals")].copy()
+    hotspot_sites["p_adjust"] = sm.stats.multipletests(hotspot_sites.pvals.tolist(), method='fdr_bh')[1]
+    hotspot_sites["hotspot"] = (hotspot_sites.p_adjust <= threshold) & (hotspot_sites.foreground >= fore_val)
 
-if printSites:
-    hotspot_sites[hotspot_sites.hotspot].to_csv(outputFile, index = False)
-else:
-    hotspot_regions.to_csv(outputFile, index = False)
+    ## estimating hotspot ranges
+    #All hotspot range-definitions 
+    hotspot_definitions = get_hotspot_regions(hotspot_sites)
+    #Match of all hotspots into   
+    hotspot_regions = find_hotspot_instances(hotspot_sites, hotspot_definitions)
+
+    print("Done!")
+
+    if printSites:
+        hotspot_sites[hotspot_sites.hotspot].to_csv(outputFile, index = False)
+    else:
+        hotspot_regions.to_csv(outputFile, index = False)
