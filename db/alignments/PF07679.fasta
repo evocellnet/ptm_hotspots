@@ -1,0 +1,446 @@
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5695;5784
+PYF----VEKP-QSQ-DVN-PN---T----RVQLKA-L-VG--GT-----APMTIKWFK----------------------------DN-KE-----L-------HS----G----------------------------A--ARS--VWK-DD--------T---STSLELFA-AKA-TDSGTYICQLSN-DVGT--ATSKATLFV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;2078;2168
+PKI----FERI-QSQ-TVG-QG---S----DAHFRV-R-VV--GK-----PDPECEWYK----------------------------NG-VK-----I-------ER----S----------------------------D--RIYW-YWP-ED--------N---VCELVIRD-VTA-EDSASIMVKAIN-IAGE--TSSHAFLLV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;31955;32045
+PKT----LEGM-GAV-HAL-RG---E----VVSIKI-P-FS--GK-----PDPVITWQK----------------------------GQ-DL-----I-------DN----N----------------------------G--HYQ--VIV-TR--------S---FTSLVFPNGVER-KDAGFYVVCAKN-RFGI--DQKTVELDV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;13479;13563
+AEF----ISKP-QNL-EIL-EG---E----KAEFVC-S-IS--KE------SFPVQWKR----------------------------DD-KT-----L-------ES----G----------------------------D--KYD--VIA-DG--------K---KRVLVVKD-ATL-QDMGTYVV-----MVGA--ARAAAHLTV---
+>Q13308#human ['PTK7_HUMAN Inactive tyro ;328;408
+--F---------EPR-VFT-AG---S----EERVTCLP-PK--GL-----PEPSVWWEH----------------------------AG-VR-----L-------PT----H----------------------------G--RVY------QK------------GHELVLAN-IAE-SDAGVYTCHAAN-LAGQ--RRQDVNITV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9761;9850
+IQF----TKRI-QNI-VVS-EH---Q----SATFEC-E-VS--FD------DAIVTWYK----------------------------GP-TE-----L-------TE----S----------------------------Q--KYN--FRN-DG--------R---CHYMTIHN-VTP-DDEGVYSVIARLEPRGE--ARSTAELYL---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9080;9169
+PFF----DIRL-APV-DAV-VG---E----SADFEC-H-VT--GT-----QPIKVSWAK----------------------------DS-RE-----I-------RS----G----------------------------G--KYQ--ISY-LE--------N---SAHLTVLK-VDK-GDSGQYTCYAVN-EVGK--DSCTAQLNI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;16327;16421
+-RL----SVRG-DTI-KVK-AG---E----PVHIPA-D-VT--GL-----PMPKIEWSK----------------------------NE-TV-----I-------EK----PTDALQI----------------------T--KEE--VSR-SE--------A---KTELSIPK-AVR-EDKGTYTVTASN-RLGS--VFRNVHVEV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;21704;21791
+E-L---DAELR-RTL-VVR-AG---L----SIRIFV-P-IK--GR-----PAPEVTWTK----------------------------DN-IN-----L-------K----------------------------------N--RAN--IEN-TE--------S---FTLLIIPE-CNR-YDTGKFVMTIEN-PAGK--KSGFVNVRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;22790;22875
+------DADLR-KVV-TIR-AC---C----TLRLFV-P-IK--GR-----PAPEVKWAR----------------------------DH-GE-----S-------L----------------------------------D--KAS--IES-TS--------S---YTLLIVGN-VNR-FDSGKYILTVEN-SSGS--KSAFVNVRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5413;5502
+PSF----IKKI-EST-SSL-RG---G----TAAFQA-T-LK--GS-----LPITVTWLK----------------------------DS-DE-----I-------TE----D----------------------------D--NIR--MTF-EN--------N---VASLYLSG-IEV-KHDGKYVCQAKN-DAGI--QRCSALLSV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;4664;4754
+PSF----VKKV-DPS-YLMLPG---E----SARLHC-K-LK--GS-----PVIQVTWFK----------------------------NN-KE-----L-------SE----S----------------------------N--TVR--MYF-VN--------S---EAILDITD-VKV-EDSGSYSCEAVN-DVGS--DSCSTEIVI---
+>FBpp0227859 pep:known supercontig:GCA_0 ;2107;2196
+PRF----TTPL-TGK-IVD-QG---V----NVSMEA-I-YD--GY-----PSPEIKVEK----------------------------NG-DQ-----L-------FE----N----------------------------A--HTK--ISN-KF--------N---RVTIELKE-VGV-ADAGRYAVTASN-AVGQ--STSTADLVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5788;5878
+PQF----IKKP-SPV-LVLRNG---Q----STTFEC-Q-IT--GT-----PKIRVSWYL----------------------------DG-NE-----I-------TA----I----------------------------Q--KHG--ISF-ID--------G---LATFQISG-ARV-ENSGTYVCEARN-DAGT--ASCSIELKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;15314;15403
+PTI----DLET-HDI-IVI-EG---E----KLSIPV-P-FR--AV-----PVPTVSWHK----------------------------DG-KE-----V-------KA----S----------------------------D--RLT--MKN-DH--------I---SAHLEVPK-SVR-ADAGIYTITLEN-KLGS--ATASINVKV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;6108;6199
+PRF----VNKV-RAS-PFV-EG---E----DAQFTC-T-IE--GA-----PYPQIRWYK----------------------------DG-AL-----L-------TT----G----------------------------N--KFQT-LSEPRS--------G---LLVLVIRA-ASK-EDLGLYECELVN-RLGS--ARASAELRI---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;3274;3357
+AQF----IGKL-RNK-EAT-EG---A----TATLRC-E-LS--KA-------APVEWRK----------------------------GS-ET-----L-------RD----G----------------------------D--RYC--LRQ-DG--------A---MCELQIRG-LAM-VDAAEYSC-----VCGE--ERTSASLTI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;27404;27493
+DMK----NFPS-HTV-YVR-AG---S----NLKVDI-P-IS--GK-----PLPKVTLSR----------------------------DG-VP-----L-------KA----T----------------------------M--RFN--TEI-TA--------E---NLTINLKE-SVT-ADAGRYEITAAN-SSGT--TKAFINIVV---
+>ENSMUSP00000130668.3 pep:known chromoso ;214;305
+VQA----RQSI-VNA-TAN-LG---Q----SVTLVC-D-AD--GF-----PEPTMSWTK----------------------------DG-EP-----I-------EN----EEE--------------------------D--DEK--HIF-SD--------D---SSELTIRN-VDK-NDEAEYVCIAEN-KAGE--QDASIHLKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;28891;28975
+---------YF-DGL-IIK-SG---E----SLRIKA-L-VQ--GR-----PVPRVTWFK----------------------------DG-VE-----I-------EK----R----------------------------M--NME--ITD-VL--------G---STSLFVRD-ATR-DHRGVYTVEAKN-ASGS--AKAEIKVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;23873;23957
+-------LELR-KII-NIR-AG---G----SLRLFV-P-IK--GR-----PTPEVKWGK----------------------------VD-GE-----I-------R----------------------------------D--AAI--IDV-TS--------S---FTSLVLDN-VNR-YDSGKYTLTLEN-SSGT--KSAFVTVRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;29286;29372
+--I---DANFK-QTH-VVR-AG---A----SIRLFI-A-YQ--GR-----PTPTAVWSK----------------------------PD-SN-----L-------S----------------------------------L--RAD--IHT-TD--------S---FSTLTVEN-CNR-NDAGKYTLTVEN-NSGS--KSITFTVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;25239;25328
+PSL----KLPF-NTY-SIQ-AG---E----DLKIEI-P-VI--GR-----PRPNISWVK----------------------------DG-EP-----L-------KQ----T----------------------------T--RVN--VEE-TA--------T---STVLHIKE-GNK-DDFGKYTVTATN-SAGT--ATENLSVIV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;14327;14411
+---------FK-DGL-EVI-VP---N----PITILV-P-ST--GY-----PRPTATWCF----------------------------GD-KV-----L-------ET----G----------------------------D--RVK--MKT-LS--------A---YAELVISP-SER-SDKGIYTLKLEN-RVKT--ISGEIDVNV---
+>ENSMUSP00000130127.2 pep:known chromoso ;49;149
+-IF----LKKP-DSV-SVE-TG---K----DAVILA-K-VN--GKELP--GKPTIKWFK----------------------------GKWQE-----LGS-----KS----G----------------------------A--RFI--FKE-SH----DSTSN-VYTVELHIGK-VVL-GDRGDYRLEIKA-KDVC--DSCSFNVDV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;712;784
+---------AA-REV-LAR-LH---E----EAQLLA-E-LS--DQ------AAAVTWLK----------------------------DG-RT-----L-------SP----G----------------------------P--KYE--VQA-SA--------G---RRVLLVRD-VAR-DDAGLYEC-----VSRG--GR----------
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;2647;2732
+VVF----LKAL-DDL-SAE-ER---G----TLALQC-E-VS--DP------EAHVVWRK----------------------------DG-VQ-----L-------GP----S----------------------------D--KYD--FLH-TA--------G---TRGLVVHD-VSP-EDAGLYTC-----HVGS--EETRARVRVH--
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12856;12941
+LKF----LTPL-KDV-TAK-EK---E----SAVFTV-E-LS--HD------NIRVKWFK----------------------------ND-QR-----L-------HT----T----------------------------R--SVS--MQD-EG--------K---THSITFKD-LSI-DDTSQIRV-----EAMG--MSSEAKLTVL--
+>ENSMUSP00000063468.3 pep:known chromoso ;211;298
+IMM----PQKS-FNA-TAE-RG---E----EMTLTC-K-AS--GS-----PDPTISWFR----------------------------NG-KL-----I-------EE----N----------------------------E--KYI--LKG-----------S---NTELTVRN-IIN-KDGGSYVCKATN-KAGE--DQKQAFLQV---
+>ENSMUSP00000084361.5 pep:known chromoso ;45;127
+PVF----LRPL-KNA-AVC-AG---S----DVRLRV-V-VS--GT-----PQPSLSWFR----------------------------DG-QL-----L-------PP----P----------------------------------------AP--------E---PSCLWLRS-CGA-QDAGVYSCSAQN-ERGQ--ASCEAVLTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;18439;18527
+--L---DVKLI-EGL-VVK-AG---T----TVRFPA-I-IR--GV-----PVPTAKWTT----------------------------DG-SE-----I-------KT----D----------------------------E--HYT--VET-DN--------F---SSVLTIKN-CLR-RDTGEYQITVSN-AAGS--KTVAVHLTV---
+>ENSMUSP00000130127.2 pep:known chromoso ;251;333
+AAF----TKKL-DPAYQVD-RG---N----KIKLVV-E-IS--DP------DLPLKWFK----------------------------NG-QE-----I-------KP----S----------------------------S--KYV--FEN-VG--------K---KRILTINK-CTL-ADDAAYEV-----AVQD--EKCFTE------
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12501;12585
+LKF----MSPL-EDQ-TVK-EG---E----TATFVC-E-LS--HE------KMHVVWFK----------------------------ND-AK-----L-------HT----S----------------------------R--TVL--ISS-EG--------K---THKLEMKE-VTL-DDISQIKA-----QVKE--LSSTAQLKV---
+>Q8NDA2#human ['HMCN2_HUMAN Hemicentin-2 ;2553;2637
+DSAD--------EEV-TVT-VN---N----PISLIC-E-AL--AF-----PSPNITWMK----------------------------DG-AP-----F-------EA----S----------------------------R--NIQ--LLP-----------G---THGLQILN-AQK-EDAGQYTCVVTN-ELGE--AVKNYHVEV---
+>Q00872#human ['MYPC1_HUMAN Myosin-bindi ;530;616
+--------DAD-NTV-TVI-AG---N----KLRLEI-P-IS--GE-----PPPKAMWSR----------------------------GD-KAI----M-------EG----S----------------------------G--RIR--TES-YP--------D---SSTLVIDI-AER-DDSGVYHINLKN-EAGE--AHASIKVKV---
+>P54296#human ['MYOM2_HUMAN Myomesin-2 O ;278;372
+VQF----LEKF-GVT-FRR-EG---E----TVTLKC-T-ML--VTPDLKRVQPRAEWYR----------------------------DD-VL-----L-------KE----S----------------------------K--WTK--MFF-GE--------G---QASLSFSH-LHK-DDEGLYTLRIVS-RGGV--SDHSAFLFV---
+>FBpp0076082 pep:known chromosome:BDGP6: ;73;175
+PYF---DPSTP-RNV-TAL-MG---K----SAYLSC-R-VR--NL-----ANKTVSWIR----------------------------HR-DIHI---LTVGSYTYTS----D----------------------------Q--RFQ--ATH-HQ------DTE---DWTLQIKW-AQK-RDAGMYECQISTQPVRS--YFVRLNVVV---
+>Q14324#human ['MYPC2_HUMAN Myosin-bindi ;439;524
+LEV----LQDI-ADL-TVK-AS---E----QAVFKC-E-VS--DE------KVTGKWYK----------------------------NG-VE-----V-------RP----S----------------------------K--RIT--ISH-VG--------R---FHKLVIDD-VRP-EDEGDYTF-----VPDG--YALSLSAKLN--
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;3239;3328
+PQV----LQEL-QPV-TVQ-SG---K----PARFCA-V-IS--GR-----PQPKISWYK----------------------------EE-QL-----L-------ST----G----------------------------F--KCK--FLH-DG--------Q---EYTLLLIE-AFP-EDAAVYTCEAKN-DYGV--ATTSASLSV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6164;6253
+PSF----TKKL-TKM-DKV-LG---S----SIHMEC-K-VS--GS-----LPISAQWFK----------------------------DG-KE-----I-------ST----S----------------------------A--KYR--LVC-HE--------R---SVSLEVNN-LEL-EDTANYTCKVSN-VAGD--DACSGILTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6068;6157
+AQI----VEKA-KSV-DVT-EK---D----PMTLEC-V-VA--GT-----PELKVKWLK----------------------------DG-KQ-----I-------VP----S----------------------------R--YFS--MSF-EN--------N---VASFRIQS-VMK-QDSGQYTFKVEN-DFGS--SSCDAYLRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;17047;17140
+IDLK--------EFM-EVE-EG---T----NVNIVA-K-IK--GV-----PFPTLTWFKA--------------PPKKP--------DN-KEPV---L------------YD----------------------------T--HVN--KLV-VD--------D---TCTLVIPQ-SRR-SDTGLYTITAVN-NLGT--ASKEMRLNV---
+>F15G9.4a pep:known chromosome:WBcel235: ;1002;1088
+HVA----VVN--STH-DVL-DG---E----GFAIPC-V-VS--GT-----PPPIITWYL----------------------------DG-RP-----I-------TP----NS---------------------------R--DFT--VTA-DN--------------TLIVRK-ADK-SYSGVYTCQATN-SAGD--NEQKTTIRI---
+>ENSMUSP00000127070.1 pep:known chromoso ;367;453
+TAF----QKKL-EPAYQVN-KG---H----KIRLTV-E-LA--DP------DAEVKWLK----------------------------NG-QE-----I-------QM----SG---------------------------S--KYI--FES-VG--------A---KRTLTISQ-CSL-ADDAAYQC-----VVGG--EKCSTELFV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;30376;30461
+------ADDLK-KTV-TIR-AG---A----SLRLMV-S-VS--GR-----PPPVITWSK----------------------------QG-ID-----L-------A----------------------------------S--RAI--IDT-TE--------S---YSLLIVDK-VNR-YDAGKYTIEAEN-QSGK--KSATVLVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;33966;34053
+AEI----KAFS-TQM-SIN-EG---Q----RLVLKA-N-IA---------GATDVKWVL----------------------------NG-VE-----L-------TN----S----------------------------E--EYR--YGV-SG--------S---DQTLTIKQ-ASH-RDEGILTCISKT-KEGI--VKCQYDLTL---
+>Q15746#human ['MYLK_HUMAN Myosin light  ;1098;1187
+PAF----KQKL-QDV-HVA-EG---K----KLLLQC-Q-VS--SD-----PPATIIWTL----------------------------NG-KT-----L-------KT----T----------------------------K--FII--LSQ-EG--------S---LCSVSIEK-ALP-EDRGLYKCVAKN-DAGQ--AECSCQVTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;19536;19622
+------DASMR-KLV-IVR-AG---C----PIRLFA-I-VR--GR-----PAPKVTWRK----------------------------VGIDN-----V-------V----------------------------------R--KGQ--VDL-VD--------T---MAFLVIPN-STR-DDSGKYSLTLVN-PAGE--KAVFVNVRV---
+>Q9UBF9#human ['MYOTI_HUMAN Myotilin OS= ;349;440
+PMF----IYKP-QSK-KVL-EG---D----SVKLEC-Q-IS--AI-----PPPKLFWKR----------------------------NN-EM-----V-------QF----NT---------------------------D--RIS--LYQ-DN-------TG---RVTLLIKD-VNK-KDAGWYTVSAVN-EAGV--TTCNTRLDV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;23470;23560
+ISM---DPKYK-DTI-VVH-AG---E----SFKVDA-D-IY--GK-----PIPTIQWIK----------------------------GD-QE-----L-------SN----T----------------------------A--RLE--IKS-TD--------F---ATSLSVKD-AVR-VDSGNYILKAKN-VAGE--RSVTVNVKV---
+>C09D1.1b pep:known chromosome:WBcel235: ;4018;4107
+PGF----FKEL-SAI-QVK-ET---E----TAKFEC-K-VS--GT------KPDVKWFK----------------------------DG-TP-----L-------KE----D----------------------------K--RVH--FESTDD--------G---TQRLVIED-SKT-DDQGNYRIEVSN-DAGV--ANSKVPLTV---
+>Q13203#human ['MYBPH_HUMAN Myosin-bindi ;175;263
+RVP----RHLR-QTY-IRQ-VG---E----TVNLQI-P-FQ--GK-----PKPQATWTH----------------------------NG-HA-----L-------DS---------------------------------Q--RVS--MRT-GD--------Q---DSILFIRS-AQR-SDSGRYELTVRV-EDLE--AKAVIDILV---
+>O60469#human ['DSCAM_HUMAN Down syndrom ;225;310
+PSI----LDGF-DHR-KAM-AG---Q----RVELPC-K-AL--GH-----PEPDYRWLK----------------------------DN-MP-----L-------EL----S----------------------------G--RFQ---------------KT---VTGLLIEN-IRP-SDSGSYVCEVSN-RYGT--AKVIGRLYV---
+>FBpp0274040 pep:known supercontig:GCA_0 ;2125;2214
+PRF----TTPL-TGK-IVD-QG---A----DVSMEA-I-YD--GY-----PSPEIKVEK----------------------------NG-GQ-----L-------FD----D----------------------------P--HTK--ISN-KF--------N---RVTIELKQ-VGV-ADAGRYAVTASN-AVGQ--STSTADLVV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;3362;3446
+AHF----IGRL-RHQ-ESI-EG---A----TATLRC-E-LS--KA-------APVEWRK----------------------------GR-ES-----L-------RD----G----------------------------D--RHS--LRQ-DG--------A---VCELQICG-LAV-ADAGEYSC-----VCGE--ERTSATLTVK--
+>FBpp0274042 pep:known supercontig:GCA_0 ;4107;4195
+PVF----VSKI-EPQ-TVE-EG---E----PARFCV-R-VT--GH-----PRPRVMWLV----------------------------NG-HT-----V-------VH----G----------------------------S--RYK--LTN-D---------G---MFHLDIPK-TRQ-YDTGKVEVIARN-SVGE--SITQTELKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;3147;3233
+VRI----RSIK-KEV-QVI-EK---Q----RAVVEF-E-VN--ED------DVDAHWYK----------------------------DG-IE-----INF-----QV----Q----------------------------E--RHK--YVV-ER--------R---IHRMFISE-TRQ-SDAGEYTF-----VAGR--NRSSVTLYV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6537;6627
+PRF----VSKL-NSL-TVV-AG---E----PAELQA-S-IE--GA-----QPIFVQWLK----------------------------EK-EEV----I-------RE----S----------------------------E--NIR--ITF-VE--------N---VATLQFAK-AEP-ANAGKYICQIKN-DGGM--RENMATLMV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8984;9073
+PSF----SRQL-RDV-QET-VG---L----PVVFDC-A-IS--GS-----EPISVSWYK----------------------------DG-KP-----L-------KD----S----------------------------P--NVQ--TSF-LD--------N---TATLNIFK-TDR-SLAGQYSCTATN-PIGS--ASSSARLIL---
+>P52179#human ['MYOM1_HUMAN Myomesin-1 O ;1574;1663
+VL-----GGLP-DVV-TIQ-EG---K----ALNLTC-N-VW--GD-----PPPEVSWLK----------------------------NE-KA-----L-------AS----D----------------------------D--HCN--LKF-EA-------GR---TAYFTING-VST-ADSGKYGLVVKN-KYGS--ETSDFTVSV---
+>FBpp0072828 pep:known chromosome:BDGP6: ;553;644
+PQL----AIEP-SNL-VAI-TG---T----TIELPC-Q-ADQ-PE-----DGLQISWRH----------------------------DG-RL-----I-------DP----NVQLA------------------------E--KYQ--ISG---------------AGSLFVKN-VTI-PDGGRYECQLKN-QFGR--ASASALVTI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;2445;2530
+VDV----ITPL-KDV-NVI-EG---T----KAVLEC-K-VS--VP-----DVTSVKWYL----------------------------ND-EQ-----I-------KP----D----------------------------D--RVQ--AIV-KG--------T---KQRLVINR-THA-SDEGPYKL-----IVGR--VETNCNLSV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7572;7661
+ARI----IEKP-EPM-TVT-TG---N----PFALEC-V-VT--GT-----PELSAKWFK----------------------------DG-RE-----L-------SA----D----------------------------S--KHH--ITF-IN--------K---VASLKIPC-AEM-SDKGLYSFEVKN-SVGK--SNCTVSVHV---
+>Q14324#human ['MYPC2_HUMAN Myosin-bindi ;1048;1137
+PKF----LTPL-IDR-VVV-AG---Y----SAALNC-A-VR--GH-----PKPKVVWMK----------------------------NK-ME-----I-------RE----D----------------------------P--KFL--ITN-YQ--------G---VLTLNIRR-PSP-FDAGTYTCRAVN-ELGE--ALAECKLEV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9583;9669
+VTL----IKDI-ENQ-TVL-KD---N----DAVFEI-D-IK--INY----PEIKLSWYK----------------------------GT-EK-----L-------EP----S----------------------------D--KFE--ISI-DG--------D---RHTLRVKN-CQL-KDQGNYRL-----VCGP--HIASAKLTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;26035;26122
+E-L---DADLR-KVV-VLR-AS---A----TLRLFV-T-IK--GR-----PEPEVKWEK----------------------------AE-GI-----L-------T----------------------------------D--RAQ--IEV-TS--------S---FTMLVIDN-VTR-FDSGRYNLTLEN-NSGS--KTAFVNVRV---
+>C09D1.1b pep:known chromosome:WBcel235: ;844;935
+PTF----NKPL-EDK-TVQ-EK---S----TVVFEV-D-VS--GW-----PEPTLTFTL----------------------------CG-KE-----L-------KN----GE---------------------------E--GVE--IVG-HD--------G---FYRISIPN-TSMDKHDGEIVAKAQN-EHGT--AESRARLTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;17750;17835
+--------DFR-DKL-TIR-VG---E----AFALTG-R-YS--GK-----PKPKVSWFK----------------------------DE-AD-----V-------LE----D----------------------------D--RTH--IKT-TP--------A---TLALEKIK-AKR-SDSGKYCVVVEN-STGS--RKGFCQVNV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;27114;27201
+D-I---DSEMR-KTL-IVK-AG---A----SFTMTV-P-FR--GR-----PVPNVLWSK----------------------------PD-TD-----L-------R----------------------------------T--RAY--VDT-TD--------S---RTSLTIEN-ANR-NDSGKYTLTIQN-VLSA--ASLTLVVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;19828;19915
+------KILMP-EQI-TIK-AG---K----KLRIEA-H-VY--GK-----PHPTCKWKK----------------------------GE-DE-----V-------VT----S----------------------------S--HLA--VHK-AD--------S---SSILIIKD-VTR-KDSGYYSLTAEN-SSGT--DTQKIKVVV---
+>FBpp0304428 pep:known chromosome:BDGP6: ;2118;2207
+PRF----TTPL-SGK-IVD-QG---A----DVSMEA-I-YD--GF-----PSPEIKVEK----------------------------NG-GQ-----L-------FE----D----------------------------A--HTR--ISN-KC--------N---RVTIELKQ-VGV-GDAGRYAVTASN-TVGQ--STSTADLVV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;333;415
+VPF----KKRL-QDL-EVR-EK---E----SATFLC-E-VP--QP------STEAAWFK----------------------------EE-TR-----L-------WA----S----------------------------A--KYG--IEE-EG--------T---ERRLTVRN-VSA-DDDAVYIC-----ETPE-GSRTVAE------
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;31067;31151
+-------ERYQ-EGI-FVR-QG---G----VIRLTI-P-IK--GK-----PFPICKWTK----------------------------EG-QD-----I-------S----------------------------------K--RAM--IAT-SE--------T---HTELVIKE-ADR-GDSGTYDLVLEN-KCGK--KAVYIKVRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;30666;30755
+DLS----TMPQ-KTI-HVP-AG---R----PVELVI-P-IA--GR-----PPPAASWFF----------------------------AG-SK-----L-------RE----S----------------------------E--RVT--VET-HT--------K---VAKLTIRE-TTI-RDTGEYTLELKN-VTGT--TSETIKVII---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7854;7943
+ATF----VKRL-ADF-SVE-TG---S----PIVLEA-T-YT--GT-----PPISVSWIK----------------------------DE-YL-----I-------SQ----S----------------------------E--RCS--ITM-TE--------K---STILEILE-STI-EDYAQYSCLIEN-EAGQ--DICEALVSV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;2916;3000
+NCF----TEEL-TNL-QVE-EK---G----TAVFTC-K-TE--HP------AATVTWRK----------------------------GL-LE-----L-------RA----S----------------------------G--KHQ--PSQ-EG--------L---TLRLTISA-LEK-ADSDTYTC-----DIGQ--AQSRAQLLV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;1841;1929
+PDI----VLYP-EPV-RVL-EG---E----TARFRC-R-VT--GY-----PQPKVNWYL----------------------------NG-QL-----I-------RK----S----------------------------K--RFR--VRY-D---------G---IHYLDIVD-CKS-YDTGEVKVTAEN-PEGV--IEHKVKLEI---
+>ENSMUSP00000127070.1 pep:known chromoso ;458;545
+VLI----TRSL-EDQ-LVM-VG---Q----RVEFEC-E-VS--EE------GAQVKWLK----------------------------DG-VE-----L-------TR----E----------------------------ETFKYR--FKK-DG--------R---KHHLIINE-ATL-EDAGHYAV-----RTSG--GQSLAELIVQ--
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;1556;1647
+PMF----VEKL-KNV-NIK-EG---S----RLEMKV-R-AT--GN-----PNPDIVWLK----------------------------NS-DI-----I-------VP----HKY--------------------------P--KIR--IEG-TK--------G---EAALKIDS-TVS-QDSAWYTATAIN-KAGR--DTTRCKVNV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9672;9757
+PAW----ERHL-QDV-TLK-EG---Q----TCTMTC-Q-FS--VP------NVKSEWFR----------------------------NG-RI-----L-------KP----Q----------------------------G--RHK--TEV-EH--------K---VHKLTIAD-VRA-EDQGQYTC-----KYED--LETSAELRIE--
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;29577;29664
+TGI---T---N-QLI-TCK-AG---S----PFTIDV-P-IS--GR-----PAPKVTWKL----------------------------EE-MR-----L-------KE----T----------------------------D--RVS--ITT-TK--------D---RTTLTVKD-SMR-GDSGRYFLTLEN-TAGV--KTFSVTVVV---
+>Q96L96#human ['ALPK3_HUMAN Alpha-protei ;279;371
+PLF----ETTL-KSR-SVS-ED---S----DVRFTC-I-VT--GY-----PEPEVTWYK----------------------------DD-TE-----L-------DR----YCGL-------------------------P--KYE--ITH-QG--------N---RHTLQLYR-CRE-EDAAIYQASAQN-SKGI--VSCSGVLEV---
+>C09D1.1b pep:known chromosome:WBcel235: ;3384;3475
+PEF----VEKL-SPL-EVK-EK---E----STTLSV-K-VV--GT-----PEPSVEWFK----------------------------DD-TP-----I-------SI----DNV--------------------------H--VIQ--KQT-AV--------G---SFSLTIND-ARQ-GDVGIYSCRARN-EAGE--ALTTANFGI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5040;5129
+PFF----TKPL-RNV-DSV-VN---G----TCRLDC-K-IA--GS-----LPMRVSWFK----------------------------DG-KE-----I-------AA----S----------------------------D--RYR--IAF-VE--------G---TASLEIIR-VDM-NDAGNFTCRATN-SVGS--KDSSGALIV---
+>Q14324#human ['MYPC2_HUMAN Myosin-bindi ;256;338
+AAF----TKKL-DPAYQVD-RG---N----KIKLMV-E-IS--DP------DLTLKWFK----------------------------NG-QE-----I-------KP----S----------------------------S--KYV--FEN-VG--------K---KRILTINK-CTL-ADDAAYEV-----AVKD--EKCFTE------
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8326;8415
+PIF----RKKP-HPI-ETL-KG---A----DVHLEC-E-LQ--GT-----PPFHVSWYK----------------------------DK-RE-----L-------RS----G----------------------------K--KYK--IMS-EN--------F---LTSIHILN-VDA-ADIGEYQCKATN-DVGS--DTCVGSIAL---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;110;201
+PHF----LLRP-TSI-RVR-EG---S----EATFRC-R-VG--GS-----PRPAVSWSK----------------------------DG-RR-----L-------GE----PDG--------------------------P--RVR--VEE-LG--------E---ASALRIRA-ARP-RDGGTYEVRAEN-PLGA--ASAAAALVV---
+>P52179#human ['MYOM1_HUMAN Myomesin-1 O ;1362;1444
+EYL----SWEV---------TG---E---CNVLLKC-K-VA--NI----KKETHIVWYK----------------------------DE-RE-----I-------SV----D----------------------------E--KHD--FKD-----------G---ICTLLITE-FSK-KDAGIYEVILKD-DRGK--DKSRLKL-V---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;13212;13295
+VEF----TKPL-EDQ-TVE-EG---A----TAVLEC-E-VS--RE------NAKVKWFK----------------------------NG-TE-----I-------LK----S----------------------------K--KYE--IVA-DG--------R---VRKLVIHD-CTP-EDIKTYTC-----DAKD--FKTSCNLN----
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;104;193
+PNF----VQRL-QSM-TVR-QG---S----QVRLQV-R-VT--GI-----PTPVVKFYR----------------------------DG-AE-----I-------QS----S----------------------------L--DFQ--ISQ-EG--------D---LYSLLIAE-AYP-EDSGTYSVNATN-SVGR--ATSTAELLV---
+>FBpp0087044 pep:known chromosome:BDGP6: ;29;131
+PTI----SYIT-QEQ-IKD-IG---G----TVEFDC-S-VQ--YA-----KEYNVLFLK-------------------T--------DS-DPVF---LSTGSTLVIK----D----------------------------S--RFS--LRY-DP------NSS---TYKLQIKD-IQE-TDAGTYTCQVVISTVHK--VSAEVKLSV---
+>ENSMUSP00000038264.7 pep:known chromoso ;709;786
+A--------AA-REV-LAQ-LH---E----EAQLLA-E-LS--DQ------AAAVTWLK----------------------------DG-RE-----L-------SL----G----------------------------P--KYE--MQV-SA--------G---RRALLVRD-VAQ-DDAGLYEC-----VSRG--SRTAYQ------
+>FBpp0087135 pep:known chromosome:BDGP6: ;468;559
+PKF----SVPPVGPI-ETS-EQ---G----TVVMHC-Q-AI--GD-----PKPTIQWDK----------------------------DL-KY-----L-------SE----NNTDR------------------------E--RFR--FLE---------------NGTLEIRN-VQV-EDEGSYGCTIGN-SAGL--KREDVQLVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8702;8791
+PSF----VQKP-DPM-DVL-TG---T----NVTFTS-I-VK--GT-----PPFSVSWFK----------------------------GS-SE-----L-------VP----G----------------------------D--RCN--VSL-ED--------S---VAELELFD-VDT-SQSGEYTCIVSN-EAGK--ASCTTHLYI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;4478;4567
+PTF----LSRP-KSL-TTF-VG---K----AAKFIC-T-VT--GT-----PVIETIWQK----------------------------DG-AA-----L-------SP----S----------------------------P--NWR--ISD-AE--------N---KHILELSN-LTI-QDRGVYSCKASN-KFGA--DICQAELII---
+>Q14324#human ['MYPC2_HUMAN Myosin-bindi ;843;929
+P------RHLR-QTY-IRK-VG---E----QLNLVV-P-FQ--GK-----PRPQVVWTK----------------------------GG-AP-----L-------DT---------------------------------S--RVH--VRT-SD--------F---DTVFFVRQ-AAR-SDSGEYELSVQI-ENMK--DTATIRIRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;1291;1381
+SGF----DSRI-KNY-RIL-EG---M----GVTFHC-K-MS--GY-----PLPKIAWYK----------------------------DG-KR-----I-------KH----G----------------------------E--RYQ--MDFLQD--------G---RASLRIPV-VLP-EDEGIYTAFASN-IKGN--AICSGKLYV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;27803;27889
+-------LEYT-EVV-KYR-AG---T----SVKLRA-G-IS--GK-----PAPTIEWYK----------------------------DD-KE-----L-------QT----N----------------------------A--LVC--VEN-TT--------D---LASILIKD-ADR-LNSGCYELKLRN-AMGS--ASATIRVQI---
+>Q92626#human ['PXDN_HUMAN Peroxidasin h ;246;334
+PRI----TSEP-QDA-DVT-SG---N----TVYFTC-R-AE--GN-----PKPEIIWLR----------------------------NN-NE-----L-------SM----KTD--------------------------S--RLN--LLD---------------DGTLMIQN-TQE-TDQGIYQCMAKN-VAGE--VKTQEVTLR---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;34061;34150
+PAF----ISQP-RSQ-NIN-EG---Q----NVLFTC-E-IS--GE-----PSPEIEWFK----------------------------NN-LP-----I-------SI----S----------------------------S--NVS--ISR-SR--------N---VYSLEIRN-ASV-SDSGKYTIKAKN-FRGQ--CSATASLMV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7385;7474
+PVF----TQKP-SPV-GAL-KG---S----DVILQC-E-IS--GT-----PPFEVVWVK----------------------------DR-KQ-----V-------RN----S----------------------------K--KFK--ITS-KH--------F---DTSLHILN-LEA-SDVGEYHCKATN-EVGS--DTCSCSVKF---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;21309;21396
+-------PTIK-DGL-TIK-AG---D----TIVLNAIS-IL--GK-----PLPKSSWSK----------------------------AG-KD-----I-------RP----S----------------------------D--ITQ--ITS-TP--------T---SSMLTIKY-ATR-KDAGEYTITATN-PFGT--KVEHVKVTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6257;6346
+PSF----LVKP-GRQ-QAI-PD---S----TVEFKA-I-LK--GT-----PPFKIKWFK----------------------------DD-VE-----L-------VS----G----------------------------P--KCF--IGL-EG--------S---TSFLNLYS-VDA-SKTGQYTCHVTN-DVGS--DSCTTMLLV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12043;12134
+-KF----VKEI-KDI-ILT-ES---EFVGSSAIFEC-L-VS--PS------TAITTWMK----------------------------DG-SN-----I-------RE----S----------------------------P--KHR--FIA-DG--------K---DRKLHIID-VQL-SDAGEYTCVLRL-GNKE--KTSTAKLVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;32617;32709
+PEF----TLPL-YNK-TAY-VG---E----NVRFGV-T-IT--VH-----PEPHVTWYK----------------------------SG-QK-----I-------KP----GDND-------------------------K--KYT--FES-DK--------G---LYQLTINS-VTT-DDDAEYTVVARN-KYGE--DSCKAKLTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;33488;33577
+ARI----LTKP-RSM-TVY-EG---E----SARFSC-D-TD--GE-----PVPTVTWLR----------------------------KG-QV-----L-------ST----S----------------------------A--RHQ--VTT-TK--------Y---KSTFEISS-VQA-SDEGNYSVVVEN-SEGK--QEAEFTLTI---
+>ENSMUSP00000082928.4 pep:known chromoso ;174;261
+-NF----MDTD-QRK-TVS-QG---H----AALLNLLP-IV--SC-----PQPQVTWFR----------------------------EG-HK-----I-------IP----S----------------------------S--RIA--ITL---------------ENQLVILA-TTA-SDAGAYYVQAVNEKNGE--NKTSPFIHL---
+>ENSMUSP00000023538.8 pep:known chromoso ;165;254
+PKF----ATKL-GRA-VVK-EG---Q----MGRFSC-K-IT--GR-----PPPQVTWLK----------------------------GN-VP-----L-------QP----S----------------------------A--RVS--MSE-KN--------G---MQILEIRG-VTR-DDLGVYTCMVVN-GSGK--ASMSAELSI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;20225;20312
+------SVAMK-SLL-TVK-AG---T----NVCLDA-T-VF--GK-----PMPTVSWKK----------------------------DG-TL-----L-------KP----A----------------------------E--GIK--MAM-QR--------N---LCTLELFS-VNR-KDSGDYTITAEN-SSGS--KSATIKLKV---
+>Q8WX93#human ['PALLD_HUMAN Palladin OS= ;1135;1225
+PHF----LQAP-GDL-TVQ-EG---K----LCRMDC-K-VS--GL-----PTPDLSWQL----------------------------DG-KP-----V-------RP----D----------------------------S--AHKM-LVR-EN--------G---VHSLIIEP-VTS-RDAGIYTCIATN-RAGQ--NSFSLELVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;17454;17539
+------DASVR-DRI-VVH-AG---G----VIRIIA-Y-VS--GK-----PPPTVTWNM----------------------------NE-RT-----L-------P----------------------------------Q--EAT--IET-TA--------I---SSSMVIKN-CQR-SHQGVYSLLAKN-EAGE--RKKTIIVDV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;26322;26411
+PSV----ELPF-HTF-NVK-AR---E----QLKIDV-P-FK--GR-----PQATVNWRK----------------------------DG-QT-----L-------KE----T----------------------------T--RVN--VSS-SK--------T---VTSLSIKE-ASK-EDVGTYELCVSN-SAGS--ITVPITIIV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5602;5691
+PSF----TKKL-KKM-DSI-KG---S----FIDLEC-I-VA--GS-----HPISIQWFK----------------------------DD-QE-----I-------SA----S----------------------------E--KYK--FSF-HD--------N---TAFLEISQ-LEG-TDSGTYTCSATN-KAGH--NQCSGHLTV---
+>ENSMUSP00000102971.1 pep:known chromoso ;77;169
+PLF----ETTL-KSR-AVS-ED---S----DVRFTC-I-VT--GY-----PEPEVTWYK----------------------------DD-IE-----L-------DR----YCGL-------------------------P--KYE--ITH-QG--------N---RHTLQLYR-CQE-EDAAIYQASARN-TKGI--VSCSGVLEV---
+>FBpp0128127 pep:known supercontig:GCA_0 ;2114;2203
+PRF----TTPL-AGK-IVD-QG---S----DVSMEA-I-YD--GF-----PSPEIKVEK----------------------------NG-GQ-----I-------FD----D----------------------------A--HTK--ISN-KC--------N---RVTIELKQ-VGV-ADAGRYAVTASN-AVGQ--STSTADLVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;3058;3142
+IEF----RKHI-KDI-KVL-EK---K----RAMFEC-E-VS--EP------DITVQWMK----------------------------DD-QE-----L-------QI----T----------------------------D--RIK--IQK-EK--------Y---VHRLLIPS-TRM-SDAGKYTV-----VAGG--NVSTAKLFV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8232;8322
+PRF----IKKL-EPS-RIVKQD---E----FTRYEC-K-IG--GS-----PEIKVLWYK----------------------------DE-TE-----I-------QE----S----------------------------S--KFR--MSF-VD--------S---VAVLEMHN-LSV-EDSGDYTCEAHN-AAGS--ASSSTSLKV---
+>ENSMUSP00000112699.1 pep:known chromoso ;45;146
+TLF----VEKP-QTG-SVK-VG---A----NITFVA-K-VR--AEDLL--RKPTVKWFK----------------------------GKWMD-----LAS-----KA----G----------------------------K--HLQ--LKE-TF----ERQTR-VYTFEMQIIK-AKE-NYAGNYRCEVTY-KDKF--DSCSFDLEV---
+>ENSMUSP00000023600.7 pep:known chromoso ;131;219
+DDF----RQNP-SDV-MVA-VG---E----PAVMEC-QPPR--GH-----PEPTISWKK----------------------------DG-SP-----L-------DD----KD---------------------------E--RIT--IRG-----------G-----KLMITY-TRK-SDAGKYVCVGTN-MVGE-RESEVAELTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;19128;19220
+PVL---DLKLS-GVL-TVK-AG---D----TIRLEA-G-VR--GK-----PFPEVAWTK----------------------------DK-DATD---L-------TR----S----------------------------P--RVK--IDT-RA--------D---SSKFSLTK-AKR-SDGGKYVVTATN-TAGS--FVAYATVNV---
+>FBpp0088734 pep:known chromosome:BDGP6: ;6570;6661
+PKIT--SDLSI-RDM-TVI-AG---D----EFRITV-P-YH--AS-----PRPTASWSL----------------------------NG-LE-----V-------IP----G----------------------------E--RIK--FDS-ND--------Y---ASMYYNKS-AKR-DETGSYTITLTN-NKGS--DTASCHVTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;18838;18925
+------DVTCR-DVI-TVR-VG---Q----TIRILA-R-VK--GR-----PEPDITWTK----------------------------EG-KV-----L-------VR----E----------------------------K--RVD--LIQ-DL--------P---RVELQIKE-AVR-ADHGKYIISAKN-SSGH--AQGSAIVNV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;25637;25725
+------DPKYK-DVI-VVH-AG---E----TFVLEA-D-IR--GK-----PIPDVVWSK----------------------------DG-KE-----L-------EE----TA---------------------------A--RME--IKS-TI--------Q---KTTLVVKD-CIR-TDGGQYILKLSN-VGGT--KSIPITVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5133;5222
+PSF----VTKP-GSK-DVL-PG---S----AVCLKS-T-FQ--GS-----TPLTIRWFK----------------------------GN-KE-----L-------VS----G----------------------------G--SCY--ITK-EA--------L---ESSLELYL-VKT-SDSGTYTCKVSN-VAGG--VECSANLFV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;4068;4154
+PKF----KTRL-QSL-EQE-TG---D----IARLCC-Q-LS--DAE----SGAVVQWLK----------------------------EG-VE-----L-------HA----G----------------------------P--KYE--MRS-QG--------A---TRELLIHQ-LEA-KDTGEYAC-----VTGG--QKTAASLRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;18149;18233
+-------ANMA-REQ-HIK-VG---D----TLRLSA-I-IK--GV-----PFPKVTWKK----------------------------ED-RD-----A-------P----------------------------------T--KAR--IDV-TP--------V---GSKLEIRN-AAH-EDGGIYSLTVEN-PAGS--KTVSVKVLV---
+>P10586#human ['PTPRF_HUMAN Receptor-typ ;135;225
+PSI----DMGP-QLK-VVE-KA---R----TATMLC-A-AG--GN-----PDPEISWFK----------------------------DF-LP-----V-------DP----AT---------------------------S--NGR--IKQ----------LR---SGALQIES-SEE-SDQGKYECVATN-SAGT-RYSAPANLYV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5975;6064
+PSF----IKKI-ENT-TTV-LK---S----SATFQS-T-VA--GS-----PPISITWLK----------------------------DD-QI-----L-------DE----D----------------------------D--NVY--ISF-VD--------S---VATLQIRS-VDN-GHSGRYTCQAKN-ESGV--ERCYAFLLV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5506;5595
+ATI----TEEA-VSI-DVT-QG---D----PATLQV-K-FS--GT-----KEITAKWFK----------------------------DG-QE-----L-------TL----G----------------------------S--KYK--ISV-TD--------T---VSILKIIS-TEK-KDSGEYTFEVQN-DVGR--SSCKARINV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;24953;25039
+--L---DSELR-KGI-VVR-AG---G----SARIHI-P-FK--GR-----PTPEITWSR----------------------------EE-GE-----F-------T----------------------------------D--KVQ--IEK-GV--------N---YTQLSIDN-CDR-NDAGKYILKLEN-SSGS--KSAFVTVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6350;6440
+PKF----VKKL-EAS-KIVKAG---D----SSRLEC-K-IA--GS-----PEIRVVWFR----------------------------NE-HE-----L-------PA----S----------------------------D--KYR--MTF-ID--------S---VAVIQMNN-LST-EDSGDFICEAQN-PAGS--TSCSTKVIV---
+>Q00872#human ['MYPC1_HUMAN Myosin-bindi ;59;159
+-LF----IEKP-QGG-TVK-VG---E----DITFIA-K-VK--AEDLL--RKPTIKWFK----------------------------GKWMD-----LAS-----KA----G----------------------------K--HLQ--LKE-TF----ERHSR-VYTFEMQIIK-AKD-NFAGNYRCEVTY-KDKF--DSCSFDLEV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;5371;5466
+PRM----LERF-TPK-KVK-KG---S----SITFSV-K-VE--GR-----PVPTVHWLR----------------------------EE-AERGVLWI-------GP----DT---------------------------P--GYT--VAS-SA--------Q---QHSLVLLD-VGR-QHQGTYTCIASN-AAGQ--ALCSASLHV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12767;12850
+LIF----ITPL-SDV-KVF-EK---D----EAKFEC-E-VS--RE------PKTFRWLK----------------------------GT-QE-----I-------TG----D----------------------------D--RFE--LIK-DG--------T---KHSMVIKS-AAF-EDEAKYMF-----EAED--KHTSGKL-I---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;23075;23164
+PAF----KLLF-NTF-TVL-AG---E----DLKVDV-P-FI--GR-----PTPAVTWHK----------------------------DN-VP-----L-------KQ----T----------------------------T--RVN--AES-TE--------N---NSLLTIKD-ACR-EDVGHYVVKLTN-SAGE--AIETLNVIV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12413;12497
+LDF----AVPL-KDV-TVP-ER---R----QARFEC-V-LT---------REANVIWSK----------------------------GP-DI-----I-------KS----S----------------------------D--KFD--IIA-DG--------K---KHILVIND-SQF-DDEGVYTA-----EVEG--KKTSARLFVT--
+>ENSMUSP00000130668.3 pep:known chromoso ;409;496
+-------LQGP-VAV-YTW-EG---N----QVNITC-E-VF--AY-----PSATISWFR----------------------------DG-QL-----L-------PS----SNY--------------------------S--NIK--IYN-TP--------S---ASYLEVTP-DSE-NDFGNYNCTAVN-RIGQ--ESLEF-ILV---
+>FBpp0079594 pep:known chromosome:BDGP6: ;40;140
+SQF---NTKNN-TRV-IAQ-KG---G----LAILPC-V-VK--VN-----SPATVSWIR----------------------------RK-DFQL---LTVGLSTHSS----D----------------------------K--RFL--VEH-TR------HMG---HWSLRIKA-VRE-EDRGFYECQLS--IYPT--QSIVIELKI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;31855;31946
+PHF----KEEL-RNL-NVR-YQ---S----NATLVC-K-VT--GH-----PKPIVKWYR----------------------------QG-KE-----I------IAD----G----------------------------L--KYR--IQEFKG--------G---YHQLIIAS-VTD-DDATVYQVRATN-QGGS--VSGTASLEV---
+>FBpp0304424 pep:known chromosome:BDGP6: ;1943;2031
+PEF----KELF-SDK-QGE-ID---E----VIKFEC-I-VK--GK-----PTPKVHWFF----------------------------ND-QP-----V-------HG---------------------------------H--NFL--VST-SG--------E---RQVLTIQK-LTH-DAVGKISCVAEN-EAGK--ATCVAFLNI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;2795;2879
+VKI----IKKP-KDV-TAL-EN---A----TVAFEV-S-VS--HD------TVPVKWFH----------------------------KS-VE-----I-------KP----S----------------------------D--KHR--LVS-ER--------K---VHKLMLQN-ISP-SDAGEYTA-----VVGQ--LECKAKLFV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;2533;2618
+IKI----IRGL-RDL-TCT-ET---Q----NVVFEV-E-LS--HS------GIDVLWNF----------------------------KD-KE-----I-------KP----S----------------------------S--KYK--IEA-HG--------K---IYKLTVLN-MMK-DDEGKYTF-----YAGE--NMTSGKLTVA--
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;13839;13924
+VEI----IRPP-QDI-LEA-PG---A----DVVFLA-E-LN--KD------KVEVQWLR----------------------------NN-MV-----V-------VQ----G----------------------------D--KHQ--MMS-EG--------K---IHRLQICD-IKP-RDQGEYRF-----IAKD--KEARAKLELA--
+>Q15746#human ['MYLK_HUMAN Myosin light  ;1809;1899
+PYF----SKTI-RDL-EVV-EG---S----AARFDC-K-IE--GY-----PDPEVVWFK----------------------------DD-QS-----I-------RE----S----------------------------R--HFQ--IDYDED--------G---NCSLIISD-VCG-DDDAKYTCKAVN-SLGE--ATCTAELIV---
+>ENSMUSP00000037120.8 pep:known chromoso ;513;602
+PWF----KKPL-RNT-SVV-DS---E----PVRFTV-K-VT--GE-----PKPEITWWF----------------------------EG-EI-----L-------QD----G----------------------------E--DYQ--YIE-RG--------E---TYCLYLPE-TFP-EDGGEYMCKAVN-NKGS--AASTCILTI---
+>Q15746#human ['MYLK_HUMAN Myosin light  ;414;504
+PKF----ESKP-QSQ-EVK-EN---Q----TVKFRC-E-VS--GI-----PKPEVAWFL----------------------------EG-TP-----V-------RR----QE---------------------------G--SIE--VYE-DA--------G---SHYLCLLK-ART-RDSGTYSCTASN-AQGQ--LSCSWTLQV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7198;7287
+PFF----DIKP-VSI-DVI-AG---E----SADFEC-H-VT--GA-----QPMRITWSK----------------------------DN-KE-----I-------RP----G----------------------------G--NYT--ITC-VG--------N---TPHLRILK-VGK-GDSGQYTCQATN-DVGK--DMCSAQLSV---
+>P54296#human ['MYOM2_HUMAN Myomesin-2 O ;1347;1435
+I------GGLP-DVV-TIM-EG---K----TLNLTC-T-VF--GN-----PDPEVIWFK----------------------------ND-QD-----I-------QL----S----------------------------E--HFS--VKV-EQ-------AK---YVSMTIKG-VTS-EDSGKYSINIKN-KYGG--EKIDVTVSV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;22388;22478
+IKV---DVKFK-DTV-ILK-AG---E----AFRLEA-D-VS--GR-----PPPTMEWSK----------------------------DG-KE-----L-------EG----T----------------------------A--KLE--IKI-AD--------F---STNLVNKD-STR-RDSGAYTLTATN-PGGF--AKHIFNVKV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;2290;2374
+VTL----VRPL-RDK-IAM-EK---H----RGVLEC-Q-VS--RA------SAQVRWFK----------------------------GS-QE-----L-------QP----G----------------------------P--KYE--LVS-DG--------L---YRKLIISD-VHA-EDEDTYTC-----DAGD--VKTSAQFFV---
+>ENSMUSP00000020617.2 pep:known chromoso ;678;765
+PRL----TQNL-TDL-LVN-VS---D----SLEMRC-P-VA--GA-----HVPSIVWYK----------------------------DE-RL-----L-------EK----E----------------------------S--GID--LAD-----------S---NQRLSIQR-VRE-EDAGRYLCSVCN-AKGC--VNSSASVAV---
+>FBpp0088734 pep:known chromosome:BDGP6: ;328;421
+PTF----IEKP-RIV-SEN-NG---K----LVIMEC-K-VK--AD-----PKPDVIWFR----------------------------NG-EV-----I-------KE----S----------------------------N--KIKTFIEQ-RG--------D-QYYIKLELLD-PQL-EDSGLYKCNIKN-TLGE--LNANLTLNI---
+>Q00872#human ['MYPC1_HUMAN Myosin-bindi ;253;337
+-AF----AKIL-DPAYQVD-KG---G----RVRFVV-E-LA--DP------KLEVKWYK----------------------------NG-QE-----I-------RP----S----------------------------T--KYI--FEH-KG--------C---QRILFINN-CQM-TDDSEYYV-----TAGD--EKCSTELFV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;2469;2556
+VVL----TRPL-EPK-TGR-EL---Q----SVVLSC-D-FR--PA------PKAVQWYK----------------------------DD-TP-----L-------SP----S----------------------------E--KFK--MSL-EG--------Q---MAELRILR-LMP-ADAGVYRC-----QAGS--AHSSTEVTVEAR
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7006;7095
+PYF----VTEL-EPL-EAA-VG---D----SVSLQC-Q-VA--GT-----PEITVSWYK----------------------------GD-TK-----L-------RP----T----------------------------P--EYR--TYF-TN--------N---VATLVFNK-VNI-NDSGEYTCKAEN-SIGT--ASSKTVFRI---
+>Q5VTT5#human ['MYOM3_HUMAN Myomesin-3 O ;154;247
+PWF----WIPL-RSH-AVW-EH---T----TVLLTC-T-VQ--AS-----PPPQVTWYK----------------------------ND-TR-----I-------DPRLFRA----------------------------G--KYR--ITN-NY--------G---LLSLEIRR-CAI-EDSATYTVRVKN-AHGQ--ASSFAKVLV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;4383;4472
+PVI----KRKI-EPL-EVA-LG---H----LAKFTC-E-IQ--SA-----PNVRFQWFK----------------------------AG-RE-----I-------YE----S----------------------------D--KCS--IRS-SK--------Y---ISSLEILR-TQV-VDCGEYTCKASN-EYGS--VSCTATLTV---
+>ENSMUSP00000038264.7 pep:known chromoso ;240;326
+--------AGT-RTC-TVT-EG---K----HARLSC-F-VT--GE-----PKPETVWKK----------------------------DG-QL-----V-------TE----G----------------------------R--RHV--VYE-DE-------QE---NFVLKILF-CKQ-SDRGLYTCTASN-LVGQ--TYSSVLVVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;29980;30064
+---------HG-DLV-TIR-AG---S----DLVLDA-A-VG--GK-----PEPKIIWTK----------------------------GD-KE-----L-------DL----C----------------------------E--KVS--LQY-TG--------K---RATAVIKF-CDR-SDSGKYTLTVKN-ASGT--KAVSVMVKV---
+>F21C10.7 pep:known chromosome:WBcel235: ;1172;1261
+PQI----ITQL-KDD-VVD-EG---C----RYEFSA-R-IN--GE-----PEPTISWLK----------------------------DG-ID-----V-------KS----N----------------------------M--DYR--QEY-VN--------G---VATLVIEE-SFI-EDTAEYTVKATN-TGGT--ASSSASLIV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9176;9266
+PSF----TKRLSETV-EET-EG---N----SFKLEG-R-VA--GS-----QPITVAWYK----------------------------NN-IE-----I-------QP----T----------------------------S--NCE--ITF-KN--------N---TLVLQVRK-AGM-NDAGLYTCKVSN-DAGS--ALCTSSIVI---
+>ENSMUSP00000127070.1 pep:known chromoso ;657;772
+-------GSTP-DTI-VVV-AG---N----KLRLDV-P-IS--GD-----PAPTVVWQKTVTQGKKASTGPHPDAPEDAGADEEWVFDK-KL-----LC------ET----E----------------------------G--RVR--VET-TK--------D---RSVFTVEG-AEK-EDEGVYTVTVKN-PVGE--DQVNLTVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;24552;24642
+ISM---DPKFR-DTI-VVN-AG---E----TFRLEA-D-VH--GK-----PLPTIEWLR----------------------------GD-KE-----I-------EE----S----------------------------A--RCE--IKN-TD--------F---KALLIVKD-AIR-IDGGQYILRASN-VAGS--KSFPVNVKV---
+>Q00872#human ['MYPC1_HUMAN Myosin-bindi ;342;431
+IMV----TKQL-EDT-TAY-CG---E----RVELEC-E-VS--ED------DANVKWFK----------------------------NG-EE-----I-------IP----GPK--------------------------S--RYR--IRV-EG--------K---KHILIIEG-ATK-ADAAEYSV-----MTTG--GQSSAKLSVDLK
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5320;5409
+PYF----TKEF-KPI-EVL-KE---Y----DVMLLA-E-VA--GT-----PPFEITWFK----------------------------DN-TI-----L-------RS----G----------------------------R--KYK--TFI-QD--------H---LVSLQILK-FVA-ADAGEYQCRVTN-EVGS--SICSARVTL---
+>ENSMUSP00000072945.5 pep:known chromoso ;385;479
+IHF----DDKF-DVS-FGR-EG---E----TMSLGC-R-VV--ITPEIKHFQPEVQWYR----------------------------NG-AP-----V-------SP----S----------------------------K--WVQ--PHW-SG--------D---RATLTFSH-LNK-EDEGLYTIRVRM-GEYY--EQYSAYVFV---
+>FBpp0079377 pep:known chromosome:BDGP6: ;113;214
+PEF----TEYI-ENV-TVP-AG---R----NVKLGC-S-VK--NL-----GSYKVAWMH----------------------------FE-QSAI---LTVHNHVITR----N----------------------------P--RIS--VTH-DK----HDRHR---TWYLHINN-VHE-EDRGRYMCQIN--TVTA--KTQFGYLNV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;20919;20999
+--------------Y-LAK-EN---S----NFRLKI-P-IK--GK-----PAPSVSWKK----------------------------GE-DP-----L-------AT----D----------------------------T--RVS--VES-SA--------V---NTTLIVYD-CQK-SDAGKYTITLKN-VAGT--KEGTISIKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;16036;16120
+--------SVK-GGI-QIM-AG---K----TLRIPA-V-VT--GR-----PVPTKVWTK----------------------------EE-GE-----L-------DK---------------------------------D--RVV--IDN-VG--------T---KSELIIKD-ALR-KDHGRYVITATN-SCGS--KFAAARVEV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9273;9362
+PVF----DQHL-TPV-TVS-EG---E----YVQLSC-H-VQ--GS-----EPIRIQWLK----------------------------AG-RE-----I-------KP----S----------------------------D--RCS--FSF-AS--------G---TAVLELRD-VAK-ADSGDYVCKASN-VAGS--DTTKSKVTI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12945;13027
+PYF----TGKL-QDY-TGV-EK---D----EVILQC-E-IS--KA------DAPVKWFK----------------------------DG-KE-----I-------KP----S----------------------------K--NAV--IKA-DG--------K---KRMLILKK-ALK-SDIGQYTC-----DCGT--DKTSGKL-----
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;4571;4660
+PHF----IKEL-EPV-QSA-IN---K----KVHLEC-Q-VD--ED-----RKVTVTWSK----------------------------DG-QK-----L-------PP----G----------------------------K--DYK--ICF-ED--------K---IATLEIPL-AKL-KDSGTYVCTASN-EAGS--SSCSATVTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;5226;5316
+ATF----VEKL-EPS-QLLKKG---D----ATQLAC-K-VT--GT-----PPIKITWFA----------------------------ND-RE-----I-------KE----S----------------------------S--KHR--MSF-VE--------S---TAVLRLTD-VGI-EDSGEYMCEAQN-EAGS--DHCSSIVIV---
+>C09D1.1b pep:known chromosome:WBcel235: ;946;1034
+PTF----LKDI-EDQ-TVK-TG---E----FAVFET-T-VR--GN-----PNPEVTWFI----------------------------NG-HK-----M-------DQ----GS---------------------------P--GVK--IEA-HN--------H---DHKLTIDS-A---QYAGTVLCRAEN-AVGR--FETKARLVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;1703;1794
+PFF----KKKL-TSL-RLK-RF---G----PAHFEC-R-LTPIGD-----PTMVVEWLH----------------------------DG-KP-----L-------EA----A----------------------------N--RLR--MIN-EF--------G---YCSLDYGV-AYS-RDSGIITCRATN-KYGT--DHTSATLIV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;4626;4711
+QP------SAP-ESR-QVA-AG---E----DVSLEL-E-VV--AE------AGEVIWHK----------------------------GM-ER-----I-------QP----G----------------------------G--RFE--VVS-QG--------R---QQMLVIKG-FTA-EDQGEYHCGLA--QGSI--CPAAATFQV---
+>FBpp0086934 pep:known chromosome:BDGP6: ;251;340
+PSF----LVGP-SPK-TVR-EG---D----TVTLDC-V-AN--GV-----PKPQIKWLR----------------------------NG-MD-----L-------DF----NDLD-------------------------S--RFS--IVG---------------TGSLQISS-AED-IDSGNYQCRASN-TVDS--LDAQATVQV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7291;7381
+PKF----VKKL-EAS-KVAKQG---E----SIQLEC-K-IS--GS-----PEIKVSWFR----------------------------ND-SE-----L-------HE----S----------------------------W--KYN--MSF-IN--------S---VALLTINE-ASA-EDSGDYICEAHN-GVGD--ASCSTALTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;9381;9471
+LFF----VSEP-QSI-RVV-EK---T----TATFIA-K-VG--GD-----PIPNVKWTK----------------------------GKWRQ-----L-------NQ----G----------------------------G--RVF--IHQ-KG--------D---EAKLEIRD-TTK-TDSGLYRCVAFN-EHGE--IESNVNLQV---
+>P54296#human ['MYOM2_HUMAN Myomesin-2 O ;154;246
+PEI----LVRL-RSH-TVW-ER---M----SVKLCF-T-VQ--GF-----PTPVVQWYK----------------------------DG-SL-----I-------CQ----AAEP-------------------------G--KYR--IES-NY--------G---VHTLEINR-ADF-DDTATYSAVATN-AHGQ--VSTNAAVVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;2621;2706
+A-I----SKPL-TDQ-TVA-ES---Q----EAVFEC-E-VA--NP------DSKGEWLR----------------------------DG-KH-----L-------PL----T----------------------------N--NIR--SES-DG--------H---KRRLIIAA-TKL-DDIGEYTY-----KVAT--SKTSAKLKVEA-
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;33301;33390
+PRI----TLRM-RSH-RVP-CG---Q----NTRFIL-N-VQ--SK-----PTAEVKWYH----------------------------NG-VE-----L-------QE----S----------------------------S--KIH--YTN-TS--------G---VLTLEILD-CHT-DDSGTYRAVCTN-YKGE--ASDYATLDV---
+>FBpp0081135 pep:known chromosome:BDGP6: ;33;143
+PVI----SQIS-KDV-VAS-VG---D----SVEFNC-T-VE--EV-----GQLSVSWAK---------------RPSES--------DT-NSVV---LSMRNILSLP----D----------------------------Q--RYN--VTVTEGP---KTGSA---IYTFRIQN-IEV-SDMGPYECQVLVSATEK--VTKKLSLQI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8419;8509
+PRF----VKKL-SDI-STV-VG---K----EVQLQT-T-IE--GA-----EPISVVWFK----------------------------DK-GEI----V-------RE----S----------------------------D--NIW--ISY-SE--------N---IATLQFSR-VEP-ANAGKYTCQIKN-DAGM--QECFATLSV---
+>C09D1.1b pep:known chromosome:WBcel235: ;2658;2747
+VEF----ETSL-CDA-TCR-EG---D----TLKLRA-V-LL--GE-----PEPVVSWYV----------------------------NG-KK-----L-------EE----S----------------------------Q--NIK--IHS-EK--------G---TYTVTIKD-ITC-DYSGQVVCEAIN-EYGK--ATSEATLLV---
+>P52179#human ['MYOM1_HUMAN Myomesin-1 O ;1136;1223
+ETRPGT------KEV-VVN-VD---DDGVISLNFEC-DKMT---------PKSEFSWSK----------------------------DY-VS-----T-------ED----S----------------------------P--RLE--VES-KG--------N---KTKMTFKD-LGM-DDLGIYSCDVTD-TDGI------ASSYL---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;32722;32812
+PMF----KRLL-ANA-ECQ-EG---Q----SVCFEI-R-VS--GI-----PPPTLKWEK----------------------------DG-QP-----L-------SL----G----------------------------P--NIE--IIH-EG-------LD---YYALHIRD-TLP-EDTGYYRVTATN-TAGS--TSCQAHLQV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;21996;22082
+-------GIYQ-KLV-IAK-AG---D----NIKVEI-P-VL--GR-----PKPTVTWKK----------------------------GD-QI-----L-------KQ----T----------------------------Q--RVN--FET-TA--------T---STILNINE-CVR-SDSGPYPLTARN-IVGE--VGDVITIQV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;4944;5033
+AKI----IERA-ELI-QVT-AG---D----PATLEY-T-VA--GT-----PELKPKWYK----------------------------DG-RP-----L-------VA----S----------------------------K--KYR--ISF-KN--------N---VAQLKFYS-AEL-HDSGQYTFEISN-EVGS--SSCETTFTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;12590;12675
+PYF----TVKL-HDK-TAV-EK---D----EITLKC-E-VS--K-------DVPVKWFK----------------------------DG-EE-----I-------VP----S----------------------------P--KYS--IKA-DG--------L---RRILKIKK-ADL-KDKGEYVC-----DCGT--DKTKANVTVEA-
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;15610;15725
+VILR--------TSL-EVK-RG---D----EIALDA-S-IS--GS-----PYPTITWIK----------------------------DE-NV-----I-------VP----EEIKKRAAPLVRRRKGEVQEEEPFVLPLTQ--RLS--IDNSKK--------G---ESQLRVRD-SLR-PDHGLYMIKVEN-DHGI--AKAPCTVSV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6;97
+PTF----TQPL-QSV-VVL-EG---S----TATFEA-H-IS--GF-----PVPEVSWFR----------------------------DG-QV-----I-------ST----STL--------------------------P--GVQ--ISF-SD--------G---RAKLTIPA-VTK-ANSGRYSLKATN-GSGQ--ATSTAELLV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;803;883
+AG----------SCV-DAV-AG---G----PAQFEC-E-TS--EA------HVHVHWYK----------------------------DG-ME-----L-------GH----SG---------------------------E--RFL--QED-VG--------T---RHRLVAAT-VTR-QDEGTYSC-----RVGE--DSVDFRLRV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;7478;7568
+PRF----VKKL-SDT-STL-IG---D----AVELRA-I-VE--GF-----QPISVVWLK----------------------------DR-GEV----I-------RE----S----------------------------E--NTR--ISF-ID--------N---IATLQLGS-PEA-SNSGKYICQIKN-DAGM--RECSAVLTV---
+>Q00872#human ['MYPC1_HUMAN Myosin-bindi ;433;507
+LKI----LTPL-TDQ-TVN-LG---K----EICLKC-E-IS---------ENIPGKWTK----------------------------NG-LP-----V-------QE----S----------------------------D--RLK--VVH-KG--------R---IHKLVIAN-ALT-EDEGDYVF-----APDA--------------
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8795;8884
+AKF----VKRL-NDY-SIE-KG---K----PLILEG-T-FT--GT-----PPISVTWKK----------------------------NG-IN-----V-------TP----S----------------------------Q--RCN--ITT-TE--------K---SAILEIPS-STV-EDAGQYNCYIEN-ASGK--DSCSAQILI---
+>ENSMUSP00000038972.7 pep:known chromoso ;118;207
+-SF----EEGE-KRQ-SVN-HG---E----AAVIRAPR-IS--SF-----PRPQVTWFR----------------------------DG-RK-----I-------PP----S----------------------------S--RIA--ITL---------------ENTLVILS-TVA-PDAGRYYVQAVNDKNGDNKTSQPITLAV---
+>Q14324#human ['MYPC2_HUMAN Myosin-bindi ;52;153
+GVF----LKKP-DSV-SVE-TG---K----DAVVVA-K-VN--GKELP--DKPTIKWFK----------------------------GKWLE-----LGS-----KS----G----------------------------A--RFS--FKE-SH----NSASN-VYTVELHIGK-VVL-GDRGYYRLEVKA-KDTC--DSCGFNIDV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;24157;24245
+PDV----KPAF-SSY-SVQ-VG---Q----DLKIEV-P-IS--GR-----PKPTITWTK----------------------------DG-LP-----L-------KQ----T----------------------------T--RIN--VTD-SL--------D---LTTLSIKE-THK-DDGGQYGITVAN-VVGQ--KTASIEI-V---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;31562;31646
+-----K------EKY-YGA-VG---S----TLRLHV-M-YI--GR-----PVPAMTWFH----------------------------GQ-KL-----L-------QN----S----------------------------E--NIT--IEN-TE--------H---YTHLVMKN-VQRKTHAGKYKVQLSN-VFGT--VDAILDVEI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;31460;31549
+PGI----RKEM-KDV-TTK-LG---E----AAQLSC-Q-IV--GR-----PLPDIKWYR----------------------------FG-KE-----L-------IQ----S----------------------------R--KYK--MSS-DG--------R---THTLTVMT-EEQ-EDEGVYTCIATN-EVGE--VETSSKLLL---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;16741;16835
+IG-------AQ-DCL-VCK-AG---S----QIRIPA-V-IK--GR-----PTPKSSWEF----------------------------DG-KA-----K-------KA----MKDGVHDI--------------------PE--DAQ--LET-AE--------N---SSVIIIPE-CKR-SHTGKYSITAKN-KAGQ--KTANCRVKV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6913;7001
+AAF----LKRL-SDH-SVE-PG---K----SIILES-T-YT--GT-----LPISVTWKK----------------------------DG-FN-----I-------TT----S----------------------------E--KCN--IVT-TE--------K---TCILEILN-STK-RDAGQYSCEIEN-EAGR--DVCGA-LVS---
+>ENSMUSP00000038264.7 pep:known chromoso ;331;416
+VPF----KKRL-QDL-EVR-EK---E----SATFQC-E-VA--QP------ATEAAWFK----------------------------EE-TR-----L-------WA----S----------------------------A--KYD--IEE-EG--------T---ERRLTVRN-VSA-DDDAVYIC-----ETTE-GSRTVAELSV---
+>ENSMUSP00000107477.2 pep:known chromoso ;104;193
+PNF----SQRL-QSM-TVR-QG---S----QVRLQV-R-VT--GI-----PTPVVKFYR----------------------------DG-AE-----I-------QS----S----------------------------L--DFQ--ISQ-EG--------D---LYSLLIAE-AYP-EDSGTYSVNATN-SVGR--ATSTAELVV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;33779;33868
+PVI----VTGL-QDT-TVS-SD---S----VAKFAV-K-AT--GE-----PRPTAIWTK----------------------------DG-KA-----I-------TQ----G----------------------------G--KYK--LSE-DK--------G---GFFLEIHK-TDT-SDSGLYTCTVKN-SAGS--VSSSCKLTI---
+>Q8WX93#human ['PALLD_HUMAN Palladin OS= ;441;538
+PVF----TKEL-QNT-AVA-EG---Q----VVVLEC-R-VR--GA-----PPLQVQWFR----------------------------QG-SE-----I-------QD----S----------------------------P--DFR--ILQ-KKPRSTAEPEE---ICTLVIAE-TFP-EDAGIFTCSARN-DYGS--ATSTAQLVV---
+>P52179#human ['MYOM1_HUMAN Myomesin-1 O ;405;499
+IHF----DDKF-DVS-FGR-EG---E----TMSLGC-R-VV--ITPEIKHFQPEIQWYR----------------------------NG-VP-----L-------SP----S----------------------------K--WVQ--TLW-SG--------E---RATLTFSH-LNK-EDEGLYTIRVRM-GEYY--EQYSAYVFV---
+>Q86TC9#human ['MYPN_HUMAN Myopalladin O ;945;1036
+PIF----DKRL-KHF-RVT-EG---S----PVTFTC-K-IV--GI-----PVPKVYWFK----------------------------DG-KQ-----I-------SK----RN---------------------------E--HCK--MRR-EG-------DG---TCSLHIES-TTS-DDDGNYTIMAAN-PQGR--ISCSGHLMV---
+>FBpp0088734 pep:known chromosome:BDGP6: ;4694;4784
+PII---DRSSL-VEV-RIK-AG---Q----SFTFDC-K-VS--GE-----PAPQTKWLL----------------------------KK-KE-----V-------YS----K----------------------------D--NVK--VTN-VD--------Y---NTKLKVNS-ATR-SDSGIYTVFAEN-ANGE--DSADVKVTV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;8139;8228
+PFF----DLKP-VSV-DLA-LG---E----SGTFKC-H-VT--GT-----APIKITWAK----------------------------DN-RE-----I-------RP----G----------------------------G--NYK--MTL-VE--------N---TATLTVLK-VGK-GDAGQYTCYASN-IAGK--DSCSAQLGV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;1082;1172
+PYF----ITKP-VVQ-KLV-EG---G----SVVFGC-Q-VG--GN-----PKPHVYWKK----------------------------SG-VP-----L-------TT----G----------------------------Y--RYK--VSY-NK------QTG---ECKLVISM-TFA-DDAGEYTIVVRN-KHGE--TSASASL-L---
+>C18A11.7a pep:known chromosome:WBcel235 ;529;627
+PSF----TRKP-QIL-QQT-SAGGEP----AICFDI-G-YS--AR-----MNPQVTWIS----------------------------PKSKK-----M-------KE----S----------------------------S--RIKFKTND-EG--------NGNFTAQLELTN-YKA-KDSGTYTCNIKN-DAGE--ANVELTLNI---
+>FBpp0128127 pep:known supercontig:GCA_0 ;1780;1871
+PKF----ERLL-SDV-LAD-EG---E----QVVLEV-Q-AS--GD-----QPLTAQWFL----------------------------TN-KE-----L-------QL----D----------------------------D--RIT--VQS-DA------ESG---TFKLLVNN-VSV-DDKGVYTVKVSN-PAGD--AKCFSHLIV---
+>Q5VST9#human ['OBSCN_HUMAN Obscurin OS= ;3979;4065
+VRF----LREL-QHQ-EVD-EG---G----TAHLCC-E-LS--RA------GASVEWRK----------------------------GS-LQ-----L-------FP----C----------------------------A--KYQ--MVQ-DG--------A---AAELLVRG-VEQ-EDAGDYTC-----DTGH--TQSMASLSVRV-
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;2356;2437
+IAI----LQGL-SDQ-KVC-EG---D----IVQLEV-K-VS--LE------SVEGVWMK----------------------------DG-QE-----V-------QP----S----------------------------D--RVH--IVI-DK--------Q---SHMLLIED-MTK-EDAGNYSF-----TIPA--LGLSTS------
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;13927;14013
+PKI----KTAD-QDL-VVD-VG---K----PLTMVV-P-YD--AY-----PKAEAEWFK----------------------------EN-EP-----L-------ST----K----------------------------T-------IDT-TA--------E---QTSFRILE-AKK-GDKGRYKIVLQN-KHGK--AEGFINLKV---
+>Q13203#human ['MYBPH_HUMAN Myosin-bindi ;382;471
+PSF----TQPL-ADH-TST-PG---Y----STQLFC-S-VR--AS-----PKPKIIWMK----------------------------NK-ME-----I-------QG----N----------------------------P--KYR--ALS-EQ--------G---VCTLEIRK-PSP-FDSGVYTCKAIN-VLGE--ASVDCRLEV---
+>Q00872#human ['MYPC1_HUMAN Myosin-bindi ;839;928
+IRI---PRHLK-QTY-IRR-VG---E----AVNLVI-P-FQ--GK-----PRPELTWKK----------------------------DG-AE-----I-------DK---------------------------------N--QIN--IRN-SE--------T---DTIIFIRK-AER-SHSGKYDLQVKV-DKFV--ETASIDIQI---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;6727;6816
+PSF----TRRL-KNT-GGV-LG---A----SCILEC-K-VA--GS-----SPISVAWFH----------------------------EK-TK-----I-------VS----G----------------------------A--KYQ--TTF-SD--------N---VCTLQLNS-LDS-SDMGNYTCVAAN-VAGS--DECRAVLTV---
+>TriadP61512 pep:annotated scaffold:ASM1 ;3;91
+PRF----IKELPSSM-RVV-EN---Y----HVKLQC-E-VS--GS-----PKPTLEWYR----------------------------NH-VK-----I-------ERYW-------------------------------D--RYS--FEG---------------DYVLVVNK-TQV-GDTGIYTCMAKN-RLGY--IFHDFAVNV---
+>Q8WZ42#human ['TITIN_HUMAN Titin OS=Hom ;13567;13656
+LRI----VVPL-KDT-RVK-EQ---Q----EVVFNC-E-VN--TE------GAKAKWFR----------------------------NE-EA-----I-------FD----S----------------------------S--KYI--ILQ-KD--------L---VYTLRIRD-AHL-DDQANYNVSLTN-HRGE-NVKSAANLIV---
+>PF07679_1djs_A_171_248 A; 171; 248
+--------------------AA---N----TVKFRC-P-AG--GN-----PP--TRWLK----------------------------NG-KE-----F-------KQ----E----------------------------H--RIG--GYK-VR--------N---QHWSLIES-VVP-SDKGNYTCVVEN-EYGS--INHTYHLDV---

@@ -1,0 +1,156 @@
+>P08631#human ['HCK_HUMAN Tyrosine-prote ;144;226
+W----FFKGI-----SRKDAERQLL----APGNMLGSFMIRDSETT-KGSYSLSVRDYDPR-------------QGD---------TVKHYKIRTL-------DNGG----------------FYISPR-----STFSTLQELVDHY------
+>O75815#human ['BCAR3_HUMAN Breast cance ;154;234
+W----YHGRI-----PRQVSENLV--------QRDGDFLVRDSLSS-PGNFVLTCQW------------------KN---------LAQHFKINRTVLRLSEAYSRV----------------QYQFEM-----ESFDSIPGLVRCY------
+>ENSMUSP00000113852.1 pep:known chromoso ;167;243
+W----FHGNI-----SRDESEQTVL----IGSKTNGKFLIRARDN--SGSYALCLLH------------------EG---------KVLHYRIDRD-------KTGK----------------LSIPEG-----KKFDTLWQLVEHY------
+>P51451#human ['BLK_HUMAN Tyrosine-prote ;124;205
+W----FFRSQ-----GRKEAERQLL----APINKAGSFLIRESETN-KGAFSLSVKDV-TT-------------QGE---------LIKHYKIRCL-------DEGG----------------YYISPR-----ITFPSLQALVQHY------
+>TriadP59641 pep:annotated scaffold:ASM1 ;12;93
+C----YHGNI-----GRKNAEEELR----KSIYEVGTFLIRSSTDK-P-NYALSLKSPL----------------KQ---------SIAHYLILWHGPI----YQPF----------------YSIEGG-----PLFPNISQLISFY------
+>P41240#human ['CSK_HUMAN Tyrosine-prote ;82;156
+W----FHGKI-----TREQAERLL------YPPETGLFLVRESTNY-PGDYTLCVSC------------------DG---------KVEHYRIMY--------HASK----------------LSIDEE-----VYFENLMQLVEHY------
+>ENSMUSP00000127941.1 pep:known chromoso ;8;89
+W----NHGNI-----TRSKAEELLS-----RAGKDGSFLVRASESI-PRAYALCVLF------------------RN---------CVYTYRILPN-------EDDK----------------FTVQASEGVPMRFFTKLDQLIDFY------
+>Q9HBL0#human ['TENS1_HUMAN Tensin-1 OS= ;1463;1557
+W----YKPEI-----SREQAIALL------KDQEPGAFIIRDSHSF-RGAYGLAMKVSSPPPTIMQQNKK-GDMTHE---------LVRHFLIETG-------PRGVKL--------------KGCPNE-----PNFGSLSALVYQH------
+>P29350#human ['PTN6_HUMAN Tyrosine-prot ;4;79
+W----FHRDL-----SGLDAETLLK-----GRGVHGSFLARPSRKN-QGDFSLSVRV------------------GD---------QVTHIRIQN--------SGDF----------------YDLYGG-----EKFATLTELVEYY------
+>P42685#human ['FRK_HUMAN Tyrosine-prote ;116;193
+W----FFGAI-----GRSDAEKQLL----YSENKTGSFLIRESESQ-KGEFSLSVLD------------------GA---------VVKHYRIKRL-------DEGG----------------FFLTRR-----RIFSTLNEFVSHY------
+>Q13882#human ['PTK6_HUMAN Protein-tyros ;78;155
+W----FFGCI-----SRSEAVRRLQ----AEGNATGAFLIRVSEKP-SADYVLSVRD------------------TQ---------AVRHYKIWRR-------AGGR----------------LHLNEA-----VSFLSLPELVNYH------
+>P52630#human ['STAT2_HUMAN Signal trans ;576;648
+R----IMGFV-----SRSQERRLL------KKTMSGTFLLRFSESS-EGGITCSWVEH----------------QDDD--------KVLIYSVQ-----------------------------PYTKEV-----LQSLPLTEIIRHY------
+>ENSMUSP00000006293.3 pep:known chromoso ;14;88
+W----YMGPV-----TRQEAQTRL------QGQRHGMFLVRDSSTC-PGDYVLSVSE------------------NS---------RVSHYIINSL-------PNR-----------------RFKIGD-----QEFDHLPALLEFY------
+>FBpp0126607 pep:known supercontig:GCA_0 ;12;90
+W----YFGSM-----SRQEATEVLM-----NERERGVFLVRDSNSI-AGDYVLCVRE------------------DT---------KVSNYIINKV-------QQQDHL--------------VYRIGD-----QSFDNLPKLLTFY------
+>P16885#human ['PLCG2_HUMAN 1-phosphatid ;646;720
+W----YYDSL-----SRGEAEDMLM-----RIPRDGAFLIRKREG--SDSYAITFRA------------------RG---------KVKHCRINR--------DGRH----------------FVLGTS-----AYFESLVELVSYY------
+>ENSMUSP00000083611.5 pep:known chromoso ;285;359
+W----YYGNV-----TRHQAECALN-----ERGVEGDFLIRDSESS-PSDFSVSLKA------------------SG---------RNKHFKVQLV-------DS------------------VYCIGQ-----RRFHSMDELVEHY------
+>O00459#human ['P85B_HUMAN Phosphatidyli ;622;696
+W----YVGKI-----NRTQAEEML------SGKRDGTFLIRESSQ--RGCYACSVVV------------------DG---------DTKHCVIYRT-------ATGF----------------GFAEPY-----NLYGSLKELVLHY------
+>ENSMUSP00000079991.7 pep:known chromoso ;646;720
+W----YYDSL-----SRGEAEDMLM-----RIPRDGAFLIRKREG--TNSYAITFRA------------------RG---------KVKHCRINR--------DGRH----------------FVLGTS-----AYFESLVELVSYY------
+>P29350#human ['PTN6_HUMAN Tyrosine-prot ;110;194
+W----YHGHM-----SGGQAETLLQ-----AKGEPWTFLVRESLSQ-PGDFVLSVLS------------------DQPKAGPGSPLRVTHIKVMC--------EGGR----------------YTVGGL-----ETFDSLTDLVEHF------
+>P19174#human ['PLCG1_HUMAN 1-phosphatid ;668;741
+W----YHASL-----TRAQAEHMLM-----RVPRDGAFLVRKRNE--PNSYAISFRA------------------EG---------KIKHCRVQQE---------GQ----------------TVMLGN-----SEFDSLVDLISYY------
+>P42684#human ['ABL2_HUMAN Abelson tyros ;173;248
+W----YHGPV-----SRSAAEYLL------SSLINGSFLVRESESS-PGQLSISLRY------------------EG---------RVYHYRINTT-------ADGK----------------VYVTAE-----SRFSTLAELVHHH------
+>FBpp0261818 pep:known chromosome:GCA_00 ;86;160
+-----YHGLM-----GHLEAEQLL------ANARDGSYFVRRSPQS-DGYYTLSLRF------------------NK---------RPKHYKLLYK------PGVGH----------------YLRGQD-----KRFDTVHDMVA-D------
+>P43403#human ['ZAP70_HUMAN Tyrosine-pro ;163;239
+W----YHSSL-----TREEAERKLY----SGAQTDGKFLLRPRKE--QGTYALSLIY------------------GK---------TVYHYLISQD-------KAGK----------------YCIPEG-----TKFDTLWQLVEYL------
+>P43405#human ['KSYK_HUMAN Tyrosine-prot ;168;244
+W----FHGKI-----SREESEQIVL----IGSKTNGKFLIRARDN--NGSYALCLLH------------------EG---------KVLHYRIDKD-------KTGK----------------LSIPEG-----KKFDTLWQLVEHY------
+>ENSMUSP00000017920.7 pep:known chromoso ;13;104
+W----YWGRL-----SRQEAVALL------QGQRHGVFLVRDSSTS-PGDYVLSVSE------------------NS---------RVSHYIINSS-------GPRPPVPPSPAQPPPGVSPSRLRIGD-----QEFDSLPALLEFY------
+>P43405#human ['KSYK_HUMAN Tyrosine-prot ;15;92
+F----FFGNI-----TREEAEDYLV----QGGMSDGLYLLRQSRNY-LGGFALSVAH------------------GR---------KAHHYTIERE-------LNGT----------------YAIAGG-----RTHASPADLCHYH------
+>FBpp0256084 pep:known chromosome:GCA_00 ;406;484
+W----YVGDM-----SRQRAESLLK-----QGDKEGCFVVRKSST--KGLYTLSLHTKV---------------PQS---------HVKHYHIKQN-------ARCE----------------YYLSEK-----HCCETIPDLINYH------
+>P29353#human ['SHC1_HUMAN SHC-transform ;488;559
+W----FHGKL-----SRREAEALL--------QLNGDFLVRESTTT-PGQYVLTGLQ------------------SG---------QPKHLLLV---------DPEG----------------VVRTKD-----HRFESVSHLISYH------
+>F6TDL0#human ['F6TDL0_HUMAN Uncharacter ;404;478
+W----FVEDI-----NRVQAEDLL------YGKPDGAFLIRESSK--KGCYACSVVA------------------DG---------EVKHCVIYST-------ARGY----------------GFAEPY-----NLYSSLKELVLHY------
+>ENSMUSP00000003370.7 pep:known chromoso ;142;224
+W----FFKGI-----SRKDAERHLL----APGNMLGSFMIRDSETT-KGSYSLSVRDFDPQ-------------HGD---------TVKHYKIRTL-------DSGG----------------FYISPR-----STFSSLQELVLHY------
+>ENSMUSP00000033617.6 pep:known chromoso ;281;362
+W----YSKHM-----TRSQAEQLLK-----QEGKEGGFIVRDSSK--AGKYTVSVFAKS------------TGEPQG---------VIRHYVVCST-------PQSQ----------------YYLAEK-----HLFSTIPELINYH------
+>ENSMUSP00000097547.3 pep:known chromoso ;149;231
+W----YFGKL-----GRKDAERQLL----SFGNPRGTFLIRESETT-KGAYSLSIRDWDDM-------------KGD---------HVKHYKIRKL-------DNGG----------------YYITTR-----AQFETLQQLVQHY------
+>P46108#human ['CRK_HUMAN Adapter molecu ;13;104
+W----YWGRL-----SRQEAVALL------QGQRHGVFLVRDSSTS-PGDYVLSVSE------------------NS---------RVSHYIINSS-------GPRPPVPPSPAQPPPGVSPSRLRIGD-----QEFDSLPALLEFY------
+>P12931#human ['SRC_HUMAN Proto-oncogene ;151;233
+W----YFGKI-----TRRESERLLL----NAENPRGTFLVRESETT-KGAYCLSVSDFDNA-------------KGL---------NVKHYKIRKL-------DSGG----------------FYITSR-----TQFNSLQQLVAYY------
+>Q5SQS7#human ['SH24B_HUMAN SH2 domain-c ;325;400
+W----FHGII-----SREDAEALL------ENMTEGAFLVRVSEKI-WG-YTLSYRL------------------QK---------GFKHFLVDAS-------GDFYS---------------FLGVDP-----NRHATLTDLVDFH------
+>P07947#human ['YES_HUMAN Tyrosine-prote ;158;240
+W----YFGKM-----GRKDAERLLL----NPGNQRGIFLVRESETT-KGAYSLSIRDWDEI-------------RGD---------NVKHYKIRKL-------DNGG----------------YYITTR-----AQFDTLQKLVKHY------
+>FBpp0265669 pep:known chromosome:GCA_00 ;130;207
+W----YFRKI-----KRIEAEKKLL----LPENEHGAFLIRDSESR-HNDYSLSVRD------------------GD---------TVKHYRIRQL-------DEGG----------------FFIARR-----TTFRTLQELVEHY------
+>FBpp0280627 pep:known supercontig:GCA_0 ;456;530
+W----YYGAI-----TRSQCDTVLN-----GHGHDGDFLIRDSETN-MGDYSVSLKA------------------PG---------RNKHFRVHVE-------QN------------------MYCIGQ-----RKFHSLDQLVDHY------
+>P62993#human ['GRB2_HUMAN Growth factor ;60;135
+W----FFGKI-----PRAKAEEMLS-----KQRHDGAFLIRESESA-PGDFSLSVKF------------------GN---------DVQHFKVLRD-------GAGK-----------------YFLWV-----VKFNSLNELVDYH------
+>ENSMUSP00000038838.6 pep:known chromoso ;129;211
+W----FFKDI-----TRKDAERQLL----APGNSAGAFLIRESETL-KGSFSLSVRDYDPM-------------HGD---------VIKHYKIRSL-------DNGG----------------YYISPR-----ITFPCISDMIKHY------
+>ENSMUSP00000056774.6 pep:known chromoso ;624;698
+W----NVGSS-----NRNKAENLL------RGKRDGTFLVRESSK--QGCYACSVVV------------------DG---------EVKHCVINKT-------ATGY----------------GFAEPY-----NLYSSLKELVLHY------
+>P20936#human ['RASA1_HUMAN Ras GTPase-a ;181;256
+W----YHGKL-----DRTIAEERLR-----QAGKSGSYLIRESDRR-PGSFVLSFLS-----------------QMN---------VVNHFRIIAMCG-------------------------DYYIGG-----RRFSSLSDLIGYY------
+>Q06124#human ['PTN11_HUMAN Tyrosine-pro ;6;81
+W----FHPNI-----TGVEAENLLL-----TRGVDGSFLARPSKSN-PGDFTLSVRR------------------NG---------AVTHIKIQN--------TGDY----------------YDLYGG-----EKFATLAELVQYY------
+>P15498#human ['VAV_HUMAN Proto-oncogene ;671;745
+W----YAGPM-----ERAGAESIL------ANRSDGTFLVRQRVKD-AAEFAISIKY------------------NV---------EVKHIKIMT--------AEGL----------------YRITEK-----KAFRGLTELVEFY------
+>Q92569#human ['P55G_HUMAN Phosphatidyli ;358;432
+W----FVEDI-----NRVQAEDLL------YGKPDGAFLIRESSK--KGCYACSVVA------------------DG---------EVKHCVIYST-------ARGY----------------GFAEPY-----NLYSSLKELVLHY------
+>P06239#human ['LCK_HUMAN Tyrosine-prote ;127;209
+W----FFKNL-----SRKDAERQLL----APGNTHGSFLIRESEST-AGSFSLSVRDFDQN-------------QGE---------VVKHYKIRNL-------DNGG----------------FYISPR-----ITFPGLHELVRHY------
+>P06241#human ['FYN_HUMAN Tyrosine-prote ;149;231
+W----YFGKL-----GRKDAERQLL----SFGNPRGTFLIRESETT-KGAYSLSIRDWDDM-------------KGD---------HVKHYKIRKL-------DNGG----------------YYITTR-----AQFETLQQLVQHY------
+>ENSMUSP00000027291.4 pep:known chromoso ;10;87
+F----FYGSI-----SRAEAEEHLK----LAGMADGLFLLRQCLRS-LGGYVLSLVH------------------DV---------RFHHFPIERQ-------LNGT----------------YAIAGG-----KAHCGPAELCQFY------
+>ENSRNOP00000006407.2 pep:known chromoso ;13;104
+W----YWGRL-----SRQEAVALL------QGQRHGVFLVRDSSTS-PGDYVLSVSE------------------NS---------RVSHYIINSS-------GPRPPVPPSPAQPPPGVSPSRLRIGD-----QEFDSLPALLEFY------
+>P16591#human ['FER_HUMAN Tyrosine-prote ;460;531
+W----YHGAI-----PRIEAQELLK--------KQGDFLVRESHGK-PGEYVLSVYS------------------DG---------QRRHFIIQYV-------DN------------------MYRFEG-----TGFSNIPQLIDHH------
+>P07948#human ['LYN_HUMAN Tyrosine-prote ;129;211
+W----FFKDI-----TRKDAERQLL----APGNSAGAFLIRESETL-KGSFSLSVRDFDPV-------------HGD---------VIKHYKIRSL-------DNGG----------------YYISPR-----ITFPCISDMIKHY------
+>Q06187#human ['BTK_HUMAN Tyrosine-prote ;281;362
+W----YSKHM-----TRSQAEQLLK-----QEGKEGGFIVRDSSK--AGKYTVSVFAKS------------TGDPQG---------VIRHYVVCST-------PQSQ----------------YYLAEK-----HLFSTIPELINYH------
+>P46109#human ['CRKL_HUMAN Crk-like prot ;14;88
+W----YMGPV-----SRQEAQTRL------QGQRHGMFLVRDSSTC-PGDYVLSVSE------------------NS---------RVSHYIINSL-------PNR-----------------RFKIGD-----QEFDHLPALLEFY------
+>ENSMUSP00000125777.1 pep:known chromoso ;138;220
+W----FFKNL-----SRKDAERQLL----APGNTHGSFLIRESEST-AGSFSLSVRDFDQN-------------QGE---------VVKHYKIRNL-------DNGG----------------FYISPR-----ITFPGLHDLVRHY------
+>ENSMUSP00000014597.3 pep:known chromoso ;118;199
+W----FFRTI-----SRKDAERQLL----APMNKAGSFLIRESESN-KGAFSLSVKDI-TT-------------QGE---------VVKHYKIRSL-------DNGG----------------YYISPR-----ITFPTLQALVQHY------
+>Q06124#human ['PTN11_HUMAN Tyrosine-pro ;112;197
+W----FHGHL-----SGKEAEKLLT-----EKGKHGSFLVRESQSH-PGDFVLSVRTGDDKGE--------SNDGKS---------KVTHVMIRC--------QELK----------------YDVGGG-----ERFDSLTDLVEHY------
+>ENSMUSP00000029766.4 pep:known chromoso ;148;228
+W----YHGRI-----PRQVSENLV--------QRDGDFLVRDSLSS-PGNFVLTCQW------------------KN---------LAQHFKINRTVLRLSEAYSRV----------------QYQFEM-----ESFDSIPGLVRCY------
+>ENSMUSP00000030693.6 pep:known chromoso ;132;214
+W----YFGKI-----SRKDAERQLL----SSGNPQGAFLIRESETT-KGAYSLSIRDWDQN-------------RGD---------HIKHYKIRKL-------DTGG----------------YYITTR-----AQFDSIQDLVRHY------
+>P09769#human ['FGR_HUMAN Tyrosine-prote ;144;226
+W----YFGKI-----GRKDAERQLL----SPGNPQGAFLIRESETT-KGAYSLSIRDWDQT-------------RGD---------HVKHYKIRKL-------DMGG----------------YYITTR-----VQFNSVQELVQHY------
+>FBpp0088181 pep:known chromosome:BDGP6: ;12;90
+W----YFGPM-----SRQDATEVLM-----NERERGVFLVRDSNSI-AGDYVLCVRE------------------DT---------KVSNYIINKV-------QQQDQI--------------VYRIGD-----QSFDNLPKLLTFY------
+>P16333#human ['NCK1_HUMAN Cytoplasmic p ;282;356
+W----YYGKV-----TRHQAEMALN-----ERGHEGDFLIRDSESS-PNDFSVSLKA------------------QG---------KNKHFKVQLK-------ET------------------VYCIGQ-----RKFSTMEELVEHY------
+>Q68CZ2#human ['TENS3_HUMAN Tensin-3 OS= ;1172;1267
+W----YKADI-----SREQAIAML------KDKEPGSFIVRDSHSF-RGAYGLAMKVATPPPSVLQLNKKAGDLANE---------LVRHFLIECT-------PKGVRL--------------KGCSNE-----PYFGSLTALVCQH------
+>Q9H6Q3#human ['SLAP2_HUMAN Src-like-ada ;94;176
+W----LYEGL-----SREKAEELLL----LPGNPGGAFLIRESQTR-RGSYSLSVRLSRPA-------------SWD---------RIRHYRIHCL-------DNGW----------------LYISPR-----LTFPSLQALVDHY------
+>FBpp0269779 pep:known chromosome:GCA_00 ;466;550
+W----YKPNL-----TREDAIALL------AAAQPGTFLVRDSTTY-KDSYGLVVRVAQPPAG-----------SQE---------LVRHFLIEPT-------KGGVHL--------------KGCDDE-----PVFTSLSALVFEH------
+>P27986#human ['P85A_HUMAN Phosphatidyli ;624;698
+W----NVGSS-----NRNKAENLL------RGKRDGTFLVRESSK--QGCYACSVVV------------------DG---------EVKHCVINKT-------ATGY----------------GFAEPY-----NLYSSLKELVLHY------
+>ENSMUSP00000072154.6 pep:known chromoso ;156;238
+W----YFGKM-----GRKDAERLLL----NPGNQRGIFLVRESETT-KGAYSLSIRDWDEV-------------RGD---------NVKHYKIRKL-------DNGG----------------YYITTR-----AQFDTLQKLVKHY------
+>ENSMUSP00000004377.8 pep:known chromoso ;6;81
+W----FHRDL-----SGPDAETLLK-----GRGVPGSFLARPSRKN-QGDFSLSVRV------------------DD---------QVTHIRIQN--------SGDF----------------YDLYGG-----EKFATLTELVEYY------
+>ENSMUSP00000112221.1 pep:known chromoso ;282;356
+W----YYGKV-----TRHQAEMALN-----ERGHEGDFLIRDSESS-PNDFSVSLKA------------------QG---------KNKHFKVQLK-------ET------------------VYCIGQ-----RKFSTMEELVEHY------
+>FBpp0077678 pep:known chromosome:BDGP6: ;310;384
+W----YYGAI-----TRSQCDTVLN-----GHGHDGDFLIRDSETN-MGDYSVSLKA------------------PG---------RNKHFRVHVE-------QN------------------MYCIGQ-----RKFHSLDQLVDHY------
+>FBpp0259550 pep:known chromosome:GCA_00 ;12;90
+W----YFGPM-----SRQDATEVLM-----NERERGVFLVRDSNSI-AGDYVLCVRE------------------DT---------KVSNYIINKV-------QQQDQI--------------VYRIGD-----QSFDNLPKLLTFY------
+>ENSMUSP00000099404.1 pep:known chromoso ;550;639
+W----FHGKLGAGRDGRHIAERLLTEYCIETGAPDGSFLVRESETF-VGDYTLSFWR------------------NG---------KVQHCRIHSR----QDAGTPK----------------FFLTDN-----LVFDSLYDLITHY------
+>ENSMUSP00000105179.2 pep:known chromoso ;342;417
+W----FHGKI-----SKQEAYNLLM-----TVGQVCSFLVRPSDNT-PGDYSLYFRT------------------NE---------NIQRFKICPT-------PNNQ-----------------FMMGG-----RYYNSIGDIIDHY------
+>ENSMUSP00000058757.7 pep:known chromoso ;6;81
+W----FHPNI-----TGVEAENLLL-----TRGVDGSFLARPSKSN-PGDFTLSVRR------------------NG---------AVTHIKIQN--------TGDY----------------YDLYGG-----EKFATLAELVQYY------
+>P43403#human ['ZAP70_HUMAN Tyrosine-pro ;10;87
+F----FYGSI-----SRAEAEEHLK----LAGMADGLFLLRQCLRS-LGGYVLSLVH------------------DV---------RFHHFPIERQ-------LNGT----------------YAIAGG-----KAHCGPAELCEFY------
+>P42224#human ['STAT1_HUMAN Signal trans ;573;657
+WNDGCIMGFI-----SKERERALL------KDQQPGTFLLRFSESSREGAITFTWVERS---------------QNGG--------EPDFHAVE-----------------------------PYTKKE-----LSAVTFPDIIRNYKVMAAE
+>P00519#human ['ABL1_HUMAN Tyrosine-prot ;127;202
+W----YHGPV-----SRNAAEYLL------SSGINGSFLVRESESS-PGQRSISLRY------------------EG---------RVYHYRINTA-------SDGK----------------LYVSSE-----SRFNTLAELVHHH------
+>P51813#human ['BMX_HUMAN Cytoplasmic ty ;296;377
+W----FAGNI-----SRSQSEQLLR-----QKGKEGAFMVRNSSQ--VGMYTVSLFSKA------------VNDKKG---------TVKHYHVHTN-------AENK----------------LYLAEN-----YCFDSIPKLIHYH------
+>PF00017_5ehp_A_6_81 A; 6; 81
+W----FHPNI-----TGVEAENLLL-----TRGVDGSFLARPSKSN-PGDFTLSVRR------------------NG---------AVTHIKIQN--------TGDY----------------YDLYGG-----EKFATLAELVQYY------

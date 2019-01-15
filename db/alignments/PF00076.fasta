@@ -1,0 +1,758 @@
+>NONE_14184 , MEDTR4G070080.1 ;8;78
+CFVGGLAWA-TDNEA----LE----KAF-SQ----YG-----------EI-V--DS----KI-I------ND----------RETGRS------RG------F------GFVTFANEKS---MN-DAI----EA-MNGQ------DLD--GR-NIT-------------------
+>P55795#human ['HNRH2_HUMAN Heterogeneou ;291;358
+VHMRGLPYR-ATEND----IY----NFF-S------PL----------N-----PM----RVHI-----EIG----------P-DGRV------TG------E------ADVEFATHED---AV-AAM----A--KDKA------NMQ--HR-YVE-------------------
+>Q9NTZ6#human ['RBM12_HUMAN RNA-binding  ;547;614
+-HITNIPFS-ITKMDV---LQ------F------LEGI----------PVDEN-AV----HV-L------VD-----------NNGQG------LG------------QALVQFKNEDD---AR-KSER------LHRK------KLN--GR-EA--------------------
+>P23246#human ['SFPQ_HUMAN Splicing fact ;373;440
+LSVRNLSPY-VSNEL----LE----EAF-SQ----FG-----------PI-E--RA----VV-I-----VDDR------------GRS------TG------K------GIVEFASKPA---AR-KAF----ER-C--------------SE-GVFLLTT---------------
+>P52597#human ['HNRPF_HUMAN Heterogeneou ;113;182
+VRLRGLPFG-CTKEE----IV----QFF-S------GL----------EI-V--PN----GITL-----PVD----------P-EGKI------TG------E------AFVQFASQEL---AE-KAL----G--KHKE------RIG--HR-YIE-------------------
+>PF3D7_0823200 | organism=Plasmodium_fal ;9;77
+IFIGSIPKD-VTEEE----LK----TEA-AK----YG-----------TI-T--QV----YY-------------------VPATAQS-----PRG------W------AFITYEQRSE---AY-KAI----EA-LDYK-----CIFP--NS-Q---------------------
+>Q9NW13#human ['RBM28_HUMAN RNA-binding  ;337;410
+VFIRNLSFD-SEEEE----LG----ELL-QQ----FG-----------EL-K--YV----RI-V------LH----------PDTEHS------KG------C------AFAQFMTQEA---AQ-KCL----LA-ASPENEAGGLKLD--GR-----------------------
+>PBANKA_143920 | organism=Plasmodium_ber ;409;478
+LYIKNLDDS-MNDQT----LK----ELF-EP----YG-----------TI-T--SA----KV-M------KD-----------DKDQS------KG------F------GFVCFGTHEE---AN-KAV----TE-MHLK------IIN--GK-PLY-------------------
+>Q15056#human ['IF4H_HUMAN Eukaryotic tr ;44;112
+AYVGNLPFN-TVQGD----ID----AIF-KD----L------------SI-R--SV----RL-V------RD----------KDTDKF------KG------F------CYVEFDEVDS---LK-EAL----T--YDGA------LLG--DR-SLR-------------------
+>ENSMUSP00000049112.7 pep:known chromoso ;386;456
+IWVSGLSSN-TKAAD----LK----NLF-GK----YG-----------KV-L--SA----KV-V------TN-------------ARS------PG---AKCY------GIVTMSSSTE---VS-RCV----AH-LHRT------ELH--GQ-LIS-------------------
+>PF3D7_1006800 | organism=Plasmodium_fal ;170;239
+LIVYNLPPQ-VTWKE----LK----DLF-R---------------------K--HG----RV-V-----RADL--------KNEDNSS------KEL-----I------GVVIMENEYE---AK-NAI----DA-LN-FC-----NFD--GY-ILK-------------------
+>ENSMUSP00000108828.1 pep:known chromoso ;13;84
+VKVRGLPWS-CSAEE----VM----RFF-S------DC----------KI-QNGTS----GVRF-----IYT----------R-EGRP------SG------E------AFVELESEDE---VK-LAL----K--KDRE------TMG--HR-YVE-------------------
+>FBpp0261693 pep:known chromosome:GCA_00 ;115;185
+LIINYLPQD-MTDRE----LY----NLF-SG----CG-----------PI-N--TC----KI-M------RD----------FKTGYS------FG------Y------GFVDYKTESD---SE-DAI----QK-LNGF------YVR--NK-RLK-------------------
+>O75821#human ['EIF3G_HUMAN Eukaryotic t ;241;310
+IRVTNLSED-TRETD----LQ----ELF-RP----FG-----------SI-S--RI----YL-A------KD----------KTTGQS------KG------F------AFISFHRRED---AA-RAI----AG-VSGF------GYD--HL-IL--------------------
+>FBpp0082265 pep:known chromosome:BDGP6: ;495;569
+LFLGNIPHH-ASEDD----LR----EIF-SR----FG-----------NV-L--EL----RI-------------------LSKAGNKVPPGMRSPLN----Y------GFITYDDPEA---VQ-KCL----AN-C-------PLYFP--EN-SP--------------------
+>ENSMUSP00000001809.8 pep:known chromoso ;296;364
+LYVKNLDDG-IDDER----LR----KEF-SP----FG-----------TI-T--SA----KV-M------M------------EGGRS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGR------IVA--TK-PLY-------------------
+>P08621#human ['RU17_HUMAN U1 small nucl ;105;175
+LFVARVNYD-TTESK----LR----REF-EV----YG-----------PI-K--RI----HM-V------YS----------KRSGKP------RG------Y------AFIEYEHERD---MH-SAY----KH-ADGK------KID--GR-RVL-------------------
+>PBANKA_050660 | organism=Plasmodium_ber ;113;186
+IIVSNLPDN-CKWQH----LK----DIM-RQ----CG-----------DV-G--YA----NI---------------------EHG--------KG--------------IVEFVDRDG---ML-YAI----EK-FDRA------EFK--VH-DQV-TNIKVRRDKRS-------
+>Q8WXF1#human ['PSPC1_HUMAN Paraspeckle  ;158;222
+LTVKNLSPV-VSNEL----LE----QAF-SQ----FG-----------PV-E--KA----VV-V-----VDDR------------GRA------TG------K------GFVEFAAKPP---AR-KAL----ER-C--------------GD-GAFL------------------
+>ENSMUSP00000001809.8 pep:known chromoso ;193;262
+VYIKNFGED-MDDER----LK----ELF-GK----FG-----------PA-L--SV----KV-M------TD-----------ESGKS------KG------F------GFVSFERHED---AQ-KAV----DE-MNGK------ELN--GK-QIY-------------------
+>Q10L02_6160 , LOC_Os03g24890.2 ;63;133
+LLVRNISLT-ARPED----IR----IPF-EQ----FG-----------PV-K--DV----YL-P------RN----------FHTREL------RG------F------GFVKFRYPED---AA-VAK----QE-LNHQ------VIG--GR-EIS-------------------
+>Q13310#human ['PABP4_HUMAN Polyadenylat ;101;168
+VFIKNLDKS-IDNKA----LY----DTF-SA----FG-----------NI-L--SC----KV-V------CD-----------ENG-S------KG------Y------AFVHFETQEA---AD-KAI----EK-MNGM------LLN--DR-KV--------------------
+>AT3G53500.1_1132 , NONE ;1;34
+-------------------------------------------------------------M-K------RD------------------------------Y------AFVEFSDPRD---AD-DAR----YY-LDGR------DFD--GS-RIT-------------------
+>ENSMUSP00000079070.6 pep:known chromoso ;296;364
+LYIKNLDDT-IDDEK----LR----REF-SP----FG-----------SI-T--SA----KV-M------L------------EDGRS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGR------IVG--SK-PLY-------------------
+>P19338#human ['NUCL_HUMAN Nucleolin OS= ;309;377
+LFVGNLNFN-KSAPE----LKTGISDVFAKN----DL-----------AV-V--DV----RI-------GMT----------------------RK------F------GYVDFESAED---LE-KA-----LE-LTGL------KVF--GN-EIK-------------------
+>P26368#human ['U2AF2_HUMAN Splicing fac ;261;331
+LFIGGLPNY-LNDDQ----VK----ELL-TS----FG-----------PL-K--AF----NL-V------KD----------SATGLS------KG------Y------AFCEYVDINV---TD-QAI----AG-LNGM------QLG--DK-KLL-------------------
+>Q13151#human ['ROA0_HUMAN Heterogeneous ;100;169
+LFVGGLKGD-VAEGD----LI----EHF-SQ----FG-----------TV-E--KA----EI-I------AD----------KQSGKK------RG------F------GFVYFQNHDA---AD-KAA-----V-VKFH------PIQ--GH-RVE-------------------
+>O14979#human ['HNRDL_HUMAN Heterogeneou ;235;304
+VFVGGLSPD-TSEEQ----IK----EYF-GA----FG-----------EI-E--NI----EL-P------MD----------TKTNER------RG------F------CFITYTDEEP---VK-KLL-----E-SRYH------QIG--SG-KCE-------------------
+>ENSMUSP00000001809.8 pep:known chromoso ;13;83
+LYVGDLHPD-VTEAM----LY----EKF-SP----AG-----------PI-L--SI----RV-C------RD----------MITRRS------LG------Y------AYVNFQQPAD---AE-RAL----DT-MNFD------VIK--GK-PVR-------------------
+>FBpp0284491 pep:known chromosome:GCA_00 ;245;314
+VFVANLDYK-VDNKK----LK----QVF-KL----AG-----------KV-Q--SV----DL-S------LD-----------KEGNS------RG------F------AVIEYDHPVE---AV-QAI----SM-LDRQ------MLF--DR-RMT-------------------
+>P84103#human ['SRSF3_HUMAN Serine/argin ;12;77
+VYVGNLGNN-GNKTE----LE----RAF-GY----YG-----------PL-R--SV----WV-A------RN----------PPG-----------------F------AFVEFEDPRD---AA-DAV----RE-LDGR------TLC--GC-RVR-------------------
+>TGGT1_291930 | organism=Toxoplasma_gond ;560;629
+IVVRNLSFN-ATEES----IR----SLF-EE----CG-----------EI-Q--EV----RM-P------VF----------EDTGKF------KG------Q------AFIEFDSIES---AT-KAV----EY-NN-T------DVD--GR-TVW-------------------
+>FBpp0089110 pep:known chromosome:BDGP6: ;95;165
+LIINYLPQD-MTDRE----LY----NLF-SG----CG-----------PI-N--TC----KI-M------RD----------FKTGYS------FG------Y------GFVDYKTESD---SE-DAI----QK-LNGF------YVR--NK-RLK-------------------
+>Skud_7.583 ;586;630
+------------------------------------D-----------TS-S--DS----DLPV---------------------GSS------RG------Y------GFVSFESPLD---AA-KAI----LN-TDGY------QVG-KDQ-VL--------------------
+>ENSMUSP00000087453.7 pep:known chromoso ;11;80
+LFIGGLSFE-TTEES----LR----NYY-EQ----WG-----------KL-T--DC----VV-M------RD----------PASKRS------RG------F------GFVTFSSMAE---VD-AAM-----A-ARPH------SID--GR-VVE-------------------
+>FBpp0237114 pep:known supercontig:GCA_0 ;118;187
+LIVGNLDYG-VSNTD----IK----ELF-ND----FG-----------PM-K--KA----AV-H------YD-----------RSGRS------LG------T------ADVIFERRSD---AL-KAI----KQ-YHGV------PLD--GR-PMT-------------------
+>ENSMUSP00000004206.8 pep:known chromoso ;241;310
+IRVTNLSED-TRETD----LQ----ELF-RP----FG-----------SI-S--RI----YL-A------KD----------KTTGQS------KG------F------AFISFHRRED---AA-RAI----AG-VSGF------GYD--HL-IL--------------------
+>ENSMUSP00000079070.6 pep:known chromoso ;101;168
+VFIKNLDKS-IDNKA----LY----DTF-SA----FG-----------NI-L--SC----KV-V------CD-----------ENG-S------KG------Y------AFVHFETQEA---AD-KAI----EK-MNGM------LLN--DR-KV--------------------
+>AT5G04280.1_417 , AT5G04280.1 ;9;79
+IFVGGLSPE-VTDRD----LE----RAF-SR----FG-----------DI-L--DC----QI-M------LE----------RDTGRS------RG------F------GFITFADRRA---MD-ESI----RE-MHGR------DFG--DR-VIS-------------------
+>Q13310#human ['PABP4_HUMAN Polyadenylat ;296;364
+LYIKNLDDT-IDDEK----LR----KEF-SP----FG-----------SI-T--SA----KV-M------L------------EDGRS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGR------IVG--SK-PLY-------------------
+>O43390#human ['HNRPR_HUMAN Heterogeneou ;167;235
+VFVGKIPRD-LYEDE----LV----PLF-EK----AG-----------PI-W--DL----RL-M------MD----------PLSGQN------RG------Y------AFITFCGKEA---AQ-EAV----KL-CDSY------EIR-PGK-----------------------
+>Q15427#human ['SF3B4_HUMAN Splicing fac ;15;85
+VYVGGLDEK-VSEPL----LW----ELF-LQ----AG-----------PV-V--NT----HM-P------KD----------RVTGQH------QG------Y------GFVEFLSEED---AD-YAI----KI-MNMI------KLY--GK-PIR-------------------
+>Kwal_14444 ;71;138
+IFVGNLPKD-ISSTE----LQAHF------K----SS-----------SP-D--EI----RL-------RQD----------------------KC------I------AFLEFDADKD---QK-NIQ----SR-MDVA------LLQ--HKTELKGRR----------------
+>Q96EP5#human ['DAZP1_HUMAN DAZ-associat ;12;81
+LFVGGLDWS-TTQET----LR----SYF-SQ----YG-----------EV-V--DC----VI-M------KD----------KTTNQS------RG------F------GFVKFKDPNC---VG-TVL-----A-SRPH------TLD--GR-NID-------------------
+>FBpp0070720 pep:known chromosome:BDGP6: ;726;795
+IFVRNLHPA-CSKEE----LH----ELF-SP----FG-----------TI-K--DV----RL-V------HK-----------LNKQF------KG------I------AYVEFEKPGE---AQ-RAV----AG-RDGC------LFK--GM-NIS-------------------
+>Glyma11g10790.1_11289 , NONE ;481;549
+LFVGNLPFS-VERAD----VE----GFF-KD----AG-----------EV-V--DV----RF-A------TD-----------DTGKF------KG------F------GHVEFATAEA---AQ-NAL----G--LNGQ------QLF--NR-ELR-------------------
+>P22626#human ['ROA2_HUMAN Heterogeneous ;23;92
+LFIGGLSFE-TTEES----LR----NYY-EQ----WG-----------KL-T--DC----VV-M------RD----------PASKRS------RG------F------GFVTFSSMAE---VD-AAM-----A-ARPH------SID--GR-VVE-------------------
+>Q9Y6M1#human ['IF2B2_HUMAN Insulin-like ;84;151
+IQIRNIPPH-LQWEV----LD----GLL-AQ----YG-----------TV-E--NV----E------QVNTD----------TETAV----------------------VNVTYATREE---AK-IAM----EK-LSGH------QFE--NY-SFK-------------------
+>Q14103#human ['HNRPD_HUMAN Heterogeneou ;99;168
+MFIGGLSWD-TTKKD----LK----DYF-SK----FG-----------EV-V--DC----TL-K------LD----------PITGRS------RG------F------GFVLFKESES---VD-KVM-----D-QKEH------KLN--GK-VID-------------------
+>Q9H361#human ['PABP3_HUMAN Polyadenylat ;296;364
+LYVKNLDDG-IDDER----LR----KAF-SP----FG-----------TI-T--SA----KV-M------M------------EGGRS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGR------IVA--TK-PLY-------------------
+>Q15434#human ['RBMS2_HUMAN RNA-binding  ;58;124
+LYIRGLQPG-TTDQD----LV----KLC-QP----YG-----------KI-V--ST----KA-I------LD----------KTTNKC------KG------Y------GFVDFDSPSA---AQ-KAV----TA-L---------KAS--GV-QA--------------------
+>TGGT1_211420 | organism=Toxoplasma_gond ;14;79
+VYIGGIEAD-TTTEE----LE----SIF-GK----YG-----------TI-S--TV----WV-A------RN---------------------PPG------F------AFLTFDDYRD---AK-DAV----AE-LDGY------RYR--GK-PIR-------------------
+>YDR432W pep:known chromosome:R64-1-1:IV ;202;269
+ITMKNLPEG-CSWQD----LK----DLA-RE----NSL----------ET-T--FS----SVNT------RDF-----------DG--------TG--------------ALEFPSEEI---LV-EAL----ER-LNNI------EFR--GS-VIT-------------------
+>FBpp0238530 pep:known supercontig:GCA_0 ;116;181
+LIVENLSSR-VSWQD----LK----DYM-RQ----AG-----------EV-T--YA----DA--------------------HKQRRN------EG--------------VVEFASLSD---MK-TAI----EK-LDDT------ELN--GR-RVH-------------------
+>FBpp0237530 pep:known supercontig:GCA_0 ;139;208
+IFVGGLTTE-ISDEE----IK----TYF-SQ----FG-----------NI-V--EV----EM-P------FD----------KQKSHR------KG------F------CFITFDSEQV---VT-DLL-----K-TPKQ------KIS--GK-EVD-------------------
+>Q13283#human ['G3BP1_HUMAN Ras GTPase-a ;342;405
+LFIGNLPHE-VDKSE----LK----DFF-QS----YG-----------NV-V--EL----RI-------------------NS--GGKLP-------N----F------GFVVFDDSEP---VQ-KVL----SN-R-------PIMFR--GE-----------------------
+>ENSMUSP00000092849.3 pep:known chromoso ;431;500
+-WVSGLSST-TRATD----LK----NLF-SR----YG-----------KV-V--GA----KV-V------TN-------------ARS------PG---ARCY------GFVTMSTAEE---AT-KCI----SH-LHKT------ELH--GK-MIS-------------------
+>Q92879#human ['CELF1_HUMAN CUGBP Elav-l ;18;88
+MFVGQVPRT-WSEKD----LR----ELF-EQ----YG-----------AV-Y--EI----NV-L------RDR---------SQNPPQS-----KG------C------CFVTFYTRKA---AL-EAQ----NA-LHNMK-----VLP--GM-----------------------
+>Q9NW13#human ['RBM28_HUMAN RNA-binding  ;116;185
+LIIRNLSFK-CSEDD----LK----TVF-AQ----FG-----------AV-L--EV----NI-P------RK-----------PDGKM------RG------F------GFVQFKNLLE---AG-KAL----KG-MNMK------EIK--GR-TVA-------------------
+>P55884#human ['EIF3B_HUMAN Eukaryotic t ;202;260
+----KLKNV----------IH----KIF-SK----FG-----------KI-T--ND----FYP-------------------EEDGKT------KG------Y------IFLEYASPAH---AV-DAV----KN-ADGY------KLD-KQH-T---------------------
+>PBANKA_083580 | organism=Plasmodium_ber ;12;83
+LYVNNLEEK-INVND----LKYLLYEFF-CP----YG-----------NV-L--DV----VI-K-----KSNKLRGQAFVIF----SN------IA------S------STLAYKNLKG---KPFLNK----N--IN--------------------------------------
+>O75526#human ['RMXL2_HUMAN RNA-binding  ;10;80
+LFIGGLNLE-TDEKA----LE----AEF-GK----YG-----------RI-V--EV----LL-M------KD----------RETNKS------RG------F------AFVTFESPAD---AK-AAA----RD-MNGK------SLD--GK-AIK-------------------
+>FBpp0271296 pep:known chromosome:GCA_00 ;2;48
+-----------------------------RQ----AG-----------EV-T--YA----DA--------------------HKQRRN------EG--------------VVEFASLSD---MK-TAI----EK-LDDT------ELN--GR-RIH-------------------
+>FBpp0277660 pep:known chromosome:GCA_00 ;73;133
+---EKLKSV----------IN----KLF-SH----CG-----------DI-V--NV----VYPV------------------DEEGKT------KG------Y------AFMEYKHAGQ---AE-EAV----KK-LNNH------RLD-KNH-T---------------------
+>P52272#human ['HNRPM_HUMAN Heterogeneou ;73;143
+AFITNIPFD-VKWQS----LK----DLV-KEK---VG-----------EV-T--YV----EL--------------------LMDAEGK----SRG------C------AVVEFKMEES---MK-KAA----EV-LNKH------SLS--GR-PLK-------------------
+>FBpp0121094 pep:known supercontig:GCA_0 ;13;78
+VYVGNLGSS-ASKYE----IE----NAF-AK----YG-----------PL-R--NV----WV-A------RN----------PPG-----------------F------AFVEFEDRRD---AE-DAT----RA-LDGT------RCC--GT-RIR-------------------
+>P19338#human ['NUCL_HUMAN Nucleolin OS= ;395;460
+LLAKNLPYK-VTQDE----LK----EVF-ED----AA-----------EI-R--LV--------------------------SKDGKS------KG------I------AYIEFKTEAD---AE-KTF----EE-KQGT------EID--GR-SIS-------------------
+>P52272#human ['HNRPM_HUMAN Heterogeneou ;655;723
+IFVRNLPFD-FTWKM----LK----DKF-NE----CG-----------HV-L--YA----DI-K------ME-----------N-GKS------KG------C------GVVKFESPEV---AE-RAC----RM-MNGM------KLS--GR-EID-------------------
+>Q99729#human ['ROAA_HUMAN Heterogeneous ;71;140
+MFVGGLSWD-TSKKD----LK----DYF-TK----FG-----------EV-V--DC----TI-K------MD----------PNTGRS------RG------F------GFILFKDAAS---VE-KVL-----D-QKEH------RLD--GR-VID-------------------
+>ENSMUSP00000120115.1 pep:known chromoso ;72;142
+AFITNIPFD-VKWQS----LK----DLV-KEK---VG-----------EV-T--YV----EL--------------------LMDAEGK----SRG------C------AVVEFKMEES---MK-KAA----EV-LNKH------SLS--GR-PLK-------------------
+>Q96E39#human ['RMXL1_HUMAN RNA binding  ;10;80
+LFIGGLNTE-TNEKA----LE----TVF-GK----YG-----------RI-V--EV----LL-I------KD----------RETNKS------RG------F------AFVTFESPAD---AK-DAA----RD-MNGK------SLD--GK-AIK-------------------
+>Q32P51#human ['RA1L2_HUMAN Heterogeneou ;107;178
+IFVGGIKED-TEEHH----LR----DYF-EQ----YG-----------KI-E--VI----EI-M------TD----------RGSGKK------RG------F------AFVTFDDHDS---VD-KIV-----I-QKYH------TVK--GH-NCEVR-----------------
+>ENSMUSP00000047672.7 pep:known chromoso ;99;166
+----------ARLND---NVR----ETFLKDMCRKYG-----------EV-E--EV----EI-L------LH---------PR-TRKH------LG------L------ARVLFTSTRG---AK-ETV----KN-LHLT------SVM--GN-IIH-------------------
+>PF3D7_0923900 | organism=Plasmodium_fal ;73;142
+IFVGNVDYS-TQPEE----LQ----SLF-SE----CG-----------LI-N--RV----TI-L------VN----------KNTGHS------KG------Y------AYIEFADASS---VR-TAL-----S-LSES------FFK--KR-QIK-------------------
+>TGGT1_208350 | organism=Toxoplasma_gond ;235;298
+VFIRGLPAG-VRESA----LR----DKL-AV----CG-----------TV----------LA-L-----KIDG------------GRL------P-------T------ALVAFLERSA---AR-KAV----QT-FHGT------RM--RGS-G---------------------
+>Q07955#human ['SRSF1_HUMAN Serine/argin ;123;186
+VVVSGLPPS-GSWQD----LK----DHM-RE----AG-----------DV-C--YA----DV--------------------YRDG--------TG--------------VVEFVRKED---MT-YAV----RK-LDNT------KFR--SH-EGE-------------------
+>Q13242#human ['SRSF9_HUMAN Serine/argin ;16;83
+IYVGNLPTD-VREKD----LE----DLF-YK----YG-----------RI-R--EI----EL-K------NR----------HGLVP---------------F------AFVRFEDPRD---AE-DAI----YG-RNGY------DYG--QC-RLR-------------------
+>FBpp0115844 pep:known supercontig:GCA_0 ;289;358
+LYVKNLDDS-IDDER----LC----KEF-SP----YG-----------TI-T--SA----KV-M------TD-----------EEGRS------KG------F------GFVCFISANE---AT-CAV----TE-LNGR------VVG--SK-PLY-------------------
+>FBpp0120889 pep:known supercontig:GCA_0 ;295;364
+IFVGGVSQD-TSAEE----VK----AYF-SQ----FG-----------PV-E--ET----VM-L------MD----------QQTKRH------RG------F------GFVTFENEDV---VD-RVC-----E-IHFH------TIK--NK-KVE-------------------
+>Skud_4.204 ;143;202
+-----------LQEN----LE----AFF-KK----LG-----------EI-N--QV----RL-------RRD----------HKNKKF------NGT------------ILVEFKTIPE---CE-AFL----KS-YSSDD---------ESN-EIL-------------------
+>FBpp0120518 pep:known supercontig:GCA_0 ;115;184
+LIVGNLDYG-VSNTD----IK----ELF-ND----FG-----------PM-K--KA----AV-H------YD-----------RSGRS------LG------T------ADVIFERRGD---AL-KAI----KQ-YHGV------PLD--GR-PMT-------------------
+>PBANKA_070740 | organism=Plasmodium_ber ;9;77
+IFIGSIPKD-VTEDE----LK----TEV-AK----YG-----------NV-V--QV----YY-------------------VPATAQS-----PRG------W------AFITYEQRSE---AY-KAI----ES-LDYK-----CIFP--NS-Q---------------------
+>FBpp0209743 pep:known chromosome:GCA_00 ;4;74
+LYVGDLPQD-VNESG----LF----DKF-SS----AG-----------PV-L--SI----RV-C------RD----------VITRRS------LG------Y------AYVNFQQPAD---AE-RAL----DT-MNFD------LVR--NK-PIR-------------------
+>BRADI3G48460.3 pep:novel chromosome:v1. ;4;63
+VYVGNLDPR-ATARE----IE----DEF-RV----FG-----------IL-R--SV----WV-A------RK----------PPG-----------------F------AFIDFDESRD---AK-DAI----RE-LDGK------NG----------------------------
+>P07910#human ['HNRPC_HUMAN Heterogeneou ;18;81
+VFIGNLNTLVVKKSD----VE----AIF-SK----YG-----------KI-V--GC----SV-H------KG------------------------------F------AFVQYVNERN---AR-AAV----AG-EDGR------MIA--GQ-VLD-------------------
+>Q9H361#human ['PABP3_HUMAN Polyadenylat ;13;83
+LYVGDLHPD-VTEAM----LY----EKF-SP----AG-----------PI-L--SI----RI-C------RD----------LITSGS------SN------Y------AYVNFQHTKD---AE-HAL----DT-MNFD------VIK--GK-PVR-------------------
+>AT3G16380.1_1333 , AT3G16380.1 ;204;272
+VYVKNLIET-VTDDC----LH----TLF-SQ----YG-----------TV-S--SV----VV-M------RD-----------GMGRS------RG------F------GFVNFCNPEN---AK-KAM----ES-LCGL------QLG--SK-KL--------------------
+>Q6XE24#human ['RBMS3_HUMAN RNA-binding  ;63;128
+LYIRGLPPG-TTDQD----LI----KLC-QP----YG-----------KI-V--ST----KA-I------LD----------KNTNQC------KG------Y------GFVDFDSPAA---AQ-KAV----AS-L---------KAN--GV-Q---------------------
+>C4QY74_PICPG ;239;306
+IFVGGIAAE-VTEED----FT----DYF-SQ----FG-----------TI-I--DA----QL-M------ID----------KDTGRS------RG------F------GFVTYDSPDA---VD-RVC----AN--KYV------PLK--GR-S---------------------
+>K08F4.2 pep:known chromosome:WBcel235:I ;341;403
+--------NTAQAES---EIK----QVFY-----KYG-----------EI-E--EVRMPRKV-L------DS---------PNDTSKH----------------------AFAFITMRN----K-AGV----KA-IFEA------ATK--DE-Q---------------------
+>PF3D7_0916700 | organism=Plasmodium_fal ;143;210
+LMVRNIPFS-TRDEQ----FL----KYF-ES----FG-----------EI-E--D-----GI-I------VR----------EKEGRS------KG------Y------GFVTFKYVES---VQ-KCL-------KSSH------TLD--NK-ELQ-------------------
+>ENSMUSP00000108828.1 pep:known chromoso ;291;358
+VHMRGLPYR-ATEND----IY----NFF-S------PL----------N-----PM----RVHI-----EIG----------P-DGRV------TG------E------ADVEFATHED---AV-AAM----A--KDKA------NMQ--HR-YVE-------------------
+>ENSMUSP00000050461.5 pep:known chromoso ;432;501
+VYLKGLPFE-AENKH----VI----DFF-K------KL----------DI-V--ED----SIYI-----AYG----------P-NGKA------TG------E------GFVEFRNDAD---YK-AAL----C--RHKQ------YMG--NR-FIQ-------------------
+>FBpp0119435 pep:known supercontig:GCA_0 ;318;388
+LWVSGLSTL-TRASD----LK----AIF-SK----FG-----------KV-I--GA----KV-V------TN-------------TRT------PG---TRCY------GYVTMSSSGD---AS-RCI----DN-LHRT------ELH--GR-IIS-------------------
+>P31943#human ['HNRH1_HUMAN Heterogeneou ;291;358
+VHMRGLPYR-ATEND----IY----NFF-S------PL----------N-----PV----RVHI-----EIG----------P-DGRV------TG------E------ADVEFATHED---AV-AAM----S--KDKA------NMQ--HR-YVE-------------------
+>Q15424#human ['SAFB1_HUMAN Scaffold att ;409;478
+-WVSGLSST-TRATD----LK----NLF-SK----YG-----------KV-V--GA----KV-V------TN-------------ARS------PG---ARCY------GFVTMSTAEE---AT-KCI----NH-LHKT------ELH--GK-MIS-------------------
+>ENSMUSP00000107595.1 pep:known chromoso ;37;106
+LFIGGLSFE-TTDDS----LR----EHF-EK----WG-----------TL-T--DC----VV-M------RD----------PQTKRS------RG------F------GFVTYSCVEE---VD-AAM-----C-ARPH------KVD--GR-VVE-------------------
+>FBpp0284144 pep:known chromosome:GCA_00 ;496;570
+LFLGNIPHH-ASEEE----LR----ELF-SR----FG-----------NV-L--EL----RI-------------------LSKAGNKVPPGMRSPLN----Y------GFLTYDDPEA---VQ-KCL----SN-C-------PLYFP--EN-SP--------------------
+>ENSRNOP00000072133.1 pep:known chromoso ;80;142
+LHVGNISPT-CTNQE----LR----AKF-EE----YG-----------PV-I--EC----DI-V------KD------------------------------Y------AFVHMERAED---AV-EAI----RG-LDNT------EFQ--GK-RMH-------------------
+>Q13243#human ['SRSF5_HUMAN Serine/argin ;110;175
+LIVENLSSR-VSWQD----LK----DFM-RQ----AG-----------EV-T--FA----DA--------------------HRPKLN------EG--------------VVEFASYGD---LK-NAI----EK-LSGK------EIN--GR-KIK-------------------
+>Spar_4.800 ;206;273
+ITMKNLPEG-CSWQD----LK----DLA-RE----NSL----------ET-T--FS----SVNT------RDF-----------DG--------TG--------------ALEFPSEEI---LV-EAL----ER-LNNI------EFR--GS-VIT-------------------
+>FBpp0120799 pep:known supercontig:GCA_0 ;493;566
+LFLGNIPHH-ASEEE----LR----DLF-SQ----FG-----------TV-V--EL----RI-------------------LSK-GNKVPPGMRSPLN----Y------GFITYDDPEA---VQ-KCL----AN-C-------PLYFP--EN-SP--------------------
+>ENSMUSP00000050792.2 pep:known chromoso ;193;262
+VYIKNLGED-MDDER----LQ----DLF-GR----FG-----------PA-L--SV----KV-M------TD-----------ESGKS------KG------F------GFVSFERHED---AR-KAV----EE-MNGK------DLN--GK-QIY-------------------
+>FBpp0218888 pep:known chromosome:GCA_00 ;58;127
+LFVGGLSWE-TTEKE----LR----DHF-GK----YG-----------EI-E--SI----NV-K------TD----------PQTGRS------RG------F------AFIVFTNTEA---IE-KVS-----A-VEEH------IIN--SK-KVD-------------------
+>TGGT1_291930 | organism=Toxoplasma_gond ;446;510
+IFCGGLPYS-TTESE----LK----ELFESD----CG-----------PT-T--RI----KM-L----------------------EG------KG------I------AFITFETEEA---AQ-KAV-----E-YNNT------QYN--GR-TLR-------------------
+>FBpp0269438 pep:known chromosome:GCA_00 ;58;127
+LFVGGLSWE-TTEKE----LR----DHF-GK----YG-----------EI-E--SI----NV-K------TD----------PQTGRS------RG------F------AFIVFTNTEA---ID-KVS-----A-VDEH------IIN--SK-KVD-------------------
+>C5DW91_ZYGRC ;205;272
+IVLRNLPEG-CSWQE----LK----DLA-RE----NSL----------ET-T--FS----SVNT------RDF-----------DG--------TG--------------ALEFPNEEI---LQ-DAL----ER-LNNI------EFR--GS-VIA-------------------
+>AT1G48920.1_283 , AT1G48920.1 ;403;472
+IFVKGFDAS-LSEDDIKNTLR----EHF-SS----CG-----------EI-K--NV----SV-P------ID----------RDTGNS------KG------I------AYLEFSEGK-----E-KAL-----E-LNGS------DMG--GG-F---------------------
+>P0DMR1#human ['HNRC4_HUMAN Heterogeneou ;18;81
+VFIGNLNTLVVKKSD----VE----AIF-SK----YG-----------KI-A--GC----SV-H------KG------------------------------F------AFVQYDKEKN---AR-AAV----AG-EDGR------MIA--SQ-VVD-------------------
+>P09651#human ['ROA1_HUMAN Heterogeneous ;107;176
+IFVGGIKED-TEEHH----LR----DYF-EQ----YG-----------KI-E--VI----EI-M------TD----------RGSGKK------RG------F------AFVTFDDHDS---VD-KIV-----I-QKYH------TVN--GH-NCE-------------------
+>P38159#human ['RBMX_HUMAN RNA-binding m ;10;80
+LFIGGLNTE-TNEKA----LE----AVF-GK----YG-----------RI-V--EV----LL-M------KD----------RETNKS------RG------F------AFVTFESPAD---AK-DAA----RD-MNGK------SLD--GK-AIK-------------------
+>Q15020#human ['SART3_HUMAN Squamous cel ;706;775
+VFVSNLPYS-MQEPDTK--LR----PLF-EA----CG-----------EV-V--QI----RP-IF-----------------SNRGDF------RG------Y------CYVEFKEEKS---AL-QAL-----E-MDRK------SVE--GR-PM--------------------
+>EDP08875 pep:known supercontig:v3.1:DS4 ;53;123
+LVVRNLPLD-IRMED----LR----AKF-EK----YG-----------EL-K--DV----YI-P------RD----------YYTQRP------RG------F------GFIEFKETRD---AE-DAM----YN-LDRS------VVN--GR-EIS-------------------
+>MGG_08741T0 pep:known chromosome:MG8:6: ;49;116
+LWMGELEPW-MDENF----IK----QIW-ST---VCG----------ETV----NV----KV-I------RD----------RQSGNA-------G------Y------CFVEFPSSEA---AT-KALG------LNGS------PVP-NSQ-----------------------
+>P31943#human ['HNRH1_HUMAN Heterogeneou ;13;84
+VKVRGLPWS-CSADE----VQ----RFF-S------DC----------KI-QNGAQ----GIRF-----IYT----------R-EGRP------SG------E------AFVELESEDE---VK-LAL----K--KDRE------TMG--HR-YVE-------------------
+>ENSMUSP00000096549.4 pep:known chromoso ;108;176
+LYISGLPRT-MTQKD----VE----DMF-SR----FG-----------RI-I--NS----RV-L------VD----------QTTGLS------RG------V------AFIRFDKRSE---AE-EAI----TS-FNGH------KPP--GS-S---------------------
+>B2RXH8#human ['HNRC2_HUMAN Heterogeneou ;18;80
+VFIGNLNTLVVKKSD----VE----AIF-SK----YG-----------KI-A--GC----SV-H------KG------------------------------F------AFVQYDKEKN---AR-AAV----AG-EDGR------MIA--SQ-VA--------------------
+>P23588#human ['IF4B_HUMAN Eukaryotic tr ;98;167
+AFLGNLPYD-VTEES----IK----EFF-RG----L------------NI-S--AV----RL-P------REP---------SNPERL------KG------F------GYAEFEDLDS---LL-SAL----S--LNEE------SLG--NR-RIR-------------------
+>NONE_14074 , MEDTR4G074930.1 ;378;446
+LFVGNLSFS-VQRSD----IE----KFF-QD----CG-----------EV-V--DV----RF-S------SD-----------EEGRF------KG------F------GHVEFASAEA---AQ-SAL----E--MNGQ------ELL--QR-AVR-------------------
+>FBpp0255090 pep:known chromosome:GCA_00 ;52;124
+VRLRGLPWS-ATHKE----IL----DFL-E------NV----------NV-TNGSS----GIHL-----VTS----------RVDGKN------TG------E------AYVEVASQED---VE-EAR----K--LNKA------SMG--HR-YIE-------------------
+>EDO98963 pep:novel supercontig:v3.1:DS4 ;116;186
+LFVSGIDFR-VSERE----LE----RKF-SE----FG-----------RV-K--EA----RV-V------RN----------PFSGQS------RG------F------AFVGMSSTDE---AE-RAA----RD-MHGR------EWS--GR-RLQ-------------------
+>TGGT1_209850 | organism=Toxoplasma_gond ;225;295
+IYVGNLPRD-IRERD----VE----DIL-FK----FG-----------RL-R--DI----DI-K------RA----------RGGMSD------SC------Y------AFVEFETIRA---AE-DAV----AC-RHGY------LYR--GR-SLR-------------------
+>P35637#human ['FUS_HUMAN RNA-binding pr ;287;365
+IFVQGLGEN-VTIES----VA----DYF-KQ----IG-----------IIKT--NK----KTGQPMINLYTD----------RETGKL------KG------E------ATVSFDDPPS---AK-AAI----DW-FDGK------EFS--GN-PIK-------------------
+>FBpp0217320 pep:known chromosome:GCA_00 ;2;48
+-----------------------------RQ----AG-----------EV-T--YA----DA--------------------HKQRRN------EG--------------VVEFASLSD---MK-TAI----EK-LDDT------ELN--GR-RIH-------------------
+>PF3D7_1224300 | organism=Plasmodium_fal ;106;175
+IFVKNLDKS-IDNKA----LF----DTF-SM----FG-----------NI-L--SC----KV-A------TD-----------EFGKS------KS------Y------GFVHYEDEES---AK-EAI----EK-VNGV------QLG--SK-NVY-------------------
+>FBpp0219194 pep:known chromosome:GCA_00 ;236;305
+VFVANLDYK-VDNKK----LK----QVF-KL----AG-----------KV-Q--SV----DL-S------LD-----------KEGNS------RG------F------AVIEYDHPVE---AV-QAI----SM-LDRQ------MLF--DR-RMT-------------------
+>Q6Z1C0_8039 , LOC_Os08g09350.1 ;413;486
+IFVKGFDSS-LEESKIRESLE----GHF-AD----CG-----------EI-T--RV----SV-P------MD----------RETGAS------KG------I------AYIDFKDQAS---FS-KAL-----E-LSGS------DLG--GY-NLY-------------------
+>Q13247#human ['SRSF6_HUMAN Serine/argin ;112;177
+LIVENLSSR-CSWQD----LK----DFM-RQ----AG-----------EV-T--YA----DA--------------------HKERTN------EG--------------VIEFRSYSD---MK-RAL----DK-LDGT------EIN--GR-NIR-------------------
+>FBpp0119250 pep:known supercontig:GCA_0 ;238;307
+VFVANLDYK-VDNKK----LK----QVF-KL----AG-----------KV-Q--SV----DL-S------LD-----------KEGNS------RG------F------AVIEYDHPVE---AV-QAI----SM-LDRQ------MLF--DR-RMT-------------------
+>Q9BRL6#human ['SRSF8_HUMAN Serine/argin ;16;86
+LKVDNLTYR-TSPDS----LR----RVF-EK----YG-----------RV-G--DV----YI-P------RE----------PHTKAP------RG------F------AFVRFHDRRD---AQ-DAE----AA-MDGA------ELD--GR-ELR-------------------
+>NONE_13059 , MEDTR4G083150.1 ;303;371
+IFVANLPMS-ATVEQ----LD----RAF-KK----FG-----------PI-K--RD----GI-------------------QVR-SNK-------GSC----F------GFVEFESAAS---MQ-SAL----EA-SP------PVMLD--NR-RLS-------------------
+>Q86V81#human ['THOC4_HUMAN THO complex  ;108;177
+LLVSNLDFG-VSDAD----IQ----ELF-AE----FG-----------TL-K--KA----AV-H------YD-----------RSGRS------LG------T------ADVHFERKAD---AL-KAM----KQ-YNGV------PLD--GR-PMN-------------------
+>MRD1_CANGA ;327;397
+LFLRNILYS-STEDD----FK----KLF-SP----YG-----------EL-K--EV----HV-A------VD----------TRTGNS------KG------F------AYVLFAKPEE---AV-QAY----IE-LDKQ------IFQ--GR-LLH-------------------
+>FBpp0271293 pep:known chromosome:GCA_00 ;489;563
+LFLGNIPHH-ASEDD----LR----EIF-SR----FG-----------NV-L--EL----RI-------------------LSKAGNKVPPGMRSPLN----Y------GFITYDDPEA---VQ-KCL----AN-C-------PLYFP--EN-SP--------------------
+>ENSMUSP00000087453.7 pep:known chromoso ;102;171
+LFVGGIKED-TEEHH----LR----DYF-EE----YG-----------KI-D--TI----EI-I------TD----------RQSGKK------RG------F------GFVTFDDHDP---VD-KIV-----L-QKYH------TIN--GH-NAE-------------------
+>BRADI5G07090.1 pep:novel chromosome:v1. ;330;399
+VYIKNLPLH-ATPSQ----LE----EEF-KR----FG-----------TI-K--HD----GI-------------------QVR-SHKIQ-----GFC----Y------GFIEFEDASS---VQ-SAL----AA-S-------PVTID--DR-PCH-------------------
+>MGG_01746T0 pep:known chromosome:MG8:2: ;49;118
+LYIGNLAYA-TSEGK----LT----EFF-KG----Y------------LV-E--RI----SI-P------KN----------PRTDRP------VG------Y------AFVDLSTPNE---AE-RAI----AE-LSGQ------EVL--ER-KVS-------------------
+>Q01085#human ['TIAR_HUMAN Nucleolysin T ;99;169
+VFVGDLSPE-ITTED----IK----SAF-AP----FG-----------KI-S--DA----RV-V------KD----------MATGKS------KG------Y------GFVSFYNKLD---AE-NAI----VH-MGGQ------WLG--GR-QIR-------------------
+>Q13242#human ['SRSF9_HUMAN Serine/argin ;113;176
+VLVSGLPPS-GSWQD----LK----DHM-RE----AG-----------DV-C--YA----DV--------------------QKDG--------VG--------------MVEYLRKED---ME-YAL----RK-LDDT------KFR--SH-EGE-------------------
+>Q15233#human ['NONO_HUMAN Non-POU domai ;150;217
+LTVRNLPQY-VSNEL----LE----EAF-SV----FG-----------QV-E--RA----VV-I-----VDDR------------GRP------SG------K------GIVEFSGKPA---AR-KAL----DR-C--------------SE-GSFLLTT---------------
+>PF3D7_1004400 | organism=Plasmodium_fal ;333;395
+IFVGNISSS-AREED----VR----RRF-EQ----Y-------------------G----DI-MHM---QWK----------------------KR------F------AFIEYYKASH---AL-NAL----EK-ENGKM------FF--GE-ELS-------------------
+>FBpp0238263 pep:known supercontig:GCA_0 ;227;296
+VFVANLDYK-VDSKK----LK----QVF-KL----AG-----------KV-Q--SV----DL-S------LD-----------KEGHS------RG------F------AVVEYDHPVE---AV-QAI----SM-LDRQ------MLY--DR-RMT-------------------
+>Q92879#human ['CELF1_HUMAN CUGBP Elav-l ;110;178
+LFIGMISKK-CTEND----IR----VMF-SS----FG-----------QI-E--EC----RI-L------RG-----------PDGLS------RG------C------AFVTFTTRAM---AQ-TAI----KA-MHQAQ-----TME--GC-S---------------------
+>EDP09804 pep:known supercontig:v3.1:DS4 ;13;82
+CFVGNLAWK-TSWQD----LK----DKF-RE----CG-----------NV-V--YT----NV-M------RD-----------DDGRS------KG------W------GIVEFESPEE---AL-HAI----QT-LNGA------ELG--GR-RIL-------------------
+>Q9UKM9#human ['RALY_HUMAN RNA-binding p ;23;86
+VFIGNLNTALVKKSD----VE----TIF-SK----YG-----------RV-A--GC----SV-H------KG------------------------------Y------AFVQYSNERH---AR-AAV----LG-ENGR------VLA--GQ-TLD-------------------
+>Q08170#human ['SRSF4_HUMAN Serine/argin ;106;171
+LIVENLSSR-CSWQD----LK----DYM-RQ----AG-----------EV-T--YA----DA--------------------HKGRKN------EG--------------VIEFVSYSD---MK-RAL----EK-LDGT------EVN--GR-KIR-------------------
+>EDO98390 pep:novel supercontig:v3.1:DS4 ;19;85
+LYIKNLPPN-MNQTD----VE----VLF-RP----FG-----------PV-T--GC----KF-------FRT---------------------A-----SVPY------AFLRLSTPEQ---AQ-DAI----SK-MNNY------TVA--GK-VLL-------------------
+>Q15287#human ['RNPS1_HUMAN RNA-binding  ;163;234
+VHIGRLTRN-VTKDH----IM----EIF-ST----YG-----------KI-K--MI----DM-P------VER---------MHPHLS------KG------Y------AYVEFENPDE---AE-KAL----KH-MDGG------QID--GQ-EIT-------------------
+>C4YEJ8_CANAW ;311;374
+IFVRNIPYD-ADAES----LK----EHF-ST----FG-----------TV-K--YA----LP-V------VD----------KETGLA------KG------S------AFVAFAKEDA---YL-DCL----DN-APTVA-----------------------------------
+>Q15434#human ['RBMS2_HUMAN RNA-binding  ;137;203
+LYISNLPLS-MDEQE----LE----GML-KP----FG-----------QV-I--ST----R--I------LR----------DTSGTS------RG------V------GFARMESTEK---CE-AII----TH-FNGKY----IKTP---------------------------
+>BRADI3G28430.1 pep:novel chromosome:v1. ;117;185
+IFVGGLPSS-LTDDE----FR----QYF-QT----FG-----------AV-T--DV----VV-M------YD----------QTTQRP------RG------F------GFITFDSEDA---VD-RVL----HK--TFH------DLG--GK-MV--------------------
+>ENSMUSP00000126192.1 pep:known chromoso ;480;545
+LHLSNIPPS-VSEDD----LK----SLF-SS----NGGVVKGFKF----------------F-------QKD---------------------RK-------M------ALIQMGSVEE---AV-QAL----IE-L-----------H--NH-DLGENHH---------------
+>P31943#human ['HNRH1_HUMAN Heterogeneou ;113;182
+VRLRGLPFG-CSKEE----IV----QFF-S------GL----------EI-V--PN----GITL-----PVD----------F-QGRS------TG------E------AFVQFASQEI---AE-KAL----K--KHKE------RIG--HR-YIE-------------------
+>P52597#human ['HNRPF_HUMAN Heterogeneou ;291;358
+VHMRGLPYK-ATEND----IY----NFF-S------PL----------N-----PV----RVHI-----EIG----------P-DGRV------TG------E------ADVEFATHEE---AV-AAM----S--KDRA------NMQ--HR-YIE-------------------
+>TGGT1_270640 | organism=Toxoplasma_gond ;7;77
+LLIRNLCFE-TSPDR----VR----QIF-EK----FG-----------RV-R--DV----YL-P------LD----------HFTKRP------RG------F------GFVEFYEEST---AQ-EAM----RE-MDRT------MID--GN-EVH-------------------
+>ENSMUSP00000120595.2 pep:known chromoso ;123;186
+VVVSGLPPS-GSWQD----LK----DHM-RE----AG-----------DV-C--YA----DV--------------------YRDG--------TG--------------VVEFVRKED---MT-YAV----RK-LDNT------KFR--SH-EGE-------------------
+>EDP09409 pep:known supercontig:v3.1:DS4 ;306;375
+LYVKNLSDE-VDDDA----LR----ELF-AN----SG-----------TI-T--SC----KV-M------KD-----------GSGKS------KG------F------GFVCFTSHDE---AT-RAV----TE-MNGK------MVK--GK-PLY-------------------
+>ENSMUSP00000007993.9 pep:known chromoso ;327;394
+VFIRNLSFD-SEEEA----LG----EVL-QQ----FG-----------DL-K--YV----RV-V------LH----------PDTEHS------KG------C------AFAQFMTQEA---AQ-KCL----AA-ASLEAEGGG-------------------------------
+>Q8N7X1#human ['RMXL3_HUMAN RNA-binding  ;10;80
+LFIGGLNLK-TDEKA----LK----AEF-GK----YG-----------HI-I--KV----FL-M------KD----------RKTNKS------RG------F------AFVTFESPAD---AK-AAA----RD-MNGK------YLD--GK-AIM-------------------
+>Q96DH6#human ['MSI2H_HUMAN RNA-binding  ;23;92
+MFIGGLSWQ-TSPDS----LR----DYF-SK----FG-----------EI-R--EC----MV-M------RD----------PTTKRS------RG------F------GFVTFADPAS---VD-KVL-----G-QPHH------ELD--SK-TID-------------------
+>TGGT1_268200 | organism=Toxoplasma_gond ;104;173
+LFVGRVPHT-VDEEA----LR----PIF-ES----FG-----------EV-R--EV----FV-I------RD----------KSTLKH------RN------S------AFVKMASLAA---AD-ACI----RA-LHSN------RVL--DA-AL--------------------
+>BRADI3G08380.1 pep:novel chromosome:v1. ;156;226
+IFVGGLPAS-LSEDD----LR----DHF-SS----YG-----------KV-V--EH----QI-M------VD----------HSTGRS------RG------F------GFVTFESEDS---VE-RVI----SE-GRMR------DLG--GK-QVE-------------------
+>ENSMUSP00000027438.6 pep:known chromoso ;397;462
+LLAKNLSFN-ITEDE----LK----EVF-ED----AM-----------EI-R--LV--------------------------SQDGKS------KG------I------AYIEFKSEAD---AE-KNL----EE-KQGA------EID--GR-SVS-------------------
+>ENSMUSP00000119065.1 pep:known chromoso ;112;177
+LIVENLSSR-CSWQD----LK----DFM-RQ----AG-----------EV-T--YA----DA--------------------HKERTN------EG--------------VIEFRSYSD---MK-RAL----DK-LDGT------EIN--GR-NIR-------------------
+>P98179#human ['RBM3_HUMAN RNA-binding p ;8;78
+LFVGGLNFN-TDEQA----LE----DHF-SS----FG-----------PI-S--EV----VV-V------KD----------RETQRS------RG------F------GFITFTNPEH---AS-VAM----RA-MNGE------SLD--GR-QIR-------------------
+>PABP_PICST ;235;304
+IYVKNIDLE-YSEED----LK----KLF-TP----YG-----------AI-T--SI----YL-E------KD-----------AEGKS------KG------F------GFVNYEGHEA---AV-KAV----EE-LNDK------EIN--GQ-KIY-------------------
+>NONE_14899 , MEDTR3G082650.1 ;108;178
+IFVGGIPAT-VSEDE----LK----IFF-SK----HG-----------NV-V--EH----EI-I------RD----------HTTKRS------RG------F------GFVVFDSDKA---VD-NLL----AD-GNMI------DMD--DT-QVS-------------------
+>FBpp0216730 pep:known chromosome:GCA_00 ;97;167
+IFVGDLSPE-IETET----LR----EAF-AP----FG-----------EI-S--NC----RI-V------RD----------PHTMKS------KG------Y------AFVSFVKKAE---AE-NAI----QA-MNGQ------WIG--SR-SIR-------------------
+>Q13310#human ['PABP4_HUMAN Polyadenylat ;193;261
+VYIKNFGEE-VDDES----LK----ELF-SQ----FG-----------KT-L--SV----KV-M------RD-----------PNGKS------KG------F------GFVSYEKHED---AN-KAV----EE-MNGK------EIS--GK-II--------------------
+>PF3D7_0517300 | organism=Plasmodium_fal ;10;77
+IYVGNLPSH-VSSRD----VE----NEF-RK----YG-----------NI-L--KC----DV-K------KT----------VSGAA---------------F------AFIEFEDARD---AA-DAI----KE-KDGC------DFE--GN-KLR-------------------
+>FBpp0284059 pep:known chromosome:GCA_00 ;304;369
+VAVGLVGRD-TTKEQ----LS----TFF-SK----VG-----------EV-E--AV----NL--------------------SNNRSN-----PTA--------------FVRFKSVDS---LP-KAL-----K-LHGT------ELN--SR-FIT-------------------
+>PF3D7_1022400 | organism=Plasmodium_fal ;14;82
+IYVGNLPGN-VIEEE----VY----DLF-GK----YG-----------RI-K--YI----DI-K------PS----------RSSSSS--------------Y------AFVHYYDLKD---AD-YAI----ER-RDGY------KFD--GF-RLR-------------------
+>FBpp0284145 pep:known chromosome:GCA_00 ;116;181
+LIVENLSSR-VSWQD----LK----DYM-RQ----AG-----------EV-T--YA----DA--------------------HKQRRN------EG--------------VVEFASLSD---MK-TAI----EK-LDDT------ELN--GR-RVH-------------------
+>FBpp0217318 pep:known chromosome:GCA_00 ;495;569
+LFLGNIPHH-ASEDD----LR----EIF-SR----FG-----------NV-L--EL----RI-------------------LSKAGNKVPPGMRSPLN----Y------GFITYDDPEA---VQ-KCL----AN-C-------PLYFP--EN-SP--------------------
+>P09651#human ['ROA1_HUMAN Heterogeneous ;16;85
+LFIGGLSFE-TTDES----LR----SHF-EQ----WG-----------TL-T--DC----VV-M------RD----------PNTKRS------RG------F------GFVTYATVEE---VD-AAM-----N-ARPH------KVD--GR-VVE-------------------
+>PF3D7_1248200 | organism=Plasmodium_fal ;224;289
+ICIQGISES-VSQAN----IK----ECF-KK----FG-----------DI-K--SI----KV-I-----------------------------PKDS-----K------MFISYSNSQA---AK-KAS----DK------------YK-DGL-LLN--------------GCNLT
+>FBpp0082269 pep:known chromosome:BDGP6: ;6;68
+VYVGGLPYG-VRERD----LE----RFF-KG----YG-----------RT-R--DI----LI-K------NG------------------------------Y------GFVEFEDYRD---AD-DAV----YE-LNGK------ELL--GE-RVV-------------------
+>PBANKA_123210 | organism=Plasmodium_ber ;10;77
+IYVGNLPSH-VTSRD----VE----NEF-RK----FG-----------TI-L--KC----DV-K------KT----------VSGAA---------------F------AFIEFEDARD---AA-DAI----KE-KDGC------DFG--GN-KLR-------------------
+>P29558#human ['RBMS1_HUMAN RNA-binding  ;64;130
+LYIRGLPPH-TTDQD----LV----KLC-QP----YG-----------KI-V--ST----KA-I------LD----------KTTNKC------KG------Y------GFVDFDSPAA---AQ-KAV----SA-L---------KAS--GV-QA--------------------
+>P05455#human ['LA_HUMAN Lupus La protei ;113;181
+VYIKGFPTD-ATLDD----IK----EWL-ED----KG-----------QV-L--NI----QM-------RRT-----------LHKAF------KGS------------IFVVFDSIES---AK-KFV----ET-PGQKY---------KET-DLL-------------------
+>ENSMUSP00000126192.1 pep:known chromoso ;185;251
+IIVENLFYP-VTLDV----LH----QIF-SK----FG-----------TVLK--II----TF-------------------------------TKN---NQFQ------ALLQYADPVS---AQ-HAKL----------------SLD--GQ-NIY-------------NACCT-
+>Q32P51#human ['RA1L2_HUMAN Heterogeneou ;16;85
+LFIGGLSFE-TTDES----LR----SHF-EQ----WG-----------TL-T--DC----VV-M------RD----------PNTKRS------RG------F------GFVTYATVEE---VD-AAM-----N-TTPH------KVD--GR-VVE-------------------
+>FBpp0085915 pep:known chromosome:BDGP6: ;4;74
+LYVGDLPQD-VNESG----LF----DKF-SS----AG-----------PV-L--SI----RV-C------RD----------VITRRS------LG------Y------AYVNFQQPAD---AE-RAL----DT-MNFD------LVR--NK-PIR-------------------
+>ENSMUSP00000054424.9 pep:known chromoso ;178;245
+-------SQ-LSDEAVEDGLF----HEF-KR----FG-----------DV----SV----KI-S------------------HLSGSG------SG---DERV------AFVNFRRPED----A-RAA----KH-ARGRL-----VLY--DR-PLK-------------------
+>ENSMUSP00000132735.1 pep:known chromoso ;184;255
+IFVGGLSPD-TPEEK----IR----EYF-GG----FG-----------EV-E--SI----EL-P------MD----------NKTNKR------RG------F------CFITFKEEEP---VK-KIM-----E-KKYH------NVG--LS-KCEIK-----------------
+>Q9UNP9#human ['PPIE_HUMAN Peptidyl-prol ;8;78
+LYVGGLAEE-VDDKV----LH----AAF-IP----FG-----------DI-T--DI----QI-P------LD----------YETEKH------RG------F------AFVEFELAED---AA-AAI----DN-MNES------ELF--GR-TIR-------------------
+>FBpp0070430 pep:known chromosome:BDGP6: ;190;259
+IRISNLSES-MTEAD----LE----ELV-KK----IG-----------PQ-S--KM----YL-A------RD----------KNTGLC------KG------F------AYVHFKQRKD---AA-AAI----EI-LNGH------GYD--HL-IL--------------------
+>FBpp0277751 pep:known chromosome:GCA_00 ;289;358
+LYVKNLDDT-IDDER----LR----KDF-SM----YG-----------TI-T--SA----KV-M------TD-----------EEGRS------KG------F------GFVCFISPNE---AT-CAV----TE-LNGR------VIG--SK-PLY-------------------
+>Q07955#human ['SRSF1_HUMAN Serine/argin ;18;85
+IYVGNLPPD-IRTKD----IE----DVF-YK----YG-----------AI-R--DI----DL-K------NR----------RGGPP---------------F------AFVEFEDPRD---AE-DAV----YG-RDGY------DYD--GY-RLR-------------------
+>ENSMUSP00000104770.1 pep:known chromoso ;291;358
+VHMRGLPYR-ATEND----IY----NFF-S------PL----------N-----PV----RVHI-----EIG----------P-DGRV------TG------E------ADVEFATHED---AV-AAM----S--KDKA------NMQ--HR-YVE-------------------
+>Q86U42#human ['PABP2_HUMAN Polyadenylat ;174;243
+IYVGNVDYG-ATAEE----LE----AHF-HG----CG-----------SV-N--RV----TI-L------CD----------KFSGHP------KG------F------AYIEFSDKES---VR-TSL-----A-LDES------LFR--GR-QIK-------------------
+>FBpp0270831 pep:known chromosome:GCA_00 ;111;180
+LIVGNLDYG-VSNTD----IK----ELF-ND----FG-----------PM-K--KA----AV-H------YD-----------RSGRS------LG------T------ADVIFERRAD---AL-KAI----KQ-YHGV------PLD--GR-PMT-------------------
+>ENSMUSP00000042658.9 pep:known chromoso ;16;85
+LFIGGLSFE-TTDES----LR----SHF-EQ----WG-----------TL-T--DC----VV-M------RD----------PNTKRS------RG------F------GFVTYATVEE---VD-AAM-----N-ARPH------KVD--GR-VVE-------------------
+>FBpp0082724 pep:known chromosome:BDGP6: ;117;194
+VMVTGLPAS-GSWQD----LK----DHM-RE----AG-----------DV-C--FA----DT--------------------YKDG--------SG--------------VVEFLRHED---MK-YAI----KK-LDDS------RFR--SH-EGEVAYIRVREDSGDND-----
+>P31942#human ['HNRH3_HUMAN Heterogeneou ;197;264
+VHMRGLPFR-ATEND----IA----NFF-S------PL----------N-----PI----RVHI-----DIG----------A-DGRA------TG------E------ADVEFVTHED---AV-AAM----S--KDKN------NMQ--HR-YIE-------------------
+>PBANKA_110300 | organism=Plasmodium_ber ;14;84
+LLIRKLKFN-TSPSM----VR----DKF-KK----FG-----------AI-K--DV----YL-P------ID----------YYTKEP------RG------F------GFVEFYDPKD---AE-QAL----KE-MNGS------ELD--GN-RIE-------------------
+>P19338#human ['NUCL_HUMAN Nucleolin OS= ;574;641
+LFVKGLSED-TTEET----LK----ESF-D------G-----------SV----RA----RI-V------TD----------RETGSS------KG------F------GFVDFNSEED---AK-AAK----EA-MEDG------EID--GN-KVT-------------------
+>ENSMUSP00000133649.1 pep:known chromoso ;340;402
+LFVRNLANT-VTEEI----LE----KSF-SQ----FG-----------KL-E--RV----KK-L------KD------------------------------Y------AFIHFDERDG---AV-KAM----EE-MNGK------DLE--GE-NIE-------------------
+>AT4G24770.1_2492 , AT4G24770.1 ;152;222
+LFVGNLAYD-VNSQA----LA----MLF-EQ----AG-----------TV-E--IA----EV-I------YN----------RETDQS------RG------F------GFVTMSSVDE---AE-TAV----EK-FNRY------DLN--GR-LLT-------------------
+>Q05519#human ['SRS11_HUMAN Serine/argin ;35;106
+IQVTNVSPS-ASSEQ----MR----TLF-----GFLG-----------KI---DEL----RLFP-----PDDS-----------------PLPVSSR-----V------CFVKFHDPDS------AVV----AQHLTNT------VFV--DR-ALI-------------------
+>O14979#human ['HNRDL_HUMAN Heterogeneou ;150;219
+MFIGGLSWD-TSKKD----LT----EYL-SR----FG-----------EV-V--DC----TI-K------TD----------PVTGRS------RG------F------GFVLFKDAAS---VD-KVL-----E-LKEH------KLD--GK-LID-------------------
+>FBpp0222896 pep:known supercontig:GCA_0 ;95;169
+LYVGNIPFG-VTEEE----MM----EFF-NQ----QMHLVGLAQAAGSPV-L--AC----QI-------NLD---------------------KN-------F------AFLEFRSIDE---TT-QAMAFDGIN-L-----------K--GQ-SLK-------------------
+>Skud_7.483 ;244;314
+LFLGNLSFN-ADRDT----IF----ELF-AK----HG-----------EV-V--SV----RI-P------TH----------PETEQP------KG------F------GYVQFSSLED---SK-KAL----ES-LQGE------YID--NR-PVR-------------------
+>Q5JQF8#human ['PAP1M_HUMAN Polyadenylat ;4;74
+LYVGDLHPE-VTEAM----LY----EKF-SP----AG-----------PI-L--SI----RI-C------RD----------KITRRS------LG------Y------AYVNYQQPVD---AK-RAL----ET-LNFD------VIK--GR-PVR-------------------
+>FBpp0212234 pep:known chromosome:GCA_00 ;388;447
+-LSANLPHS---------ILK----NIF-SC----WS-----------GL-I--DV----YL-L------PN----------------------KN------C------GYVKYAEVES---AQ-LAI----RT-LNGA------EIC--GT-KIK-------------------
+>ENSMUSP00000121005.1 pep:known chromoso ;235;304
+VFVGGLSPD-TSEEQ----IK----EYF-GA----FG-----------EI-E--NI----EL-P------MD----------TKTNER------RG------F------CFITYTDEEP---VK-KLL-----E-SRYH------QIG--SG-KCE-------------------
+>ENSMUSP00000027438.6 pep:known chromoso ;311;379
+LFIGNLNPN-KSVNE----LKFAISELFAKN----DL-----------AV-V--DV----RT-------GTN----------------------RK------F------GYVDFESAED---LE-KA-----LE-LTGL------KVF--GN-EIK-------------------
+>TGGT1_254210 | organism=Toxoplasma_gond ;27;100
+VFIGNLPVD-VTDAD----LR----PVL-EK----AG-----------PV-R--SL----QI-R------SS----------RATGGGR----PRSL-----F------AHVEFESEQA---CE-ALF----SV-LDYR------VFK--GR-TLR-------------------
+>P08579#human ["RU2B_HUMAN U2 small nucl ;153;219
+LFLNNLPEE-TNEMM----LS----MLF-NQF---PGF-------------K--EV----RL-V---PGRHD------------------------------I------AFVEFENDGQ---AG-AAR----DA-LQGFK-----ITP--SH-AMK-------------------
+>BRADI1G18070.7 pep:novel chromosome:v1. ;115;181
+VLVTGLPSS-ASWQD----LK----DHM-RK----AG-----------DV-C--FS----EV--------------------YREGDG-----TTG--------------IVDYTNYDD---MK-YAI----RK-LDDS------EFR--NA-FSR-------------------
+>FBpp0085233 pep:known chromosome:BDGP6: ;260;325
+VVVGLIGPN-ITKDD----LK----TFF-EK----VA-----------PV-E--AV----TI--------------------SSNRLM-----PRA--------------FVRLASVDD---IP-KAL-----K-LHST------ELF--SR-FIT-------------------
+>Q4VXU2#human ['PAP1L_HUMAN Polyadenylat ;296;364
+LYVKNLDDS-IDDDK----LR----KEF-SP----YG-----------VI-T--SA----KV-M------T------------EGGHS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGR------IVG--TK-PLY-------------------
+>FBpp0271294 pep:known chromosome:GCA_00 ;6;68
+VYVGGLPYG-VRERD----LE----RFF-KG----YG-----------RT-R--DI----LI-K------NG------------------------------Y------GFVEFEDYRD---AD-DAV----YE-LNGK------ELL--GE-RVV-------------------
+>FBpp0083976 pep:known chromosome:BDGP6: ;97;167
+IFVGDLSPE-IETET----LR----EAF-AP----FG-----------EI-S--NC----RI-V------RD----------PHTMKS------KG------Y------AFVSFVKKAE---AE-NAI----QA-MNGQ------WIG--SR-SIR-------------------
+>EDP00540 pep:known supercontig:v3.1:DS4 ;12;81
+VFVGGISYR-MDEAG----LR----DLF-DK----YN-----------P--D--NV----VI-Q------LD----------KITQKP------RG------F------GFVTFKDRES---ML-DAV----RD-LHNK------DVD--GR-PIS-------------------
+>O43390#human ['HNRPR_HUMAN Heterogeneou ;343;405
+LFVRNLATT-VTEEI----LE----KSF-SE----FG-----------KL-E--RV----KK-L------KD------------------------------Y------AFVHFEDRGA---AV-KAM----DE-MNGK------EIE--GE-EIE-------------------
+>P11940#human ['PABP1_HUMAN Polyadenylat ;101;168
+IFIKNLDKS-IDNKA----LY----DTF-SA----FG-----------NI-L--SC----KV-V------CD-----------ENG-S------KG------Y------GFVHFETQEA---AE-RAI----EK-MNGM------LLN--DR-KV--------------------
+>FBpp0115844 pep:known supercontig:GCA_0 ;4;74
+LYVGDLHQD-INESN----LF----DKF-SS----AG-----------PV-L--SI----RV-C------RD----------VMSRRS------LG------Y------AYVNFQQPAD---AE-RAL----DT-MNFD------LLR--NK-PIR-------------------
+>Q6CQ18_KLULA ;19;87
+IFVGNLSPE-TSPED----LQ----KVF-GES--VKV-----------EI-P--TL----QS-D------RT---------------------YPRI-----F------AFVTFDDKVD---VE-DLR----SK-FDKT------VIK--DK-SIY-------------------
+>FBpp0082269 pep:known chromosome:BDGP6: ;117;182
+LIVENLSSR-VSWQD----LK----DYM-RQ----AG-----------EV-T--YA----DA--------------------HKQRRN------EG--------------VVEFASLSD---MK-TAI----EK-LDDT------ELN--GR-RIH-------------------
+>TGGT1_265530 | organism=Toxoplasma_gond ;195;262
+IFVGGVNPS-LSESD----VE----KCF-SK----FG-----------TV-D--KV----SI-I------RD----------AATGKS------RG------F------GFVVFASEES---AK-EVL-----K-SKRH------NLN--EK-D---------------------
+>P55795#human ['HNRH2_HUMAN Heterogeneou ;113;182
+VRLRGLPFG-CSKEE----IV----QFF-S------GL----------EI-V--PN----GMTL-----PVD----------F-QGRS------TG------E------AFVQFASQEI---AE-KAL----K--KHKE------RIG--HR-YIE-------------------
+>AT2G24590.1_1982 , AT2G24590.1 ;4;63
+VYVGNLDPR-VTERE----LE----DEF-RS----FG-----------VI-R--SV----WV-A------RR----------PPG-----------------Y------AFLDFEDSRD---AR-DAI----RE-VDGK------NG----------------------------
+>FBpp0217912 pep:known chromosome:GCA_00 ;111;180
+LIVGNLDYG-VSNTD----IK----ELF-ND----FG-----------PI-K--KA----AV-H------YD-----------RSGRS------LG------T------ADVIFERRAD---AL-KAI----KQ-YHGV------PLD--GR-PMT-------------------
+>P51991#human ['ROA3_HUMAN Heterogeneous ;128;199
+IFVGGIKED-TEEYN----LR----DYF-EK----YG-----------KI-E--TI----EV-M------ED----------RQSGKK------RG------F------AFVTFDDHDT---VD-KIV-----V-QKYH------TIN--GH-NCEVK-----------------
+>AT1G49760.2_503 , AT1G49760.2 ;226;294
+VYVKNLSES-LSDEE----LN----KVF-GE----FG-----------VT-T--SC----VI-M------RD-----------GEGKS------KG------F------GFVNFENSDD---AA-RAV----DA-LNGK------TFD--DK-EW--------------------
+>TGGT1_321500 | organism=Toxoplasma_gond ;139;209
+LFIGSIPRT-MTEEE----VR----QFF-ST----YG-----------TV-E--EV----FV-M------KDN---------VQN--TG-----KG------C------CFVKFAFKEE---AL-HAV----RT-LSGKH-----TFE--GC-TR--------------------
+>ENSMUSP00000133933.1 pep:known chromoso ;107;174
+----------AKLND---NVR----ENFLRDMCKKYG-----------EV-E--EV----EI-L------YN---------PK-TKKH------LG------I------AKVVFATVRG---AK-EAV----QH-LHST------SVM--GN-IIH-------------------
+>ENSMUSP00000066639.2 pep:known chromoso ;296;364
+LYVKNLDDG-IDDER----LQ----KEF-SP----FG-----------TI-T--ST----KV-M------T------------EGGRS------KG------F------GFVCFSSPEE---AT-KAV----SE-MNGR------IVA--TK-PLY-------------------
+>P11940#human ['PABP1_HUMAN Polyadenylat ;296;364
+LYVKNLDDG-IDDER----LR----KEF-SP----FG-----------TI-T--SA----KV-M------M------------EGGRS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGR------IVA--TK-PLY-------------------
+>FBpp0236088 pep:known supercontig:GCA_0 ;289;358
+LYVKNLDDS-IDDER----LR----KEF-SL----YG-----------TI-T--SA----KV-M------TD-----------DEGRS------KG------F------GFVCFISPNE---AT-CAV----TE-LNGR------VVG--SK-PLY-------------------
+>ENSMUSP00000098096.4 pep:known chromoso ;233;303
+IYVASVHQD-LSDDD----IK----SVF-EA----FG-----------KI-K--SC----TL-A------RD----------PTTGKH------KG------Y------GFIEYEKAQS---SQ-DAV----SS-MNLF------DLG--GQ-YLR-------------------
+>Q9BQ04#human ['RBM4B_HUMAN RNA-binding  ;80;142
+LHVGNISPT-CTNQE----LR----AKF-EE----YG-----------PV-I--EC----DI-V------KD------------------------------Y------AFVHMERAED---AV-EAI----RG-LDNT------EFQ--GK-RMH-------------------
+>YPR112C pep:known chromosome:R64-1-1:XV ;534;598
+ILVKNFPFG-TTREE----LG----EMF-LP----YG-----------KL-E--RL----LM-P-----------------------------PAGT-----I------AIVQFRDTTS---AR-AAF----TK-LSYK------RFK-DGI-IY--------------------
+>EDP09409 pep:known supercontig:v3.1:DS4 ;25;98
+LYVGDLEKD-VTEAQ----LF----ELF-SS----VG-----------PV-A--SI----RV-C------RD----------AVTRRS------LG------Y------AYVNYNSALDPQAAD-RAM----ET-LNYH------VVN--GK-PMR-------------------
+>P11940#human ['PABP1_HUMAN Polyadenylat ;193;262
+VYIKNFGED-MDDER----LK----DLF-GK----FG-----------PA-L--SV----KV-M------TD-----------ESGKS------KG------F------GFVSFERHED---AQ-KAV----DE-MNGK------ELN--GK-QIY-------------------
+>PBANKA_091720 | organism=Plasmodium_ber ;6;81
+LYVYNLTKN-TSVEH----LK----EIF-MN----FG-----------KL-I--DI----NY-V------LN-----------DDNLS------KEENDNLVY------AKIEFENPND---AK-TAI----EY-MDGG------QID--GK-TIS-------------------
+>ENSMUSP00000074953.5 pep:known chromoso ;453;523
+LWVSGLSSS-TRAAD----LK----SLF-SK----HG-----------KV-I--GA----KV-V------TN-------------ARS------PG---ARCY------GFVTMSTSDE---AT-KCI----SH-LHRT------ELH--GR-MIS-------------------
+>ENSMUSP00000137345.1 pep:known chromoso ;80;142
+LHVGNISPT-CTNQE----LR----AKF-EE----YG-----------PV-I--EC----DI-V------KD------------------------------Y------AFVHMERAED---AV-EAI----RG-LDNT------EFQ--GK-RMH-------------------
+>FBpp0269438 pep:known chromosome:GCA_00 ;138;207
+IFVGGLTTE-ITDEE----IK----TYF-GQ----FG-----------NI-V--EV----EM-P------FD----------KQKSQR------KG------F------CFITFDSEQV---VT-DLL-----K-TPKQ------KIA--GK-EVD-------------------
+>ENSMUSP00000105985.2 pep:known chromoso ;110;175
+LIVENLSSR-VSWQD----LK----DFM-RQ----AG-----------EV-T--FA----DA--------------------HRPKLN------EG--------------VVEFASYGD---LK-NAI----EK-LSGK------EIN--GR-KIK-------------------
+>Q8IY67#human ['RAVR1_HUMAN Ribonucleopr ;224;293
+-CVDRLPPG-FNDVD---ALC----RAL-SA---VHS---------P----T--FC----QL-AC-----------------GQDGQL------KG------F------AVLEYETAEM---AE-EAQ----QQ-ADGL------SLG--GS-HLR-------------------
+>ENSMUSP00000104770.1 pep:known chromoso ;13;84
+VKVRGLPWS-CSADE----VQ----RFF-S------DC----------KI-QNGAQ----GIRF-----IYT----------R-EGRP------SG------E------AFVELESEDE---VK-LAL----K--KDRE------TMG--HR-YVE-------------------
+>FBpp0085233 pep:known chromosome:BDGP6: ;422;482
+ILVTNLTSD-ATEAD----LR----KVF-ND----SG-----------EI-E--SI----IM-L-----GQKA-------------------------------------VVKFKDDEG-FCKSFLAN----ESIVNNA------PI----------------------------
+>P26599#human ['PTBP1_HUMAN Polypyrimidi ;456;521
+LHLSNIPPS-VSEED----LK----VLF-SS----NGGVVKGFKF----------------F-------QKD---------------------RK-------M------ALIQMGSVEE---AV-QAL----ID-L-----------H--NH-DLGENHH---------------
+>FBpp0120562 pep:known supercontig:GCA_0 ;59;128
+LFVGGLSWE-TTEKE----LR----DHF-GK----FG-----------EI-E--SI----NV-K------TD----------PQTGRS------RG------F------AFIVFTTTEA---ID-KVS-----A-AEEH------IIN--SK-KVD-------------------
+>Q01130#human ['SRSF2_HUMAN Serine/argin ;16;86
+LKVDNLTYR-TSPDT----LR----RVF-EK----YG-----------RV-G--DV----YI-P------RD----------RYTKES------RG------F------AFVRFHDKRD---AE-DAM----DA-MDGA------VLD--GR-ELR-------------------
+>PF3D7_0916700 | organism=Plasmodium_fal ;226;293
+LFVRNLSQK-TNVST----LR----SIF-EK----YG-----------KL-E--EC----VI-I------HD-----------NEGKS------KG------Y------GFLTFSSPRE---AF-KVM----QQ-PE-R------IID--NR-VV--------------------
+>YHL034C pep:known chromosome:R64-1-1:VI ;39;113
+IFIGNVAHE-CTEDD----LK----QLFVEE----FG-----------DE-V--SV----EIPI------KE----------HTDGHI-----PASK-----H------ALVKFPTKID---FD-NIK----EN-YDTK------VVK--DR-EIH-------------------
+>PF3D7_1006800 | organism=Plasmodium_fal ;14;82
+VYVGNLPWK-VTWPI----LK----NHM-KK----AG-----------DV-V--RV----DI-F------ED-----------TQGRS------KG------C------GIVEYATYEE---AQ-EAI----SS-LNDS------KLE--DR-LI--------------------
+>P31942#human ['HNRH3_HUMAN Heterogeneou ;18;87
+VRLRGLPFG-CSKEE----IV----QFF-Q------GL----------EI-V--PN----GITL-----TMD----------Y-QGRS------TG------E------AFVQFASKEI---AE-NAL----G--KHKE------RIG--HR-YIE-------------------
+>ENSMUSP00000111150.1 pep:known chromoso ;134;204
+LCVANLPPS-LTQAQ----FE----ELV-RP----FG-----------SL-E--RC----FL-V------YS----------ERTGHS------KG------Y------GFAEYMKKDS---AA-RAK----SD-LLGK------PLG--PR-TLY-------------------
+>Q9H361#human ['PABP3_HUMAN Polyadenylat ;193;262
+VYIKNFGED-MDDER----LK----DLF-GK----FG-----------PA-L--SV----KV-M------TD-----------ESGKS------KG------F------GFVSFERHED---AQ-KAV----DE-MNGK------ELN--GK-QIY-------------------
+>P51991#human ['ROA3_HUMAN Heterogeneous ;37;106
+LFIGGLSFE-TTDDS----LR----EHF-EK----WG-----------TL-T--DC----VV-M------RD----------PQTKRS------RG------F------GFVTYSCVEE---VD-AAM-----C-ARPH------KVD--GR-VVE-------------------
+>Glyma03g33260.1_10811 , NONE ;13;75
+LYVGHLSSR-TRSRD----LE----RAF-SR----YG-----------RV-R--GV----DM-K------ND------------------------------F------AFVDFSDPRD---AD-DAR----YN-LDGR------DVD--GS-RII-------------------
+>B7ZW38#human ['HNRC3_HUMAN Heterogeneou ;18;81
+VFIGNLNTLVVKKSD----VE----AIF-SK----YG-----------KI-A--GC----SV-H------KG------------------------------F------AFVQYDKEKN---AR-AAV----AG-EDGR------MIA--SQ-VVD-------------------
+>P55795#human ['HNRH2_HUMAN Heterogeneou ;13;84
+VKVRGLPWS-CSADE----VM----RFF-S------DC----------KI-QNGTS----GIRF-----IYT----------R-EGRP------SG------E------AFVELESEEE---VK-LAL----K--KDRE------TMG--HR-YVE-------------------
+>Q9GZT3#human ['SLIRP_HUMAN SRA stem-loo ;21;89
+AFVRRIPWT-AASSQ----LK----EHF-AQ----FG-----------HV-R--RC----IL-P------FD----------KETGFH------RG------L------GWVQFSSEEG---LR-NAL----QQ-ENHIIDGVKV------------------------------
+>Q9NZI8#human ['IF2B1_HUMAN Insulin-like ;4;69
+LYIGNLNES-VTPAD----LE----KVF-AE----HK-----------IS-Y--SG----QF-L------VK----------------------SG------Y------AFVDCPDEHW---AM-KAI----ET-FSGKV-----ELQ--GK-RLE-------------------
+>ENSMUSP00000130023.2 pep:known chromoso ;113;182
+VRLRGLPFG-CTKEE----IV----QFF-S------GL----------EI-V--PN----GITL-----PVD----------P-EGKI------TG------E------AFVQFASQEL---AE-KAL----G--KHKE------RIG--HR-YIE-------------------
+>ENSMUSP00000027438.6 pep:known chromoso ;489;555
+LVLSNLSYS-ATKET----LE----EVF-EK----AT-----------FI-K--VP----Q---------------------NPHGKP------KG------Y------AFIEFASFED---AK-EAL----NS-CNKM------EIE--GR-TIR-------------------
+>ENSMUSP00000042658.9 pep:known chromoso ;107;176
+IFVGGIKED-TEEHH----LR----DYF-EQ----YG-----------KI-E--VI----EI-M------TD----------RGSGKK------RG------F------AFVTFDDHDS---VD-KIV-----I-QKYH------TVN--GH-NCE-------------------
+>PBANKA_123210 | organism=Plasmodium_ber ;111;174
+VEVSGLPLS-GSWQD----LK----DHL-RE----AG-----------EC-G--HA----DV--------------------FKNG--------TG--------------EVSFFHKED---ML-EAI----EK-FNGS------TFR--SH-EGE-------------------
+>PF3D7_0823200 | organism=Plasmodium_fal ;152;221
+VFVFHLPSH-WTDME----LY----QHF-QH----FG-----------YV-V--SA----RI-Q------RD-----------ANGRN------KG------Y------GFVSFNNPES---AL-NAI----KG-MHGF------YVS--GK-HLK-------------------
+>YER165W pep:known chromosome:R64-1-1:V: ;40;110
+LYVGDLEPS-VSEAH----LY----DIF-SP----IG-----------SV-S--SI----RV-C------RD----------AITKTS------LG------Y------AYVNFN---DHEAGR-KAI----EQ-LNYT------PIK--GR-LCR-------------------
+>BRADI2G00370.1 pep:novel chromosome:v1. ;16;78
+LYVGRLSSR-TRSRD----LE----DLF-GR----YG-----------RV-R--YV----DM-K------HE------------------------------F------AFVEFSDPRD---AD-DAR----YN-LDGR------DFD--GS-RMI-------------------
+>NONE_14074 , MEDTR4G074930.1 ;477;551
+VFVRGFDKN-LGEDEIRAKLM----EHFGGT----CG-----------EP-T--RV----SI-P------KD----------FESGYS------KG------F------AYMDFKDSDS---FS-KAL-----E-LHES------ELD--GY-QLS-------------------
+>TGGT1_304760 | organism=Toxoplasma_gond ;178;240
+VFVGNTPLA-VREPS----VE----RIF-GE----FG-----------KL-S--EI----KIFKHFLHL-------------------------------------------TYDDATA---AT-RAV----EE-LNDK------EVW--GA-QIV-------------------
+>PF3D7_1004400 | organism=Plasmodium_fal ;442;510
+IVVKNIDEK-ASWQD----LK----DFG-RE----VG-----------SV-S--YA----NI-V------DDY--------HSKEK--------FG--------------IIEFYNHEN---AK-DAI----NI-LNGK------SFY--GR-SVD-------------------
+>FBpp0219032 pep:known chromosome:GCA_00 ;51;123
+VRLRGLPWS-ATHKE----IL----DFL-E------NV----------NV-TNGSA----GIHL-----VTS----------RVDGKN------TG------E------AYVEVASQED---VE-EAR----K--LNKA------SMG--HR-YIE-------------------
+>FBpp0255985 pep:known chromosome:GCA_00 ;256;321
+VTVGLIGTN-VTKTD----LK----TYI-EK----VA-----------PV-E--SV----TF--------------------SANRLN-----PKA--------------FVRLVSVDD---VP-KVL-----K-LHST------ELF--SR-FIT-------------------
+>EDP09861 pep:novel supercontig:v3.1:DS4 ;32;102
+LLFRNLSKT-TTTED----LR----HYA-ER----YG-----------PI-R--DI----YL-P------KD----------FQTGEP------RG------L------GFVEFSDPKD---AE-EAR----HC-MDGS------TVA--GR-VIS-------------------
+>EEED8.10a pep:known chromosome:WBcel235 ;114;192
+IVVSNISAK-VTQSQ----LQ----SFF-SQ----YG-----------KI-T--SC----IL-P-----REEK-KTSVFGTLPKHSRN------CG------T------ATITFKKSEH---AD-RAK----N--ANPE------ELKFYDQ-----------------------
+>FBpp0238529 pep:known supercontig:GCA_0 ;486;560
+LFLGNIPHH-ASEEE----LR----QLF-SR----FG-----------NV-I--DL----RI-------------------LSKVGSKVLPGMRSPLN----Y------GFITYDDPEA---VQ-KCL----AN-C-------PLYFP--EN-SP--------------------
+>Q13310#human ['PABP4_HUMAN Polyadenylat ;13;83
+LYVGDLHSD-VTEAM----LY----EKF-SP----AG-----------PV-L--SI----RV-C------RD----------MITRRS------LG------Y------AYVNFQQPAD---AE-RAL----DT-MNFD------VIK--GK-PIR-------------------
+>Q9NTZ6#human ['RBM12_HUMAN RNA-binding  ;432;501
+VYLKGLPFE-AENKH----VI----DFF-K------KL----------DI-V--ED----SIYI-----AYG----------P-NGKA------TG------E------GFVEFRNEAD---YK-AAL----C--RHKQ------YMG--NR-FIQ-------------------
+>FBpp0081601 pep:known chromosome:BDGP6: ;234;303
+VFVANLDYK-VDNKK----LK----QVF-KL----AG-----------KV-Q--SV----DL-S------LD-----------KEGNS------RG------F------AVIEYDHPVE---AV-QAI----SM-LDRQ------MLF--DR-RMT-------------------
+>ENSMUSP00000101412.2 pep:known chromoso ;339;409
+IKVQNLPVR-STDTSLKDGLF----HEF-KK----FG-----------KV-T--SV----QI------------------------HG------AS---EERY------GLVFFRQQED---QE-KAL----TA-SKGKL------FF--GM-QIE-------------------
+>O75494#human ['SRS10_HUMAN Serine/argin ;12;82
+LFVRNVADD-TRSED----LR----REF-GR----YG-----------PI-V--DV----YV-P------LD----------FYTRRP------RG------F------AYVQFEDVRD---AE-DAL----HN-LDRK------WIC--GR-QIE-------------------
+>TGGT1_236540 | organism=Toxoplasma_gond ;166;239
+VKLRGLPWS-CSENE----IV----RFF-KAE---GGF----------DI-H--SD----DVVL-----GVT----------G-DGRL------SG------I------AFVELPSPDV---AE-KAR----EV-LHKK------YMG--RR-FIE-------------------
+>FBpp0084973 pep:known chromosome:BDGP6: ;7;68
+VFVGSL-PR-CKPEE----LR----RLF-TN----YG-----------SV-V--EC----DV-M------NR------------------------------C------AFVHLENTDM---AE-AAI----AA-LNGT------IFK--GQ-PIV-------------------
+>FBpp0125134 pep:known supercontig:GCA_0 ;191;260
+IRISNLSES-MTEAD----LE----ELV-KK----IG-----------PQ-S--KM----YL-A------RD----------KNTGLC------KG------F------AYVHFKQRKD---AA-AAI----EI-LNGH------GYD--HL-IL--------------------
+>P18615#human ['NELFE_HUMAN Negative elo ;267;326
+-YGEDMTPT---------LLR----GAF-SP----FG-----------NI-I--DL----SM-D------PP----------------------RN------C------AFVTYEKMES---AD-QAV----AE-LNGT------QVE--SV-QLK-------------------
+>ENSMUSP00000050792.2 pep:known chromoso ;306;374
+LYVKNLDDG-IDDER----LR----KEF-SP----FG-----------TI-T--SA----KV-T------M------------EGGRS------KG------F------GFVCFSSPEE---AT-KAV----TE-MNGK------IVA--TK-PLY-------------------
+>EDP02089 pep:novel supercontig:v3.1:DS4 ;300;360
+LWLGNLLPT-TTGAQ----LE----RLF-AP----YG-----------PL-E--SV----RV-F------AD----------------------RN------F------AFVNFMTAQH---AS-TAK----AA-LEGQP------AF--G------------------------
+>TGGT1_290660 | organism=Toxoplasma_gond ;19;84
+-SVTNLLYP-VDIDL----IH----YLF-SK----YG-----------EIEK--IV----TF-------------------------------SKS--PTMYQ------ALIQFQSPDQ---AR-HALM----------------NLH--SR-NIY-------------DGCN--
+>F32B4.4a pep:known chromosome:WBcel235: ;398;472
+IWIRGMTPA-TKASS----VK----QLA-SQ----YG-----------KV-I--QS----KI--------FN----------SKAADA------NGDV-KNCF------ALIQFADVTA---ME-LAM----TS-LHQK------NYQ--GR-VLR-------------------
+>FBpp0085915 pep:known chromosome:BDGP6: ;289;358
+LYVKNLDDT-IDDDR----LR----IAF-SP----YG-----------NI-T--SA----KV-M------TD-----------EEGRS------KG------F------GFVCFNAASE---AT-CAV----TE-LNGR------VVG--SK-PLY-------------------
+>O43390#human ['HNRPR_HUMAN Heterogeneou ;248;315
+LFVGSIPKN-KTKEN----IL----EEF-SK--VTEG-----------LV----DV----IL-------YHQ----------PDDKKK-----NRG------F------CFLEYEDHKS---AA-QAR----RRLMSGKV-----K-----------------------------
+>TGGT1_217540 | organism=Toxoplasma_gond ;17;82
+IYIGSLPGE-YTDKD----VE----REF-EK----FG-----------KI-I--K--------L------EF----------KRTVSG------AG------Y------CFLEYADPRD---AR-DAI----AQ-LHGR------PPP--GM-R---------------------
+>YDR432W pep:known chromosome:R64-1-1:IV ;127;189
+LFVRPFPLD-VQESE----LN----EIF-GP----FG-----------PM-K--EV----KI-L------N------------------------G------F------AFVEFEEAES---AA-KAI----EE-VHGK------SFA--NQ-PLE-------------------
+>FBpp0220014 pep:known chromosome:GCA_00 ;259;324
+VVVGLIGPN-ITKDD----LK----TVF-EK----VA-----------PV-E--AV----TI--------------------SSNRLM-----PKA--------------FVRLASVDD---IP-KAL-----K-LHST------ELF--SR-FIT-------------------
+>Q13148#human ['TADBP_HUMAN TAR DNA-bind ;106;172
+LIVLGLPWK-TTEQD----LK----EYF-ST----FG-----------EV-L--MV----QV-K------KD----------LKTGHS------KG------F------GFVRFTEYET---QV-KVM-------SQRH------MID--GR-W---------------------
+>SPBC1D7.04 ;57;126
+IIVSNLPTD-VTEAQ----VK----ELFVKS----IG-----------PC-K--RV----SL-A------YG-----------PNGRS------KG------I------ATIIFSRPGD---AT-RAY----EQ-YEGR------LVD--GT-RK--------------------
+>A0A0G2JPF8#human ['A0A0G2JPF8_HUMAN Unc ;18;81
+VFIGNLNTLVVKKSD----VE----AIF-SK----YG-----------KI-A--GC----SV-H------KG------------------------------F------AFVQYDKEKN---AR-AAV----AG-EDGR------MIA--SQ-VVD-------------------
+>ENSMUSP00000007980.6 pep:known chromoso ;100;169
+LFVGGLKGD-VAEGD----LI----EHF-SQ----FG-----------AV-E--KA----EI-I------AD----------KQSGKK------RG------F------GFVYFQSHDA---AD-KAA-----V-VKFH------PIQ--GH-RVE-------------------
+>P29558#human ['RBMS1_HUMAN RNA-binding  ;143;209
+LYISNLPLS-MDEQE----LE----NML-KP----FG-----------QV-I--ST----R--I------LR----------DSSGTS------RG------V------GFARMESTEK---CE-AVI----GH-FNGKF----IKTP---------------------------
+>PF3D7_0517300 | organism=Plasmodium_fal ;113;176
+VEVTGLPIS-GSWQD----LK----DHL-RE----AG-----------EC-G--HA----DV--------------------FKDG--------TG--------------EVSFFNKDD---ML-EAI----DK-FNGS------IFR--SH-EGE-------------------
+>FBpp0256935 pep:known chromosome:GCA_00 ;289;358
+LYVKNLDDT-IDDDR----LR----VAF-SP----YG-----------NI-T--SA----KV-M------TD-----------EEGRS------KG------F------GFVCFNAPSE---AT-CAV----TE-LNGR------VVG--SK-PLY-------------------
+>FBpp0209743 pep:known chromosome:GCA_00 ;289;358
+LYVKNLDDT-IDDDR----LR----IAF-SP----YG-----------NI-T--SA----KV-M------TD-----------EEGRS------KG------F------GFVCFNAASE---AT-CAV----TE-LNGR------VVG--SK-PLY-------------------
+>P22626#human ['ROA2_HUMAN Heterogeneous ;114;183
+LFVGGIKED-TEEHH----LR----DYF-EE----YG-----------KI-D--TI----EI-I------TD----------RQSGKK------RG------F------GFVTFDDHDP---VD-KIV-----L-QKYH------TIN--GH-NAE-------------------
+>Q92804#human ['RBP56_HUMAN TATA-binding ;236;314
+IFVQGLGEG-VSTDQ----VG----EFF-KQ----IG-----------IIKT--NK----KTGKPMINLYTD----------KDTGKP------KG------E------ATVSFDDPPS---AK-AAI----DW-FDGK------EFH--GN-IIK-------------------
+>ENSRNOP00000059012.1 pep:known chromoso ;16;86
+LKVDNLTYR-TSPDT----LR----RVF-EK----YG-----------RV-G--DV----YI-P------RD----------RYTKES------RG------F------AFVRFHDKRD---AE-DAM----DA-MDGA------VLD--GR-ELR-------------------
+>Q8NDT2#human ['RB15B_HUMAN Putative RNA ;339;408
+LFIGNLDHS-VSEVE----LR----RAF-EK----YG-----------II-E--EV----VI-------KRP---------------------ARG--QGGAY------AFLKFQNLDM---AH-RAK----VA-M-----------S--GR-VIGRNPIK--------------
+>Q9NWH9#human ['SLTM_HUMAN SAFB-like tra ;386;456
+IWVSGLSSN-TKAAD----LK----NLF-GK----YG-----------KV-L--SA----KV-V------TN-------------ARS------PG---AKCY------GIVTMSSSTE---VS-RCI----AH-LHRT------ELH--GQ-LIS-------------------
+>PF3D7_0503300 | organism=Plasmodium_fal ;14;84
+LLIRKLKFD-TSPSI----VR----EKF-KR----FG-----------AI-K--DV----YL-P------ID----------YYTKEP------RG------F------GFVEFYDAKD---AE-QAL----KE-MNGS------EID--GS-RIE-------------------
+>YDR381W pep:known chromosome:R64-1-1:IV ;80;150
+VNVEGLPRD-IKQDA----VR----EFFASQ----VG-----------GV-Q--RV----LL-S-----YNER------------GQS------TG------M------ANITFKNGEL---AR-RAV----ER-FNGS------PI--DGG-RSR-------------------
+>EDP06492 pep:known supercontig:v3.1:DS4 ;140;204
+IFVGGTGDV-T-DEE----LR----GHF-AQ----YG-----------EI-Q--D-----SV-I------MR-----------KDGVT------RG------F------GFVTFADPLS---VE-KVL-------VMRQ------VIR--DK-TV--------------------
+>EDO99567 pep:known supercontig:v3.1:DS4 ;135;200
+LYVKNLPRS-ASWQD----LK----DFV-RR----VC-----------KP-L--YT----EV--------------------FKDNRDN----VVG--------------VVEFESKED---MK-ATV----RK-LDDT------EFA--NP-F---------------------
+>ENSMUSP00000117045.1 pep:known chromoso ;12;77
+VYVGNLGNN-GNKTE----LE----RAF-GY----YG-----------PL-R--SV----WV-A------RN----------PPG-----------------F------AFVEFEDPRD---AA-DAV----RE-LDGR------TLC--GC-RVR-------------------
+>TGGT1_265530 | organism=Toxoplasma_gond ;111;181
+FFVGGIIPQ-ATELQ----IR----SYF-ER----FG-----------KV-K--AV----EL-K------MD----------KMTGRN------RG------F------CFVTMGSEE----AK-EAI-------FNAQH-----AIG--GK-KVEVR-----------------
+>FBpp0121159 pep:known supercontig:GCA_0 ;97;167
+IFVGDLSPE-IETET----LR----EAF-AP----FG-----------EI-S--NC----RI-V------RD----------PHTMKS------KG------Y------AFVSFVKKAE---AE-NAI----TA-MNGQ------WIG--SR-SIR-------------------
+>AT5G52040.1_1392 , AT5G52040.1 ;98;161
+LFVINFDAQNTRTRD----LE----RHF-EP----YG-----------KI-V--NV----RI-------------------------------RRN------F------AFIQYEAQED---AT-RAL----DA-TNSS------KLM--DK-VIS-------------------
+>AT1G16610.1_1857 , AT1G16610.1 ;100;170
+LHVDSLSRN-VNEAH----LK----EIFG-N----FG-----------EV-I--HV----EI-------AMD----------------------RA------VNLPRGHGYVEFKARAD---AE-KAQ----LY-MDGA------QID--GK-VVK-------------------
+>Q14151#human ['SAFB2_HUMAN Scaffold att ;409;479
+LWVSGLSST-TRATD----LK----NLF-SK----YG-----------KV-V--GA----KV-V------TN-------------ARS------PG---ARCY------GFVTMSTSDE---AT-KCI----SH-LHRT------ELH--GR-MIS-------------------
+>Q13247#human ['SRSF6_HUMAN Serine/argin ;4;66
+VYIGRLSYN-VREKD----IQ----RFF-SG----YG-----------RL-L--EV----DL-K------NG------------------------------Y------GFVEFEDSRD---AD-DAV----YE-LNGK------ELC--GE-RVI-------------------
+>Q9BWF3#human ['RBM4_HUMAN RNA-binding p ;80;142
+LHVGNISPT-CTNKE----LR----AKF-EE----YG-----------PV-I--EC----DI-V------KD------------------------------Y------AFVHMERAED---AV-EAI----RG-LDNT------EFQ--GK-RMH-------------------
+>Smik_4.705 ;202;269
+ITMKNLPEG-CSWQD----LK----DLA-RE----NSL----------ET-T--FS----SVNT------RDF-----------DG--------TG--------------ALEFPSEEI---LV-EAL----ER-LNNI------EFR--GS-VIT-------------------
+>P19338#human ['NUCL_HUMAN Nucleolin OS= ;488;554
+LVLSNLSYS-ATEET----LQ----EVF-EK----AT-----------FI-K--VP----Q---------------------NQNGKS------KG------Y------AFIEFASFED---AK-EAL----NS-CNKR------EIE--GR-AIR-------------------
+>FBpp0268619 pep:known chromosome:GCA_00 ;296;365
+IFVGGVSQD-TSAEE----VK----AYF-SQ----FG-----------PV-E--ET----VM-L------MD----------QQTKRH------RG------F------GFVTFENEDV---VD-RVC-----E-IHFH------TIK--NK-KVE-------------------
+>TGGT1_209850 | organism=Toxoplasma_gond ;329;390
+ALVSFLPPG-CRWQH----LK----DHM-RR----AG-----------PV-G--FA----EV--------------------LSHG--------RG--------------VVEFEHAED---LK-YAV----RS-LDKS------EMR--VE-G---------------------
+>ENSMUSP00000107079.1 pep:known chromoso ;45;115
+MFVGQVPRT-WSEKD----LR----ELF-EQ----YG-----------AV-Y--EI----NI-L------RDR---------SQNPPQS-----KG------C------CFVTFYTRKA---AL-EAQ----NA-LHNMK-----VLP--GM-----------------------
+>ENSMUSP00000120115.1 pep:known chromoso ;654;722
+IFVRNLPFD-FTWKM----LK----DKF-NE----CG-----------HV-L--YA----DI-K------ME-----------N-GKS------KG------C------GVVKFESPEV---AE-RAC----RM-MNGM------KLS--GR-EID-------------------
+>NONE_14974 , MEDTR3G092580.1 ;232;295
+VIVRGLPSS-ASWQD----LK----DHM-RK----AG-----------DV-C--FA----EV--------------------SRDSEG-----TFG--------------LVDYTNYDD---MK-YAI----RK-LDDT------EFR--NP-----------------------
+>AT3G52150.1_3886 , NONE ;78;148
+VYIGNIPRT-VTNEQ----LT----KLV-EE----HG-----------AV-E--KV----QV-M------YD----------KYSGRS------RR------F------GFATMKSVED---AN-AVV----EK-LNGN------TVE--GR-EIK-------------------
+>P42696#human ['RBM34_HUMAN RNA-binding  ;187;234
+VFVGNLPVT-CNKKK----LK----SFF-KE----YG-----------QI-E--SV----RF-------------------RSL----IP--------------------------------AE-GTL----SK-K-------LAAIK---------------------------
+>FBpp0120691 pep:known supercontig:GCA_0 ;263;328
+VIVGLFGSK-VSTED----LK----TFF-EK----VG-----------EV-E--FA----NI--------------------TANRYN-----PKA--------------YIRFKSIDD---VP-KAL-----K-LHST------EFF--SR-FIT-------------------
+>PF3D7_1224300 | organism=Plasmodium_fal ;18;88
+LYVGDLNED-VTEAV----LY----EIF-NT----VG-----------HV-S--SI----RV-C------RD----------SVTRKS------LG------Y------AYVNYHNLAD---AE-RAL----DT-LNYT------NIK--GQ-PAR-------------------
+>O95319#human ['CELF2_HUMAN CUGBP Elav-l ;134;202
+LFIGMVSKK-CNEND----IR----VMF-SP----FG-----------QI-E--EC----RI-L------RG-----------PDGLS------RG------C------AFVTFSTRAM---AQ-NAI----KA-MHQSQ-----TME--GC-S---------------------
+>ENSMUSP00000074160.7 pep:known chromoso ;105;175
+LFVARVNYD-TTESK----LR----REF-EV----YG-----------PI-K--RI----HM-V------YS----------KRSGKP------RG------Y------AFIEYEHERD---MH-SAY----KH-ADGK------KID--GR-RVL-------------------
+>Y92C3B.2a pep:known chromosome:WBcel235 ;293;362
+IFIGGLPNY-LTEDQ----VK----ELL-CS----FG-----------PL-K--AF----SL-N------VD----------S-QGNS------KG------Y------AFAEYLDPTL---TD-QAI----AG-LNGM------QLG--DK-QLV-------------------
+>O60506#human ['HNRPQ_HUMAN Heterogeneou ;245;312
+LFVGSIPKS-KTKEQ----IL----EEF-SK--VTEG-----------LT----DV----IL-------YHQ----------PDDKKK-----NRG------F------CFLEYEDHKT---AA-QAR----RRLMSGKV-----K-----------------------------
+>Q96T37#human ['RBM15_HUMAN Putative RNA ;179;246
+-------SQ-LSDEAVEDGLF----HEF-KR----FG-----------DV----SV----KI-S------------------HLSGSG------SG---DERV------AFVNFRRPED----A-RAA----KH-ARGRL-----VLY--DR-PLK-------------------
+>PF3D7_1359400 | organism=Plasmodium_fal ;87;156
+LFIGRVPKN-IEEDQ----LR----PIF-EE----YG-----------IV-N--EV----VI-I------RD----------KITNVH------KS------S------AFVKMASISE---AD-NAI----RL-LNNQ------KTL--DA-QL--------------------
+>FBpp0088856 pep:known chromosome:BDGP6: ;51;123
+VRLRGLPWS-ATHKE----IL----DFL-E------NV----------NV-TNGSA----GIHL-----VTS----------RVDGKN------TG------E------AYVEVASQED---VE-EAR----K--LNKA------SMG--HR-YIE-------------------
+>Q9Y6M1#human ['IF2B2_HUMAN Insulin-like ;5;70
+LYIGNLSPA-VTADD----LR----QLF-GD----RK-----------LP-L--AG----QV-L------LK----------------------SG------Y------AFVDYPDQNW---AI-RAI----ET-LSGKV-----ELH--GK-IME-------------------
+>FBpp0209743 pep:known chromosome:GCA_00 ;185;254
+VYVKNFTED-FDDEK----LK----EFF-EP----YG-----------KI-T--SY----KV-M------SK-----------EDGKS------KG------F------GFVAFETTEA---AE-AAV----QA-LNGK------DMG-EGK-SL--------------------
+>Q4VXU2#human ['PAP1L_HUMAN Polyadenylat ;13;83
+LYVGDLHPD-VTEAM----LY----EKF-SP----AG-----------PI-L--SI----RV-C------RD----------VATRRS------LG------Y------AYINFQQPAD---AE-RAL----DT-MNFE------MLK--GQ-PIR-------------------
+>FBpp0269782 pep:known chromosome:GCA_00 ;240;309
+VFVANLDYK-VDNKK----LK----QVF-KL----AG-----------KV-Q--SV----DL-S------LD-----------KEGNS------RG------F------AVIEYDHPVE---AV-QAI----SM-LDRQ------MLF--DR-RMT-------------------
+>PBANKA_140920 | organism=Plasmodium_ber ;38;110
+VFIKNIKTG-VTMNQ----FK----KSL-EK----YG-----------AL----QV----YF---YEPKEND----------------------EG------W------AWVGFENKEA---AE-KAIE-DAEKALENK------ESS-ENN-EIN-------------------
+>P11940#human ['PABP1_HUMAN Polyadenylat ;13;83
+LYVGDLHPD-VTEAM----LY----EKF-SP----AG-----------PI-L--SI----RV-C------RD----------MITRRS------LG------Y------AYVNFQQPAD---AE-RAL----DT-MNFD------VIK--GK-PVR-------------------
+>FBpp0219626 pep:known chromosome:GCA_00 ;118;187
+IFVGGVSQD-TSAEE----VK----AYF-SQ----FG-----------PV-E--ET----VM-L------MD----------QQTKRH------RG------F------GFVTFENEDV---VD-RVC-----E-IHFH------TIK--NK-KVE-------------------
+>TGGT1_321500 | organism=Toxoplasma_gond ;39;108
+LFVGRVPQS-MEDAA----LR----PIF-EE----FG-----------EV-K--EA----VI-I------RD----------KATGKH------KN------S------AFIKMDSIAA---AD-AAI----RG-LNST------RIL--EQ-SM--------------------
+>NONE_15057 , MEDTR3G027140.1 ;62;132
+LYVGNIPRT-VSNDE----LE----KIV-QE----HG-----------AV-E--KA----EV-M------YD----------KYSKRS------RR------F------AFVTMKTVED---AN-AAA----EK-LNGT------EIG--GR-EIK-------------------
+>FBpp0119717 pep:known supercontig:GCA_0 ;115;178
+VMVTGLPGS-GSWQD----LK----DHM-RE----AG-----------DV-C--FA----DT--------------------YKDG--------SG--------------VVEFLRHED---MK-YAI----KK-LDDS------RFR--SH-EGE-------------------
+>ENSMUSP00000090059.6 pep:known chromoso ;16;86
+LKVDNLTYR-TSPDT----LR----RVF-EK----YG-----------RV-G--DV----YI-P------RD----------RYTKES------RG------F------AFVRFHDKRD---AE-DAM----DA-MDGA------VLD--GR-ELR-------------------
+>ENSMUSP00000133728.1 pep:known chromoso ;200;259
+------IYS-ITTDV----LY----TIC-NP----CG-----------PV-Q--R-----IV-I-----FRKN------------GV---------------Q------AMVEFDSVQS---AQ-RAK----AS-LNGA------DI--YSG-CCT-------------------
+>FBpp0076112 pep:known chromosome:BDGP6: ;787;860
+ILVRNIPFQ-AQYRE----VR----DIF-KA----FG-----------EL-R--SL----RI-P------KK----------ATTGEDA----HRG------F------GFVDYMSKAE---AK-RAF----DA-LSAST-----HLY--GR-RLV-------------------
+>PF3D7_1360900 | organism=Plasmodium_fal ;209;278
+IFVFYLPND-WSDKD----LK----RHF-SH----YG-----------NI-L--GA----TI-K------RE-----------TNGKS------RG------Y------GFINFENQQS---AI-NAV----AG-MNGF------NAG--NK-YLK-------------------
+>ENSMUSP00000027438.6 pep:known chromoso ;571;638
+LFVKGLSED-TTEET----LK----ESF-E------G-----------SV----RA----RI-V------TD----------RETGSS------KG------F------GFVDFNSEED---AK-AAK----EA-MEDG------EID--GN-KVT-------------------
+>Q14103#human ['HNRPD_HUMAN Heterogeneou ;184;255
+IFVGGLSPD-TPEEK----IR----EYF-GG----FG-----------EV-E--SI----EL-P------MD----------NKTNKR------RG------F------CFITFKEEEP---VK-KIM-----E-KKYH------NVG--LS-KCEIK-----------------
+>FBpp0120800 pep:known supercontig:GCA_0 ;116;181
+LIVENLSSR-VSWQD----LK----DYM-RQ----AG-----------EV-T--YA----DA--------------------HKQRRN------EG--------------VVEFASLSD---MK-TAI----EK-LDDT------ELN--GR-RIH-------------------
+>Glyma06g04460.1_10466 , NONE ;26;96
+LYVGDLDHD-VNDPQ----LY----DLF-NQ----VA-----------QV-V--SV----RI-C------RD----------VATQQS------LG------Y------GYVNFSNARD---AA-KAI----DV-LNFT------PLN--GK-TIR-------------------
+>PF3D7_1002400.1 | organism=Plasmodium_f ;22;92
+LYVSNLSSK-ITTAK----LQ----DIF-EK----YG-----------NI-E--KC----YV-I------SN----------PITKES------RN------F------GFVTFNNSED---AE-NAM----NK-ANKM------EIE--GR-EIN-------------------
+>ENSMUSP00000048153.7 pep:known chromoso ;10;80
+LFIGGLNTE-TNEKA----LE----AVF-GK----YG-----------RI-V--EI----LL-M------KD----------RETNKS------RG------F------AFVTFESPAD---AK-DAA----RD-MNGK------SLD--GK-AIK-------------------
+>Q15717#human ['ELAV1_HUMAN ELAV-like pr ;22;92
+LIVNYLPQN-MTQDE----LR----SLF-SS----IG-----------EV-E--SA----KL-I------RD----------KVAGHS------LG------Y------GFVNYVTAKD---AE-RAI----NT-LNGL------RLQ--SK-TIK-------------------
+>YGR250C pep:known chromosome:R64-1-1:VI ;587;631
+------------------------------------D-----------SS-S--DN----DLPV---------------------GSS------RG------Y------GFVSFESPLD---AA-KAI----LN-TDGY------QVS-KDQ-VL--------------------
+>TGGT1_264610 | organism=Toxoplasma_gond ;125;192
+LFVGGLSRS-TTTDS----LR----TYF-QQ----YG-----------DV-A--DS----EV-L------FD----------KFTGRS------RG------F------GFITFTTPDP---VA-RVA-----D-MR-H------TVD--GT-QV--------------------
+>FBpp0225321 pep:known supercontig:GCA_0 ;237;308
+IHVGRLTRN-VTKDH----VL----EIF-SS----FG-----------TV-K--NV----EF-P------TDR---------YHPNFG------RG------M------AYVEYATAED---CE-SAM----KH-MDGG------QID--GQ-EIT-------------------
+>A5DLY0_PICGU ;74;143
+VFVGNLPFS-VSWQN----LK----DLM-RE----AG-----------NV-I--RA----DV-K------TD-----------SWGKS------RG------F------GTVIFSTEEE---AA-YAI----EK-FQGY------DMG--GR-RID-------------------
+>FBpp0298818 pep:known chromosome:GCA_00 ;137;206
+IFVGGLTTE-ISDEE----IK----TYF-SQ----FG-----------NI-V--EV----EM-P------FD----------KQKSQR------KG------F------CFITFDSEQV---VT-DLL-----K-TPKQ------KIS--GK-EVD-------------------
+>ENSRNOP00000046491.2 pep:known chromoso ;182;253
+IFVGGLSPD-TPEEK----IR----EYF-GG----FG-----------EV-E--SI----EL-P------MD----------NKTNKR------RG------F------CFITFKEEEP---VK-KIM-----E-KKYH------NVG--LS-KCEIK-----------------
+>FBpp0230127 pep:known supercontig:GCA_0 ;190;259
+IRISNLSES-MTEAD----LE----ELV-KK----IG-----------PQ-S--KM----YL-A------RD----------KNTGLC------KG------F------AYVHFKQRKD---AA-AAI----EI-LNGH------GYD--HL-IL--------------------
+>EDP02454 pep:known supercontig:v3.1:DS4 ;5;74
+LYVGNLSWD-TRADD----LT----NLF-SK----FG-----------AV-E--DA----FV-A------TD----------RETGRS------RG------F------GFVTLEA-NA---AK-SAC----SE-CDGT------EFM--GR-TIR-------------------
+>Q9P2K5#human ['MYEF2_HUMAN Myelin expre ;525;593
+IFVRNLPFD-LTWQK----LK----EKF-SQ----CG-----------HV-M--FA----EI-K------ME-----------N-GKS------KG------C------GTVRFDSPES---AE-KAC----RI-MNGI------KIS--GR-EID-------------------
+>Q13151#human ['ROA0_HUMAN Heterogeneous ;9;78
+LFIGGLNVQ-TSESG----LR----GHF-EA----FG-----------TL-T--DC----VV-V------VN----------PQTKRS------RC------F------GFVTYSNVEE---AD-AAM-----A-ASPH------AVD--GN-TVE-------------------
+>O60812#human ['HNRC1_HUMAN Heterogeneou ;18;81
+VFIGNLNTLVVKKSD----VE----AIF-SK----YG-----------KI-A--GC----SV-H------KG------------------------------F------AFVQYDKEKN---AR-AAV----AG-EDGR------MIA--SQ-VVD-------------------
+>EDP05699 pep:known supercontig:v3.1:DS4 ;9;77
+VFVGGLSWE-TTGEK----LR----AYM-EN----FG-----------SV-R--EA----FV-S------YN----------RNNGRP------RG------F------GFVVFESPEV---AD-KVV-----A-TK-H------MID--RR-EVE-------------------
+>FBpp0271333 pep:known chromosome:GCA_00 ;117;180
+VMVTGLPAS-GSWQD----LK----DHM-RE----AG-----------DV-C--FA----DT--------------------YKDG--------SG--------------VVEFLRHED---MK-YAI----KK-LDDS------RFR--SH-EGE-------------------
+>O60506#human ['HNRPQ_HUMAN Heterogeneou ;340;402
+LFVRNLANT-VTEEI----LE----KAF-SQ----FG-----------KL-E--RV----KK-L------KD------------------------------Y------AFIHFDERDG---AV-KAM----EE-MNGK------DLE--GE-NIE-------------------
+>FBpp0211402 pep:known chromosome:GCA_00 ;95;166
+LYVGNLTWW-TTDQD----IA----NSL-RD----IG---------VSDL-Q--EV----KF-------FEN----------RANGQS------KG------F------SVISLGSESSL-----RAVL---DQ-LPKK------EMH--GQAP---------------------
+>ENSMUSP00000038256.6 pep:known chromoso ;80;142
+LHVGNISPT-CTNQE----LR----AKF-EE----YG-----------PV-I--EC----DI-V------KD------------------------------Y------AFVHMERAED---AV-EAI----RG-LDNT------EFQ--GK-RMH-------------------
+>FBpp0223011 pep:known supercontig:GCA_0 ;190;259
+IRISNLSES-MTEAD----LE----ELV-KK----IG-----------PQ-S--KM----YL-A------RD----------KNTGLC------KG------F------AYVHFKQRKD---AA-AAI----EI-LNGH------GYD--HL-IL--------------------
+>P14866#human ['HNRPL_HUMAN Heterogeneou ;203;262
+------IYS-ITTDV----LY----TIC-NP----CG-----------PV-Q--R-----IV-I-----FRKN------------GV---------------Q------AMVEFDSVQS---AQ-RAK----AS-LNGA------DI--YSG-CCT-------------------
+>AT1G48920.1_283 , AT1G48920.1 ;299;368
+LFAANLSFN-IERAD----VE----NFF-KE----AG-----------EV-V--DV----RF-S------TN----------RDDGSF------RG------F------GHVEFASSEE---AQ-KAL----E--FHGR------PLL--GR-EIR-------------------
+>ENSMUSP00000110374.1 pep:known chromoso ;10;80
+LFIGGLNTE-TNEKA----LE----AVF-GK----YG-----------RI-V--EV----LL-M------KD----------RETNKS------RG------F------AFVTFESPAD---AK-DAA----RD-MNGK------SLD--GK-AIK-------------------
+>ENSMUSP00000119065.1 pep:known chromoso ;4;66
+VYIGRLSYN-VREKD----IQ----RFF-SG----YG-----------RL-L--EI----DL-K------NG------------------------------Y------GFVEFEDSRD---AD-DAV----YE-LNSK------ELC--GE-RVI-------------------
+>Q16629#human ['SRSF7_HUMAN Serine/argin ;13;78
+VYVGNLGTG-AGKGE----LE----RAF-SY----YG-----------PL-R--TV----WI-A------RN----------PPG-----------------F------AFVEFEDPRD---AE-DAV----RG-LDGK------VIC--GS-RVR-------------------
+>PF00076_1b7f_A_127_197 A; 127; 197
+LIVNYLPQD-MTDRE----LY----ALF-RA----IG-----------PI-N--TC----RI-M------RD----------YKTGYS------YG------Y------AFVDFTSEMD---SQ-RAI----KV-LNGI------TVR--NK-RLK-------------------

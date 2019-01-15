@@ -1,0 +1,48 @@
+>EDP04183 pep:known supercontig:v3.1:DS4 ;640;820
+FRRHVFIAGGIGVTPALGMIQ---ELIAARRNTNTNNNTNNTNTGTND-----------------------------------------------------------------------DKAHGRVTFVWVSRSADELEAVLPAEVLEEANR-----------G---KD--GWLDMQLYITGSSNNS-------NSKAAAASAITVDVAADANTAA--------------------GAAD-ASAAA----------------AAEAKLASLTPAFSRSYAT------------------------FSHALSGL---SGLRRSGSNSSSGDIGSGLAGGFFGF
+>A7TPB2_VANPO ;536;680
+-KRCVGVAGGVGVSAVYPHIV---ELYQKNY-----------------------------------------------------------------------------------------STDLKHKFIWIINDLNFLGWF--GEDLDWLIS---------------KS----CEVTIIYTGMKNNDLEYYYPSDKSSLLSY-------DTES----------------------------FEKKY------------------NVINLGTRPNLHQLTLE------------------------EIEATQNISEDLEFYSCGSSAFNDNFRDAIA------
+>BRADI2G12790.2 pep:novel chromosome:v1. ;715;884
+YDVLLLIGLGIGATPLISIVK---DVLNHLQRGGSVGGT-----------------------------------------------------------------EPEASGKPKKR----PFMTKRAYFYWVTREEGSFEWF--RGVMNEVAE---------------KDKDGVIELHNHCSSVYQEG-------DARSALIV--MLQELQHAK-----------------------KGVD-ILSGT------------------SVKTHFARPNWRSVFKR------------------------VAVNHENQ--RVGVFYCGEPVLVPQLRQLSA------
+>C5DH58_LACTC ;528;691
+YDQVLLYSGGNGIPGPFAYAK---ELGEISK----------------------------------------------------------------------------------------EAKSKFVKLYWVIRHWNSLDWF--LDELMILQR---------------FS---NVQTIIYVTRA-DDG-------KVGEKLAH--HFDQGESE------SSEGE-------------KGSN-VVATT-----ISDYAETMQKALPHIEFRKGRPDIAALVEQ------------------------DIDECHDQ--NAAIITCGHNEMCDRIRQTVA------
+>Skud_15.547 ;537;687
+FDNILLLTGGTGLPGPIAHAI---KLGKSSA----------------------------------------------------------------------------------------AAGKQSVKLVIAVRGFDVLEAY--KPELMCLTD---------------LN----IQFHIYNTMK-L-------------LLTS--SNDSSNGS------EKDDE-------------KGAF-VET---------SLEKSNPFEFEGAISHRGRPNVEKLLQE------------------------AA-ESNGS---LAVVCCGPPVFVDKVRDQTA------
+>A3LS62_PICST ;528;683
+YENSVFIAGGNGVPGLYYEAT---DIAKK-------------------------------------------------------------------------------------------NEKTNIKFYWVIRHYRSVEWF--YAELCKLKQ---------------MG----IETIIYVTQP-HVG-------LTNPIVSK--NIDSSEDE------EEQQE-------------KGAG-S---E-----SDDYISVLKKDLSHIEFREGRPDVYNIVDE------------------------SIKEANGP---IAFATCAHATMVDDARKSVR------
+>TriadP25818 pep:annotated scaffold:ASM1 ;370;524
+YEVAICIGAGIGVTPFASILK---SLWYKQRQSDAG-----------------------------------------------------------------------------------PSKTKKVYFFWICPDSNAFEWF--AELLKSLEREMLS-----------HDLGDFLEYNIYLTRGLSDK-------QTKHIMLR--ETDS----------------------------EAVD-AITGL------------------QQKTHYGRPRWDQIFSD------------------------LASTHSGS--DLGVFFCGPKALSSVLHKECN------
+>Sbay_14.419 ;531;700
+FDNVLLLAGGSGLPGPIAHAI---ELGKTTA----------------------------------------------------------------------------------------ESGKNFVQLVVAVRGFDMLNAC--KQELMALKD---------------LN----VHVHIYNSKQ-D-------------TTPC--EPISSNVS------KNDEKLIEDTPSVVDH-SEKAL-SENEN--TEQPLSVSCTSDADFEFATFHAGRPNVEELLKE------------------------SI-THSGS---LAVVCCGPPVFVDTARDQTA------
+>C4YH34_CANAW ;530;687
+FENDVFIAGGNGIPGIYYEAT---DIAKR------------------------------------------------------------------------------------------LGEKRNVKLYWVVRHYRSLEWF--YQELLKLKD---------------LP----ISTTVYVTQP-NVG-------LADPITTD--LTDDEEQQ------EHEQE-------------KKSD-TE--E-----SNDYVAQVKKNLSFIQFIETKPDFYQIVGE------------------------EIKQSTGP---IAFASCAHGNMVDDVRKSVV------
+>A5DH16_PICGU ;534;694
+FDNTVFLAGGNGVPGLYYEAM---DIAKR------------------------------------------------------------------------------------------ENNAHRVRFYWVIRHYRSIEWF--YEELLKMKN---------------VN----IEPVIYVTQP-DVG-------LIDPFFRD--SESVSEEEL-----EKREE-------------NKED-VLEIE-----SQDYVQGLKDKLSFIEFREGRPELEALIDQ------------------------EIKDADAP---IAFVTCAHTSMVDDTRKYIS------
+>NONE_13869 , MEDTR3G098350.1 ;720;900
+YEVVLLVGLGIGATPMISIIK---DILNNSKAIEQEEGSTIEEGTGGK--------------------------------------------------------SPRSSQRKKTGLN--NFKTRKAYFYWVAAKQGFFDWF--KDVMNEVVE---------------EDRRRVIEIHSHLTSVYEDG-------DAQSALIA--MLQSLNHAK-----------------------NGVD-ILTGT------------------PVKSHFARPKWCSVYKR------------------------IALNHPQK--RIGVFYCGRPDAIQELRDLAF------
+>G0VEV2_NAUCC ;355;504
+LRDVQIICGGSGIAFGLPIFRYLLNLENSGM----------------------------------------------------------------------------------------ESNIKRCELIWLINDVVQLDVL--KHIFKYDSMP--------------EN----FTFRVFVSHT-AGG-------NSG-------SVGDLSDNT----------------------------DLEIE-----MDSLAIKNGEEAPYQNVKFRRFDFVD----------------------------DAKHLKES-FDPWVFCCGPDRLISGA-TQFA------
+>SAKL0F14718g ;529;692
+YDQVLLYTGGNGIPGPYTYAK---EILEAKE----------------------------------------------------------------------------------------RSKVQFTKLYWVIRHWHSLDWF--LQEFKTLEK---------------YE---KLQVVVYVTKY-EDA-------KLGEKFLN--ETSTSNSS-------QDGE-------------KNMELDDGDA-----SNSWIEPVQRALPFVEFRQGRPDIKQLVTQ------------------------DLREAQGS--NVAVMTCAHPHMCDEVRNVVA------
+>YOL152W pep:known chromosome:R64-1-1:XV ;423;596
+FTNVYLICSGSGISTCLPFLQ---KYGPILH----------------------------------------------------------------------------------------KTNLEVITLDWVVRHREDISWI--RDEMCTLSNNLRQ---------LFLD--GKIVVRIYVCSDSTVP-------GIIKTFPQ--TIDTASDQSDLAKREKDTE-------------FGQD-DTESN------STFDKSNNEYKGLITIIPSKPDLNQVIND-------YQIG----------------------FRNCFICSGSDSLRYTVGNSVA------
+>MGG_08299T0 pep:known chromosome:MG8:2: ;552;826
+FNHTILVGAGIGLTPFSGILA---DLQAKEDRLHGGPTQKLQEQAEKGGDVRGSTSADAPDGRRIGTSREAEAMPQRTDVDMQAPTSGDQSNTTLQETADADSDSASSISRPSSSFSSFASDYRRVDFHWMVRDRNHLLWI--SELLNTVSRSQAWHHRHDAPGEYHLD----IRMQTHVTQK----------RKNVSTHVYRWLLEQHRTPE-----------------------HPAS-PITGL------------------INPTQFGRPDFVSILDRHYDDMRKYKAGLVARASRGGGGEDDAASVADDEVKVGVFFCGTPIVGEILADRCK------
+>NONE_13057 , MEDTR8G095520.1 ;705;881
+YEVVLLVGLGIGATPMISILK---DMVNNFKAMEEEDGFAMEEG------------------------------------------------------------SPMTPNQKDSRFS--DFKTRRAYFYWVTREQGSFDWF--KGVMNDVPE---------------EDRRGLIELHSYCTSVYEQG-------DARSALIA--MVQSINHAK-----------------------HGVD-VVSGT------------------RVMSHFAKPNWRTVYKR------------------------IALNHPEA--QVGVFYCGPSTLTHELRQLSL------
+>C4YTB4_CANAW ;419;558
+FERVVLLATGTGVTATLPFLT---YLAKT------------------------------------------------------------------------------------------DSIVKRVSFIWIVRSQEDIHWV--KSELQECQK---------------LG-GSKIDINIHVAAK-KSI-------YTKGDFEK--EIESEETNL-----------------------NEED----------WL---------------IDYGKPSVTSILKS------------------------MAGSLAAR---NMIVCSGSDSLKREVSSIVS------
+>C4YGR3_CANAW ;565;718
+CKNVVFIAGGNGIPGIYSECV---DLAKK-------------------------------------------------------------------------------------------SKNQSIKLVWIIRHWKSLSWF--TEELEYLKK---------------TS----VQTTVYVTQP-Q---------DYNGMKSF--EQDSNSEK---------KS-------------DEKD-SVESP-----QNSFVSKIKQDLSHVEFIEGRPNIVEQVEQ------------------------EIKETDGA---LGFVTCGHPAMVDELRSAVT------
+>SAKL0F14762g ;548;710
+YDQVLLYSGGNGIPGPYSYVK---DLCQAKE----------------------------------------------------------------------------------------KSKVQFTKFYWVIRHWYSLDWF--LEELKSLQS---------------YD---KLQTIVYVTKY-GEG-------KVGDKFAI--DSSASNSS-------VDGE-------------KRSD-DIKES-----SESWLEPIQAALPHVEFRQGRPNIEQIVVE------------------------DLAEIQGS--NVAVMTCGHPVMCDEIRKVVA------
+>SAKL0F10582g ;553;689
+-RKFVGVSAGLGVSAVYPHYV---KILESR------------------------------------------------------------------------------------------NTSIRHSFYWVINDFSYLNWF--SSELFWLQS---------------HN----CDVKIIYTGSKELE-------ESSSLFSE-------DDEK----------------------------ILKTL------------------SVDRFYGRPNLMEIVSS------------------------EVGSCNAQLTDITFISCGPSAFNDTFRHNVR------
+>C5E240_LACTC ;539;675
+NRRIVGVAAGLGVTAVYAQIL---HLLEAQ------------------------------------------------------------------------------------------VPEMGCKLYWAVNDLSHVSWF--EEELKWLLS---------------QK----CQITILCTSPKELE-------ETGSSFNT--------DNK----------------------------LLEIL------------------DVRSLFARPDLRALVSE------------------------EVKEASDQSKDLTFISCGPSTFNIDFRASVS------
+>EFJ16727 pep:novel supercontig:v1.0:GL3 ;684;859
+YDILLLVGLGIGATPFISVLK---DMLNNMKKNETSADVRIPMP------------------------------------------------------------SPRR-SPGNSTVP--GWTPTNAYFYWVTREQGSFDWF--KGVMNEVAE---------------IDSKAVIELHNYLTSVYEEG-------DVRSALIT--MVQSLQHAR-----------------------NGVD-IISGT------------------RVKTHFARPNWRKVLSR------------------------LEKLHRGA--RIGVFYCGAPALGKELDALCK------
+>C5DXZ8_ZYGRC ;434;621
+YDEVIMVGGGNGVVGLYEYIK---EIANKKKAG--------------------------------------------------------------------------------------KSNVKFIKLYWTIKISDNIEWL--ATELMRLQE---------------YD---FVKPIVYMTRS-QPR-------NKSDRLGF--DVDGGNRTSSSDGSQREVE-IEETG--VGGTEDGSK-AEEKIKENIVSTTNMDEIESEFSHVEFRRSRPHIPQLLHD------------------------DIQECDPS-DNICVMSCAHNAMCDDVRKTVS------
+>Q6CL85_KLULA ;537;676
+-RKFIGLAAGLGISAVFPHIK---SVIEQT------------------------------------------------------------------------------------------STNIVHELKWISNDMNCLNWF--SKELAWLAS---------------NN----CKITFIYTKDIGSDT------ESVSDYSE--KPKSIQDQK----------------------------ISSKI------------------EVLTFSTRPDMNQIVHE------------------------AISSSE---EDISFVSCGPSSFIDVVRYSVK------
