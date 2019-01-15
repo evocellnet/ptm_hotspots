@@ -246,7 +246,9 @@ def f(x):
     d['foreground_max'] = x['foreground'].max()
     return pd.Series(d, index=["start", "end", "sequence", "foreground_max", 'min_adj_pval'])
 
-def find_hotspot_instances(hospot_sites, hotspot_definitions):
+def find_hotspot_instances(hotspot_sites, hotspot_definitions):
+    if(len(hotspot_definitions) == 0):
+        return()
     ## instances of the hotspots in the proteins
     hotspot_instances = pd.merge(hotspot_sites,
                                  hotspot_definitions,
@@ -364,7 +366,7 @@ if __name__ == '__main__':
     ## estimating hotspot ranges
     #All hotspot range-definitions 
     hotspot_definitions = get_hotspot_regions(hotspot_sites)
-    #Match of all hotspots into   
+    #Match of all hotspots into
     hotspot_regions = find_hotspot_instances(hotspot_sites, hotspot_definitions)
 
     print("Done!")
@@ -372,4 +374,9 @@ if __name__ == '__main__':
     if printSites:
         hotspot_sites[hotspot_sites.hotspot].to_csv(outputFile, index = False)
     else:
-        hotspot_regions.to_csv(outputFile, index = False)
+        if(len(hotspot_regions) == 0):
+            f = open(outputFile, 'w')
+            f.write('0 hotspots found\n') 
+            f.close()
+        else:
+            hotspot_regions.to_csv(outputFile, index = False)
