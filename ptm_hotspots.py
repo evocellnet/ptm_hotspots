@@ -166,13 +166,13 @@ def getHotspotSitesInFile(alignment_path, ptms, how_many_permuts):
     background_dataframe=pd.DataFrame(index=indexes[4:-2],columns=list(range(0,how_many_permuts)))
     for k in range(0,how_many_permuts):
         background_dataframe[k]=permutated_dataframe(letter_alignment, phosp_alignment, column_names, indexes)
-        background_dataframe['domain'] = os.path.splitext(os.path.basename(alignment_path))[0]
-        background_dataframe['position_aln'] = indexes[4:-2]
-        background_dataframe['bg_medians'] = background_dataframe.iloc[:,0:(how_many_permuts-1)].median(axis=1).tolist()
-        background_dataframe['bg_stdev'] = background_dataframe.iloc[:,0:(how_many_permuts-1)].std(axis=1).tolist()
-        background_dataframe['bg_means'] = background_dataframe.iloc[:,0:(how_many_permuts-1)].mean(axis=1).tolist()
-        background_dataframe['foreground']=foreground
-        ## this is to count pvals and add them to the column in background_dataframe
+    background_dataframe['domain'] = os.path.splitext(os.path.basename(alignment_path))[0]
+    background_dataframe['position_aln'] = indexes[4:-2]
+    background_dataframe['bg_medians'] = background_dataframe.iloc[:,0:(how_many_permuts-1)].median(axis=1).tolist()
+    background_dataframe['bg_stdev'] = background_dataframe.iloc[:,0:(how_many_permuts-1)].std(axis=1).tolist()
+    background_dataframe['bg_means'] = background_dataframe.iloc[:,0:(how_many_permuts-1)].mean(axis=1).tolist()
+    background_dataframe['foreground']=foreground
+    ## this is to count pvals and add them to the column in background_dataframe
     all_pvals=[]
     for row in background_dataframe.index:
         fg=background_dataframe.at[row,'foreground']
@@ -180,9 +180,9 @@ def getHotspotSitesInFile(alignment_path, ptms, how_many_permuts):
         st_dev=background_dataframe.at[row,'bg_stdev']
         p_val=count_pval(fg, mean, st_dev)
         all_pvals.append(p_val)
-        background_dataframe['pvals']=all_pvals
-        background_dataframe['pvals']=background_dataframe.loc[:,('pvals')]+0.00000000000000001 # pseudocount for 0 values
-        # background_dataframe = background_dataframe[["domain", "position_aln", "foreground", "pvals"]]
+    background_dataframe['pvals']=all_pvals
+    background_dataframe['pvals']=background_dataframe.loc[:,('pvals')]+0.00000000000000001 # pseudocount for 0 values
+    # background_dataframe = background_dataframe[["domain", "position_aln", "foreground", "pvals"]]
     background_dataframe = background_dataframe.loc[:,("domain", "position_aln", "foreground", "pvals")].copy()
     # adding protein/position level information
     letter_alignment_tomerge = letter_alignment[2:].copy()
@@ -354,7 +354,7 @@ if __name__ == '__main__':
     for filename in alignmentFiles:
         print("* " + filename)
         alignment_path = os.path.join(alignments_dir, filename)
-        getHotspotSitesInFile(alignment_path, ptms, how_many_permuts)
+        expanded_dataframe = getHotspotSitesInFile(alignment_path, ptms, how_many_permuts)
         allHotspots.append(expanded_dataframe)
     hotspot_sites = pd.concat(allHotspots)
     hotspot_sites = hotspot_sites.loc[:,("domain", "protein", "position", "residue", "position_aln", "foreground", "pvals")].copy()
