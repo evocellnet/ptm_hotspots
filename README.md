@@ -31,7 +31,7 @@ You can obtain more help and options by typing:
 
 `python3 ptm_hotspots.py -h`
 
-Note: Since the Bonferroni correction depends on the total number of predictions, small disimilarities might emerge in the same domain hotspots depending on whether you run only a domain or the full set of domains. Similarly, the stochastic nature of the permutation analysis might make the results  
+Note: Since the Bonferroni correction depends on the total number of predictions, small disimilarities might emerge in the same domain hotspots depending on whether you run only a domain or the full set of domains. Similarly, the stochastic nature of the permutation analysis might make the results vary between runs.
 
 ### Customizing alignments or PTM data
 
@@ -51,4 +51,4 @@ The ptm database should be included as a `csv` file containing id, amino acid an
 
 ## Citation
 
-- Strumillo, M. J., Oplova, M., Viéitez, C., Ochoa, D., Shahraz, M., Busby, B. P., et al. (2018). Conserved phosphorylation hotspots in eukaryotic protein domain families. bioRxiv
+- Strumillo, M. J., Oplova, M., Viéitez, C., Ochoa, D., Shahraz, M., Busby, B. P., et al. (2018). Conserved phosphorylation hotspots in eukaryotic protein domain families. bioRxiv. [https://doi.org/10.1101/391185](https://doi.org/10.1101/391185)
