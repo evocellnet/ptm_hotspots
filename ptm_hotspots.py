@@ -235,6 +235,12 @@ def get_hotspot_regions(hotspot_sites):
     hotspot_definitions["end_aln"] = hotspot_definitions.groupby(["domain", "in_hotspot_region_cumsum"])["position_aln"].transform("max")
     hotspot_definitions["hotspot_id"] = hotspot_definitions["domain"].str.cat(hotspot_definitions.start_aln.astype(str), sep = "_")
     hotspot_definitions = hotspot_definitions.loc[:,("domain", "position_aln", "start_aln", "end_aln", "hotspot_id")]
+    ## add minimum p_adjust
+    hotspot_definitions = pd.merge(hotspot_definitions,
+                                   hotspot_sites.loc[:,("domain", "position_aln", "p_adjust")].drop_duplicates(),
+                                   on = ["domain", "position_aln"])
+    hotspot_definitions['min_adj_pval'] = hotspot_definitions.groupby(["domain","hotspot_id"])["p_adjust"].transform("min")
+    hotspot_definitions = hotspot_definitions.drop(columns = ["p_adjust"])
     return(hotspot_definitions)
 
 def f(x):
@@ -242,9 +248,8 @@ def f(x):
     d['sequence'] = x["residue"].str.cat()
     d['start'] = x[x.residue != "-"]["position"].min()
     d['end'] = x[x.residue != "-"]["position"].max()
-    d['min_adj_pval'] = x['p_adjust'].min()
     d['foreground_max'] = x['foreground'].max()
-    return pd.Series(d, index=["start", "end", "sequence", "foreground_max", 'min_adj_pval'])
+    return pd.Series(d, index=["start", "end", "sequence", "foreground_max"])
 
 def find_hotspot_instances(hotspot_sites, hotspot_definitions):
     if(len(hotspot_definitions) == 0):
@@ -258,7 +263,7 @@ def find_hotspot_instances(hotspot_sites, hotspot_definitions):
     hotspot_instances["hotspot_region_inv"] = hotspot_instances[["start_aln"]].isna()
     hotspot_instances = hotspot_instances.loc[hotspot_instances['residue'] != "-"]
     hotspot_instances = hotspot_instances.sort_values(by = ["domain", "hotspot_id","protein", "position"])
-    final_output = hotspot_instances.groupby(["domain", "protein", "hotspot_id", "start_aln", "end_aln"]).apply(f).reset_index()
+    final_output = hotspot_instances.groupby(["domain", "protein", "hotspot_id", "start_aln", "end_aln", "min_adj_pval"]).apply(f).reset_index()
     final_output["start"] = final_output["start"].astype("int")
     final_output["end"] = final_output["end"].astype("int")
     final_output["start_aln"] = final_output["start_aln"].astype("int")
