@@ -181,7 +181,7 @@ def getHotspotSitesInFile(alignment_path, ptms, how_many_permuts):
         p_val=count_pval(fg, mean, st_dev)
         all_pvals.append(p_val)
     background_dataframe['pvals']=all_pvals
-    background_dataframe['pvals']=background_dataframe.loc[:,('pvals')]+0.00000000000000001 # pseudocount for 0 values
+    background_dataframe['pvals']=background_dataframe.loc[:,('pvals')] + 1e-150 # pseudocount for 0 values
     # background_dataframe = background_dataframe[["domain", "position_aln", "foreground", "pvals"]]
     background_dataframe = background_dataframe.loc[:,("domain", "position_aln", "foreground", "pvals")].copy()
     # adding protein/position level information
