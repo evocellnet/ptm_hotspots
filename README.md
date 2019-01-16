@@ -72,4 +72,4 @@ The ptm database should be included as a `csv` file containing id, amino acid an
 
 ## Citation
 
-- Strumillo, M. J., Oplova, M., Viéitez, C., Ochoa, D., Shahraz, M., Busby, B. P., et al. (2018). Conserved phosphorylation hotspots in eukaryotic protein domain families. bioRxiv. [https://doi.org/10.1101/391185](https://doi.org/10.1101/391185)
+- Strumillo, M. J., Oplova, M., Viéitez, C., Ochoa, D., Shahraz, M., Busby, B. P., et al. Sopko, M., Studer, R. A., Perrimon, N., Panse, V. G., Beltrao, P. (2018). Conserved phosphorylation hotspots in eukaryotic protein domain families. bioRxiv. [https://doi.org/10.1101/391185](https://doi.org/10.1101/391185)
