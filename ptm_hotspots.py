@@ -309,12 +309,12 @@ if __name__ == '__main__':
                         help='number of permutations (default: 100)')
     parser.add_argument('--threshold',
                         nargs = '?',
-                        default = 0.05,
+                        default = 1e-5,
                         action="store",
                         metavar = "FLOAT",
                         dest="threshold",
                         type=float,
-                        help='Bonferroni-corrected p-value threshold for calling hotspots (default: 0.05)')
+                        help='Bonferroni-corrected p-value threshold for calling hotspots (default: 1e-5)')
     parser.add_argument('--foreground',
                         nargs = '?',
                         default = 2,
