@@ -198,7 +198,6 @@ def getHotspotSitesInFile(alignment_path, ptms, how_many_permuts):
                                                value_name = "position"),
                        on = ["position_aln", "protein"])
     tomerge["protein"] = tomerge["protein"].str.split("+", expand = True)[0]
-    tomerge["protein"] = tomerge["protein"].str.replace("#human", "")
     expanded_dataframe = background_dataframe.merge(tomerge, on = "position_aln")
     # ## fix position in alignment
     expanded_dataframe["position_aln"] = expanded_dataframe[["position_aln"]] + 1
