@@ -116,12 +116,12 @@ def permutated_dataframe(letter_alignment,phosp_alignment, column_names, indexes
         phosp_rows=phosp_alignment.index[phosp_alignment[protein_id]>=1].tolist()
         pS=pT=pY=0
         for i in phosp_rows:
-                if i in rows_with_S:
-                    pS+=1
-                if i in rows_with_T:
-                    pT+=1
-                if i in rows_with_Y:
-                    pY+=1
+            if i in rows_with_S:
+                pS+=1
+            if i in rows_with_T:
+                pT+=1
+            if i in rows_with_Y:
+                pY+=1
         random_S=make_random_histogram(pS, len(rows_with_S))
         random_T=make_random_histogram(pT, len(rows_with_T))
         random_Y=make_random_histogram(pY, len(rows_with_Y))
