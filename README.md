@@ -25,7 +25,7 @@ To obtain particular domain predictions:
 
 To obtain hotspot residue predictions instead of hotspot ranges 
 
-`python3 ptm_hotspots.py -o hotspot_residues.csv --printSitePredictions`
+`python3 ptm_hotspots.py -o hotspot_residues.csv --printSites`
 
 You can obtain more help and options by typing:
 
