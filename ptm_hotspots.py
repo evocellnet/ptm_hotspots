@@ -20,6 +20,8 @@ def prepare_cols_indx(alignment_file):
     indexes=['start1','end1']
     for i in range(0,len(alignment)-1,2):
         protein_name=alignment[i].split(" ")[0].lstrip(">")
+        if protein_name.startswith("ENS"):
+            protein_name = protein_name.split(".")[0]
         start=alignment[i].split(";")[-2].strip()
         column_names.append(protein_name+"+"+start)
     for i in list(range(0,ali_len-1)):
