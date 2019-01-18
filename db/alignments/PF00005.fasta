@@ -38,13 +38,13 @@ IQDSGLELNYGRRYGLLGENGCGKSTFLKALATREYP-------IPE-HIDI--------------------YLLDEPAE
 IKNVSFSVDAQSKIGIVGRTGAGKSTIITALFRFLEP-------ETG-HIKI-DNIDIS-GVDLQRL-RRSITIIPQDPTLF-----SGTIKTNLDPYDE------------------------------------------------------------FSDRQIFEALKRVNL-------------------------------------------------------ISEEQLQQGATR-------------------------------------------ETSNEASSTNSENVNK---------------------------FLDLSSEISE---------GGSNLSQGQRQLMCLARSLLRSP--KIILLDEATA
 >AT1G17840.1_1574 , AT1G17840.1 ;70;221
 LEGLTGYAEPGSLTALMGPSGSGKSTMLDALASRLAANAF----LSG-TVLL-NGRKTK------LS-FGTAAYVTQDDNLI----GTLTVRETIWYSARVR-----------------------------------------------------------LPDKMLRSEKRALV-------------------------------------------------------------------------------------------------------------------------ERTII---------------------------EMGLQDCADTVIGN----WHLRGISGGEKRRVSIALEILMRP--RLLFLDEPTS
->Q2M3G0#human ['ABCB5_HUMAN ATP-binding  ;1033;1184
+>Q2M3G0 ['ABCB5_HUMAN ATP-binding  ;1033;1184
 LRGLSLSIERGKTVAFVGSSGCGKSTSVQLLQRLYDP-------VQG-QVLF-DGVDAK-ELNVQWL-RSQIAIVPQEPVLF-----NCSIAENIAYGDNSR---------------------------------------------------------VVPLDEIKEAANAANI-------------------------------------------------------HSFIEGLPE-------------------------------------------------------------------------------------------KYNTQVGL---------KGAQLSGGQKQRLAIARALLQKP--KILLLDEATS
 >EDO98445 pep:known supercontig:v3.1:DS4 ;432;566
 IDEATFSIPPGACVGIIGGNGAGKSTLFRMIMKQQNP-------DGG-SLRL-GDTVVP-------------MYVDQSRDSLA---GDKTVYEEIA----------------------------------------------------------------DGKDEVDLGGRLINA-------------------------------------------------------------------------------------------------------------------------RAYCS---------------------------WYNFKGGDQQ--------KKVGSLSGGERNRLHLAKTLKQAG--NLLLLDEPTN
 >ENSMUSP00000003319.5 pep:known chromoso ;508;639
 FSRLSVSADLESRICVVGENGAGKSTMLKLLMGDLSP-------VRG-IRHA-HR-------------NLKIGYFSQHHVEQLD--LNVSAVELLARKFPGL----------------------------------------------------------PEEE-----------------------------------------------------------------------------------------------------------------------------------YRHQLG---------------------------RYGISGELAM--------RPVASLSGGQKSRVAFAQMTMPCP--NFYILDEPTN
->Q8N139#human ['ABCA6_HUMAN ATP-binding  ;1303;1441
+>Q8N139 ['ABCA6_HUMAN ATP-binding  ;1303;1441
 ARNISFCVQEGEILGLLGPNGAGKSSSIRMISGITKP-------TAG-EVEL-KG--------CSSV-LGHLGYCPQENVLW----PMLTLREHLEVYAAVK---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------GLRKADARLAIARLVS---------------------------AFKLHEQLNV---------PVQKLTAGITRKLCFVLSLLGNS--PVLLLDEPST
 >NONE_14987 , MEDTR2G102640.1 ;230;414
 LRDVSGIIKPRRMTLLLGPPGSGKTTLLLALSGKLDSSFQ----LSG-NVTY-NGHGLN----EFVP-QRTAAYISQHDVHI----GEMTVRETLAFSARCQGVG-------SRY---------------------------------------------DMLSELSRREKVANIK-----------------------------------------------------PDPDIDVYMKAI--------------------------------------------ATEGQESSISTDYVLK---------------------------ILGLDICADTMVGD----EMLRGISGGQRKRVTTGEMLVGPA--NALFMDEIST
@@ -64,13 +64,13 @@ LKNTSVKISHGKRYGLIGPNGMGKSTLLKLLAWRKIP-------VPK-NIDV--------------------LLVEQEVV
 FVNADLYIVAGRRYGLVGPNGKGKTTLLKHIANRALS-------IPP-NIDV--------------------LLCEQEVVAD-----ETPAVQAVL-------------------------------------------------------------RADTKRLRLLEEERRLQG--------------------QLEQG--------------------------DDTAAEKLEKVYEELR-------------------------------------------ATGAAAAEAKARRILA---------------------------GLGFDPEMQN--------RPTQKFSGGWRMRVSLARALFMEP--TLLMLDEPTN
 >C5E3S9_LACTC ;1390;1557
 IKNVTFTVDPNCKVGIVGRTGAGKSTIITALFRFLDP-------ESG-YIKI-DNVDIT-SVELKRL-RQSITIIPQDPTLF-----TGTVKSNLDPYDE------------------------------------------------------------YSDKQIFEALKRVNL-------------------------------------------------------VTQEELDHAAN---------------------------------------------PSPDNASAVSENVNK---------------------------FLFLENEISE---------GGSNLSQGQRQLVCLARSLLRSP--KVMLLDEATA
->Q9NUQ8#human ['ABCF3_HUMAN ATP-binding  ;193;356
+>Q9NUQ8 ['ABCF3_HUMAN ATP-binding  ;193;356
 LAGADVNLAWGRRYGLVGRNGLGKTTLLKMLATRSLR-------VPA-HISL--------------------LHVEQEVAGD-----DTPALQSVL-------------------------------------------------------------ESDSVREDLLRRERELTA--------------------QIAAG------------------------RAEGSEAAELAEIYAKLE-------------------------------------------EIEADKAPARASVILA---------------------------GLGFTPKMQQ--------QPTREFSGGWRMRLALARALFARP--DLLLLDEPTN
->Q9NP58#human ['ABCB6_HUMAN ATP-binding  ;606;755
+>Q9NP58 ['ABCB6_HUMAN ATP-binding  ;606;755
 LQDVSFTVMPGQTLALVGPSGAGKSTILRLLFRFYDI-------SSG-CIRI-DGQDIS-QVTQASL-RSHIGVVPQDTVLF-----NDTIADNIRYGRVT-----------------------------------------------------------AGNDEVEAAAQAAGI-------------------------------------------------------HDAIMAFPE-------------------------------------------------------------------------------------------GYRTQVGE---------RGLKLSGGEKQRVAIARTILKAP--GIILLDEATS
 >PBANKA_123780 | organism=Plasmodium_ber ;1141;1221
 YKDLSFSCDSKKTTAIVGETGCGKSTIMHLLMRFYDL-------KDD-HVLL-DNQHIE-------------------------------------------------------------------KDNK----------------------------DKSKDIEMRDATSMKNL-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NELGKKNANE
->Q99758#human ['ABCA3_HUMAN ATP-binding  ;1399;1543
+>Q99758 ['ABCA3_HUMAN ATP-binding  ;1399;1543
 VDRLSLAVQKGECFGLLGFNGAGKTTTFKMLTGEESL-------TSG-DAFV-GGHRIS--SDVGKV-RQRIGYCPQFDALL----DHMTGREMLVMYARLR---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------GIPERHIGACVENTLR---------------------------GLLLEPHANK---------LVRTYSGGNKRKLSTGIALIGEP--AVIFLDEPST
 >Q6CQ19_KLULA ;1393;1558
 IKNVTFTVDSKCKVGIVGRTGAGKSTIITALFRFLDP-------ETG-YIKI-DDVDIT-TIGLKRL-RQSITIIPQDPTLF-----TGTLKTNLDPYNE------------------------------------------------------------YSEAEIFEALKRVNL-------------------------------------------------------VSSEELGNPS-----------------------------------------------TSDSTSVHSANMNK---------------------------FLDLENEVSE---------GGSNLSQGQRQLICLARSLLRCP--KVILLDEATA
@@ -94,7 +94,7 @@ IKNVTFTVAPKAKIGIVGRTGAGKSTIITALFRFLDP-------ETG-YIKI-DNIDIT-SINLNKL-RRSINIIPQDPT
 IKDVTFTIEPLEKVGIVGRTGAGKSTIITALFRFLEA-------DTG-SIKL-DGVNIA-NIDLKRL-RRSITIIPQDPTLF-----AGSIRSNLDPYDE------------------------------------------------------------YSDEEIFTALKRVNL-------------------------------------------------------VSTEEMEAS------------------------------------------------TSEIQSNSSKNVNK---------------------------FLNLESEIAE---------GGSNFSQGQRQLMCLARSLLRMP--KVILLDEATA
 >Skud_12.22 ;1398;1567
 INNVSFSVDAQSKIGIVGRTGAGKSTIITALFRFLEP-------ETG-HIKI-DNIDIS-GVDLQRL-RRSITIIPQDPTLF-----SGTIKTNLDPYDE------------------------------------------------------------FSDKKIFEALKRVNL-------------------------------------------------------ISEEQSHQGAVR-------------------------------------------EADNDTSSNSSENINK---------------------------FLDLSSEVSE---------GGSNLSQGQRQLMCLARSLLRSP--KIILLDEATA
->Q9UG63#human ['ABCF2_HUMAN ATP-binding  ;413;545
+>Q9UG63 ['ABCF2_HUMAN ATP-binding  ;413;545
 YNNLEFGIDLDTRVALVGPNGAGKSTLLKLLTGELLP-------TDG-MIRK-HS-------------HVKIGRYHQHLQEQLD--LDLSPLEYMMKCYPEI----------------------------------------------------------KEKEEM----------------------------------------------------------------------------------------------------------------------------------RKIIG---------------------------RYGLTGKQQV--------SPIRNLSDGQKCRVCLAWLAWQNP--HMLFLDEPTN
 >NONE_13866 , MEDTR2G102660.1 ;168;352
 LKDVSGIVKPRRMTLLLGPPGSGKTTLLLALSGKLDPSLQ----LTG-SVTY-NGHGLN----EFVP-QRTAAYISQHDVHI----GEMTVRETLAFSARCQGVG-------SRY---------------------------------------------DMLSELSRREKAANIK-----------------------------------------------------PDPDIDVYMKAI--------------------------------------------ATEGQEYSISTDYVLK---------------------------ILGLDICADTMVGD----EMLRGISGGQRKRVTTGEMLVGPA--NALFMDEIST
@@ -106,7 +106,7 @@ LKGLNLKVKSGQTVALVGNSGCGKSTTVQLLQRLYDP-------TEG-KISI-DGQDIR-NFNVRCL-REIIGVVSQEPV
 VQNVNISVHPGEVVAIVGLSGSGKSTLVNLLLQLYEP-------TSG-QILL-DGVPLK-ELDVKWL-RQRIGYVGQEPKLF-----RTDISSNIKYGCDR----------------------------------------------------------NISQEDIISAAKQAYA-------------------------------------------------------HDFITALPN-------------------------------------------------------------------------------------------GYNTIVDD-----------DLLSGGQKQRIAIARAILRDP--RILILDEATS
 >A7TQ88_VANPO ;684;925
 IADINFQCSLSSRIAVIGPNGAGKSTLINVLTGELLP-------TEG-EVYT-HE-------------NCRIAYIKQHAFAHIESHLDKTPSEYIQWRFQTG----------------------------------------------------------EDRETMDRANRQINE----------NDAEAM-NKIFKIEG-----------------------------TPRRIAGIHARRKFKNTYEYECSFLLGENIGMKSERWVPMM---------SVDNAWLPRGELVES-HSKMVAEVDMKEALASG-QFRPLTRKEIEEHCAMLGLEAELVS-------HSRIRGLSGGQKVKLVLAACSWQRP--HLIVLDEPTN
->Q9UG63#human ['ABCF2_HUMAN ATP-binding  ;101;257
+>Q9UG63 ['ABCF2_HUMAN ATP-binding  ;101;257
 LSDTKLELNSGRRYGLIGLNGIGKSMLLSAIGKREVP-------IPE-HIDI--------------------YHLTREMPPS-----DKTPLHCVM-------------------------------------------------------------EVDTERAMLEKEAERLAH---------------------------------------------------EDAECEKLMELYERLE-------------------------------------------ELDADKAEMRASRILH---------------------------GLGFTPAMQR--------KKLKDFSGGWRMRVALARALFIRP--FMLLLDEPTN
 >NONE_14987 , MEDTR2G102640.1 ;921;1073
 LKGVSGAFRPGVLTALMGVSGAGKTTLMDVLAGRKTGGY-----IDG-DIKV-SGYPKK----QETF-ARISGYCEQNDIHS----PHVTVYESLLYSAWLR-----------------------------------------------------------LPSGVDSNTRKMFI-------------------------------------------------------------------------------------------------------------------------EEVMD---------------------------LVELNSLRDSLVGL----PGVSGLSTEQRKRLTIAVELVANP--SIIFMDEPTS
@@ -114,7 +114,7 @@ LKGVSGAFRPGVLTALMGVSGAGKTTLMDVLAGRKTGGY-----IDG-DIKV-SGYPKK----QETF-ARISGYCEQNDI
 YEHLNFGVDMDSRIALVGPNGVGKSTLLKIMTGELTP-------QSG-RVSR-HT-------------HVKLGVYSQHSQDQLD--LTKSALEFVRDKYSNI----------------------------------------------------------SQDFQF---------------------------------------------------------------------------------------------------------------------------------WRGQLG---------------------------RYGLTGEGQT--------VQMATLSEGQRSRVVFALLALEQP--NVLLLDEPTN
 >AT1G04120.1_4063 , AT1G04120.2 ;640;775
 LSGIQMKVEKGMRVAVCGTVGSGKSSFISCILGEIPK-------ISG-EVRI----------------CGTTGYVSQSAWIQ-----SGNIEENILFGSP------------------------------------------------------------MEKTKYKNVIQACSL-------------------------------------------------------KKDIELFSH-------------------------------------------------------------------------------------------GDQTIIGE---------RGINLSGGQKQRVQLARALYQDA--DIYLLDDPFS
->Q8NE71#human ['ABCF1_HUMAN ATP-binding  ;319;480
+>Q8NE71 ['ABCF1_HUMAN ATP-binding  ;319;480
 FVNADLYIVAGRRYGLVGPNGKGKTTLLKHIANRALS-------IPP-NIDV--------------------LLCEQEVVAD-----ETPAVQAVL-------------------------------------------------------------RADTKRLKLLEEERRLQG--------------------QLEQG--------------------------DDTAAERLEKVYEELR-------------------------------------------ATGAAAAEAKARRILA---------------------------GLGFDPEMQN--------RPTQKFSGGWRMRVSLARALFMEP--TLLMLDEPTN
 >C4YR46_CANAW ;449;577
 LNKTQFRLKRNRRYGLCGPNGAGKSTLMRAIANGQVEGFP----TQD-ECKT--------------------VYVEHDIDGTH---ADTTVVEFVIEDGEVG----------------------------------------------------------LTKDVVVDKLR-------------------------------------------------------------------------------------------------------------------------------------------------------------EFNFSDEMIN--------MPIQSLSGGWKMKLALARAVLKNA--DILLLDEPTN
@@ -138,7 +138,7 @@ IKNVSFKVEPRSKIGIVGRTGAGKSTIITAFFRFVDP-------ESG-SIKI-DGIDIT-SIGLKDL-RNAVTIIPQDPT
 LQDTMLELNCGRRYGLIGLNGCGKSSLLAVLGGREVP-------IPP-HIDI--------------------FHLTREIPAS-----SKSALQCVM-------------------------------------------------------------EVDEERIKLEKLAEELAM-------------------------------------------------SEEDDAQEQLIDIYERLD-------------------------------------------DMSADLAEVKAARILH---------------------------GLGFDKAMQQ--------KQAKDFSGGWRMRIALARALFVKP--HLLLLDEPTN
 >Smik_12.11 ;1398;1567
 IKNVSFSVDAQSKIGIVGRTGAGKSTIITALFRFLEP-------ETG-HIKI-DNIDIS-GVDLQRL-RRSITIIPQDPTLF-----SGTIKTNLDPYDE------------------------------------------------------------FSDRKIFEALKRVNL-------------------------------------------------------ISEEQSQQGTTR-------------------------------------------EADNDNSSTNSENVNK---------------------------FLDLSSEVSE---------GGSNLSQGQRQLMCLARSLLRSP--KIILLDEATA
->P61221#human ['ABCE1_HUMAN ATP-binding  ;362;490
+>P61221 ['ABCE1_HUMAN ATP-binding  ;362;490
 LAIVAGEFTDSEIMVMLGENGTGKTTFIRMLAGRLKP-------DEGGEVPV-----------------LNVSYKPQKISPK----STGSVRQLLH-------------------------------------------------------------------EKIRDAYTHPQF------------------------------------------------------------------------------------------------------------------------VTDVMK---------------------------PLQIENIIDQ---------EVQTLSGGELQRVALALCLGKPA--DVYLIDEPSA
 >PBANKA_123780 | organism=Plasmodium_ber ;393;599
 YKDLNFTLKEGNTYAFVGESGCGKSTILKLLERFYDP-------TDG-DIVINDSHSLK-DVDLKWW-RSKIGVVSQDPLLF-----SNSIKNNIKYSLISPN---SLEAVENGFDFRGNSDSSLNRDNSKNGKCTSILDEISKRNTTSDLLEVISSINSVEDSKVVDVSKKVLI-------------------------------------------------------HDFVASLPD-------------------------------------------------------------------------------------------KYDTLVGS---------SSSKLSGGQKQRISIGRAVIRNP--KILILDEATS

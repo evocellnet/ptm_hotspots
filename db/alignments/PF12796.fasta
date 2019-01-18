@@ -1,6 +1,6 @@
 >ENSRNOP00000015808.5 pep:known chromoso ;6;98
 -----------------------------FMWALKNGDLD--EVKDYVA-------------KG-----EDVNR-TLEGGRK--PLHYAAD-CGQLE------I---------LEFL-LLKG-AD------INAPDKHH-ITP-------L-LSAVYE--------------------GHVSCVKLLL-S-KGADKTVKG--
->Q15327#human ['ANKR1_HUMAN Ankyrin repe ;124;216
+>Q15327 ['ANKR1_HUMAN Ankyrin repe ;124;216
 -----------------------------FLKAALENKLP--VVEKFLS-------------DK-----NNPDV-CDEYKRT--ALHRACL-EGHLA------I---------VEKL-MEAG-AQ------IEFRDMLE-STA-------I-HWASRG--------------------GNLDVLKLLL-N-KGAKISARD--
 >PF3D7_1119000 | organism=Plasmodium_fal ;254;358
 ---------DNNDDN------NIC---DILCQHVVMGDLA--SIKKNLKH------------NP-----SLINK-KNSSGLT--PLHYACD-RGYID------I---------VKYL-VNQG-AN------INVEDSYG-DTP-------L-HMAAYS--------------------EKLNVVDFLK-S-VGADINKTN--
@@ -10,39 +10,39 @@
 -----------------------------ITAALTKRSISSQNLAAFVYKTCG----------------NFANI-LDDLGRS--AVHMSAS-TGRYE------I---------LEWL-LNHG-AY------INGQDYESGSSP-------L-HRALYY--------------------GSIDCAVLLL-R-YGASMELLD--
 >NONE_5730 , LOC_Os08g15840.5 ;211;285
 -------------------------------------TIN----------------------DG-----STIDL--IGSGST--PLHYAAC-GGSAV------C---------CQLL-VAAG-AN------MRAQNTNG-LTP-------L-MVARSW---------------------HKSSVEGIL-T-KRSEVPVR---
->Q53RE8#human ['ANR39_HUMAN Ankyrin repe ;88;161
+>Q53RE8 ['ANR39_HUMAN Ankyrin repe ;88;161
 ---------------------------------------------------------------------AKCDA-QTHGGAT--ALHRASY-CGHTE------I---------ARLL-LSHG-SN------PRVVDDDG-MTS-------L-HKAAER--------------------GHGDICSLLL-Q-HSPALKAIRD-
->P58546#human ['MTPN_HUMAN Myotrophin OS ;6;98
+>P58546 ['MTPN_HUMAN Myotrophin OS ;6;98
 -----------------------------FMWALKNGDLD--EVKDYVA-------------KG-----EDVNR-TLEGGRK--PLHYAAD-CGQLE------I---------LEFL-LLKG-AD------INAPDKHH-ITP-------L-LSAVYE--------------------GHVSCVKLLL-S-KGADKTVKG--
 >ENSMUSP00000095939.5 pep:known chromoso ;145;231
 --------------------------------VCQKGTPN--SASK----------------TK-----DKVNK-RNERGET--RLHRAAI-RGDAR------R---------IKEL-ISEG-AD------VNVKDFAG-WTA-------L-HEACNR--------------------GYYDIAKQLL-A-AGAEVNTKG--
 >FBpp0265116 pep:known chromosome:GCA_00 ;237;335
 ATRKFNRMASEEEAKIISPPAKKKPEKTALHWAAKHGN-E--DVVKLIA-------------GT-----YKAD-VNARTGYT--PLHLATQ-FGRDN------I---------FELLWNVYK-AN------RDIMDWSG-NKP-------L-DYS-----------------------------------------------
->Q96DX5#human ['ASB9_HUMAN Ankyrin repea ;138;229
+>Q96DX5 ['ASB9_HUMAN Ankyrin repea ;138;229
 -----------------------------IHEAARRGHVE--CVNSLIA-------------YG-----GNIDH-KISHLGT--PLYLACE-NQQRA------C---------VKKL-LESG-AD--------VNQGKGQDSP-------L-HAVART--------------------ASEELACLLM-D-FGADTQAKN--
 >C11E4.6 pep:known chromosome:WBcel235:X ;205;299
 ---------GTPDIK------RPFPAIYPFHLAAKYNHVE--CMQALRE-------------HG-----FSINY-TTEDG-T--ALHVASA-CGQAE------A---------VRFL-LEIG-VN------TDIKNQHG-QTV-------L-QM----------------------------IIDLQE-N-RRNEIA-----
->Q00653#human ['NFKB2_HUMAN Nuclear fact ;604;698
+>Q00653 ['NFKB2_HUMAN Nuclear fact ;604;698
 -----------------------------VHLAVRARSPE--CLDLLVD-------------SG-----AEVEATERQGGRT--ALHLATE-MEELG------L--------VTHLV-TKLR-AN------VNARTFAG-NTP-------L-HLAAGL--------------------GYPTLTRLLL-K-AGADIHAEN--
->Q9ULH0#human ['KDIS_HUMAN Kinase D-inte ;6;68
+>Q9ULH0 ['KDIS_HUMAN Kinase D-inte ;6;68
 --------------------------SQSVINYVEEENIP--ALKALLEKC------------------------KDVD------------------------------------------------------ERNECG-QTP-------L-MIAAEQ--------------------GNLEIVKELI-K-NGANCNLED--
 >ENSMUSP00000014642.3 pep:known chromoso ;78;170
 --------------------------LH---RAAASRNEK--VLGLLLA-------------HS-----ADVNA-RDKLWQT--PLHVAAA-NRATK------C---------AEAL-APLL-SS------LNVADRSG-RSA-------L-HHAVHS--------------------GHLETVNLLL-N-KGASLNVCD--
->Q99728#human ['BARD1_HUMAN BRCA1-associ ;432;524
+>Q99728 ['BARD1_HUMAN BRCA1-associ ;432;524
 -----------------------------LHIASIKGDIP--SVEYLLQ-------------NG-----SDPNV-KDHAGWT--PLHEACN-HGHLK------V---------VELL-LQHK-AL------VNTTGYQN-DSP-------L-HDAAKN--------------------GHVDIVKLLL-S-YGASRNAVN--
 >ENSMUSP00000095939.5 pep:known chromoso ;230;292
 --------------------------------------------------------------KG-----LDDDT----------PLHDAAN-NGHYK------V---------VKLL-LRYG-GN------PQQSNRKG-ETP-------L-KVA-----------------------NSPTMVNLLL-G-KGTYTSS----
 >ENSMUSP00000018651.7 pep:known chromoso ;75;189
 -----------------------------LFSVVSRGVPE--ELTGLLEYLR----------RTSK---YLTDS-AYTEGSTGKTCLMKAVLN-------------------------LQDG-VNACILPLLQIDRDSGNPQP-------L-VNAQCTDEFYRGHSALHIAIEKRSLW----CVKLLV-E-NGANVHIRA--
->A0A0A6YYF3#human ['A0A0A6YYF3_HUMAN Pro ;52;147
+>A0A0A6YYF3 ['A0A0A6YYF3_HUMAN Pro ;52;147
 -----------------------------VGLAAREGNVK--VLRKLLK-------------KG-----RSVDV-ADNRGWM--PIHEAAY-HNSVE------C---------LQML-INAD-SSEN---YIKMKTFEG-FCA-------L-HLAASQ--------------------GHWKIVQILL-E-AGADPNATT--
 >TGGT1_244060 | organism=Toxoplasma_gond ;417;509
 ---------------------------------ASHAVRQ--AVTSSPAASA----------RSVP---TVAD-------SEDLPALMHAVITGDLD------L---------AELL-LQQG-ADPNIFV-----ESLGLPTP-------L-FQA--------------------VFWGDLKMVELLC-A-YGADLQIVK--
 >FBpp0211440 pep:known chromosome:GCA_00 ;242;313
 ----------------------------------------------------------------------SVNV-QSQNGFT--PLYMAAQ-ENHDA------V---------VRLL-LSNG-AN------QSLATEDG-FTP-------L-AVAMQQ--------------------GHDKVVAVLL-E-SDTRGKVRL--
->Q12955#human ['ANK3_HUMAN Ankyrin-3 OS= ;503;595
+>Q12955 ['ANK3_HUMAN Ankyrin-3 OS= ;503;595
 -----------------------------LHISARLGKAD--IVQQLLQ-------------QG-----ASPNA-ATTSGYT--PLHLSAR-EGHED------V---------AAFL-LDHG-AS------LSITTKKG-FTP-------L-HVAAKY--------------------GKLEVANLLL-Q-KSASPDAAG--
->Q8N8A2#human ['ANR44_HUMAN Serine/threo ;276;369
+>Q8N8A2 ['ANR44_HUMAN Serine/threo ;276;369
 -----------------------------LHFAAASTHGA--LCLELLVN------------NG-----ADVNI-QSKDGKS--PLHMTAV-HGRFT------R---------SQTL-IQNG-GE------IDCVDKDG-NTP-------L-HVAARY--------------------GHELLINTLI-T-SGADTAKCG--
 >ENSMUSP00000024958.7 pep:known chromoso ;7;112
 -----------------------------LVQAVKAEDVG--TAQRLLQRPRPGKAKLLGSTKK-----INVNF-QDPDGFS--ALHHAAL-NGNTE------L---------ISLL-LEAQ-AA------VDIKDNKG-MRP-------L-HYAAWQ--------------------GRKEPMKLVL-K-AGSAVNVPS--
@@ -58,7 +58,7 @@ ATRKFNRMASEEEAKIISPPAKKKPEKTALHWAAKHGN-E--DVVKLIA-------------GT-----YKAD-VNARTG
 ----------------------------------EEAMLS--DAERWLSS------------DA-----AEVDRPHPKTGAT--ALHVAAA-KGYTN------V---------LSLL-LEGR-GN------VDRQDNDG-WTP-------L-HAASHW--------------------GQQETSRMLV-E-SLADMDIRN--
 >TGGT1_219210 | organism=Toxoplasma_gond ;133;218
 ------------------------------EGADQQASTE--VVKELLEA-------------------------RTPSGGT--ALTTAAA-KGHTA------V---------VEAL-LDAG-AN------IEATDNYG-RTA-------L-SKAVVA--------------------SKEATVEALM-R-RGASLRVQE--
->Q04721#human ['NOTC2_HUMAN Neurogenic l ;1849;1943
+>Q04721 ['NOTC2_HUMAN Neurogenic l ;1849;1943
 -------------------------------EDAEDSSAN--IITDLVY-------------QG-----ASLQAQTDRTGEM--ALHLAAR-YSRAD------A---------AKRL-LDAG-AD------ANAQDNMG-RCP-------L-HAAVAA--------------------DAQGVFQILIRN-RVTDLDARMND
 >ENSMUSP00000031866.5 pep:known chromoso ;6;98
 -----------------------------FMWALKNGDLD--EVKDYVA-------------KG-----EDVNR-TLEGGRK--PLHYAAD-CGQLE------I---------LEFL-LLKG-AD------INAPDKHH-ITP-------L-LSAVYE--------------------GHVSCVKLLL-S-KGADKTVKG--
@@ -66,9 +66,9 @@ ATRKFNRMASEEEAKIISPPAKKKPEKTALHWAAKHGN-E--DVVKLIA-------------GT-----YKAD-VNARTG
 ------------------------------------------------------------------------DT-RGKVRLP--ALHIAAK-KDDVK------A---------ATLL-LDND-HN------PDVTSKSG-FTP-------L-HIASHY--------------------GNQNIANLLI-Q-KGADVNYSA--
 >TGGT1_308810B | organism=Toxoplasma_gon ;745;843
 --------------------------LHYVARYPTLENYE--SLFLLLK-------------YG-----SPVNV-RDVGGRT--PLMIAAR-SSHPF------SK------LFARAL-IDRN-AD------VTARDKAG-LSA-------L-HYAAAS--------------------NSCKLVKLLI-N-RGADVMSQD--
->Q99549#human ['MPP8_HUMAN M-phase phosp ;659;727
+>Q99549 ['MPP8_HUMAN M-phase phosp ;659;727
 ----------------------------------------------------------------------FVNV-QQSNGET--ALMKACK-RGNSD------I---------VRLV-IECG-AD------CNILSKHQ-NSA-------L-HFAKQS--------------------NNVLVYDLLK-N-HLETLS-----
->Q14161#human ['GIT2_HUMAN ARF GTPase-ac ;137;229
+>Q14161 ['GIT2_HUMAN ARF GTPase-ac ;137;229
 -----------------------------LHSSVRTGNLE--TCLRLLS-------------LG-----AQANFFHPEKGNT--PLHVASK-AGQIL------Q---------AELL-AVYG-AD------PGTQDSSG-KTP-------V-DYARQG--------------------GHHELAERLV-E---IQYELTDR-
 >AT4G19150.1_1338 , AT4G19150.1 ;16;80
 -------------------------ASADLHSAARSGDLA---------------------------------------------------------------A---------VQSI-ISSN-PLA-----VNSRDKHS-RTP-------L-HLAAWA--------------------GHNEVVSYLC-K-NKADVGAAA--
@@ -80,23 +80,23 @@ ATRKFNRMASEEEAKIISPPAKKKPEKTALHWAAKHGN-E--DVVKLIA-------------GT-----YKAD-VNARTG
 --------------------------------MVHTPRKK--MTKQLTG--------------------KRDDT----------PLHSAAR-SGNLD-----VVRDILNDAQEDE-L-LELL-AR------QNQ---DG-ETA-------L-YVAAEY--------------------GYIDVVRGMI-Q-Y-YDLACAGIK
 >ENSMUSP00000014421.8 pep:known chromoso ;234;327
 -----------------------------LAEACSEGDVN--AVRKLLI-------------EG-----RSVNE-HTEEGES--LLCLACS-AGYYE------L---------AQVL-LAMH-AN------VEDRGIKGDITP-------L-MAAANG--------------------GHVKIVKLLL-A-HKADVNAQS--
->Q9ULJ7#human ['ANR50_HUMAN Ankyrin repe ;486;575
+>Q9ULJ7 ['ANR50_HUMAN Ankyrin repe ;486;575
 -------------------------------LSTLIPKEQ--EVLQLLV--------------------K---A----------GAHVNSE-DDRTS----CIVRQALEREDSIRTL-LDNG-AS------VNQCDSNG-RTL-------L-ANAAYS--------------------GSLDVVNLLV-S-RGADLEIED--
->P16157#human ['ANK1_HUMAN Ankyrin-1 OS= ;363;434
+>P16157 ['ANK1_HUMAN Ankyrin-1 OS= ;363;434
 ----------------------------------------------------------------------KPNS-RALNGFT--PLHIACK-KNHVR------V---------MELL-LKTG-AS------IDAVTESG-LTP-------L-HVASFM--------------------GHLPIVKNLL-Q-RGASPNVSN--
->Q9Y2X7#human ['GIT1_HUMAN ARF GTPase-ac ;137;229
+>Q9Y2X7 ['GIT1_HUMAN ARF GTPase-ac ;137;229
 -----------------------------LHSSVRTGNLE--TCLRLLS-------------LG-----AQANFFHPEKGTT--PLHVAAK-AGQTL------Q---------AELL-VVYG-AD------PGSPDVNG-RTP-------I-DYARQA--------------------GHHELAERLV-E---CQYELTDR-
->O75832#human ['PSD10_HUMAN 26S proteaso ;4;103
+>O75832 ['PSD10_HUMAN 26S proteaso ;4;103
 -----------------------CVSNLMVCNLAYSGKLE--ELKESILA------------DK-----SLATR-TDQDSRT--ALHWACS-AGHTE------I---------VEFL-LQLG-VP------VNDKDDAG-WSP-------L-HIAASA--------------------GRDEIVKALL-G-KGAQVNAVN--
 >YGR233C pep:known chromosome:R64-1-1:VI ;402;488
 --------------------------ALTTSKLSKETV-------QKLLNA------------------------QDIHSRV--PLHYAAE-LGKLE------F---------VHSL-LITNLLED-----VDPIDSDS-KTP-------L-VLAITN--------------------NHIDVVRDLL-TIGGANASP----
 >ENSMUSP00000113571.2 pep:known chromoso ;49;141
 -----------------------------FLRAARSGNLD--KALDHLR-------------NG-----VDINT-CNQNGLN--GLHLASK-EGHVK------M---------VVEL-LHKE-II------LETTTKKG-NTA-------L-HIAALA--------------------GQDEVVRELV-N-YGANVNAQS--
->O95271#human ['TNKS1_HUMAN Tankyrase-1  ;186;279
+>O95271 ['TNKS1_HUMAN Tankyrase-1  ;186;279
 -----------------------------LLEACRNGDVS--RVKRLVD--------------A-----ANVNA-KDMAGRKSSPLHFAAG-FGRKD------V---------VEHL-LQMG-AN------VHARDDGG-LIP-------L-HNACSF--------------------GHAEVVSLLL-C-QGADPNARD--
 >ENSMUSP00000014640.7 pep:known chromoso ;527;613
 --------------------------------------ET--PLDVLME-------------TSGTDMLSDSDN-RATI--S--PLHLAAY-HGHHQ------A---------LEVL-VQSL-LD------LDVRNSSG-RTP-------L-DLAAFK--------------------GHVECVDVLI-N-QGASILVKD--
->Q8IUH5#human ['ZDH17_HUMAN Palmitoyltra ;61;154
+>Q8IUH5 ['ZDH17_HUMAN Palmitoyltra ;61;154
 -----------------------------IVKATQYGIYE--RCRELVE-------------AG-----YDVRQ-PDKENVT--LLHWAAI-NNRID------L---------VKYY-ISKG-AI------VDQLGGDLNSTP-------L-HWATRQ--------------------GHLSMVVQLM-K-YGADPSLID--
 >ENSMUSP00000025631.6 pep:known chromoso ;77;170
 -----------------------------LHEAAKRGNLS--WLRECLD-------------NR-----VGVNG-LDKAGST--ALYWACH-GGHKD------I---------VEVL-FTQP-NVE-----LNQQNKLG-DTA-------L-HAAAWK--------------------GYADIVQLLL-A-KGARTDLRN--
@@ -106,23 +106,23 @@ ATRKFNRMASEEEAKIISPPAKKKPEKTALHWAAKHGN-E--DVVKLIA-------------GT-----YKAD-VNARTG
 -----------------------------------EIKKT--MTKQMTA--------------------RRDDT----------PLHTAVR-EGKTD-----LLLEMIGEHDGVE-L-KELL-AE------QNQ---SG-ETA-------L-YVAAEY--------------------GYTDMVKILM-K-H-SDSVLA---
 >ENSMUSP00000103571.1 pep:known chromoso ;184;277
 ------------------------------LEYVQLGTSD--KVARLLD-------------KG-----LDPNYHDSDSGET--PLTLAAQTEGSVE------V---------IRTL-CLGG-AH------IDFRARDG-MTA-------L-HKAACA--------------------RHCLALTALL-D-LGGSPNYKD--
->O75762#human ['TRPA1_HUMAN Transient re ;40;128
+>O75762 ['TRPA1_HUMAN Transient re ;40;128
 ----------------------FEGSAYGLQNFNKQKK---------LKRC------------------------DDMDTFF---LHYAAA-EGQIE------L---------MEKI-TRDSSLEV-----LHEMDDYG-NTP-------L-HCAVEK--------------------NQIESVKFLL-S-RGANPNLRN--
 >ENSMUSP00000063999.5 pep:known chromoso ;136;200
 ------------------------YSVYPIIWAAGRGHAD--IVHLLLQ-------------NG-----AKVNC-SDKYGTT--PLVWAAR-KGHLE------C---------VKHL-LAMG-AD--------VDQEG----------------------------------------------------------------
 >FBpp0112713 pep:known chromosome:BDGP6: ;508;605
 -----------------------------LHIAVEANAID--ALEAFVELKN----------KSHD---IDFNC-QDINGDSPLSLCLSLKRT---T------L---------VPTL-IRGG-SDVN-------GKNKNNLSP-------L-HQS--------------IKNE------DSDISLFLL-E-QGADITALT--
->O75179#human ['ANR17_HUMAN Ankyrin repe ;1222;1315
+>O75179 ['ANR17_HUMAN Ankyrin repe ;1222;1315
 -----------------------------LMLAAMNGHTA--AVKLLLD-------------MG-----SDINA-QIETNRNTA-LTLACF-QGRTE------V---------VSLL-LDRK-AN------VEHRAKTG-LTP-------L-MEAASG--------------------GYAEVGRVLL-D-KGADVNAPP--
->P20749#human ['BCL3_HUMAN B-cell lympho ;280;367
+>P20749 ['BCL3_HUMAN B-cell lympho ;280;367
 ----------------------------LIH-AVENNSLS--MVQLLLQ-------------HG-----ANVNA-QMYSGSS--ALHSASG-RGLLP------L---------VRTL-VRSG-AD------SSLKNCHN-DTP-------L-MVARSR-----------------------RVIDILR-G-KATRPAS----
 >FBpp0083947 pep:known chromosome:BDGP6: ;977;1046
 ---------------------------------------Q-----------------------------------TTSNDHT--ALSLACA-GGHQS------V---------VELL-LKNN-ADP----FHKLKDN---STM-------L-IEASKG--------------------GHTRVVELLF---RYPNISPTENA
->O75832#human ['PSD10_HUMAN 26S proteaso ;101;169
+>O75832 ['PSD10_HUMAN 26S proteaso ;101;169
 -------------------------------------------------------------------------A-VNQNGCT--PLHYAAS-KNRHE------I---------AVML-LEGG-AN------PDAKDHYE-ATA-------M-HRAAAK--------------------GNLKMIHILL-Y-YKASTNIQD--
->Q9Y575#human ['ASB3_HUMAN Ankyrin repea ;14;109
+>Q9Y575 ['ASB3_HUMAN Ankyrin repea ;14;109
 -----------------------------VGLAAREGNVK--VLRKLLK-------------KG-----RSVDV-ADNRGWM--PIHEAAY-HNSVE------C---------LQML-INAD-SSEN---YIKMKTFEG-FCA-------L-HLAASQ--------------------GHWKIVQILL-E-AGADPNATT--
->Q8IWZ3#human ['ANKH1_HUMAN Ankyrin repe ;1194;1287
+>Q8IWZ3 ['ANKH1_HUMAN Ankyrin repe ;1194;1287
 -----------------------------LMLAAMNGHVP--AVKLLLD-------------MG-----SDINA-QIETNRNTA-LTLACF-QGRAE------V---------VSLL-LDRK-AN------VEHRAKTG-LTP-------L-MEAASG--------------------GYAEVGRVLL-D-KGADVNAPP--
 >ENSMUSP00000015277.7 pep:known chromoso ;91;184
 -----------------------------LSIAAAHGDLE--TVQFLLTE-------------------KRVELPTEPTDDN--PAVVAAH-FGHAE------V---------VREL-LESLPGP---------------CTPQRLLNWML-ALACQR--------------------GHLEVVKLLVLT-HGADPENYA--

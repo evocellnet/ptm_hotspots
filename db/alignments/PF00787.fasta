@@ -2,19 +2,19 @@
 -------RVIYENPTNISS-------WIPFYNRIKVYHLFIIELQNDNQ-------------------DTYYIAKSYQNFKTLHNKL-----KKKF---------PGLFT----------------------EIHLPSHK-DK---------------------------------------------------HD--NGWEINNDKESL----------------------------------------AYEEEEDTTSC-----------------------------SNEKILIREKMR--------------LSLRGYLKSL--------------MKIPEVAH-CTILSEFLTTN----------
 >TriadP52092 pep:annotated scaffold:ASM1 ;19;136
 ---TGIDMHVLDAVTTHSN-------GS---------ILYQIVVVTNLAEH-KGSNFI------QDDVVHFVVKHDYGAFEGFYSKL-----SESY---------PASIL----------------------P-PLPGKAFI------------------------------------------ATESTI------------------------------------------------------------------------------------------------------------KKRK--------------RMLNALMEFI--------------ASSSKLSN-CEIVQQFLGVK----------
->Q96L92#human ['SNX27_HUMAN Sorting nexi ;161;265
+>Q96L92 ['SNX27_HUMAN Sorting nexi ;161;265
 -----QAVPISVP-RYKHV-------EQN----GEKFVVYNVYMAGR--------------------QL---CSKRYREFAILHQNL-----KREF---------ANFTF----------------------P-RLPGKWPFSL----------------------------------------SEQQ-L------------------------------------------------------------------------------------------------------------DARR--------------RGLEEYLEKV--------------CSIRVIGE-SDIMQEFLSES----------
 >ENSMUSP00000102904.1 pep:known chromoso ;159;263
 -----QAVPISVP-TYKHV-------EQN----GEKFVVYNVYMAGR--------------------QL---CSKRYREFAILHQNL-----KREF---------ANFTF----------------------P-RLPGKWPFSL----------------------------------------SEQQ-L------------------------------------------------------------------------------------------------------------DARR--------------RGLEEYLEKV--------------CSIRVIGE-SDIMQEFLSES----------
->P57768#human ['SNX16_HUMAN Sorting nexi ;108;214
+>P57768 ['SNX16_HUMAN Sorting nexi ;108;214
 ----------STP---------T-ILGYEVMEERAKFTVYKILVKKT-------------------PEESWVVFRRYTDFSRLNDKL-----KEMF---------PGFRL----------------------A--LPPKRWFKDN---------------------------------------YNADFL------------------------------------------------------------------------------------------------------------EDRQ--------------LGLQAFLQNL--------------VAHKDIAN-CLAVREFLCLD----------
 >YMR004W pep:known chromosome:R64-1-1:XI ;129;243
 --ADIIII------EEIPERE-----GL-----LFKHANYLVKHLIALPST-SPS-------------EERTVVRRYSDFLWLREIL-----LKRY---------PFRMI----------------------P-ELPPKRIGSQN---------------------------------------ADQLFL------------------------------------------------------------------------------------------------------------KKRR--------------IGLSRFINLV--------------MKHPKLSN-DDLVLTFLTVR----------
 >A7TRX2_VANPO ;294;504
 ---LFSKLSMSENKKSVV--------------KPKHKYHFIIKARIQSETN-------------PSRSNTIYCAKTYDDFKKLAHDL-----KAEY---------PGKDI----------------------P-KLPHK--NKKSISITTT-----------------ATYPVIDEG----LRTPKEKIIST--FQI-DDEDIPSISSQL------GNDSLPN-DNG--------------GSKRNGMSYHFGNNEDIDDY------DENLVEDEEDDEGDSEEFHDTVDTKNSVLPRERLR--------------TSLRQYIRSL--------------SLDEEISK-CSYFTNFFHSN----------
->Q9Y5X3#human ['SNX5_HUMAN Sorting nexin ;28;169
+>Q9Y5X3 ['SNX5_HUMAN Sorting nexin ;28;169
 --DPSLQIDIPDA------------LS------ERDKVKFTVHTKTTLPTF-QSP--------------EFSVTRQHEDFVWLHDTL-----IETTD-------YAGLII----------------------P-PAPTKPDFDGPREKM--QKLGE------------------GEG-----SMTKEEFA------------------------------------------------------------------------------------------------------------KMKQELEAEYLAVFKKTVSSHEVFLQRL--------------SSHPVLSK-DRNFHVFLEYD----------
->O14939#human ['PLD2_HUMAN Phospholipase ;64;192
+>O14939 ['PLD2_HUMAN Phospholipase ;64;192
 ---PVTAQVVGTE-RYTS--------GSK----VGTCTLYSVRLTHG--------------------DFSWTTKKKYRHFQELHRDL-----LRHK---------VLMSLL-PLARFAVAYSPARDAGNREMP-SLPRAGPEGS----------------------------------------TRHA--------------------------------------------------------------------------------------------------------------ASKQ--------------KYLENYLNRL--------------LTMSFYRN-YHAMTEFLEVS----------
 >TGGT1_309870 | organism=Toxoplasma_gond ;417;525
 -----FAVSVSDP-ETRST-------G-----PLGRFTLYLVSGRTVAGA-------------------PFACRKRYSDFEWLRMQL-----VQAF---------PGVFV----------------------P-PIPRKQKLGR----------------------------------------FDSSFV------------------------------------------------------------------------------------------------------------ENRR--------------QGLQEFLQRL--------------FRRRHLAKCSVCVGWLTRS-----------
@@ -50,17 +50,17 @@
 --QFDLTVGITDP-EKIGD-------G------MNAYVAYKVTTQTSLPMF-RSR--------------QFAVKRRFSDFLGLYEKL-----SEKHS-------QNGFIV----------------------P-PPPEKSLIGMTKVKVGKEDSS------------------------------SAEFL------------------------------------------------------------------------------------------------------------EKRR--------------AALERYLQRI--------------VNHPTMLQ-DPDVREFLEKE----------
 >Sbay_16.424 ;276;490
 ------KLSLGVPSSKGN--------------RSRKHHSFLIKIKKQENDDGKNSGDNDENG-----SEYRYISKTYNDFKKLSHDL-----KSEF---------PGKKC----------------------P-RLPHR--NKKVTSMVTKTEVLR--------NSRSKA-------------TTRERIVNT--FD----TDIQSASDS-------E------TTTESSVIEATFTEKDTETLKKNILN-EIKEEENAE---------EE-DEDEEGEESDFDEYKDASDSKVNTLVGEKMR--------------TSLRQYLRSL--------------CKDLEVSQ-SVSLHRFFLS-----------
->Q9NRS6#human ['SNX15_HUMAN Sorting nexi ;7;125
+>Q9NRS6 ['SNX15_HUMAN Sorting nexi ;7;125
 -DDFLRHYTVSDP-RTHPK-------G---------YTEYKVTAQFI-----SKK--D------PEDVKEVVVWKRYSDFRKLHGDL-----AYTHRNL--------------FRRL------------EEFP-AFPRAQVFGR----------------------------------------FEASVI------------------------------------------------------------------------------------------------------------EERR--------------KGAEDLLRFT--------------VHIPALNN-SPQLKEFFRG-----------
 >Smik_16.337 ;276;493
 ------KLSLGVPSVKSN--------------GSRKHHHFLIKIKEQKDED-HKYG---------CPTEFFYITRTFSDFKKLSHNL-----RSEF---------PGKKC----------------------P-RLPHR--NKKVTSMVTKIEVLH--------NSQSKS-------------STRERIIST--FD----TDMQSVSES-------DTSSFLQPINEISTTETVLTEKETEILRNNILD-EIKEEENIDK-------DEE-DGDGECEESDFDDYKDTSDSKVNTLVGEKMR--------------TSLRQYLRSL--------------CKDVEISQ-SVSLRRFFLN-----------
 >AT5G06140.1_464 , AT5G06140.1 ;23;139
 --HPYLSVSVTDP-VKLGN-------G------VQAYISYRVITKTNLPEY-QGP--------------EKIVIRRYSDFVWLRDRL-----FEKY---------KGIFI----------------------P-PLPEKSAVEKFRF--------------------------------------SAEFI------------------------------------------------------------------------------------------------------------EMRR--------------AALDIFVNRI--------------ALHPELQQ-SEDLRTFLQAD----------
->O60493#human ['SNX3_HUMAN Sorting nexin ;26;148
+>O60493 ['SNX3_HUMAN Sorting nexin ;26;148
 --SNFLEIDVSNP-QTVGV-------G------RGRFTTYEIRVKTNLPIF-KLK--------------ESTVRRRYSDFEWLRSEL-----ERE----------SKVVV----------------------P-PLPGKAFLRQLPFR--------------------------GDD-----GIFDDNFI------------------------------------------------------------------------------------------------------------EERK--------------QGLEQFINKV--------------AGHPLAQN-ERCLHMFLQDE----------
 >ENSRNOP00000051352.3 pep:known chromoso ;140;265
 ---FDIEIGVSDP-EKVGD-------G------MNAYMAYRVTTKTSLSMF-SKS--------------EFSVKRRFSDFLGLHSKL-----ASKYL-------HVGYIV----------------------P-PAPEKSIVGMTKVKVGKEDSS------------------------------STEFV------------------------------------------------------------------------------------------------------------EKRR--------------AALERYLQRT--------------VKHPTLLQ-DPDLRQFLESS----------
->Q9Y5X1#human ['SNX9_HUMAN Sorting nexin ;247;357
+>Q9Y5X1 ['SNX9_HUMAN Sorting nexin ;247;357
 --TSTFDCVVADP-RKGSK-------MYG----LKSYIEYQLTPTNT--------------------NR--SVNHRYKHFDWLYERL-----LVKFG--------SAIPI----------------------P-SLPDKQVTGR----------------------------------------FEEEFI------------------------------------------------------------------------------------------------------------KMRM--------------ERLQAWMTRM--------------CRHPVISE-SEVFQQFLNFR----------
 >C4R558_PICPG ;225;424
 KLVDVTKYTVKSD------------------EPLSKNRTYRFDLEYGVGPT----------------RHKWSVTKSIKDIAALHSRL-----KVSFFQENALRGTKDVEL----------------------P-KFPKISNYIQKFKQTQYQRKKDE------RQHSRGNSPSPRRA----SHSVDQQDVTS--VNSLSSLRTNSSARELFNNFVTRMSSAVHQTDQR----------------------SFPLDLSYTSVF------------------------------------EEYR--------------EALDDYLKEL--LIVLTLRPQ------------SNKLFQFFELS----------
@@ -68,13 +68,13 @@ KLVDVTKYTVKSD------------------EPLSKNRTYRFDLEYGVGPT----------------RHKWSVTKSIKDI
 --ANFLEIDVVNPLTTMAA-------G------KKRYTDYEVRMRTNLPVF-KVK--------------ESSVRRRYSDFEWLRNEL-----ERD----------SKIVV----------------------P-PLPGKAWKRQMPFR--------------------------GDE-----GIFDESFI------------------------------------------------------------------------------------------------------------EERR--------------KGLEAFINKI--------------AGHPLAQN-ERCLHMFLQEN----------
 >ENSMUSP00000080325.2 pep:known chromoso ;5;124
 ---CVQDATVVD---------------VEKRRSPSKHYVYIINVTWS-------------------DSTSQTIYRRYSKFFDLQMQL-----LDKFPIEGGQKDPKQRII----------------------P-FLPGKILFRR--------------------------------------SHIRDVAV------------------------------------------------------------------------------------------------------------K-RL--------------KPIDEYCRAL----V---------RLPPHISQ-CDEVFRFFEAR----------
->Q13596#human ['SNX1_HUMAN Sorting nexin ;142;268
+>Q13596 ['SNX1_HUMAN Sorting nexin ;142;268
 --QFDLTVGITDP-EKIGD-------G------MNAYVAYKVTTQTSLPLF-RSK--------------QFAVKRRFSDFLGLYEKL-----SEKHS-------QNGFIV----------------------P-PPPEKSLIGMTKVKVGKEDSS------------------------------SAEFL------------------------------------------------------------------------------------------------------------EKRR--------------AALERYLQRI--------------VNHPTMLQ-DPDVREFLEKE----------
 >ENSMUSP00000038430.9 pep:known chromoso ;562;677
 -----LHAYISDT-------------GVCN-DHGKTYALYAITVHRR----------N------LNTEEMWKTYRRYSDFHDFHMRI-----TEQFE--------NLSSI----------------------L-KLPGKKTFNN----------------------------------------MDRDFL------------------------------------------------------------------------------------------------------------EKRK--------------KDLNAYLQLL-------LTPEMM-KASPALAH---CVYDFLENK----------
 >ENSMUSP00000019939.5 pep:known chromoso ;26;148
 --SNFLEIDVSNP-QTVGV-------G------RGRFTTYEIRVKTNLPIF-KLK--------------ESTVRRRYSDFEWLRSEL-----ERE----------SKVVV----------------------P-PLPGKAFLRQLPFR--------------------------GDD-----GIFDDNFI------------------------------------------------------------------------------------------------------------EERK--------------QGLEQFINKV--------------AGHPLAQN-ERCLHMFLQDE----------
->Q96L94#human ['SNX22_HUMAN Sorting nexi ;7;108
+>Q96L94 ['SNX22_HUMAN Sorting nexi ;7;108
 ------------P-SVGPEAE-----GPRQ-SPEKSHMVFRVEVLCS--------------------GRRHTVPRRYSEFHALHKRI-----KKLYK------------V----------------------P-DFPSKRLPN-----------------------------------------WRTRGL------------------------------------------------------------------------------------------------------------EQRR--------------QGLEAYIQGI--------------LY--LNQEVPKELLEFLRLR----------
 >FBpp0124772 pep:known supercontig:GCA_0 ;71;202
 --DYFINIVVSDP-QKIGD-------G------MGSYLAYKVTTKTNIPKF-KRS--------------EFSTLRRFSDFLGIHDLL-----VGKYM-------RQGRII----------------------P-PAPSKNIIGSTKVKISPQQSEP------------------GTP-------MNQEWV------------------------------------------------------------------------------------------------------------EIRR--------------AALERFVHRT--------------AQHPILRV-DLDFMNFLESD----------
@@ -88,17 +88,17 @@ KLVDVTKYTVKSD------------------EPLSKNRTYRFDLEYGVGPT----------------RHKWSVTKSIKDI
 --SFFSKLSISDSGTK----------------LSKHETFFLLRIKQESNPD-----------------NTIFIAKSYEEFKKLSHQL-----KNEF---------PGKKL----------------------S-HLPHR--TKKSISVMTQPDNTNN------ANANNNKPPG----------TPKEKVVASMPLD---SPTTPSTPTLA------ASES------------------------------------ETSSI---------ADDTGSTDAWDLDEFQDASDVKSNHLIGERMR--------------TLLRQYLRSL--------------CGDEEVSC-SLNFSNFLTSG----------
 >MGG_00960T0 pep:known chromosome:MG8:5: ;270;484
 -----LRLRVTDS---------APLDG-----EGERHWLFTIELEYGSGPS----------------RMCWTVKRTIREILNLHWKYKLGIDNKKYSLTL-----PGTRP--------------RQ------P-RFPTSVFPYVRGLRGVDDEEEDNAASVRGDGDETAGYATGGEGTAAEGTDVEERGVLSR-----RGSRITRPNTIE-NRHKQSTTSLPG-----------------------LFNPNPDNHYAGSTV-------------------------DAAQLRRRYV--EKQR--------------KMLEKYLQET--------------VRWLMFRADSNRLCRFLELS----------
->O95219#human ['SNX4_HUMAN Sorting nexin ;56;184
+>O95219 ['SNX4_HUMAN Sorting nexin ;56;184
 ---KKIEISVSEA-EKRTGRN-----AMN---MQETYTAYLIETRSVEHTD-GQSV------------LTDSLWRRYSEFELLRSYL-----LVYY---------PHIVV----------------------P-PLPEK------RAEFVWHKLSA------------------DN--------MDPDFV------------------------------------------------------------------------------------------------------------ERRR--------------IGLENFLLRI--------------ASHPILCR-DKIFYLFLTQE----------
 >ENSMUSP00000029047.6 pep:known chromoso ;108;214
 ----------STP---------T-ILGYEVMEERAKFTVYKILVKKS-------------------PEESWVVFRRYTDFSRLNDKL-----KEMF---------PGFRL----------------------A--LPPKRWFKDN---------------------------------------YNAEFL------------------------------------------------------------------------------------------------------------EDRQ--------------LGLQAFLQNL--------------VAHKDIAN-CLAVREFLCLD----------
 >Q6FMH0_CANGA ;314;497
 -----SKSYLSVNSNEKNG-----------VRSKKSKYYFVIRTRRLNEPD-----------------AISYNFKTYNSFKKFSHRL-----KKEF---------PSKKL----------------------P-DLPSKKQDKKALRNIKKEQLNN--------------------------KTDQPNISSLM-LDDSNSKDIDEPSPI-------DDNSMKD------------------DLASNISSDDQDLDLDTQSI-------------------------DSAEEETKFLPYETLR--------------YTLRLYLRTL--------------SKDSDVVQ-SSIWKEFFKED----------
->O60749#human ['SNX2_HUMAN Sorting nexin ;140;265
+>O60749 ['SNX2_HUMAN Sorting nexin ;140;265
 ---FDIEIGVSDP-EKVGD-------G------MNAYMAYRVTTKTSLSMF-SKS--------------EFSVKRRFSDFLGLHSKL-----ASKYL-------HVGYIV----------------------P-PAPEKSIVGMTKVKVGKEDSS------------------------------STEFV------------------------------------------------------------------------------------------------------------EKRR--------------AALERYLQRT--------------VKHPTLLQ-DPDLRQFLESS----------
 >SAKL0B09064g ;263;455
 ----LSKLSLAGNPTT------------------KSKHIFIIRTRQEF-----------------SDGATAFAARTYEDFKNLAHNL-----KKEF---------PGKNL----------------------P-KLPHR--NKLGTSIVTS--NTS--------NSDSAGLPC----------TPKEKIISS--FS--------STSST-------PTTSLAE-TDGRS-----------TGSQANVMS----ANEKGSEM------QEE-EEEEEENEDYYEEFADANDTKSSNLPREKMR--------------TSLRQYLRTL--------------CQEKEVAF-SMSLKKFFIKS----------
->Q53T59#human ['H1BP3_HUMAN HCLS1-bindin ;22;138
+>Q53T59 ['H1BP3_HUMAN HCLS1-bindin ;22;138
 ---------LTVPQHQEVR-------GK----MMSGHVEYQILVVTRLAAF-KSAKHR------PEDVVQFLVSKKYSEIEEFYQKL-----SSRY---------AAASL----------------------P-PLPRKVL------------------------------------------FVGESDI------------------------------------------------------------------------------------------------------------RERR--------------AVFNEILRCV--------------SKDAELAG-SPELLEFLGTR----------
 >FBpp0082110 pep:known chromosome:BDGP6: ;30;153
 --ANFLEIDVVNPLTTMAA-------G------KKRYTDYEVRMRTNLPVF-KVK--------------ESSVRRRYSDFEWLRNEL-----ERD----------SKIVV----------------------P-PLPGKAWKRQMPFR--------------------------GDE-----GIFDESFI------------------------------------------------------------------------------------------------------------EERR--------------KGLEAFINKI--------------AGHPLAQN-ERCLHMFLQEN----------
@@ -110,13 +110,13 @@ KLVDVTKYTVKSD------------------EPLSKNRTYRFDLEYGVGPT----------------RHKWSVTKSIKDI
 --TSTFDCVVADP-RKGSK-------MYG----LKSYIEYQLTPTNT--------------------NR--SVNHRYKHFDWLYERL-----LVKFG--------SAIPI----------------------P-SLPDKQVTGR----------------------------------------FEEEFI------------------------------------------------------------------------------------------------------------KMRM--------------ERLQAWMTRM--------------CRHPVVSE-SEVFQQFLNFR----------
 >YOR357C pep:known chromosome:R64-1-1:XV ;33;158
 --ENFLEIEVHNPKTHIPN-------GMD---SKGMFTDYEIICRTNLPSF-HKR--------------VSKVRRRYSDFEFFRKCL-----IKEISML----NHPKVMV----------------------P-HLPGKILLSNR---------------------------------------FSNEVI------------------------------------------------------------------------------------------------------------EERR--------------QGLNTWMQSV--------------AGHPLLQSGSKVLVRFIEAE----------
->Q9UMY4#human ['SNX12_HUMAN Sorting nexi ;27;149
+>Q9UMY4 ['SNX12_HUMAN Sorting nexi ;27;149
 --SNFLEIDIFNP-QTVGV-------G------RARFTTYEVRMRTNLPIF-KLK--------------ESCVRRRYSDFEWLKNEL-----ERD----------SKIVV----------------------P-PLPGKALKRQLPFR--------------------------GDE-----GIFEESFI------------------------------------------------------------------------------------------------------------EERR--------------QGLEQFINKI--------------AGHPLAQN-ERCLHMFLQEE----------
 >EDO99246 pep:novel supercontig:v3.1:DS4 ;15;130
 --------------------------GKD--DNGEPVVLYRVNVFLQQHNQ-DGSDAASAQSPGTDAAAPFFVLRRYSQFRHLHDQL-----KSAF---------PAVMS-----------------GS---P-EIAGSPQFKS-------------------------------------FLEFDRALARAQ---------------------------------------------------------------------------------------------------------QQQR--------------RKLEAQSRSD-----------------------VRRLVELLVA-----------
 >FBpp0077206 pep:known chromosome:BDGP6: ;72;203
 --DYFISIVVSDP-QKIGD-------G------MGSYLAYKVTTKTNIPKF-KRS--------------EFSTLRRFSDFLGIHDLL-----VGKYM-------RLGRII----------------------P-PAPSKNIIGSTKVKISPQQSEP------------------GTP-------MTQEWV------------------------------------------------------------------------------------------------------------EIRR--------------AALERFVHRT--------------AQHPVLRV-DLDFMNFLESD----------
->Q15036#human ['SNX17_HUMAN Sorting nexi ;2;105
+>Q15036 ['SNX17_HUMAN Sorting nexi ;2;105
 ------HFSIPETESRSGD-------S-----GGSAYVAYNIHVN-----------------------GVLHCRVRYSQLLGLHEQL-----RKEY---------GANVL----------------------P-AFP----PKKLFSL-----------------------------------TPAE---------------------------V-----------------------------------------------------------------------------------EQRR--------------EQLEKYMQAV--------------RQDPLLGS-SETFNSFLRRA----------
 >PF00787_1ocs_A_34_157 A; 34; 157
 ---NFLEIEVHNPKTHIPN-------GMD---SKGMFTDYEIICRTNLPSF-HKR--------------VSKVRRRYSDFEFFRK-L-----IKEISML----NHPKVMV----------------------P-HLPGKILLSNR---------------------------------------FSNEVI------------------------------------------------------------------------------------------------------------EERR--------------QGLNTWMQSV--------------AGHPLLQSGSKVLVRFIEA-----------

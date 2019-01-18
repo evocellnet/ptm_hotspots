@@ -8,7 +8,7 @@ IKQQDDFDFQENLRMFNK-QDVFAKLKEQ------------------DKIEQKSRLVSHNIKD--------RKFDTDELV
 IKLQDDFDFQGNLNMFNK-KDVFAQLKQQ------------------DDVAPELRLVAHNKKKDYEKP---KNFNIDEMVIPNA-------------KEDS-------WHKIDSER--PQQQKSDGYLDFESGTDDDDVDDHEDRQLSNTR-DRKNNNQIKH---NVEDDDDDDDEGLEFHDADE
 >FBpp0212785 pep:known chromosome:GCA_00 ;400;489
 IKFEGDFDFEQANNKFEELRSQLAKLKVA-----------------EDGAPKPATNATA------------ANTTATNEQVGEK-------------VEG--------VHTLNGET--DKKDDS-----------------GNETGAGEHE-PEEDDVAV-------------------------
->Q8ND56#human ['LS14A_HUMAN Protein LSM1 ;290;400
+>Q8ND56 ['LS14A_HUMAN Protein LSM1 ;290;400
 MKFEKDFDFESANAQFNK-EEIDREFHNKLKLKEDKLEKQEKPVNGEDKGDSG---VDTQNSEGNA----DEEDPLGPNCYYDK-------------TKSF-------FDNISCD-----DNRE-----------------RRPTWAEERR-LNAETFGIPL-----------------------
 >FBpp0275014 pep:known supercontig:GCA_0 ;489;534
 ----------------------------------------------------------------------------DVHVGYDK-------------TKSF-------FDNISCEAA-QDR-KG-----------------KKNDWRQERK-LNTETFGVGS-----------------------
@@ -34,7 +34,7 @@ IKFEGDFDFEQANNKFEELRSQLAKLKVA-----------------EDGAPKPATNSTA------------TTTTATNEQ
 MKFEKDFDFESANAQFNK-EEIDREFHNKLKLKEDKLEKQEKPVNGEDKGDSG---VDTQNSEGNA----DEEDPLGPNCYYDK-------------TKSF-------FDNISCD-----DNRE-----------------RRPTWAEERR-LNAETFGIPL-----------------------
 >TriadP64222 pep:annotated scaffold:ASM1 ;310;400
 LKFDEDFDFEKANARFEK-ERLEQELSEKMN----------EELNITDGNEST---VSTSSA--------------NNQKFYNK-------------STSF-------FDSISCEA------NT-----------------KKPSWKNSNKSVNMETFGVGS-----------------------
->Q9BX40#human ['LS14B_HUMAN Protein LSM1 ;247;350
+>Q9BX40 ['LS14B_HUMAN Protein LSM1 ;247;350
 IKFEGDFDFESANAQFNR-EELDKEFKKKLNFKDDKAEK------GEEK-DLA---VVTQSAEAPA-----EEDLLGPNCYYDK-------------SKSF-------FDNISSEL----KTSS-----------------RRTTWAEERK-LNTETFGVSG-----------------------
 >C4QXF7_PICPG ;99;177
 DKLNEEFDFQSNLDKFDK-ESVFRELSAK------------------DNIDPNLRLAGHNKK---------VNYDHNEMVV-KK-------------EVDT-------WDN-------QQSIPT----------PIAPS---------------RSSTST-------------------------
@@ -46,7 +46,7 @@ ELPDTDFDFEGNLALFDK-AAVFEEIDTY------------------ERRSGSRSRGVPNER--------PARYRHDENI
 D---------------------------------------------------------------------------DVAVCYDK-------------TKSF-------FDNISCEAA-QDRSKN-----------------KKNDWRQERK-LNTETFGVSS-----------------------
 >FBpp0225906 pep:known supercontig:GCA_0 ;392;474
 IKFEGDFDFEQANNKFEELRSQLAKLKVG------------------DEPNKTTATTT-------------ATTTTTTSTTTDQ---------------------------LNGET--DKKDDS-----------------GNETGAGEHE-PEDEDVHVG------------------------
->Q96F86#human ['EDC3_HUMAN Enhancer of m ;198;301
+>Q96F86 ['EDC3_HUMAN Enhancer of m ;198;301
 EIPDTDFDFEGNLALFDK-AAVFEEIDTY------------------ERRSGTRSRGIPNER--------PTRYRHDENILESEPIVYRRIIVPHNVSKEFCTDSGLVVPSISYEL--HKKLLSV-----------------------------AEKHGLTL-----------------------
 >FBpp0113623 pep:known supercontig:GCA_0 ;400;489
 IKFEGDFDFEQANNKFEELRSQLAKLKVA------------------DEAAKSTANST-------------ATTTATNEQVGEK-------------VEGA-------AHTLNGET--DKKDDS-----------------GNETGAGEHE-PEEDDVHVG------------------------

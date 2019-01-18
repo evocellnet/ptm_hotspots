@@ -6,19 +6,19 @@
 --------------------------------------TLANIAHVYQD----------------------------------------------------PETGDWKA---HGDPTEIAIQVFAHKMDFPRTALTLE-------------NQSDSE------------------------------------------------------------------------------------------------SEVGSSTEK----LPEQEAQYKHVAEFPFDSSVKRMSAVYDSLKE------------NNRRHVFTKGAFERVLSCCTKW-
 >G0V6W4_NAUCC ;499;652
 --------------------------------------IVLNSTAFENKDFVDSANNLPFSTDERDPSQVKRAFEFV-RTHTRISI-SRDDNSDSGDDLI-QNAIKGRQEPYIGSKTETALLTLAKKS---------------------------------------------------------------------------------------------------MNLRF---------------------GSLRALREN----PVDRFEVSEIAQIIPFESTRKWGGIIVKYKES-------------NLYRFFIKGAAEIVSNNCHSK-
->Q9Y2G3#human ['AT11B_HUMAN Probable pho ;468;607
+>Q9Y2G3 ['AT11B_HUMAN Probable pho ;468;607
 S-------------SSFRTSPENETELIKEHDLFFKAVSLCHTVQISNVQTD-----------------------------CTGDG-PWQS-----------NLAPSQLEYYASSPDEKALVEAAARIGIVFIGNSEET------------MEV---------------------------------------------------------------------------------------------------------KTL------GKLERYKLLHILEFDSDRRRMSVIVQAPSG--------------EKLLFAKGAESSILPKC-IG-
->Q93084#human ['AT2A3_HUMAN Sarcoplasmic ;418;528
+>Q93084 ['AT2A3_HUMAN Sarcoplasmic ;418;528
 --------------------------------------ALCNDSALDYN----------------------------------------------------EAKGVYEK---VGEATETALTCLVEKMNVFDTDLQALSR----------VERAG--------------------------------------------------------------------------------------------------ACNTVIKQL-----------MRKEFTLEFSRDRKSMSVYCTPTRPH---------PTGQGSKMFVKGAPESVIERCSSV-
 >Smik_4.277 ;459;574
 --------------------------------------TLANIATVFRD----------------------------------------------------DTTDTWKA---HGDPTEIAIQVFATKMDLPRNALTGEKL----------TNQNNE-------------------------------------------------------------------------------------------------DDQSSLLQHNEK---PGSAQFEHIAEFPFDSTVKRMSSIYSNNHN-------------ETYNIYGKGAFESIISCCSCW-
->P54707#human ['AT12A_HUMAN Potassium-tr ;441;536
+>P54707 ['AT12A_HUMAN Potassium-tr ;441;536
 --------------------------------------TLCNRAEFKPG----------------------------------------------------QENVPIMKKAVIGDASETALLKFSEVIL----------------------------------------------------------------------------------------------------------------------------GDVMEIRKR-----------NRKVAEIPFNSTNKFQLSIHEMDDP-----------HGKRFLMVMKGAPERILEKCSTI-
 >A7TM31_VANPO ;453;572
 --------------------------------------TLATISTVFQD----------------------------------------------------KETQEWKA---HGDPTEIAIQVFAAKMDLPRSKLTGEVF----------GAQDKDD------------------------------------------------------------------------------------------------NSVSSMDEEQEKKTGSDSAQFVHVAEYPFDSTIKRMSAIYQNRDE-------------NTHEVYTKGAFEGVLNCCSYW-
 >FBpp0263652 pep:known chromosome:GCA_00 ;483;619
 ---------------------------------------LCHNVTPVSDDED--------------NRSV--------STASTVTG-GNNSPTKSVINIEAPGSTDTEHQYQAASPDEIALVKWTEQVGLTLIARDLNT------------MTLQ--------------------------------------------------------------------------------------------------VKTPSEDND-------ILLHYQILQLFPFTSESKRMGIIVRESKT-------------GQITFYLKGADVVM----SSIV
->Q13733#human ['AT1A4_HUMAN Sodium/potas ;434;528
+>Q13733 ['AT1A4_HUMAN Sodium/potas ;434;528
 --------------------------------------GLCNRADFKAN----------------------------------------------------QEILPIAKRATTGDASESALLKFIEQSY----------------------------------------------------------------------------------------------------------------------------SSVAEMREK-----------NPKVAEIPFNSTNKYQMSIHLREDS------------SQTHVLMMKGAPERILEFCSTF-
 >A3LTJ2_PICST ;850;986
 --------------------------------------ALCNTCLPRKDNTSK-------------NSSV--------LTLDDIDG-VQQQELRAK-----RNVEDSSISYQAASPDELALVQASKDLGFVVLDRQNNV------------LTIK--------------------------------------------------------------------------------------------------TYPEGFQKE------PKFEEYQVLEVIEFSSSRKRMSTVVRFPDG--------------RICLICKGADNVILEKLKYA-
@@ -30,7 +30,7 @@ S-------------SSFRTSPENETELIKEHDLFFKAVSLCHTVQISNVQTD----------------------------
 --------------------------------------ALCNDSALDYN----------------------------------------------------EAKGVYEK---VGEATETALTCLVEKMNVFDTDLKGLSR----------VERAG--------------------------------------------------------------------------------------------------ACNSVIKQL-----------MRKEFTLEFSRDRKSMSVYCTPTRAD---------PKVQGSKMFVKGAPESVIERCSSV-
 >FBpp0232383 pep:known supercontig:GCA_0 ;655;790
 ---------------------------------------LCHNVTPVSDEED--------------NRSV--------STASTVTG-GNNSPTKSVINIEAPGSTDTEHQYQAASPDEIALVKWTEQVGLTLIARDLNT------------MTLQ--------------------------------------------------------------------------------------------------VKTATEEND-------ILLHYQILQLFPFTSESKRMGIIVRESKS-------------GQITFYLKGADVVM----STI-
->P16615#human ['AT2A2_HUMAN Sarcoplasmic ;418;527
+>P16615 ['AT2A2_HUMAN Sarcoplasmic ;418;527
 --------------------------------------ALCNDSALDYN----------------------------------------------------EAKGVYEK---VGEATETALTCLVEKMNVFDTELKGLSK----------IERAN--------------------------------------------------------------------------------------------------ACNSVIKQL-----------MKKEFTLEFSRDRKSMSVYCTPNKPS---------RTSM-SKMFVKGAPEGVIDRCTHI-
 >Spar_4.336 ;94;209
 --------------------------------------TLANIATVFKD----------------------------------------------------DTTDGWKA---HGDPTEIAIQVFATKMDLPRSALTGEKS----------TNQSNE-------------------------------------------------------------------------------------------------NDQSSLLQHNEK---PGSAQFEHIAEFPFDSTVKRMSSVYYNNHN-------------ETYNIYGKGAFESIISCCSSW-
@@ -42,9 +42,9 @@ S-------------SSFRTSPENETELIKEHDLFFKAVSLCHTVQISNVQTD----------------------------
 --------------------------------------ALCNDSSLDFN----------------------------------------------------ETKGVYEK---VGEATETALTTLVEKMNVFNTEVRSLSK----------VERAN--------------------------------------------------------------------------------------------------ACNSVIRQL-----------MKKEFTLEFSRDRKSMSVYCSPAKSS---------RAAVGNKMFVKGAPEGVIDRCNYV-
 >TGGT1_312100 | organism=Toxoplasma_gond ;1049;1171
 --------------------------------------IALNSTAFLET--------------------------------EEVVV-AQGT----------GEETRFTQVKHVGSPTECALLAFQD-------------------------ERCG--------------------------------------------------------------------------------------------------GDYASTRRLYLG-----EDEVELIAREDFSSDRKMMTSVVRILKNSGDSTGATSPASPGLLRVFVKGAGERVLAQCSSV-
->P05023#human ['AT1A1_HUMAN Sodium/potas ;426;521
+>P05023 ['AT1A1_HUMAN Sodium/potas ;426;521
 --------------------------------------GLCNRAVFQAN----------------------------------------------------QENLPILKRAVAGDASESALLKCIELCC----------------------------------------------------------------------------------------------------------------------------GSVKEMRER-----------YAKIVEIPFNSTNKYQLSIHKNPNT-----------SEPQHLLVMKGAPERILDRCSSI-
->P50993#human ['AT1A2_HUMAN Sodium/potas ;424;518
+>P50993 ['AT1A2_HUMAN Sodium/potas ;424;518
 --------------------------------------GLCNRAVFKAG----------------------------------------------------QENISVSKRDTAGDASESALLKCIELSC----------------------------------------------------------------------------------------------------------------------------GSVRKMRDR-----------NPKVAEIPFNSTNKYQLSIHEREDS------------PQSHVLVMKGAPERILDRCSTI-
 >ENSMUSP00000088779.5 pep:known chromoso ;476;589
 --------------------------------------CLCHTVQVKDDHCG-----------------------------DDVDG-PQKSPD------------AKSCVYISSSPDEVALVEGVQRLGFTYLRLKDNY------------MEI--------------------------------------------------------------------------------------------------------LNRE------NDIERFELLEVLTFDSVRRRMSVIVKSTTG--------------EIYLFCKGADSSIFPRV--I-
@@ -54,17 +54,17 @@ S-------------SSFRTSPENETELIKEHDLFFKAVSLCHTVQISNVQTD----------------------------
 --------------------------------------GLCNRAVFKAG----------------------------------------------------QENISVSKRDTAGDASESALLKCIELSC----------------------------------------------------------------------------------------------------------------------------GSVRKMRDR-----------NPKVAEIPFNSTNKYQLSIHEREDS------------PQSHVLVMKGAPERILDRCSTI-
 >FBpp0080040 pep:known chromosome:BDGP6: ;652;788
 ---------------------------------------LCHNVTPVSDDED--------------NRSV--------STASTVTG-GNNSPTKSVINIEAPGSTDTEHQYQAASPDEIALVKWTEQVGLTLIARDLNT------------MTLQ--------------------------------------------------------------------------------------------------VKTPSEDND-------ILLHYQILQLFPFTSESKRMGIIVRESKT-------------GQITFYLKGADVVM----SSIV
->P13637#human ['AT1A3_HUMAN Sodium/potas ;416;511
+>P13637 ['AT1A3_HUMAN Sodium/potas ;416;511
 --------------------------------------GLCNRAVFKGG----------------------------------------------------QDNIPVLKRDVAGDASESALLKCIELSS----------------------------------------------------------------------------------------------------------------------------GSVKLMRER-----------NKKVAEIPFNSTNKYQLSIHETEDP-----------NDNRYLLVMKGAPERILDRCSTI-
 >YGL006W pep:known chromosome:R64-1-1:VI ;503;656
 --------------------------------------IVLNSTAFENRDYKKNDKNTNGSKN------MSKNLSFLDKCKSRLSFFKKGNREDDEDQLF-KNVNKGRQEPFIGSKTETALLSLARLS---------------------------------------------------------------------------------------------------LGLQP---------------------GELQYLRDQ----PMEKFNIEKVVQTIPFESSRKWAGLVVKYKEGK---------NKKPFYRFFIKGAAEIVSKNCSYK-
->Q01814#human ['AT2B2_HUMAN Plasma membr ;538;638
+>Q01814 ['AT2B2_HUMAN Plasma membr ;538;638
 ----------------------------------LINAIAINSAYTTKI---------------------------L------------------------PPEKEGALPRQVGNKTECGLLGFVLDLK----------------------------------------------------------------------------------------------------------------------------QDYEPVRSQ--------MPEEKLYKVYTFNSVRKSMSTVIKLPDE--------------SFRMYSKGASEIVLKKCCKI-
 >T24H7.5b pep:known chromosome:WBcel235: ;633;732
 --------------------------------------PVRKRLISFKQ--------------------------------------------------------QAMNPYEAESPDELALIEGAALYDYVLLERAATS------------VTIS--------------------------------------------------------------------------------------------------TPEKAEK------------RYEILLTLPFDATRKRMSVIVNSQKG---------------PLMYCKGADSAIISRLS-S-
 >YDR038C pep:known chromosome:R64-1-1:IV ;459;574
 --------------------------------------TLANIATVFKD----------------------------------------------------DATDCWKA---HGDPTEIAIQVFATKMDLPHNALTGEKS----------TNQSNE-------------------------------------------------------------------------------------------------NDQSSLSQHNEK---PGSAQFEHIAEFPFDSTVKRMSSVYYNNHN-------------ETYNIYGKGAFESIISCCSSW-
->O14983#human ['AT2A1_HUMAN Sarcoplasmic ;418;528
+>O14983 ['AT2A1_HUMAN Sarcoplasmic ;418;528
 --------------------------------------ALCNDSSLDFN----------------------------------------------------EAKGVYEK---VGEATETALTTLVEKMNVFNTDVRSLSK----------VERAN--------------------------------------------------------------------------------------------------ACNSVIRQL-----------MKKEFTLEFSRDRKSMSVYCSPAKSS---------RAAVGNKMFVKGAPEGVIDRCNYV-
 >ENSMUSP00000079691.6 pep:known chromoso ;416;511
 --------------------------------------GLCNRAVFKGG----------------------------------------------------QDNIPVLKRDVAGDASESALLKCIELSS----------------------------------------------------------------------------------------------------------------------------GSVKLMRER-----------NKKVAEIPFNSTNKYQLSIHETEDP-----------NDNRYLLVMKGAPERILDRCATI-
@@ -74,11 +74,11 @@ S-------------SSFRTSPENETELIKEHDLFFKAVSLCHTVQISNVQTD----------------------------
 --------------------------------------VNCNEANIFCN----------------------------------------------------DNSQIVKK---FGDSTELALLHFVHNFDILPTFSKNNKMPAEYEKNTTPVQSSNKKDKSPRGINKFFSSKNDNSHITSTLNENDKNLKNANHSNYTTAQATTNGYEAIGENTFEHGTSFENCFHSKLGNKINTTSTHNNNNNNNNNSNSVPSECISSWRNE-----------CKQIKIIEFTRERKLMSVIVENKKK--------------EIILYCKGAPENIIKNCKYY-
 >PBANKA_020700 | organism=Plasmodium_ber ;485;631
 --------------------------L-----------CNCNEASILCN----------------------------------------------------MNNKIVKT---FGDSTELALLHFVHNFNIIPNNTKNNKMAAEYEK----INSISKKN------------SDINIDYDSSIYRNDKKTKISDKKS---------------EPTF-------------------------------------PSECVSAWRDE-----------CTIMRIIEFTRERKLMSVIVENNKN--------------EYILYCKGAPENIINRCKYY-
->P20020#human ['AT2B1_HUMAN Plasma membr ;481;614
+>P20020 ['AT2B1_HUMAN Plasma membr ;481;614
 TMNRMTVVQAYINEKHYKKVPEPEA-IPPNILSYLVTGISVNCAYTSKI---------------------------L------------------------PPEKEGGLPRHVGNKTECALLGLLLDLK----------------------------------------------------------------------------------------------------------------------------RDYQDVRNE--------IPEEALYKVYTFNSVRKSMSTVLKNSDG--------------SYRIFSKGASEIILKKCFKI-
 >PBANKA_080630 | organism=Plasmodium_ber ;885;1013
 -----------------------------NFDTYFPN-ACINKEGKKES---------------------KRGKNLM----------KNNNNNN-------TNAKDISNSFHMSIPIRNMFISNKMNT-----------------------KELI--------------------------------------------------------------------------------------------------KNEQKEREKMLYKKIVPILSFEILDVFPFDNVRKRMSLIVKNEKD--------------EIFMLIKGADTSVLKLASKN-
->P23634#human ['AT2B4_HUMAN Plasma membr ;508;604
+>P23634 ['AT2B4_HUMAN Plasma membr ;508;604
 --------------------------------------ISINSAYTSKI---------------------------L------------------------PPEKEGGLPRQVGNKTECALLGFVTDLK----------------------------------------------------------------------------------------------------------------------------QDYQAVRNE--------VPEEKLYKVYTFNSVRKSMSTVIRNPNG--------------GFRMYSKGASEIILRKCNRI-
 >PF13246_5xab_A_418_528 A; 418; 528
 --------------------------------------ALCNDSSLDFN----------------------------------------------------ETKGVYEK---VGEATETALTTLVEKMNVFNTEVRNLSK----------VERAN--------------------------------------------------------------------------------------------------ACNSVIRQL-----------MKKEFTLEFSRDRKSMSVYCSPAKSS---------RAAVGNKMFVKGAPEGVIDRCNYV-

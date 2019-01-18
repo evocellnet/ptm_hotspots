@@ -8,9 +8,9 @@ VEVDRVLD-MSV----------------HTDENSGETT--------------------------KHYLVKWKSLPYEDCT
 ---DKLLDCEMRP---TVEGDGDADSDAAKSGSKQIFV--------------------------KQYLVKWKGLSYLHCAWVPEK-EFLKAFKSHPRLKTKVN--NFHRQ
 >FBpp0125742 pep:known supercontig:GCA_0 ;263;313
 WVVERIIDYVE----------------------DEEDG--------------------------GLYRIRWKGFGAKDDTWEPES-NL--------SCQGLIE--KFKRQ
->Q9HCK8#human ['CHD8_HUMAN Chromodomain- ;724;778
+>Q9HCK8 ['CHD8_HUMAN Chromodomain- ;724;778
 VEVDRILD-ESH----------------SIDKDNGEPV--------------------------IYYLVKWCSLPYEDSTWELKE-DVD---------EGKIR--EFKRI
->Q9Y232#human ['CDYL_HUMAN Chromodomain  ;61;112
+>Q9Y232 ['CDYL_HUMAN Chromodomain  ;61;112
 LQVERIVD-KR---------------------KNKKGK--------------------------TEYLVRWKGYDSEDDTWEPEQ-HLV-------NCEEYIH--DFNRR
 >FBpp0280517 pep:known supercontig:GCA_0 ;23;72
 YAVEKILD-RR----------------------VRKGK--------------------------VEYYLKWKGYAETENTWEPEN-NL--------DCQDLIQ--QYELS
@@ -22,11 +22,11 @@ YAVEKIID-RR----------------------VRKGK--------------------------VEYYLKWKGYPETENT
 ---EKILDCEE------TKPDASEETSSSESGSKKKPV--------------------------KRYLIKWKGISHLHCTWVSES-EYLETAK------------IYPRL
 >C4QZM3_PICPG ;143;226
 -SIDQVLD-HRLKGLDELTSDADEQAVKLETEKEERARLNSSGDP----------------YVDFEFKIKWTGISHLHNTWESYS-DLN-------GFKGIKKVDNYIKQ
->Q9H5I1#human ['SUV92_HUMAN Histone-lysi ;47;96
+>Q9H5I1 ['SUV92_HUMAN Histone-lysi ;47;96
 YEVEYLCD-YK----------------------VVKDM--------------------------EYYLVKWKGWPDSTNTWEPLQ-NL--------KCPLLLQ--QFSND
 >EDP02808 pep:novel supercontig:v3.1:DS4 ;147;236
 QEVERVLA-EQ-----PVAAGGGEK----KHGARKAAGTSAGGSPAGDGGSGSGLGGGSGGHMPMEYLVKWRELGYEQCTWEQES-DIA-------GYEDAIR--RFRES
->Q99549#human ['MPP8_HUMAN M-phase phosp ;59;109
+>Q99549 ['MPP8_HUMAN M-phase phosp ;59;109
 FEVEKILD-MK----------------------TEGGK--------------------------VLYKVRWKGYTSDDDTWEPEI-HLE-------DCKEVLL--EFRKK
 >PBANKA_143610 | organism=Plasmodium_ber ;8;60
 FEIGDILD-VK----------------------RKKNG--------------------------FIYLVKWKGYSDDENTWEPES-NLL-------HLTDFKKKMEYLKS
@@ -40,7 +40,7 @@ YIVEKFLG-KR----------------------YLRGR--------------------------PQYLTKWEGYPIEQCT
 TEVDRVLD-MSV----------------HTDENSGETT--------------------------KHYLVKWKSLPYEDCTWELEE-DVD---------NDKIE--QYLRF
 >FBpp0077803 pep:known chromosome:BDGP6: ;1940;1994
 TEVDRVLD-MSV----------------HTDETSGETT--------------------------KHYLVKWKSLPYEDCTWELEE-DVD---------NDKIE--QYLRF
->P45973#human ['CBX5_HUMAN Chromobox pro ;20;69
+>P45973 ['CBX5_HUMAN Chromobox pro ;20;69
 YVVEKVLD-RR----------------------VVKGQ--------------------------VEYLLKWKGFSEEHNTWEPEK-NL--------DCPELIS--EFMKK
 >FBpp0229665 pep:known supercontig:GCA_0 ;229;279
 WAVERILDFVD----------------------DDEHG--------------------------GLYRIRWKGFGAKEDTWEPES-NL--------SCEGLIE--KFKKG

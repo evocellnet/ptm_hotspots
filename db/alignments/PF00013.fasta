@@ -8,19 +8,19 @@
 ------EGEVSVDPK-HHKHFV-------AKRGF-ILHRI-----------SEECGGVMISFPR-V------GTNSD-----------------------------------KVTIKG------------AKD-CIEAARQRIEE
 >FBpp0234312 pep:known supercontig:GCA_0 ;886;977
 ------TIEVVIPQR-QHRTIM-------GARGF-KVQQV-----------TSEF-DVQIKFPDRD------ATEPVEGLTN-GVNGDGSEGGEGEPS------AAPVRQCDVIRITG------------RIE-KCNAAKQALID
->Q00341#human ['VIGLN_HUMAN Vigilin OS=H ;581;645
+>Q00341 ['VIGLN_HUMAN Vigilin OS=H ;581;645
 ----SYSISVPIFKQ-FHKNII-------GKGGA-NIKKI-----------REES-NTKIDLPA-E------NSNSE-----------------------------------TIIITG------------KRA-NCEAARSRILS
 >BRADI3G33600.1 pep:novel chromosome:v1. ;212;276
 ------TQTMQIPLT-YAEDII-------GVKGA-NIAYI-----------RANS-GAVVTIQESL------GSPDDI----------------------------------TVEIKG------------TSS-QVQAAQQLIQD
->O00425#human ['IF2B3_HUMAN Insulin-like ;407;472
+>O00425 ['IF2B3_HUMAN Insulin-like ;407;472
 ------TVHLFIPAL-SVGAII-------GKQGQ-HIKQL-----------SRFA-GASIKIAP--------AEAPDA-------------------------------KVRMVIITG------------PPE-AQFKAQGRIYG
->Q15365#human ['PCBP1_HUMAN Poly(rC)-bin ;15;77
+>Q15365 ['PCBP1_HUMAN Poly(rC)-bin ;15;77
 ------TIRLLMHGK-EVGSII-------GKKGE-SVKRI-----------REES-GARINISE-----------GNC-------------------------------PERIITLTG------------PTN-AIFKAFAMIID
 >FBpp0115375 pep:known supercontig:GCA_0 ;437;501
 ------STQVTIPKE-LAGAII-------GKGGG-RIRRI-----------RNES-SAYITID---------EPLPNS-------------------------------NDRIITISG------------TPK-QIQMAQYLLQQ
 >FBpp0231630 pep:known supercontig:GCA_0 ;23;84
 ------TVRILIPSS-IAGAVI-------GKGGQ-HIQKM-----------RTQY-KATVSVDD--------SQGP----------------------------------ERTIQIST------------DID-STLEIITEML-
->O00425#human ['IF2B3_HUMAN Insulin-like ;197;262
+>O00425 ['IF2B3_HUMAN Insulin-like ;197;262
 ------PLRLLVPTQ-FVGAII-------GKEGA-TIRNI-----------TKQT-QSKIDVHR--------KENAGA-------------------------------AEKSITILS------------TPE-GTSAACKSILE
 >ENSMUSP00000127903.1 pep:known chromoso ;875;969
 ------TVECAIPQK-FHRSVM-------GPKGS-RIQQI-----------TRDY-NVQIKFPDREENPV-HSVEP-------SIQENGDEAGEGREA-KETDPGSP-RRCDIIIISG------------RKE-KCEAAKEALEA
@@ -30,15 +30,15 @@
 ----SYSISVPIFKQ-FHKNII-------GKGGA-NIKKI-----------REES-NTKIDLPA-E------NSNSE-----------------------------------TIIITG------------KRA-NCEAARSRILS
 >FBpp0209782 pep:known chromosome:GCA_00 ;1075;1138
 ------VLHVDVDLE-FRSKLI-------GRHGA-VINKL-----------RADH-DVNISLPKRDE-----------------------------------------PNDRIISITG------------YQA-NAEAARDAILE
->Q92945#human ['FUBP2_HUMAN Far upstream ;146;210
+>Q92945 ['FUBP2_HUMAN Far upstream ;146;210
 ------TEEYRVPDG-MVGLII-------GRGGE-QINKI-----------QQDS-GCKVQISPD---------SGGL-------------------------------PERSVSLTG------------APE-SVQKAKMMLDD
->Q96AE4#human ['FUBP1_HUMAN Far upstream ;378;445
+>Q96AE4 ['FUBP1_HUMAN Far upstream ;378;445
 ------EFNFIVPTG-KTGLII-------GKGGE-TIKSI-----------SQQS-GARIELQRNP------PPNADP-------------------------------NMKLFTIRG------------TPQ-QIDYARQLIEE
->P61978#human ['HNRPK_HUMAN Heterogeneou ;389;453
+>P61978 ['HNRPK_HUMAN Heterogeneou ;389;453
 ------TTQVTIPKD-LAGSII-------GKGGQ-RIKQI-----------RHES-GASIKID---------EPLEGS-------------------------------EDRIITITG------------TQD-QIQNAQYLLQN
 >NONE_2644 , NONE ;37;104
 ------YVRFLVSNS-AAGSVI-------GKGGS-TITDF-----------QSQS-GARIQLSRNN------EFFPGT-------------------------------TDRIIMVSG------------AIN-EVLRAVELILS
->Q9Y6M1#human ['IF2B2_HUMAN Insulin-like ;276;343
+>Q9Y6M1 ['IF2B2_HUMAN Insulin-like ;276;343
 ------PLKILAHNG-LVGRLI-------GKEGR-NLKKI-----------EHET-GTKITISSLQ------DL--SIY-----------------------------NPERTITVKG------------TVE-ACASAEIEIMK
 >NONE_14085 , MEDTR3G110650.1 ;33;95
 ------VFRLLCPAS-KIGGVI-------GKGGS-IISQI-----------RHET-GVKVKIE---------EPVPGC-------------------------------EERVITFLK------------ESE-EGSAEQGKE--
@@ -50,7 +50,7 @@
 ------VLQVDVDTE-FHSKLI-------GRHGA-VINKL-----------RADH-DVNISLPKRDE-----------------------------------------PNDSIISITG------------YQA-NCEAARDAILE
 >TriadP22806 pep:annotated scaffold:ASM1 ;87;148
 ------TIKVRVPYR-VVGLVV-------GPKGA-TIKRI-----------QQQT-NTYIVTPS--------------R-----------------------------DKEPIFEVTG------------LQD-NVERAREEIEG
->Q5U5Q3#human ['MEX3C_HUMAN RNA-binding  ;232;295
+>Q5U5Q3 ['MEX3C_HUMAN RNA-binding  ;232;295
 -----TTECVPVPSSEHVAEIV-------GRQGC-KIKAL-----------RAKT-NTYIKTPVRG-------------------------------------------EEPIFVVTG------------RKE-DVAMAKREILS
 >ENSMUSP00000097629.4 pep:known chromoso ;504;570
 ------EAHIRVPSS-TAGRVI-------GKGGK-TVNEL-----------QNLT-SAEVIVPR--------DQTPDE------------------------------NEEVIVRIIG------------HFF-ASQTAQRKIRE
@@ -60,33 +60,33 @@
 ------SDRTTVPKI-YHPFIV-------GPYSE-NLNKL-----------QEET-GAKINVPP-Q------QVQKD-----------------------------------EIIISG------------EKD-AVAAAKAKVEA
 >FBpp0231630 pep:known supercontig:GCA_0 ;437;501
 ------STQVTIPKD-LAGAII-------GKGGG-RIRRI-----------RNES-SAYITID---------EPLPGS-------------------------------NDRIITISG------------TPK-QIQMAQYLLQQ
->Q07666#human ['KHDR1_HUMAN KH domain-co ;157;227
+>Q07666 ['KHDR1_HUMAN KH domain-co ;157;227
 KERVLIPVKQYPKFN-FVGKIL-------GPQGN-TIKRL-----------QEET-GAKISVLGKG------SM----R-----------------------------DKAKEEELRKGGDPKYAHLNMDL--------------
->P57721#human ['PCBP3_HUMAN Poly(rC)-bin ;131;195
+>P57721 ['PCBP3_HUMAN Poly(rC)-bin ;131;195
 ------TLRLVVPAS-QCGSLI-------GKGGS-KIKEI-----------REST-GAQVQVAG--------DMLPNS-------------------------------TERAVTISG------------TPD-AIIQCVKQIC-
 >FBpp0116635 pep:known supercontig:GCA_0 ;135;196
 ------EEQIRVPES-AANGFC-------GRGANDTITHI-----------QAES-GAKLQMMQ--------------------------------------------DQERVIMLRG------------QRD-TVTKAREMIQQ
 >FBpp0209782 pep:known chromosome:GCA_00 ;242;304
 ------SDRITVPKV-YHPFIV-------GPYSE-NLNKL-----------QEET-GARINVPP-Q------QVQKD-----------------------------------EIFISG------------EKD-AVAAAKAKVEA
->Q9NZI8#human ['IF2B1_HUMAN Insulin-like ;197;262
+>Q9NZI8 ['IF2B1_HUMAN Insulin-like ;197;262
 ------PLRLLVPTQ-YVGAII-------GKEGA-TIRNI-----------TKQT-QSKIDVHR--------KENAGA-------------------------------AEKAISVHS------------TPE-GCSSACKMILE
 >FBpp0115368 pep:known supercontig:GCA_0 ;991;1053
 ------EEELTVPFD-LHRTII-------GPRGA-NVRQF-----------MSKH-DVHVELPPSE------------------------------------------LKSDTIKVSG------------TPA-HVAEAREALEK
 >FBpp0115368 pep:known supercontig:GCA_0 ;383;441
 ------SVEINAPHW-IHKYVI-------GRKGA-NMKQL-----------EEECPYVNVN-----------------------------------------------CLEDKIKLEG------------DPE-NVDKAVLYLTD
->Q15366#human ['PCBP2_HUMAN Poly(rC)-bin ;99;163
+>Q15366 ['PCBP2_HUMAN Poly(rC)-bin ;99;163
 ------TLRLVVPAS-QCGSLI-------GKGGC-KIKEI-----------REST-GAQVQVAG--------DMLPNS-------------------------------TERAITIAG------------IPQ-SIIECVKQIC-
->Q15365#human ['PCBP1_HUMAN Poly(rC)-bin ;99;164
+>Q15365 ['PCBP1_HUMAN Poly(rC)-bin ;99;164
 ------TLRLVVPAT-QCGSLI-------GKGGC-KIKEI-----------REST-GAQVQVAG--------DMLPNS-------------------------------TERAITIAG------------VPQ-SVTECVKQICL
 >AT1G14170.2_3512 , AT1G14170.2 ;12;69
 ------VYRYLCPVK-KTGSII-------GKGGE-IAKQI-----------RSET-KSNMRIN---------EALPGC-------------------------------EERVVTMYS------------TNE-ELNH-------
->Q9NZI8#human ['IF2B1_HUMAN Insulin-like ;489;555
+>Q9NZI8 ['IF2B1_HUMAN Insulin-like ;489;555
 ------ETHIRVPAS-AAGRVI-------GKGGK-TVNEL-----------QNLT-AAEVVVPR--------DQTPDE------------------------------NDQVIVKIIG------------HFY-ASQMAQRKIRD
 >FBpp0209926 pep:known chromosome:GCA_00 ;24;86
 ------TVRILIPSS-IAGAVI-------GKGGQ-HIQKM-----------RTQY-KATVSVDD--------SQGP----------------------------------ERTIQISA------------DIE-STLEIITEMLK
->Q96I24#human ['FUBP3_HUMAN Far upstream ;255;319
+>Q96I24 ['FUBP3_HUMAN Far upstream ;255;319
 ------SIEVSVPRF-AVGIVI-------GRNGE-MIKKI-----------QNDA-GVRIQFKPD---------DGIS-------------------------------PERAAQVMG------------PPD-RCQHAAHIISE
->Q96AE4#human ['FUBP1_HUMAN Far upstream ;102;166
+>Q96AE4 ['FUBP1_HUMAN Far upstream ;102;166
 ------TEEYKVPDG-MVGFII-------GRGGE-QISRI-----------QQES-GCKIQIAPD---------SGGL-------------------------------PERSCMLTG------------TPE-SVQSAKRLLDQ
 >TriadP52317 pep:annotated scaffold:ASM1 ;44;107
 ------TIIVTIPKD-IINEVH-------GKNKT-NLRSI-----------EEKA-NVKINVKLQDN-----------------------------------------GLDYIAVIEG------------SSD-NVRIAESALSE
@@ -94,15 +94,15 @@ KERVLIPVKQYPKFN-FVGKIL-------GPQGN-TIKRL-----------QEET-GAKISVLGKG------SM----R-
 ------TVRILIPSS-IAGAVI-------GKGGQ-HIQKM-----------RTQY-KATVSVDD--------SQGP----------------------------------ERTIQISA------------DIE-STLEIITEMLK
 >ENSMUSP00000130145.1 pep:known chromoso ;373;440
 ------EFNFIVPTG-KTGLII-------GKGGE-TIKSI-----------SQQS-GARIELQRSP------PPNADP-------------------------------NMKLFTIRG------------TPQ-QIDYARQLIEE
->P61978#human ['HNRPK_HUMAN Heterogeneou ;44;105
+>P61978 ['HNRPK_HUMAN Heterogeneou ;44;105
 ------ELRILLQSK-NAGAVI-------GKGGK-NIKAL-----------RTDY-NASVSVPD--------SSGP----------------------------------ERILSISA------------DIE-TIGEILKKII-
->Q92945#human ['FUBP2_HUMAN Far upstream ;426;493
+>Q92945 ['FUBP2_HUMAN Far upstream ;426;493
 ------EMTFSIPTH-KCGLVI-------GRGGE-NVKAI-----------NQQT-GAFVEISRQL------PPNGDP-------------------------------NFKLFIIRG------------SPQ-QIDHAKQLIEE
 >C08H9.2a pep:known chromosome:WBcel235: ;638;701
 ------EESIEIPQK-VQSRFF-------GNGRR-LISDI-----------EDECGGVHIRFPS-E------KSEST-----------------------------------KVTIRG------------PAG-DVAKAVGLLSA
 >FBpp0260380 pep:known chromosome:GCA_00 ;80;145
 ------PLRILVQSE-MVGAII-------GRQGS-TIRTI-----------TQQS-RARVDVHR--------KENVGS-------------------------------LEKSITIYG------------NPE-NCTNACKRILE
->Q9NZI8#human ['IF2B1_HUMAN Insulin-like ;278;345
+>Q9NZI8 ['IF2B1_HUMAN Insulin-like ;278;345
 ------PLKILAHNN-FVGRLI-------GKEGR-NLKKV-----------EQDT-ETKITISSLQ------DL--TLY-----------------------------NPERTITVKG------------AIE-NCCRAEQEIMK
 >ENSMUSP00000095025.3 pep:known chromoso ;83;140
 QEKLYVPVKEYPDFN-FVGRIL-------GPRGL-TAKQL-----------EAET-GCKIMVRGKG------SM----R-----------------------------DKKKEEQNRG---------------------------
@@ -118,15 +118,15 @@ IRRIEIPLDKYPDYN-FMGIII-------GPRGC-NHKRL-----------EAES-GTTISVRGRG------TQKEGKR-
 ------SETLSIAAE-MVGKVI-------GKAGG-NINRI-----------QHDF-NVRVKVDK---------------------------------------------GDLMVKIYG------------SLQRNVSDAMNFVRK
 >ENSMUSP00000031838.7 pep:known chromoso ;489;555
 ------EAHIRVPSF-AAGRVI-------GKGGK-TVNEL-----------QSLS-SAEVVVPR--------DQTPDE------------------------------NDQVVVKITG------------HFY-ACQVAQRKIQE
->Q00341#human ['VIGLN_HUMAN Vigilin OS=H ;875;969
+>Q00341 ['VIGLN_HUMAN Vigilin OS=H ;875;969
 ------TLECAIPQK-FHRSVM-------GPKGS-RIQQI-----------TRDF-SVQIKFPDREENAV-HSTEP-------VVQENGDEAGEGREA-KDCDPGSP-RRCDIIIISG------------RKE-KCEAAKEALEA
 >EDP01252 pep:known supercontig:v3.1:DS4 ;142;209
 ------QVKLALSRR-LCGLLI-------GHKGQ-TVRDF-----------IVDS-GSTIRVQSLS------ELTPSD-------------------------------PERTITVSG------------ARD-QVLRAVALILN
->O00425#human ['IF2B3_HUMAN Insulin-like ;489;555
+>O00425 ['IF2B3_HUMAN Insulin-like ;489;555
 ------EAHIRVPSF-AAGRVI-------GKGGK-TVNEL-----------QNLS-SAEVVVPR--------DQTPDE------------------------------NDQVVVKITG------------HFY-ACQVAQRKIQE
 >FBpp0115368 pep:known supercontig:GCA_0 ;595;659
 ----SHIIEVPIFKQ-FHKFVI-------GKGGA-NIKKI-----------RDET-QTKIDLPA-E------GDTNE-----------------------------------VIVITG------------KKE-NVLEAKERIQK
->P61978#human ['HNRPK_HUMAN Heterogeneou ;146;211
+>P61978 ['HNRPK_HUMAN Heterogeneou ;146;211
 ------ELRLLIHQS-LAGGII-------GVKGA-KIKEL-----------RENT-QTTIKLFQ--------ECCPHS-------------------------------TDRVVLIGG------------KPD-RVVECIKIILD
 >FBpp0209782 pep:known chromosome:GCA_00 ;596;660
 ----SHIIEVPIFKQ-FHKFVI-------GKGGA-NIKKI-----------RDET-QTKIDLPA-E------GDTNE-----------------------------------VIVITG------------KKE-NVLEAKERIQK
@@ -138,19 +138,19 @@ IRRIEIPLDKYPDYN-FMGIII-------GPRGC-NHKRL-----------EAES-GTTISVRGRG------TQKEGKR-
 ------SIEVSVPRF-VVGIVI-------GRNGE-MIKKI-----------QNDA-GVRIQFKPD---------DGIS-------------------------------PERAAQVMG------------PPD-RCQHAARIINE
 >EDP08399 pep:known supercontig:v3.1:DS4 ;202;266
 ------QKTLECPQG-IVGRVI-------GRGGE-TIRTL-----------QQAS-GAHILVNQDF---------PEG-------------------------------AARQITISG------------SQD-AVDRAASMVQE
->P57721#human ['PCBP3_HUMAN Poly(rC)-bin ;47;109
+>P57721 ['PCBP3_HUMAN Poly(rC)-bin ;47;109
 ------TIRLLMHGK-EVGSII-------GKKGE-TVKKM-----------REES-GARINISE-----------GNC-------------------------------PERIVTITG------------PTD-AIFKAFAMIAY
->Q9NZI8#human ['IF2B1_HUMAN Insulin-like ;407;472
+>Q9NZI8 ['IF2B1_HUMAN Insulin-like ;407;472
 ------MVQVFIPAQ-AVGAII-------GKKGQ-HIKQL-----------SRFA-SASIKIAP--------PETPDS-------------------------------KVRMVIITG------------PPE-AQFKAQGRIYG
 >Q6FJV7_CANGA ;776;845
 ------KTIVNVPVE-HMSRII-------GKNGD-TINGL-----------SDEF-GVELDFLQ-------KSDDPKAVE----------------------------TGVVELEITG------------NRN-AIKEASTKIAA
->Q9Y6M1#human ['IF2B2_HUMAN Insulin-like ;511;577
+>Q9Y6M1 ['IF2B2_HUMAN Insulin-like ;511;577
 ------EAHIRVPSS-TAGRVI-------GKGGK-TVNEL-----------QNLT-SAEVIVPR--------DQTPDE------------------------------NEEVIVRIIG------------HFF-ASQTAQRKIRE
 >ENSMUSP00000127903.1 pep:known chromoso ;437;499
 ------YVEINIDHK-FHRHLI-------GKSGA-NINRI-----------KDQY-KVSVRIPP-D------SEKSN-----------------------------------LIRIEG------------DPQ-GVQQAKRELLE
 >FBpp0276503 pep:known chromosome:GCA_00 ;431;495
 ------STQVTIPKE-LAGAII-------GKGGG-RIRRI-----------RNES-SAYITID---------EPLPNS-------------------------------NDRIITISG------------TPK-QIQMAQYLLQQ
->Q86XN8#human ['MEX3D_HUMAN RNA-binding  ;180;242
+>Q86XN8 ['MEX3D_HUMAN RNA-binding  ;180;242
 ------TECVPVPSSEHVAEIV-------GRQGC-KIKAL-----------RAKT-NTYIKTPVRG-------------------------------------------EEPVFIVTG------------RKE-DVEMAKREILS
 >FBpp0085860 pep:known chromosome:BDGP6: ;170;232
 ------SRQVTVPRE-HFRVIL-------GKGGQ-RLREI-----------ERVT-ATRINIPSQ-----------SD-------------------------------ESEFITIAG------------TKE-GIAQAEQEIRQ
@@ -176,21 +176,21 @@ IRRIEIPLDKYPDYN-FMGIII-------GPRGC-NHKRL-----------EAES-GTTISVRGRG------TQKEGKR-
 ------TEEVQISPK-YYNSII-------GTGGK-LISSI-----------MEECGGVSIKFPN-S------DSKSD-----------------------------------KVTIRG------------PKD-DVEKAKGQLLE
 >ENSMUSP00000007814.8 pep:known chromoso ;427;494
 ------EMTFSIPTH-KCGLVI-------GRGGE-NVKAI-----------NQQT-GAFVEISRQL------PPNGDP-------------------------------NFKLFVIRG------------SPQ-QIDHAKQLIEE
->Q96AE4#human ['FUBP1_HUMAN Far upstream ;187;253
+>Q96AE4 ['FUBP1_HUMAN Far upstream ;187;253
 ------VQEIMIPAS-KAGLVI-------GKGGE-TIKQL-----------QERA-GVKMV-MIQD------GPQNTG-------------------------------ADKPLRITG------------DPY-KVQQAKEMVLE
 >AT5G15270.2_4475 , AT5G15270.2 ;51;108
 ------VFRYLCPVK-KIGSVI-------GRGGD-IVKQL-----------RNDT-RSKIRIG---------EAIPGC-------------------------------DERVITIYS------------PSD-ETNA-------
->Q00341#human ['VIGLN_HUMAN Vigilin OS=H ;729;792
+>Q00341 ['VIGLN_HUMAN Vigilin OS=H ;729;792
 ------TVDIRAKPE-YHKFLI-------GKGGG-KIRKV-----------RDST-GARVIFPAAE------DKDQD-----------------------------------LITIIG------------KED-AVREAQKELEA
 >EDP01252 pep:known supercontig:v3.1:DS4 ;44;111
 ------VAKLLVSNS-IAGSVI-------GKAGA-NIEQL-----------QRSS-GARVQLSRAG------EFYPGT-------------------------------SDRVLLLSG------------SLH-AVLTAIFLILE
->Q00341#human ['VIGLN_HUMAN Vigilin OS=H ;437;499
+>Q00341 ['VIGLN_HUMAN Vigilin OS=H ;437;499
 ------YVEINIDHK-FHRHLI-------GKSGA-NINRI-----------KDQY-KVSVRIPP-D------SEKSN-----------------------------------LIRIEG------------DPQ-GVQQAKRELLE
 >NONE_14060 , MEDTR3G104280.1 ;87;154
 ------SKKIEIPNG-RVGVLI-------GKGGE-TIKYL-----------QMQS-GAKIQVTRDM------DADPNS-------------------------------QTRMVELMG------------TPD-AVSSAEKLINE
 >FBpp0209782 pep:known chromosome:GCA_00 ;1148;1212
 ------REVIEIDKR-IHRHLI-------GPRRR-TLRKI-----------IEDN-KVNIKFPDADD-----QTNP-----------------------------------NSITISG------------KIE-DVENVKELLFD
->Q15366#human ['PCBP2_HUMAN Poly(rC)-bin ;15;77
+>Q15366 ['PCBP2_HUMAN Poly(rC)-bin ;15;77
 ------TIRLLMHGK-EVGSII-------GKKGE-SVKKM-----------REES-GARINISE-----------GNC-------------------------------PERIITLAG------------PTN-AIFKAFAMIID
 >PBANKA_121020 | organism=Plasmodium_ber ;802;862
 ------TVEINIDTE-HIGSII-------GKKGR-TINRI-----------QEDTYVKKIHIDK---------------------------------------------ENKKVFIQG------------TPK-TVEVAQKEIEK
@@ -202,19 +202,19 @@ IRRIEIPLDKYPDYN-FMGIII-------GPRGC-NHKRL-----------EAES-GTTISVRGRG------TQKEGKR-
 ------TEEYRVPDG-MVGLII-------GRGGE-QINKI-----------QQDS-GCKVQISPD---------SGGL-------------------------------PERSVSLTG------------APE-SVQKAKMMLDD
 >NONE_15043 , MEDTR2G009650.1 ;49;105
 ------AFRLLCNSS-RIGGVI-------GKSGT-VIKNL-----------QLTT-GAKIRIE---------DSPNES-------------------------------PDRVIMVIG------------ASN-IDG--------
->Q92945#human ['FUBP2_HUMAN Far upstream ;235;301
+>Q92945 ['FUBP2_HUMAN Far upstream ;235;301
 ------VQEIMIPAG-KAGLVI-------GKGGE-TIKQL-----------QERA-GVKMI-LIQD------GSQNTN-------------------------------VDKPLRIIG------------DPY-KVQQACEMVMD
 >FBpp0085860 pep:known chromosome:BDGP6: ;995;1057
 ------EEELSVPFD-LHRTII-------GPRGA-NVRQF-----------MSKH-DVHVELPPSE------------------------------------------LKSDVIKVCG------------TPA-RVAEAREALVK
 >ENSMUSP00000013559.2 pep:known chromoso ;489;555
 ------ETHIRVPAS-AAGRVI-------GKGGK-TVNEL-----------QNLT-AAEVVVPR--------DQTPDE------------------------------NDQVIVKIIG------------HFY-ASQMAQRKIRD
->Q96I24#human ['FUBP3_HUMAN Far upstream ;79;143
+>Q96I24 ['FUBP3_HUMAN Far upstream ;79;143
 ------TEEFKVPDK-MVGFII-------GRGGE-QISRI-----------QAES-GCKIQIASE---------SSGI-------------------------------PERPCVLTG------------TPE-SIEQAKRLLGQ
 >AT5G15270.1_1852 , NONE ;148;217
 ------TAKLLVPSD-QIGCIL-------GRGGQ-IVQNI-----------RSET-GAQIRIVKDR------NMPLCAL-----------------------------NSDELIQISG------------EVL-IVKKALLQIAS
->Q15365#human ['PCBP1_HUMAN Poly(rC)-bin ;281;345
+>Q15365 ['PCBP1_HUMAN Poly(rC)-bin ;281;345
 ------THELTIPNN-LIGCII-------GRQGA-NINEI-----------RQMS-GAQIKIA---------NPVEGS-------------------------------SGRQVTITG------------SAA-SISLAQYLINA
->Q00341#human ['VIGLN_HUMAN Vigilin OS=H ;297;359
+>Q00341 ['VIGLN_HUMAN Vigilin OS=H ;297;359
 ------TIAVEVKKS-QHKYVI-------GPKGN-SLQEI-----------LERT-GVSVEIPP-S------DSISE-----------------------------------TVILRG------------EPE-KLGQALTEVYA
 >NONE_14197 , MEDTR1G016760.1 ;113;180
 ------SKKIEIPNG-RVGVII-------GKGGE-TIKYL-----------QLQS-GAKIQVTRDM------DADPNS-------------------------------PNRLVELTG------------TSD-AIATAEKLIKE
@@ -224,7 +224,7 @@ IRRIEIPLDKYPDYN-FMGIII-------GPRGC-NHKRL-----------EAES-GTTISVRGRG------TQKEGKR-
 ------RATVSAPSL-LYKHIV-------GKRGD-TKKKI-----------EVET-KTSINIPKHG-------------------------------------------HEGEIVITGQ-----------HRN-GVVSARTRID-
 >EDP01252 pep:known supercontig:v3.1:DS4 ;252;319
 ------QLTLYLPDD-DVGAIL-------GKKGS-NLVEV-----------QQSS-RVTIKISDRS------KMDPTT-------------------------------QEREVSISG------------TYS-AVKLAEAMIAE
->Q00341#human ['VIGLN_HUMAN Vigilin OS=H ;802;865
+>Q00341 ['VIGLN_HUMAN Vigilin OS=H ;802;865
 ------EDSMLVDPK-HHRHFV-------IRRGQ-VLREI-----------AEEYGGVMVSFPR-S------GTQSD-----------------------------------KVTLKG------------AKD-CVEAAKKRIQE
 >ZK418.9a pep:known chromosome:WBcel235: ;139;206
 ------TEEMLIPAD-KIGLVI-------GKGGE-TIRIV-----------QEQS-GLRNCNVVQE------TTTATG-------------------------------QPKPLRMIG------------SPA-AIETAKALVHN

@@ -10,11 +10,11 @@
 -EKLMKLIKLLTDI-------SAENETKTIIFV--ETKKRVDEITRNISR---------------------------------------------------------QGWRACAIHGDKSQQERDFVLSSF------RNG-------R--HSILVATD--------------------------------------------------VAARGLDVDDVKFVINYDYP------------------SNSEDYVHRIGRTGRSN
 >FBpp0072192 pep:known chromosome:BDGP6: ;961;1085
 -PKMEIFFCILKE--------SLNLGDRILLFS--QSLLTLNLLEVYLKSSYVPGS----------------------------------------------NQLWTKNSSYFRLDGSTSSQERERLVNEFNA----NSN-------V--KLFLISTR--------------------------------------------------AGSLGINLTGANRVIIFDAS------------------WNPCHDTQAVYRIYRYG
->P17844#human ['DDX5_HUMAN Probable ATP- ;324;436
+>P17844 ['DDX5_HUMAN Probable ATP- ;324;436
 -EKDEKLIRLMEEI-------MSEKENKTIVFV--ETKRRCDELTRKMRR---------------------------------------------------------DGWPAMGIHGDKSQQERDWVLNEF------KHG-------K--APILIATD--------------------------------------------------VASRGLDVEDVKFVINYDYP------------------NSSEDYIHRIGRTARST
 >ENSMUSP00000036265.9 pep:known chromoso ;563;705
 -------------------------QLPVVVFT--FSRGRCDEQASGLTSLDLTTS---------SEKSEIHLFLQRCLARLRGSDRQLPQV---------LHMSELLRRGLGVHHSGILPILKEIVEMLF------SRG-------L--VKVLFATE--------------------------------------------------TFAMGVNMPARTVVFDSMRK----HDGSTFR------DLLPGEYVQMAGRAGRRG
->O75643#human ['U520_HUMAN U5 small nucl ;703;860
+>O75643 ['U520_HUMAN U5 small nucl ;703;860
 -IMNEIVYEKIMEH---------AGKNQVLVFV--HSRKETGKTARAIRDMCLEKDTLGLFLREGSASTEV----------LRTEAEQCKNL----------ELKDLLPYGFAIHHAGMTRVDRTLVEDLF------ADK-------H--IQVLVSTA--------------------------------------------------TLAWGVNLPAHTVIIKGTQV----YSPEKGRW----TELGALDILQMLGRAGRPQ
 >TGGT1_250770 | organism=Toxoplasma_gond ;264;373
 -WKLETLCDLYETL----------TITQAIIYC--NTRRKVDFLTSKMSE---------------------------------------------------------RDFTVSSMHGDMDQKSREMIMREF------RSG-------S--TRVLITTD--------------------------------------------------LLARGIDVQQVSLVINYDLP------------------ATKENYIHRIGRSGRFG
@@ -22,7 +22,7 @@
 -PKVQSLIKLLLKY-------QHTADFRAIVFV--ERVVAALVLPKVFAE------------------------------------------------LPSLSFIRCASMIGHNNSQEMKSSQMQDTISKF------RDG-------H--VTLLVATS--------------------------------------------------VAEEGLDIRQCNVVMRFDLA------------------KTVLAYIQSRGRARKPG
 >FBpp0073259 pep:known chromosome:BDGP6: ;735;873
 ---IESVLKYIVEGS-----HDWPREGTILIFL--PGFGEIQSVHDSLLDNAL-------------------------------------------------FSPRAGKFILVPLHSALSGEDQALVFKKA------PPG-------K--RKIVLSTN--------------------------------------------------IAETSVTIDDCVFVVDCGLMKEKCFDSNRNMESLDLVWVSRANAKQRKGRAGRVM
->Q9NR30#human ['DDX21_HUMAN Nucleolar RN ;425;532
+>Q9NR30 ['DDX21_HUMAN Nucleolar RN ;425;532
 -AVIGDVIRVYS-----------GHQGRTIIFC--ETKKEAQELSQNSA----------------------------------------------------------IKQDAQSLHGDIPQKQREITLKGF------RNG-------S--FGVLVATN--------------------------------------------------VAARGLDIPEVDLVIQSSPP------------------KDVESYIHRSGRTGRAG
 >FBpp0074213 pep:known chromosome:BDGP6: ;609;748
 ---LVALSSLLAKEV-----DASPKQFKAIVFM--STTEMVNFHHDMLNEALTRRV-------------------------LDEEDEQ-----EKGDSDDDGDIPLLQGLRFFKLHGSMTQTERQGVFRGF------RDC-------A--SCVLLATD--------------------------------------------------VVGRGIDVPDIKLVVQYTPP------------------QTTADFVHRVGRTARAG
@@ -32,11 +32,11 @@
 -DKRSYLLDLLSSIRDG---PEYTKDSLTLIFV--ETKKGADSLEEFLYQ---------------------------------------------------------CNHPVTSIHGDRTQKEREEALRCF------RSG-------D--CPILVATA--------------------------------------------------VAARGLDIPHVKHVINFDLP------------------SDVEEYVHRIGRTGRMG
 >FBpp0115218 pep:known supercontig:GCA_0 ;786;925
 --YLDASLITVMQIH-----LREP-PGDILLFL--TGQEEIDTACEILYERMKSLG------------------------------------------------PDVPELIILPVYSALPSEMQTRIFDPA------PAG-------S--RKVVIATN--------------------------------------------------IAETSLTIDGIFYVVDPGFVKQKVYNSKTGMDSLVVTPISQAAAKQRAGRAGRTG
->Q9UHI6#human ['DDX20_HUMAN Probable ATP ;295;404
+>Q9UHI6 ['DDX20_HUMAN Probable ATP ;295;404
 -EKTQHLQELFSRI----------PFNQALVFS--NLHSRAQHLADILSS---------------------------------------------------------KGFPAECISGNMNQNQRLDAMAKL------KHF-------H--CRVLISTD--------------------------------------------------LTSRGIDAEKVNLVVNLDVP------------------LDWETYMHRIGRAGRFG
->O00571#human ['DDX3X_HUMAN ATP-dependen ;426;536
+>O00571 ['DDX3X_HUMAN ATP-dependen ;426;536
 -DKRSFLLDLLNAT---------GKDSLTLVFV--ETKKGADSLEDFLYH---------------------------------------------------------EGYACTSIHGDRSQRDREEALHQF------RSG-------K--SPILVATA--------------------------------------------------VAARGLDISNVKHVINFDLP------------------SDIEEYVHRIGRTGRVG
->Q9BQ39#human ['DDX50_HUMAN ATP-dependen ;375;483
+>Q9BQ39 ['DDX50_HUMAN ATP-dependen ;375;483
 PAVIGDVLQVYS-----------GSEGRAIIFC--ETKKNVTEMAMNPH----------------------------------------------------------IKQNAQCLHGDIAQSQREITLKGF------REG-------S--FKVLVATN--------------------------------------------------VAARGLDIPEVDLVIQSSPP------------------QDVESYIHRSGRTGRAG
 >PF3D7_1468700 | organism=Plasmodium_fal ;248;357
 -WKLDTLCDLYETL----------TITQSIIYC--NTRKKVDILTQEMHN---------------------------------------------------------RLFTVSCMHGDMDQKDRDLIMREF------RSG-------S--TRVLVTTD--------------------------------------------------LLARGIDVQQVSLVINYDLP------------------ASPDTYIHRIGRSGRFG
@@ -44,7 +44,7 @@ PAVIGDVLQVYS-----------GSEGRAIIFC--ETKKNVTEMAMNPH-------------------------------
 -----AAIRTVIQIH-----MCEEIEGDILMFL--TGQEEIEEACKRIKREIDNLG------------------------------------------------SEIGELKCIPLYSTLPPNLQQRIFESA------PPPN-ANGAIG--RKVVVSTN--------------------------------------------------IAETSLTIDGVVFVIDPGFAKQKVYNPRIRVESLLVSPISKASAQQRAGRAGRTR
 >AT1G27880.1_11882 , NONE ;470;581
 -RMKDLLILMESPP--------YKEIRSIIVYC--KFQYETDMISKYLRD---------------------------------------------------------NNINAKGYHSGLPAKDRVRIQESF------CSN-------K--IRVVVATV--------------------------------------------------AFGMGLDKGDVGAVIHFSVP------------------GSMEEYVQEIGRAGRDG
->Q92841#human ['DDX17_HUMAN Probable ATP ;401;513
+>Q92841 ['DDX17_HUMAN Probable ATP ;401;513
 -EKDHKLIQLMEEI-------MAEKENKTIIFV--ETKRRCDDLTRRMRR---------------------------------------------------------DGWPAMCIHGDKSQPERDWVLNEF------RSG-------K--APILIATD--------------------------------------------------VASRGLDVEDVKFVINYDYP------------------NSSEDYVHRIGRTARST
 >FBpp0265470 pep:known chromosome:GCA_00 ;386;498
 -EKLMKLIKLLTDI-------SAENETKTIIFV--ETKKRVDEITRNISR---------------------------------------------------------QGWRACAIHGDKSQQERDFVLSSF------RNG-------R--HSILVATD--------------------------------------------------VAARGLDVDDVKFVINYDYP------------------SNSEDYVHRIGRTGRSN
@@ -62,19 +62,19 @@ PAVIGDVLQVYS-----------GSEGRAIIFC--ETKKNVTEMAMNPH-------------------------------
 -EKRGQLMSLLRRI-------M--DGSKILIFA--ETKRGADNLTRDMRV---------------------------------------------------------EGWPALSLHGDKKQEERTWVLDEF------KNG-------R--NPIMVATD--------------------------------------------------VASRGLDVKDIRHVINYDMP------------------NQIEDYIHRIGRTGRAG
 >FBpp0078298 pep:known chromosome:BDGP6: ;370;484
 -SKEEKLKTLLSDIY-----DTSESPGKIIIFV--ETKRRVDNLVRFIRS---------------------------------------------------------FGVRCGAIHGDKSQSERDFVLREF------RSG-------K--SNILVATD--------------------------------------------------VAARGLDVDGIKYVINFDYP------------------QNSEDYIHRIGRTGRSN
->Q14240#human ['IF4A2_HUMAN Eukaryotic i ;259;368
+>Q14240 ['IF4A2_HUMAN Eukaryotic i ;259;368
 -WKLDTLCDLYETL----------TITQAVIFL--NTRRKVDWLTEKMHA---------------------------------------------------------RDFTVSALHGDMDQKERDVIMREF------RSG-------S--SRVLITTD--------------------------------------------------LLARGIDVQQVSLVINYDLP------------------TNRENYIHRIGRGGRFG
->O15523#human ['DDX3Y_HUMAN ATP-dependen ;424;534
+>O15523 ['DDX3Y_HUMAN ATP-dependen ;424;534
 -DKRSFLLDILGAT---------GSDSLTLVFV--ETKKGADSLEDFLYH---------------------------------------------------------EGYACTSIHGDRSQRDREEALHQF------RSG-------K--SPILVATA--------------------------------------------------VAARGLDISNVRHVINFDLP------------------SDIEEYVHRIGRTGRVG
 >ENSMUSP00000000804.6 pep:known chromoso ;426;536
 -DKRSFLLDLLNAT---------GKDSLTLVFV--ETKKGADSLEDFLYH---------------------------------------------------------EGYACTSIHGDRSQRDREEALHQF------RSG-------K--SPILVATA--------------------------------------------------VAARGLDISNVKHVINFDLP------------------SDIEEYVHRIGRTGRVG
->P60842#human ['IF4A1_HUMAN Eukaryotic i ;258;367
+>P60842 ['IF4A1_HUMAN Eukaryotic i ;258;367
 -WKLDTLCDLYETL----------TITQAVIFI--NTRRKVDWLTEKMHA---------------------------------------------------------RDFTVSAMHGDMDQKERDVIMREF------RSG-------S--SRVLITTD--------------------------------------------------LLARGIDVQQVSLVINYDLP------------------TNRENYIHRIGRGGRFG
 >YKR024C pep:known chromosome:R64-1-1:XI ;414;558
 -TK------------DFIASGQQSKTLRTIVFV--SCSDSVEFHYDAFSGSDGHHK---------NLTGDSVRL-------LTKGNTM----------FPCFSDSRDPDVVIYKLHGSLSQQMRTSTLQHFARDNEATKG-------K--HLIMFCTD--------------------------------------------------VASRGLDLPHVGSVIELDPP------------------FAVEDHLHRVGRTARAG
 >FBpp0081374 pep:known chromosome:BDGP6: ;538;654
 -DKRSYLLDLLSSIRDG---PEYTKDSLTLIFV--ETKKGADSLEEFLYQ---------------------------------------------------------CNHPVTSIHGDRTQKEREEALRCF------RSG-------D--CPILVATA--------------------------------------------------VAARGLDIPHVKHVINFDLP------------------SDVEEYVHRIGRTGRMG
->O60231#human ['DHX16_HUMAN Putative pre ;591;730
+>O60231 ['DHX16_HUMAN Putative pre ;591;730
 --YLEACVVSVLQIH-----VTQP-PGDILVFL--TGQEEIEAACEMLQDRCRRLG------------------------------------------------SKIRELLVLPIYANLPSDMQARIFQPT------PPG-------A--RKVVVATN--------------------------------------------------IAETSLTIEGIIYVLDPGFCKQKSYNPRTGMESLTVTPCSKASANQRAGRAGRVA
 >FBpp0071084 pep:known chromosome:BDGP6: ;469;586
 -EKPQRLVCLLNEISPI--KNSGNNGNKIIVFV--ETKIKVEDILQIIRA---------------------------------------------------------EGYNATSIHGDKTQNERDSVLKDF------RNG-------K--SNILIATD--------------------------------------------------VASRGLDVEDLQYVINYDYP------------------NSSENYVHRIGRTGRCQ
@@ -114,7 +114,7 @@ PAVIGDVLQVYS-----------GSEGRAIIFC--ETKKNVTEMAMNPH-------------------------------
 -DKRSFLLDLLNAT---------GKDSLILVFV--ETKKGADSLEDFLYH---------------------------------------------------------EGYACTSIHGDRSQRDREEALHQF------RSG-------K--SPILVATA--------------------------------------------------VAARGLDISNVKHVINFDLP------------------SDIEEYVHRIGRTGRVG
 >YLR276C pep:known chromosome:R64-1-1:XI ;258;418
 -DKFLLCYVIFK---------LNLIKGKTLIFV--NNIDRGYRLKLVMEQ---------------------------------------------------------FGIKSCILNSELPVNSRQHIVDQF------NKN-------V--YQLLIATDDTEYIKEEDDEIEEGHNTENQEEKSLEGEPENDKKPSKKKKVQVKKDKEYGVSRGVDFKNVACVLNFDLP------------------TTAKSYVHRVGRTARGG
->Q08211#human ['DHX9_HUMAN ATP-dependent ;635;769
+>Q08211 ['DHX9_HUMAN ATP-dependent ;635;769
 -ELIEALLKYI---------ETLNVPGAVLVFL--PGWNLIYTMQKHLEMNP---------------------------------------------------HFGSHRYQILPLHSQIPREEQRKVFDPV------PVG-------V--TKVILSTN--------------------------------------------------IAETSITINDVVYVIDSCKQKVKLFTAHNNMTNYATVWASKTNLEQRKGRAGRVR
 >ENSMUSP00000088729.5 pep:known chromoso ;425;535
 -DKRSFLLDLLNAT---------GKDSLTLVFV--ETKKGADSLENFLFQ---------------------------------------------------------ERYACTSIHGDRSQKDREEALHQF------RSG-------R--KPILVATA--------------------------------------------------VAARGLDISNVKHVINFDLP------------------SDIEEYVHRIGRTGRVG

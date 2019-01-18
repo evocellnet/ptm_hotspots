@@ -8,11 +8,11 @@ GDQYRIQQVLCDFLLSMVRFAPA---------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------AIL--------HAQLRKVPSCGNGEDSGDSLGRKLEIS--------KTWVIAIEVEDTGPGIEPALHESVFE---------PFVQG------------------------DQTLSRQYGGTGLGLSICRQLAKMM---------------------KGTMKLESK-------VGVGSKFTFTVPLTQ--------
 >FBpp0227597 pep:known supercontig:GCA_0 ;28;182
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LYIKLIPNKTAGTLTIIDTGIGMTKSDLVNNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVGFYSAYLVADKVTV---TSKNNDDEQYVWESSAGGSFTVRAD---NSEPLGRGTKIVLFIKEDQ--------
->P08238#human ['HS90B_HUMAN Heat shock p ;35;189
+>P08238 ['HS90B_HUMAN Heat shock p ;35;189
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LKIDIIPNPQERTLTLVDTGIGMTKADLINNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVGFYSAYLVAEKVVV---ITKHNDDEQYAWESSAGGSFTVRAD---HGEPIGRGTKVILHLKEDQ--------
 >FBpp0084623 pep:known chromosome:BDGP6: ;95;255
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDAID--------KIRLLALSNSKE-LETNPE---------LHIRIKADKENKALHIMDSGIGMTHQDLINNLGTIAK-SGTADFLAKMQDPSKSE----------------GLDMNDMIGQFGVGFYSAFLVADRVVV---TTKHNDDKQYIWESDA-NSFSITEDP--RGDTLKRGSVISLYLKEEA--------
->Q58FF7#human ['H90B3_HUMAN Putative hea ;35;168
+>Q58FF7 ['H90B3_HUMAN Putative hea ;35;168
 ----NEEIFLQELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LKIDIIPNPQERTLALVDTGIGMTKADLINNLRTIAK-SGTKACMEALQ-------------------------------------------AEKLVV---ITKHNDDEQYAWESSAGGSFTVHAD---HGEPIGRGTKVILHLKEDQ--------
 >ENSMUSP00000006669.5 pep:known chromoso ;266;391
 YVPSHLYHMVFELFKNAMRAT---------------------------------------------------------------------------------------------------------------------------------------------------------------MEHHAD--KGV-YPPIQVHVTLGEEDLTVKMSDRGGGVPLRKIDRLFNY--------MYSTA-----PRPRV--------------ETSRAVPLAGFGYGLPISRLYAQYF---------------------QGDLKLYSL-------EGYGTDAVIYIKALS--------
@@ -28,17 +28,17 @@ TFVPGLYKIFDEILVNA---------------------------------------------------------------
 ------------------------------------------------SSDY--------------------------------------------------------VKVVSGFQKEGHGEQLSNDYSSDTNVEATGTE-----LNSKDDDNTDDSIF----------------------DKGGS--RRLDAP--------REWTIEITVQDTGTGISEELQERVFE---------PFVQG------------------------DQTLSRSHGGTGLGLSICKQLAKMM---------------------KGTLTLQSK-------LGEGSKFTFRFPITQ--------
 >BRADI3G39590.1 pep:novel chromosome:v1. ;28;182
 ----NKEIFLRELISNS-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRFESLTDKSK-LDAQPE---------LFIHIIPDKATNTLTLIDTGIGMTKSDLVNNLGTIAR-SGTKEFMEALAA---------------------GADVS-MIGQFGVGFYSAYLVADRVVV---TTKHNDDEQYVWESQAGGSFTVTRD---TGESLGRGTKMTLYLKEDQ--------
->P14625#human ['ENPL_HUMAN Endoplasmin O ;96;255
+>P14625 ['ENPL_HUMAN Endoplasmin O ;96;255
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRLISLTDENA-LSGNEE---------LTVKIKCDKEKNLLHVTDTGVGMTREELVKNLGTIAK-SGTSEFLNKMTE-AQED----------------GQSTSELIGQFGVGFYSAFLVADKVIV---TSKHNNDTQHIWESDS-NEFSVIADP--RGNTLGRGTTITLVLKEEA--------
->Q58FF6#human ['H90B4_HUMAN Putative hea ;11;164
+>Q58FF6 ['H90B4_HUMAN Putative hea ;11;164
 ----NKEIFLQELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDGGKE---------LKIDIIPNPRECILTLVNTGIGMTKADLINNLGAIAK-SGTEAFMEAFQS---------------------CAEIS-MIGQFGVGFYSAYLVAEKVAI----TKHNDEEQYSWVSSAGSSFTLHVD---HGEPIDRDTKVILHLKEDQ--------
 >MGG_07312T0 pep:known chromosome:MG8:2: ;707;904
 GDQHRILQVIINLVSNSLKFTPSGGKVQLRIRCVEEIEQINATGDNSRSSSF---------------------------------------------------SKSGSARPGRPRHRVG----------SSSAQSAASTKG----VSTPGTTGTALAINPMDPKTVPHIQVRE---------------RSLSPPP----PGAKAFLFEFEVEDSGPGIPEHMQARVFE---------PFVQG------------------------DLGLSKKYGGTGLGLSICQQLATLM---------------------GGNITLRST-------VGVGSVFTMRIPLKY--------
->O14874#human ['BCKD_HUMAN [3-methyl-2-o ;265;403
+>O14874 ['BCKD_HUMAN [3-methyl-2-o ;265;403
 -IPMPLDYILPELLKNAMRAT---------------------------------------------------------------------------------------------------------------------------------------------------------------MESHLD--TPYNVPDVVITIANNDVDLIIRISDRGGGIAHKDLDRVMDY--------HFTTAEAS-TQDPRISPLFGHL----DMHSGAQSGPMHGFGFGLPTSRAYAEYL---------------------GGSLQLQSL-------QGIGTDVYLRLRHI---------
 >Kwal_19707 ;659;900
 GDSNRIVQIVMNLVSNALKFTPVDGKVDVKFRLLGEYDE-----EKSKASEYKEVFVLPPTESR-------TSSTEAKDEKNAES-CVDSDTNVLSLPSTAESTDEKNVKIGQRSESEA--IDSEAIESSDEDDENEDTKS----IGSGNTSSYDDAIF--------QTRLRK-----DSSNEENEEGRALESP--------KKWVISMEVHDTGPGIDPALHESVFE---------PFVQG------------------------DQTLSRQYGGTGLGLSICRQLATMM---------------------HGTMKLDSQ-------VGVGSKFSFTVPLTQ--------
->Q14568#human ['HS902_HUMAN Heat shock p ;40;194
+>Q14568 ['HS902_HUMAN Heat shock p ;40;194
 ----NKEIFLRELISNS-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIWYESLTDPSK-LDSGKE---------LHINLIPNKQDQTLTIVDTGIGMTKADLINNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVSFYSAYLVAEKVTV---ITKHNDDEQYAWESSAGGSFTVRTD---TGERMGRGTKVILHLKEDQ--------
 >NONE_15818 , MEDTR7G109150.1 ;438;570
 GDEKRLMQTLLNVVGNAVKYT-----------------------------------------------------------------------------------------------KEG------------------------------------------------YVSIRA-------SVAKPESLQDWRPPEFYPASSDGHFYIRVQVKDSGCGILPQDIPHLFT---------KFTQS------------------------QSGPVRSSSGSGLGLAICKRFVNLM---------------------GGHIWMESE------GHDKGSTATFVVKLGI--------
@@ -48,7 +48,7 @@ GDEKRLMQTLLNVVGNAVKYT-----------------------------------------------------------
 GDPSRFRQIITNLVGNSIKFTQERGHIFISVHLADEVKE----------------------------------------------------------PLTIE------DAVLKQRLALG-------------------------CSESGETVSGFPAVNAWGS----WKNFKTCYS----TESQNS----------------DQIKLLVTVEDTGVGIPVDAQGRIFT---------PFMQA------------------------DSSTSRTYGGTGIGLSISKRLVELM---------------------QGEMGFVSE-------PGIGSTFSFTGVFG---------
 >ENSMUSP00000024739.7 pep:known chromoso ;35;189
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LKIDIIPNPQERTLTLVDTGIGMTKADLINNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVGFYSAYLVAEKVVV---ITKHNDDEQYAWESSAGGSFTVRAD---HGEPIGRGTKVILHLKEDQ--------
->P07900#human ['HS90A_HUMAN Heat shock p ;40;194
+>P07900 ['HS90A_HUMAN Heat shock p ;40;194
 ----NKEIFLRELISNS-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LHINLIPNKQDRTLTIVDTGIGMTKADLINNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVGFYSAYLVAEKVTV---ITKHNDDEQYAWESSAGGSFTVRTD---TGEPMGRGTKVILHLKEDQ--------
 >C4YTQ8_CANAW ;29;184
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYQALSDPSQ-LESEPE---------LFIRIIPQKDQKVLEIRDSGIGMTKADLVNNLGTIAK-SGTKSFMEALSA---------------------GADVS-MIGQFGVGFYSLFLVADHVQV---ISKHNDDEQYVWESNAGGKFTVTLDE--TNERLGRGTMLRLFLKEDQ--------
@@ -64,7 +64,7 @@ GDSNRIIQIVMNLVSNALKFTPVDGKVDVRIKLLGEYDS-----KRSESVDYQEVFVVPGSEANDDFEFNLTSTTPMRLP
 -FVPGLYKIFDEILVNA-------------------------------------------------------------------------------------------------------------------------------------------------------------ADNKQ-RDKSMN----------TIKIDIDPERNVVSIWNNGQGIP----------VTMHKEQKMYVPTMIF-----------GHLLTSSNYNDDEKKVTGGRNGYGAKLCNIFSTSFTVETATKQYKKSFKQTW----GNNMAKASDPTIKDFNGSDFTRITFSPDLAK--------
 >FBpp0266349 pep:known chromosome:GCA_00 ;28;182
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LYIKLIPNKTAGTLTIIDTGIGMTKSDLVNNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVGFYSAYLVADKVTV---TSKNNDDEQYVWESSAGGSFTVRAD---NSEPLGRGTKIVLYIKEDQ--------
->Q58FF8#human ['H90B2_HUMAN Putative hea ;35;151
+>Q58FF8 ['H90B2_HUMAN Putative hea ;35;151
 ----NKEIFLWELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LKIDIIPNTQEHTLTLVDTGIGMTKADLINNLGTIAKFQDQTEYLEEMQV--KE-------------------------------------------V---VEKHS---QFL------------------------GYPITLYLEKEREKEISDGK
 >FBpp0274520 pep:known supercontig:GCA_0 ;28;182
 ----NKEIFLRELISNA-----------------------------------------------------------------------------------------------------------------------------------------SDALD--------KIRYESLTDPSK-LDSGKE---------LYIKLIPNKTAGTLTIIDTGIGMTKSDLVNNLGTIAK-SGTKAFMEALQA---------------------GADIS-MIGQFGVGFYSAYLIADRVTV---TSKNNDDEQYVWESSAGGSFTVKAD---NSEPLGRGTKIVLYIKEDQ--------

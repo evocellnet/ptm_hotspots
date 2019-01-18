@@ -1,4 +1,4 @@
->Q9NZT1#human ['CALL5_HUMAN Calmodulin-l ;80;144
+>Q9NZT1 ['CALL5_HUMAN Calmodulin-l ;80;144
 ------------------------------LEDLQVAFRAFDQDGDGHITVDE----------------LRRAMAGLG-----------------------QPLPQEELDAMIRE----------------------------------ADVDQDGRVNYEEFARMLA
 >EDP08736 pep:known supercontig:v3.1:DS4 ;442;503
 ------------------------------KEAVRKSFEELDKDGDGFITAED----------------LVKVMPRGSS-------------------IE-------LAREMVNE----------------------------------VDKNNDGRVDYAEFEKMMQ
@@ -28,9 +28,9 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------ISEFKEAFSLFDKDGDGCITTKE----------------LGTVMRSLG-----------------------QNPTEAELQDMINE----------------------------------VDADGNGTIDFPEFLNLMA
 >Q7DMZ3_5561 , Sb1599s002010.1 ;83;147
 ------------------------------EEELKEAFRVFDKDQNGFISAAE----------------LRHVMTNLG-----------------------EKLTDEEVDEMIRE----------------------------------ADVDGDGQINYEEFVKVMM
->P62166#human ['NCS1_HUMAN Neuronal calc ;98;174
+>P62166 ['NCS1_HUMAN Neuronal calc ;98;174
 ------------------------------DEKLRWAFKLYDLDNDGYITRNEMLD------------IVDAIYQMVG---------------NTVELPEEENTPEKRVDRIFAM----------------------------------MDKNADGKLTLQEFQEGSK
->P61601#human ['NCALD_HUMAN Neurocalcin- ;98;174
+>P61601 ['NCALD_HUMAN Neurocalcin- ;98;174
 ------------------------------EQKLKWAFSMYDLDGNGYISKAEMLE------------IVQAIYKMVS---------------SVMKMPEDESTPEKRTEKIFRQ----------------------------------MDTNRDGKLSLEEFIRGAK
 >EDP01347 pep:known supercontig:v3.1:DS4 ;7;70
 -------------------------------AEYKEAFTLFDSDGDGFITTKE----------------LGTVLRALG-----------------------KSPTEAEIKAIVKD----------------------------------IDPDNRGVVDYKEFEKIMT
@@ -64,9 +64,9 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------EQDLKAAWKVFDKAGAGSIATSE----------------LKHVLTSVG-----------------------EKLSPEEIAEMIAE----------------------------------ADPDKSGKVLYDNFIKMML
 >FBpp0267681 pep:known supercontig:GCA_0 ;40;104
 ------------------------------KSDIKEAFDLFDNEGTGYIEVKE----------------LKVAIRALG-----------------------FEPKKEEIKRMISD----------------------------------IDKDCSGRIAFNVFLQLMT
->P0DP25#human ['CALM3_HUMAN Calmodulin-3 ;83;147
+>P0DP25 ['CALM3_HUMAN Calmodulin-3 ;83;147
 ------------------------------EEEIREAFRVFDKDGNGYISAAE----------------LRHVMTNLG-----------------------EKLTDEEVDEMIRE----------------------------------ADIDGDGQVNYEEFVQMMT
->P41208#human ['CETN2_HUMAN Centrin-2 OS ;103;167
+>P41208 ['CETN2_HUMAN Centrin-2 OS ;103;167
 ------------------------------KEEILKAFKLFDDDETGKISFKN----------------LKRVAKELG-----------------------ENLTDEELQEMIDE----------------------------------ADRDGDGEVSEQEFLRIMK
 >PBANKA_131040 | organism=Plasmodium_ber ;99;163
 ------------------------------REGIQRIFNLFDDDKTGSISLKN----------------LKRVAKELG-----------------------ETLTDEELRDMIDR----------------------------------ADSKGEGEISFDDFYTIMT
@@ -76,15 +76,15 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------STELKETFEFFDADRDGLISADE----------------LLRVFSTIGD----------------------ERCTLDDCKRMIAD----------------------------------VDEDGDGFVCFTEFSRMMD
 >EDP04908 pep:novel supercontig:v3.1:DS4 ;461;531
 ------------------------------VERYRPIFAHYDKAGRGFLEAAE----------------LRSVLGDLSEA-------------GAAG----AGPTGPELERAFAL----------------------------------ADQDGDGRVSPEEFARYYD
->Q02818#human ['NUCB1_HUMAN Nucleobindin ;245;322
+>Q02818 ['NUCB1_HUMAN Nucleobindin ;245;322
 ---------------------------------PKTFFILHDINSDGVLDEQE----------------LEALFTKELEKVYD------------------PKNEEDDMREMEEE---RL--------------------RMREHVMKNVDTNQDRLVTLEEFLASTQ
->P84074#human ['HPCA_HUMAN Neuron-specif ;98;174
+>P84074 ['HPCA_HUMAN Neuron-specif ;98;174
 ------------------------------EQKLMWAFSMYDLDGNGYISREEMLE------------IVQAIYKMVS---------------SVMKMPEDESTPEKRTEKIFRQ----------------------------------MDTNNDGKLSLEEFIRGAK
 >AT3G22930.1_2230 , AT3G22930.1 ;106;170
 ------------------------------DEELKEAFKVFDKDQNGYISASE----------------LRHVMINLG-----------------------EKLTDEEVDQMIKE----------------------------------ADLDGDGQVNYDEFVRMMM
 >NONE_15529 , MEDTR7G034850.1 ;83;147
 ------------------------------EEELREAFKVFDKDQNGYISASE----------------LRHVMINLG-----------------------EKLSDEEVEQMIKE----------------------------------ADMDGDGQVDFDEFVKMMM
->P13796#human ['PLSL_HUMAN Plastin-2 OS= ;11;79
+>P13796 ['PLSL_HUMAN Plastin-2 OS= ;11;79
 ------------------------------MMELREAFAKVDTDGNGYISFNE----------------LNDLFKAAC-----------------------LPLPGYRVREITENL------------------------------MATGDLDQDGRISFDEFIKIFH
 >ENSMUSP00000022009.8 pep:known chromoso ;100;164
 ------------------------------HEEILKAFKLFDDDDSGKISLRN----------------LRRVARELG-----------------------ENMSDEELRAMIEE----------------------------------FDKDGDGEINQEEFIAIMT
@@ -102,7 +102,7 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------DDEMDQMFSLFDPNDTGKITLQA----------------LRKVCTDIG-----------------------ENISDTELNNMIHF----------------------------------ADKNNDKVIDKNEFKKVLL
 >PBANKA_101060 | organism=Plasmodium_ber ;83;147
 ------------------------------EEELIEAFRVFDRDGDGYISADE----------------LRHVMTNLG-----------------------EKLTNEEVDEMIRE----------------------------------ADIDGDGQINYEEFVKMMI
->O75340#human ['PDCD6_HUMAN Programmed c ;93;156
+>O75340 ['PDCD6_HUMAN Programmed c ;93;156
 -------------------------------TDWQNVFRTYDRDNSGMIDKNE----------------LKQALSGFG-----------------------YRLSDQFHDILIRK----------------------------------FDRQGRGQIAFDDFIQGCI
 >AT1G73630.1_1697 , AT1G73630.1 ;18;82
 ------------------------------DMELKKVFDKFDANGDGKISVSE----------------LGNVFKSMGT-----------------------SYTEEELNRVLDE----------------------------------IDIDCDGFINQEEFATICR
@@ -132,17 +132,17 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------EQKLEWAFRMYDIDGNGTIDEKEMIK------------IIEAIYEMLGP--------------EVTKSADD--SPRKRAKMIFEK----------------------------------MDVNNDKELTLKEFVDGCL
 >AT1G76040.1_323 , AT1G76040.1 ;176;240
 ------------------------------IKGLKQTFKNMDTDESGTITFDE----------------LRNGLHRLG-----------------------SKLTESEIKQLMEA----------------------------------ADVDKSGTIDYIEFVTATM
->P63098#human ['CANB1_HUMAN Calcineurin  ;20;80
+>P63098 ['CANB1_HUMAN Calcineurin  ;20;80
 ------------------------------IKRLGKRFKKLDLDNSGSLSVEE----------------F-------------------------------MSLPELQQNPLVQRV------------------------------IDIFDTDGNGEVDFKEFIEGVS
 >FBpp0214655 pep:known chromosome:GCA_00 ;83;145
 -------------------------------DDFIEGLRHFDKDASGYISSAE----------------LRHLLTTLG-----------------------EKLTDEEVEQLLAN----------------------------------ME-DQQGNINYEEFVRMVM
->P02585#human ['TNNC2_HUMAN Troponin C,  ;93;157
+>P02585 ['TNNC2_HUMAN Troponin C,  ;93;157
 ------------------------------EEELAECFRIFDRNADGYIDPEE----------------LAEIFRASG-----------------------EHVTDEEIESLMKD----------------------------------GDKNNDGRIDFDEFLKMME
 >AT1G50700.1_1745 , AT1G50700.1 ;448;511
 ------------------------------NENVYKAFQHFDKDGSGYITTDE----------------LEAALKEYGM-------------------GD-----DATIKEILSD----------------------------------VDADNDGRINYDEFCAMMR
 >ENSMUSP00000099985.3 pep:known chromoso ;34;132
 ------------------------------IQEFKEAFSCIDQNRDGIICKSD----------------LKETYSQLGR----------------------VSVPEEELDAMLQEGKGPINFTVF-LTLFGEKLNGTDPEEAILSAFRMFDPSGQGVVNKEEFKQLLM
->P37235#human ['HPCL1_HUMAN Hippocalcin- ;98;174
+>P37235 ['HPCL1_HUMAN Hippocalcin- ;98;174
 ------------------------------EQKLKWAFSMYDLDGNGYISRSEMLE------------IVQAIYKMVS---------------SVMKMPEDESTPEKRTDKIFRQ----------------------------------MDTNNDGKLSLEEFIRGAK
 >AT1G18210.2_3493 , AT1G18210.2 ;21;85
 ------------------------------PEELKKVFDQFDSNGDGKISVLE----------------LGGVFKAMGT-----------------------SYTETELNRVLEE----------------------------------VDTDRDGYINLDEFSTLCR
@@ -152,11 +152,11 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------DAELHDAFNLYDHDKNGHISATE----------------LCQVLNRLG-----------------------MKCSVEECHNMIKS----------------------------------VDSDGDGNVNFPEFKRMMS
 >NONE_14965 , MEDTR5G022030.1 ;483;541
 ------------------------------QQRSQAAFEKFDIDKDGYITPEE----------------LRMHTGMRG-----------------------------SIDPLLEE----------------------------------ADIDKDGKISLPEFRRLLR
->O15182#human ['CETN3_HUMAN Centrin-3 OS ;100;164
+>O15182 ['CETN3_HUMAN Centrin-3 OS ;100;164
 ------------------------------HEEILKAFKLFDDDDSGKISLRN----------------LRRVARELG-----------------------ENMSDEELRAMIEE----------------------------------FDKDGDGEINQEEFIAIMT
 >TGGT1_229480 | organism=Toxoplasma_gond ;79;143
 ------------------------------KERMLALFDLIDTNQDNTIDTEE----------------AKEWSAKLK-----------------------NAMHQHQVRMEFQA----------------------------------IDKDNDGKVSLSELEATYV
->P0DP24#human ['CALM2_HUMAN Calmodulin-2 ;83;147
+>P0DP24 ['CALM2_HUMAN Calmodulin-2 ;83;147
 ------------------------------EEEIREAFRVFDKDGNGYISAAE----------------LRHVMTNLG-----------------------EKLTDEEVDEMIRE----------------------------------ADIDGDGQVNYEEFVQMMT
 >AT5G49480.1_1553 , AT5G49480.1 ;97;159
 --------------------------------LMKDVFKVMDKDGDGRLSYGD----------------LKSYMDSAG-----------------------LAVTDDEIKSMIRL----------------------------------AGGDLNDGVSFDGLLKIFG
@@ -180,7 +180,7 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------NQDMMKAFSFFDDDRTGGISFLN----------------LKRVAKELG-----------------------EQLTDEELQEMIDE----------------------------------ANVSGDGEVSKEEFLNLIK
 >EFJ19441 pep:novel supercontig:v1.0:GL3 ;396;460
 ------------------------------ITGLKEMFSSMDTDGSGTITFDE----------------LKVGLERLG-----------------------SNLRDAEIRQIMNA----------------------------------ADVDGNGTIDYLEFITATM
->P0DP23#human ['CALM1_HUMAN Calmodulin-1 ;83;147
+>P0DP23 ['CALM1_HUMAN Calmodulin-1 ;83;147
 ------------------------------EEEIREAFRVFDKDGNGYISAAE----------------LRHVMTNLG-----------------------EKLTDEEVDEMIRE----------------------------------ADIDGDGQVNYEEFVQMMT
 >ENSMUSP00000116271.1 pep:known chromoso ;11;79
 ------------------------------MMELREAFAKVDTDGNGYISCNE----------------LNDLFKAAC-----------------------LPLPGYRVREITENL------------------------------MATGDLDQDGKISFDEFIKVFH
@@ -188,7 +188,7 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 -----------------------------MD-DIKKVFQRFDKNGDGKISVDE----------------LKEVIRALSP-----------------------TASPEETVTMMKQ----------------------------------FDLDGNGFIDLDEFVALFQ
 >FBpp0116027 pep:known supercontig:GCA_0 ;83;147
 ------------------------------EEEIREAFRVFDKDGNGFISAAE----------------LRHVMTNLG-----------------------EKLTDEEVDEMIRE----------------------------------ADIDGDGQVNYEEFVTMMT
->H7BYZ3#human ['H7BYZ3_HUMAN Uncharacter ;10;70
+>H7BYZ3 ['H7BYZ3_HUMAN Uncharacter ;10;70
 ------------------------------IKRLGKRFKKLDLDNSGSLSVEE----------------F-------------------------------MSLPELQQNPLVQRV------------------------------IDIFDTDGNGEVDFKEFIEGVS
 >EDP06102 pep:known supercontig:v3.1:DS4 ;86;150
 ------------------------------EDELREAFKVFDKDGNGFISAAE----------------LRHVMTNLG-----------------------EKLSEEEVDEMIRE----------------------------------ADVDGDGQVNYEEFVRMMT
@@ -196,7 +196,7 @@ VLSRLKQFSAMNKLKKMALRVIAESLSEEEIAGLREMFQTMDTDNSGAITFDE----------------LKAGLRRYG--
 ------------------------------ISEFKEAFSLFDQDQDGKITSKE----------------LGIVMRSLG-----------------------QTPTESELNDLIRE----------------------------------IDSNTDGSIDFPEFLTMMA
 >PF3D7_1434200 | organism=Plasmodium_fal ;83;147
 ------------------------------EEELIEAFRVFDRDGDGYISADE----------------LRHVMTNLG-----------------------EKLTNEEVDEMIRE----------------------------------ADIDGDGQINYEEFVKMMI
->Q13938#human ['CAYP1_HUMAN Calcyphosin  ;23;87
+>Q13938 ['CAYP1_HUMAN Calcyphosin  ;23;87
 ------------------------------IQGLARFFRQLDRDGSRSLDADE----------------FRQGLAKLG-----------------------LVLDQAEAEGVCRK----------------------------------WDRNGSGTLDLEEFLRALR
 >NONE_14552 , MEDTR7G090450.1 ;71;135
 ------------------------------QCELAQAFRLIDRDNDGVVSREE----------------LEAVLTRLGA----------------------RPPTPEEIALMLSE----------------------------------VDSDGKGCISVETIMNRV-

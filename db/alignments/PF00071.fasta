@@ -6,13 +6,13 @@
 --------KILVIGELGTGKTSFIKRYVHQFF-------SQNYRATIG---------------------------VDFALKVLQW------------DANT---IVRLQLWDIAGQE---------------RFGNMTRVYYKEAVGAFIVFDVTRSGTFDCVS-KWKEDLD-SKVQ--------LPDGSPIPCILLANKCDQ-------------------------E-----------------------------------------KQGIITQP----------------EKMDEYV-REN-GFA---GWFETSAKENINIDEAARALVNKILI
 >ENSMUSP00000127330.1 pep:known chromoso ;13;174
 --------KLLLIGDSGVGKSCLLLRFADDTY-------TESYISTIG---------------------------VDFKIRTIEL------------DGKT----IKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIVVYDVTDQESFNNVK-QWLQEID-RYA------------SENVNKLLVGNKCDL--------------------T----T-----------------------------------------KKVVDY------------------TTAKEFA-DSL-GIP----FLETSAKNATNVEQSFMTMAAEIKK
->P51159#human ['RB27A_HUMAN Ras-related  ;11;183
+>P51159 ['RB27A_HUMAN Ras-related  ;11;183
 --------KFLALGDSGVGKTSVLYQYTDGKF-------NSKFITTVG---------------------------IDFREKRVVYRASG--PDGATGRGQR----IHLQLWDTAGQE---------------RFRSLTTAFFRDAMGFLLLFDLTNEQSFLNVR-NWISQLQ-MHA-----------YCENPDIVLCGNKSDL--------------------E----D-----------------------------------------QRVVKE------------------EEAIALA-EKY-GIP----YFETSAANGTNISQAIEMLLDLIMK
 >ENSMUSP00000032946.3 pep:known chromoso ;15;175
 --------KLVFLGEQSVGKTSLITRFMYDSF-------DNTYQATIG---------------------------IDFLSKTMYL------------EDRT----VRLQLWDTAGQE---------------RFRSLIPSYIRDSTVAVVVYDITNVNSFQQTT-KWIDDVR-TER------------GSDVIIMLVGNKTDL--------------------A----D-----------------------------------------KRQVSI------------------EEGERKA-KEL-NVM----FIETSAKAGYNVKQLFRRVAAALP-
->P61586#human ['RHOA_HUMAN Transforming  ;7;180
+>P61586 ['RHOA_HUMAN Transforming  ;7;180
 --------KLVIVGDGACGKTCLLIVFSKDQF-------PEVYVP------------------------------TVFENYVADIEV----------DGKQ----VELALWDTAGQE---------------DYDRLRPLSYPDTDVILMCFSIDSPDSLENIPEKWTPEVK-HFCP-------------NVPIILVGNKKDL-------------------RN----DEHT------------------------RRELA------KMKQEPVKP------------------EEGRDMA-NRI-GAF---GYMECSAKTKDGVREVFEMATRAALQ
->P61006#human ['RAB8A_HUMAN Ras-related  ;10;171
+>P61006 ['RAB8A_HUMAN Ras-related  ;10;171
 --------KLLLIGDSGVGKTCVLFRFSEDAF-------NSTFISTIG---------------------------IDFKIRTIEL------------DGKR----IKLQIWDTAGQE---------------RFRTITTAYYRGAMGIMLVYDITNEKSFDNIR-NWIRNIE-EHA------------SADVEKMILGNKCDV--------------------N----D-----------------------------------------KRQVSK------------------ERGEKLA-LDY-GIK----FMETSAKANINVENAFFTLARDIKA
 >NONE_14473 , MEDTR2G075950.1 ;15;176
 --------KVVLIGDSGVGKSNLLSRFTKNEF-------NLESKSTIG---------------------------VEFATRTLNV------------DSKV----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDVTRHATFENVD-RWLKELR-NHT------------DSNIVVMLVGNKADL--------------------R----H-----------------------------------------LVAVST------------------EDGKSYA-EKE-SLY----FMETSALEATNVENAFAEVLTQIYR
@@ -24,53 +24,53 @@
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------QPVHDLTIG---------------------------VEFGARMINI------------DGKQ----IKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRETFNHLA-SWLEDAR-QHA------------NPNMTIMLIGNKCDL--------------------T----H-----------------------------------------RRAVTT------------------EEGEQFA-KEH-GLI----FLETSARTAHNVEEAFINTAKEIYK
 >NONE_3098 , NONE ;23;188
 --------RVLVVGDSGVGKSSLVHLIVKGSP-------IARPSQTIG---------------------------CTVDVKHTTYGNSGSSSSSLKGDSERD---FFVELWDVSGHE---------------RYKDCRSLFYSQINGVIFVHDLSQRRTKTSLQ-KWAAEIA-ATGTFSAPLGSGGPGGLPVPYIVIGNKADI-----------------VAKE----------------------------------------------GARGSS--------GNLV------DVARQWV-EKQ-G-------------------------------
->K7ERQ8#human ['K7ERQ8_HUMAN Uncharacter ;23;159
+>K7ERQ8 ['K7ERQ8_HUMAN Uncharacter ;23;159
 --------KLVLLGESAVGKSSLVLRFVKGQF-------HEYQESTIG---------------------------AAFLTQTVCL------------DDTT----VKFEIWDTAGQE---------------RYHSLAPMYYRGAQAAIVVYDITNTDTFARAK-NWVKELQ-RQA------------SPNIVIALAGNKADL--------------------A----S-----------------------------------------KRAVEFQAN---------------ETCKCNG-WKN---------------------------------
->Q15382#human ['RHEB_HUMAN GTP-binding p ;8;169
+>Q15382 ['RHEB_HUMAN GTP-binding p ;8;169
 --------KIAILGYRSVGKSSLTIQFVEGQF-------VDSYDPTIE---------------------------NTFT-KLITV------------NGQE----YHLQLVDTAGQD---------------EYSIFPQTYSIDINGYILVYSVTSIKSFEVIK-VIHGKLL-DMV-----------GKVQIPIMLVGNKKDL--------------------H----M-----------------------------------------ERVISY------------------EEGKALA-ESW-NAA----FLESSAKENQTAVDVFRRIILEAEK
->P15153#human ['RAC2_HUMAN Ras-related C ;5;178
+>P15153 ['RAC2_HUMAN Ras-related C ;5;178
 --------KCVVVGDGAVGKTCLLISYTTNAF-------PGEYIP------------------------------TVFDNYSANVMV----------DSKP----VNLGLWDTAGQE---------------DYDRLRPLSYPQTDVFLICFSLVSPASYENVRAKWFPEVR-HHCP-------------STPIILVGTKLDL-------------------RD----DKDT------------------------IEKLK------EKKLAPITY------------------PQGLALA-KEI-DSV---KYLECSALTQRGLKTVFDEAIRAVLC
 >ENSMUSP00000068195.7 pep:known chromoso ;8;169
 --------KVCLLGDTGVGKSSIVCRFVQDHF-------DHNISPTIG---------------------------ASFMTKTVPC------------GNEL----HKFLIWDTAGQE---------------RFHSLAPMYYRGSAAAVIVYDITKQDSFHTLK-KWVKELK-EHG------------PENIVMAIAGNKCDL--------------------S----D-----------------------------------------IREVPL------------------KDAKEYA-ESI-GAI----VVETSAKNAINIEELFQGISRQIPP
->P63000#human ['RAC1_HUMAN Ras-related C ;5;178
+>P63000 ['RAC1_HUMAN Ras-related C ;5;178
 --------KCVVVGDGAVGKTCLLISYTTNAF-------PGEYIP------------------------------TVFDNYSANVMV----------DGKP----VNLGLWDTAGQE---------------DYDRLRPLSYPQTDVFLICFSLVSPASFENVRAKWYPEVR-HHCP-------------NTPIILVGTKLDL-------------------RD----DKDT------------------------IEKLK------EKKLTPITY------------------PQGLAMA-KEI-GAV---KYLECSALTQRGLKTVFDEAIRAVLC
 >FBpp0255148 pep:known chromosome:GCA_00 ;7;168
 --------NIAMMGYRSVGKSSLCIQFVEGQF-------VDSYDPTIE---------------------------NTFT-KIERV------------KSQD----YIVKLIDTAGQD---------------EYSIFPVQYSMDYHGYVLVYSITSQKSFEVVK-IIYEKLL-DVM-----------GKKYVPVVLVGNKTDL--------------------Q----P-----------------------------------------ERTVST------------------EEGKKLA-ESW-RAA----FLETSAKQNESVGDIFHQLLILIEN
->Q96P47#human ['AGAP3_HUMAN Arf-GAP with ;93;251
+>Q96P47 ['AGAP3_HUMAN Arf-GAP with ;93;251
 --------KVGIVGNLSSGKSALVHRYLTGTYVQEESPEGGRFKKEIV--------V----------------------------------------DGQS----YLLLIRDEGGPPE-------------LQFAAW-------VDAVVFVFSLEDEISFQTVY-NYFLRLC-SFRN---------ASE--VPMVLVGTQDAI--------------------S-------------------------------------------AANPRVIDD------------------SRARKLS-TDLKRCT----YYETCATYGLNVERVFQDVAQKVVA
 >PBANKA_041820 | organism=Plasmodium_ber ;10;176
 --------KVIILGDSGVGKTSLMNQYVNKKF-------TNQYKATIG---------------------------ADFLTKETVV------------DNEQ----LTMQIWDTAGQE---------------RFQSLGVAFYRGADCCVLVFDLTNYKTYESLE-SWKDEFL-IQAS--------PKDPENFPFVIIGNKVDE--------------------T----N-----------------------------------------KRKVQS------------------VKVLQWC-KANNNIP----YFETSAKNAINVDQAFDEIARKAMK
 >AT5G45750.1_255 , fgenesh2_kg.8__225__A ;15;176
 --------KVVLIGDSGVGKSNLLSRFTKNEF-------SLESKSTIG---------------------------VEFATRSLNV------------DDKV----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDVTRHSTFENVE-TWLKELR-NHT------------DPNIVVMLVGNKSDL--------------------R----H-----------------------------------------LVAVQT------------------EDAKSFA-EKE-SLY----FMETSALEATNVENAFAEVLTQIHH
->Q96E17#human ['RAB3C_HUMAN Ras-related  ;32;193
+>Q96E17 ['RAB3C_HUMAN Ras-related  ;32;193
 --------KLLIIGNSSVGKTSFLFRYADDSF-------TSAFVSTVG---------------------------IDFKVKTVFK------------NEKR----IKLQIWDTAGQE---------------RYRTITTAYYRGAMGFILMYDITNEESFNAVQ-DWSTQIK-TYS------------WDNAQVILVGNKCDM--------------------E----D-----------------------------------------ERVIST------------------ERGQHLG-EQL-GFE----FFETSAKDNINVKQTFERLVDIICD
 >BRADI3G21180.1 pep:novel chromosome:v1. ;26;192
 --------RVLIVGDSGVGKSSLAHLILKDFA-------IARPPQTIG---------------------------CTVDVKHITYGSPGSSSNTIKGDAERN---FFVELWDVSGHE---------------RYRDCRSLFYSQINGVIFVYDLSQRKTKANLS-KWAVEVA-ESGTFSAPLGSGGPGGLPVPYLVIANKVDI-----------------APRD----------------------------------------------GRRVSS--------GNLV------DVARQWV-EKQ-GL------------------------------
 >NONE_14170 , MEDTR3G107710.1 ;15;173
 --------KLVIVGDGGTGKTTFVKRHLTGEF-------EKKYEPTIG---------------------------VEVHPLDFFT------------NCGK----IRFYCWDTAGQE---------------KFGGLRDGYYIHGQCAIIMFDVTARLTYKNVP-TWHRDLC--------------RVCENIPIVLCGNKVDV--------------------K----------------------------------------------NRQVKAKQVTFH--------------------RKK-NLQ----YYEISAKSNYNFEKPFLYLARKLAG
->Q15907#human ['RB11B_HUMAN Ras-related  ;13;174
+>Q15907 ['RB11B_HUMAN Ras-related  ;13;174
 --------KVVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIQV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLKELR-DHA------------DSNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRAVPT------------------DEARAFA-EKN-NLS----FIETSALDSTNVEEAFKNILTEIYR
 >ENSMUSP00000066238.7 pep:known chromoso ;5;167
 --------KLVVLGSGGVGKSALTVQFVQGIF-------VEKYDPTIE---------------------------DSYR-KQVEV------------DAQQ----CMLEILDTAGTE---------------QFTAMRDLYMKNGQGFALVYSITAQSTFNDLQ-DLREQIL-RVK-----------DTDDVPMILVGNKCDL--------------------E----D-----------------------------------------ERVVGK------------------EQGQNLA-RQWNNCA----FLESSAKSKINVNEIFYDLVRQINR
 >A5DQ02_PICGU ;1;117
 ----------------------------------------------------------------------------------------------------------------------------------------------------MLCFSIDSPDSLENVQSKWVGEIA-DHCE-------------GVKLVLVALKCDL-------------------RT----NEDSDPENNEDDDRYNPYRASTTNPYQ-------------QQKRLISY------------------DEALAVA-KKI-GAL---RYLECSAKKNRGVNEAFSEAARCALN
->P01116#human ['RASK_HUMAN GTPase KRas O ;5;165
+>P01116 ['RASK_HUMAN GTPase KRas O ;5;165
 --------KLVVVGAGGVGKSALTIQLIQNHF-------VDEYDPTIE---------------------------DSYR-KQVVI------------DGET----CLLDILDTAGQE---------------EYSAMRDQYMRTGEGFLCVFAINNTKSFEDIH-HYREQIK-RVK-----------DSEDVPMVLVGNKCDL--------------------P----------------------------------------------SRTVDT------------------KQAQDLA-RSY-GIP----FIETSAKTRQRVEDAFYTLVREIRQ
->P51148#human ['RAB5C_HUMAN Ras-related  ;23;184
+>P51148 ['RAB5C_HUMAN Ras-related  ;23;184
 --------KLVLLGESAVGKSSLVLRFVKGQF-------HEYQESTIG---------------------------AAFLTQTVCL------------DDTT----VKFEIWDTAGQE---------------RYHSLAPMYYRGAQAAIVVYDITNTDTFARAK-NWVKELQ-RQA------------SPNIVIALAGNKADL--------------------A----S-----------------------------------------KRAVEF------------------QEAQAYA-DDN-SLL----FMETSAKTAMNVNEIFMAIAKKLPK
 >YNL180C pep:known chromosome:R64-1-1:XI ;5;219
 --------KCVIIGDGAVGKTSLLISYTTNSF-------PTDYVPTVFDNYSTTIAIPNGTASSPLELDNGNDKRGSLSSASSSPST----------DRKL----YKINLWDTAGQE---------------DYDRLRPLCYPQTDIFLICFSVSEHASFANVTEKWLPELK-QTSNIEG--TSLYTKLGKYPILLVGTKSDL-------------------RD----DPAT------------------------QKKLQ------EANSDYVSQ------------------EEIDELV-QRC-GFM---GYTECSAATQAGVREVFEQAVRYAIY
->Q92930#human ['RAB8B_HUMAN Ras-related  ;10;171
+>Q92930 ['RAB8B_HUMAN Ras-related  ;10;171
 --------KLLLIGDSGVGKTCLLFRFSEDAF-------NTTFISTIG---------------------------IDFKIRTIEL------------DGKK----IKLQIWDTAGQE---------------RFRTITTAYYRGAMGIMLVYDITNEKSFDNIK-NWIRNIE-EHA------------SSDVERMILGNKCDM--------------------N----D-----------------------------------------KRQVSK------------------ERGEKLA-IDY-GIK----FLETSAKSSANVEEAFFTLARDIMT
 >FBpp0268758 pep:known chromosome:GCA_00 ;8;181
 --------KCVVVGDGTVGKTCMLISYTTDCF-------PGEYVP------------------------------TVFDNYSAPMQV----------DTIQ----VSLGLWDTAGQE---------------DYDRLRPLSYPQTDVFLICYSVASPSSFENVTSKWYPEIK-HHCP-------------DAPIILVGTKIDL-------------------RE----DRET------------------------LSGLA------EQGLTPLKR------------------EQGQKLA-NKI-RAV---KYMECSALTQRGLKPVFEEAVRAVLR
->P01111#human ['RASN_HUMAN GTPase NRas O ;5;165
+>P01111 ['RASN_HUMAN GTPase NRas O ;5;165
 --------KLVVVGAGGVGKSALTIQLIQNHF-------VDEYDPTIE---------------------------DSYR-KQVVI------------DGET----CLLDILDTAGQE---------------EYSAMRDQYMRTGEGFLCVFAINNSKSFADIN-LYREQIK-RVK-----------DSDDVPMVLVGNKCDL--------------------P----------------------------------------------TRTVDT------------------KQAHELA-KSY-GIP----FIETSAKTRQGVEDAFYTLVREIRQ
 >ENSMUSP00000123325.1 pep:known chromoso ;9;174
 --------KIILLGDGGVGKSSLMNRYVTNKF-------DSQLFHTIG---------------------------VEFLNKDLEV------------DGHF----VTMQIWDTAGQE---------------RFRSLRTPFYRGSDCCLLTFSVDDSQSFQNLS-NWKKEFI-YYAD--------VKEPESFPFVILGNKTDI--------------------K----------------------------------------------ERQVST------------------EEAQAWC-KDNGDYP----YFETSAKDSTNVAAAFEEAVRRILA
->P60953#human ['CDC42_HUMAN Cell divisio ;5;178
+>P60953 ['CDC42_HUMAN Cell divisio ;5;178
 --------KCVVVGDGAVGKTCLLISYTTNKF-------PSEYVP------------------------------TVFDNYAVTVMI----------GGEP----YTLGLFDTAGQE---------------DYDRLRPLSYPQTDVFLVCFSVVSPSSFENVKEKWVPEIT-HHCP-------------KTPFLLVGTQIDL-------------------RD----DPST------------------------IEKLA------KNKQKPITP------------------ETAEKLA-RDL-KAV---KYVECSALTQKGLKNVFDEAILAALE
->P84095#human ['RHOG_HUMAN Rho-related G ;5;178
+>P84095 ['RHOG_HUMAN Rho-related G ;5;178
 --------KCVVVGDGAVGKTCLLICYTTNAF-------PKEYIP------------------------------TVFDNYSAQSAV----------DGRT----VNLNLWDTAGQE---------------EYDRLRTLSYPQTNVFVICFSIASPPSYENVRHKWHPEVC-HHCP-------------DVPILLVGTKKDL-------------------RA----QPDT------------------------LRRLK------EQGQAPITP------------------QQGQALA-KQI-HAV---RYLECSALQQDGVKEVFAEAVRAVLN
 >AT5G27540.2_2216 , AT5G27540.2 ;431;595
 --------QCFVFGPNNAGKSALLNCFLGRSY-------TDNQESTTD-----------------ER--------------------------------------YAVNMVDESGAKKTLIMREIPEDGVQGLFSSKESL--AACDIAVFVYDSSDESSWKRAT-QLLVEVA-NYGE---------ATGYEVPCLMVSAKDDL-------------------------D-----------------------------------------SSPISI------------------QESTRMT-QDM-GIE---PPVSISSKLG-DFNNLFRKILTAAQH
@@ -98,7 +98,7 @@
 --------KCVVVGDGTVGKTCMLISYTTDSF-------PGEYVP------------------------------TVFDNYSAPMQV----------DTIQ----VSLGLWDTAGQE---------------DYDRLRPLSYPQTDVFLICYSVASPSSFENVTSKWYPEIK-HHCP-------------DAPIILVGTKIDL-------------------RD----DRET------------------------LSGLA------EQGLTPLKR------------------EQGQKLA-NKI-RAV---KYMECSALTQRGLKQVFEEAVRAVLK
 >FBpp0211971 pep:known chromosome:GCA_00 ;10;176
 --------KVILCGDYGVGKSSLFRRFATNTFV-----TDTDRKSTLG---------------------------LDHIDREYSV------------NEKQ----IKLQLWDTGGME---------------RVASVTSSYYKFAEGAILVFALDNAASFHSLS-QHLLDIV-TYA-------------ENAKIFICGNKSDL--------------------EG---R-----------------------------------------EPEVSD------------------EEVEAFC-EQCHSLIS--ATYKTSCRSGAGVEEMFRDISRQLVH
->P62070#human ['RRAS2_HUMAN Ras-related  ;8;177
+>P62070 ['RRAS2_HUMAN Ras-related  ;8;177
 DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-KQCVI------------DDRA----ARLDILDTAGQE---------------EFGAMREQYMRTGEGFLLVFSVTDRGSFEEIY-KFQRQIL-RVK-----------DRDEFPMILIGNKADL--------------------D----H-----------------------------------------QRQVTQ------------------EEGQQLA-RQL-KVT----YMEASAKIRMNVDQAFHELVRVIRK
 >AT4G18430.1_11636 , NONE ;15;176
 --------KLVLIGDSGVGKSNLLSRFTRNEF-------SIESKSTIG---------------------------VEFATRSVHV------------DEKI----IKAQLWDTAGQE---------------RYRAITSAYYRGAVGALLVYDITRHITFENVE-RWLKELR-DHT------------DANVVIMLVGNKADL--------------------R----H-----------------------------------------LRAVPT------------------EEARSFS-ERE-NMF----FMETSALDATNVEQAFTHVLTQIYR
@@ -108,7 +108,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLVFLGEQAVGKTSIITRFMYDTF-------DNNYQSTIG---------------------------IDFLSKTLYL------------DEGP----VRLQLWDTAGQE---------------RFRSLIPSYIRDSAAAIVVYDITNRQSFENTT-KWIQDIL-NER------------GKDVIIVLVGNKTDL--------------------A----D-----------------------------------------LRKVTY------------------EEGMQKA-QEY-NTM----FHETSAKAGHNIKVLFKKIAAKLPN
 >AT1G07410.1_11635 , NONE ;14;175
 --------KIVLIGDSGVGKSNILSRFTRNEF-------CLESKSTIG---------------------------VEFATRTLQV------------EGKT----VKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDITKRQTFENVL-RWLRELR-DHA------------DSNIVIMMAGNKSDL--------------------N----H-----------------------------------------LRSVAD------------------EDGRSLA-EKE-GLS----FLETSALEATNIEKAFQTILSEIYH
->P57735#human ['RAB25_HUMAN Ras-related  ;14;175
+>P57735 ['RAB25_HUMAN Ras-related  ;14;175
 --------KVVLIGESGVGKTNLLSRFTRNEF-------SHDSRTTIG---------------------------VEFSTRTVML------------GTAA----VKAQIWDTAGLE---------------RYRAITSAYYRGAVGALLVFDLTKHQTYAVVE-RWLKELY-DHA------------EATIVVMLVGNKSDL--------------------S----Q-----------------------------------------AREVPT------------------EEARMFA-ENN-GLL----FLETSALDSTNVELAFETVLKEIFA
 >FBpp0083413 pep:known chromosome:BDGP6: ;13;174
 --------KVVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIEV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLRELR-DHA------------DQNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRSVPT------------------DEAKLFA-ERN-GLS----FIETSALDSTNVETAFQNILTEIYR
@@ -122,7 +122,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KIVLIGDSGVGKSNLLSRFTRNSF-------SLDSKSTIG---------------------------VEFATRTIQV------------EGKI----VKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDVTKATTFENVK-RWLKELR-DHA------------DSNIVVMLIGNKIDL--------------------K----H-----------------------------------------LRSVSL------------------EDATSFA-ERE-GLS----FVETSALDATNVDKAFQTVLTEIYR
 >TGGT1_320480 | organism=Toxoplasma_gond ;13;179
 --------KVILVGDATVGKTHLLSRYIRGTL-------PKSPKATIG---------------------------VEFATRTVPL-----------AVGGT----VKAQIWDTAGQE---------------RYRSITSAHYRRAVGALLVYDVTRKSTFLNAS-KWLEELR-QNS------------EPDIVIMMVGNKLDL--------------------V----EKDP-------------------------------------TARDVPY------------------ELAAKFA-QAN-GLY----FSEASAVTAFNVKHIFEHLLQEIYN
->Q8IXI1#human ['MIRO2_HUMAN Mitochondria ;6;168
+>Q8IXI1 ['MIRO2_HUMAN Mitochondria ;6;168
 --------RILLLGEAQVGKTSLILSLVGEEF--------------------------------PEE--------VPPRAEEITIPA----------DVTPEK--VPTHIVDYSEAE---------------QTDEELREEIHKANVVCVVYDVSEEATIEKIRTKWIPLVN-----------GGTTQGPRVPIILVGNKSDL-------------------RS-------------------------------------------GSSMEAVLP----------IM--------------SQFPEIE---TCVECSAKNLRNISELFYYAQKAVLH
 >PF3D7_0903200 | organism=Plasmodium_fal ;10;176
 --------KVIILGDSGVGKTSLMNQYVNKKF-------TNQYKATIG---------------------------ADFLTKETIV------------DNEQ----ITMQIWDTAGQE---------------RFQSLGVAFYRGADCCVLVFDLTNYKTYESLE-SWKDEFL-IQAS--------PKDPENFPFVIIGNKVDE--------------------T----N-----------------------------------------KRKVQS------------------LKVLQWC-KSNNNIP----YFETSAKNAINVDQAFDEIARKAMK
@@ -130,23 +130,23 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KVVIVGNGGVGKSSMIQRYCKGIF-------TKDYKKTIG---------------------------VDFLERQIEI------------DGED----VRIMLWDTAGQE---------------EFDCITKAYYRGAQASVLVFSTTDRASFDAIK-DWKRKVE--------------NECNEIPTVIVQNKIDL-----I--------------E----------------------------------------------QAVVTA------------------DEVETLA-KLL-NCR----LIRTSVKEDINVASVFRYLATKCHQ
 >ENSMUSP00000128645.1 pep:known chromoso ;43;205
 --------QVIIIGSRGVGKTSLMERFTDDTF-------CEACKSTVG---------------------------VDFKIKTVEL------------RGKK----IRLQIWDTAGQE---------------RFNSITSAYYRSAKGIILVYDITKKETFDDLP-KWMKMID-KYA------------SEDAELLLVGNKLDC--------------------E----T-----------------------------------------DREISR------------------QQGEKFA-QQITGMR----FCEASAKDNFNVDEIFLKLVDDILK
->P08134#human ['RHOC_HUMAN Rho-related G ;7;180
+>P08134 ['RHOC_HUMAN Rho-related G ;7;180
 --------KLVIVGDGACGKTCLLIVFSKDQF-------PEVYVP------------------------------TVFENYIADIEV----------DGKQ----VELALWDTAGQE---------------DYDRLRPLSYPDTDVILMCFSIDSPDSLENIPEKWTPEVK-HFCP-------------NVPIILVGNKKDL-------------------RQ----DEHT------------------------RRELA------KMKQEPVRS------------------EEGRDMA-NRI-SAF---GYLECSAKTKEGVREVFEMATRAGLQ
->P60763#human ['RAC3_HUMAN Ras-related C ;5;178
+>P60763 ['RAC3_HUMAN Ras-related C ;5;178
 --------KCVVVGDGAVGKTCLLISYTTNAF-------PGEYIP------------------------------TVFDNYSANVMV----------DGKP----VNLGLWDTAGQE---------------DYDRLRPLSYPQTDVFLICFSLVSPASFENVRAKWYPEVR-HHCP-------------HTPILLVGTKLDL-------------------RD----DKDT------------------------IERLR------DKKLAPITY------------------PQGLAMA-REI-GSV---KYLECSALTQRGLKTVFDEAIRAVLC
 >FBpp0285105 pep:known supercontig:GCA_0 ;11;187
 --------KVLVCGMKGVGKTTVIEQLVYGNLN-----PDTELHPTI----------------------------EDIYVASCDT----------GRGGAR----ETLRIYDTAGLQG-------------EQAAQLPRHYLQFPDAFVLVYDPIDPRSLDMLA-DIKSDID-KHK-----------EKKEIPVIVLAN-VRA-------------------RV----------------------------------------------KRDTPPTTPNPVEK--IM------DRANIWC-QRE-RIK----HYTVNAMERPSLYEPFTSLCARVHP
->P20337#human ['RAB3B_HUMAN Ras-related  ;24;185
+>P20337 ['RAB3B_HUMAN Ras-related  ;24;185
 --------KLLIIGNSSVGKTSFLFRYADDTF-------TPAFVSTVG---------------------------IDFKVKTVYR------------HEKR----VKLQIWDTAGQE---------------RYRTITTAYYRGAMGFILMYDITNEESFNAVQ-DWATQIK-TYS------------WDNAQVILVGNKCDM--------------------E----E-----------------------------------------ERVVPT------------------EKGQLLA-EQL-GFD----FFEASAKENISVRQAFERLVDAICD
 >FBpp0222941 pep:known supercontig:GCA_0 ;12;170
 --------KCVLVGDGGTGKTTFVKRHMTGEF-------EKKYVATLG---------------------------VEVHPLIFHT------------NRGA----IRFNVWDTAGQE---------------KFGGLRDGYYIQGQCAVIMFDVTSRVTYKNVP-NWHRDLV--------------RVCENIPIVLCGNKVDI--------------------K----------------------------------------------DRKVKAKSIVFH--------------------RKK-NLQ----YYDISAKSNYNFEKPFLWLARKLVG
->P51151#human ['RAB9A_HUMAN Ras-related  ;9;174
+>P51151 ['RAB9A_HUMAN Ras-related  ;9;174
 --------KVILLGDGGVGKSSLMNRYVTNKF-------DTQLFHTIG---------------------------VEFLNKDLEV------------DGHF----VTMQIWDTAGQE---------------RFRSLRTPFYRGSDCCLLTFSVDDSQSFQNLS-NWKKEFI-YYAD--------VKEPESFPFVILGNKIDI--------------------S----------------------------------------------ERQVST------------------EEAQAWC-RDNGDYP----YFETSAKDATNVAAAFEEAVRRVLA
->Q15286#human ['RAB35_HUMAN Ras-related  ;10;170
+>Q15286 ['RAB35_HUMAN Ras-related  ;10;170
 --------KLLIIGDSGVGKSSLLLRFADNTF-------SGSYITTIG---------------------------VDFKIRTVEI------------NGEK----VKLQIWDTAGQE---------------RFRTITSTYYRGTHGVIVVYDVTSAESFVNVK-RWLHEIN-QN-------------CDDVCRILVGNKNDD--------------------P----E-----------------------------------------RKVVET------------------EDAYKFA-GQM-GIQ----LFETSAKENVNVEEMFNCITELVLR
->Q9H0U4#human ['RAB1B_HUMAN Ras-related  ;10;171
+>Q9H0U4 ['RAB1B_HUMAN Ras-related  ;10;171
 --------KLLLIGDSGVGKSCLLLRFADDTY-------TESYISTIG---------------------------VDFKIRTIEL------------DGKT----IKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIVVYDVTDQESYANVK-QWLQEID-RYA------------SENVNKLLVGNKSDL--------------------T----T-----------------------------------------KKVVDN------------------TTAKEFA-DSL-GIP----FLETSAKNATNVEQAFMTMAAEIKK
->P51153#human ['RAB13_HUMAN Ras-related  ;10;171
+>P51153 ['RAB13_HUMAN Ras-related  ;10;171
 --------KLLLIGDSGVGKTCLIIRFAEDNF-------NNTYISTIG---------------------------IDFKIRTVDI------------EGKK----IKLQVWDTAGQE---------------RFKTITTAYYRGAMGIILVYDITDEKSFENIQ-NWMKSIK-ENA------------SAGVERLLLGNKCDM--------------------E----A-----------------------------------------KRKVQK------------------EQADKLA-REH-GIR----FFETSAKSSMNVDEAFSSLARDILL
 >ENSMUSP00000003121.8 pep:known chromoso ;10;171
 --------KLLLIGDSGVGKTCVLFRFSEDAF-------NSTFISTIG---------------------------IDFKIRTIEL------------DGKR----IKLQIWDTAGQE---------------RFRTITTAYYRGAMGIMLVYDITNEKSFDNIR-NWIRNIE-EHA------------SADVEKMILGNKCDV--------------------N----D-----------------------------------------KRQVSK------------------ERGEKLA-LDY-GIK----FMETSAKANINVENAFFTLARDIKA
@@ -154,13 +154,13 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 ------------------------------------------------------------------------IKGGSFSSASSLPST----------ERKL----YKINLWDTAGQE---------------DYDRLRPLCYPQTDIFLICFSVSEHASFANVTEKWLPELK-QTSNIEN--TSLFTELRKYPILLVGTKSDL-------------------RD----DPST------------------------QKKLL------EANSDYVSQ------------------EEIDEVV-HEY-GFM---GYTECSAATQAGVREVFEHAVRYAIY
 >FBpp0268446 pep:known chromosome:GCA_00 ;10;175
 --------KVIILGDSSVGKTSLMNQYVNKRF-------SNQYKATIG---------------------------ADFCTKEVVV------------NDRV----VTMQIWDTAGQE---------------RFQSLGVAFYRGADCCVLVYDVTAPNSFKNLD-SWRDEFL-IQAS--------PRDPEHFPFVVLGNKVDL--------------------D----------------------------------------------NRQVST------------------RRAQQWC-QSKNDIP----YYETSAKEGINVEMAFQVIAKNALE
->Q13637#human ['RAB32_HUMAN Ras-related  ;27;194
+>Q13637 ['RAB32_HUMAN Ras-related  ;27;194
 --------KVLVIGELGVGKTSIIKRYVHQLF-------SQHYRATIG---------------------------VDFALKVLNW------------DSRT---LVRLQLWDIAGQE---------------RFGNMTRVYYKEAVGAFVVFDISRSSTFEAVL-KWKSDLD-SKVH--------LPNGSPIPAVLLANKCDQ-------------------------N-----------------------------------------KDS-SQSP----------------SQVDQFC-KEH-GFA---GWFETSAKDNINIEEAARFLVEKILV
->Q9UPQ3#human ['AGAP1_HUMAN Arf-GAP with ;73;231
+>Q9UPQ3 ['AGAP1_HUMAN Arf-GAP with ;73;231
 --------KVGIVGNLASGKSALVHRYLTGTYVQEESPEGGRFKKEIV--------V----------------------------------------DGQS----YLLLIRDEGGPPE-------------AQFAMW-------VDAVIFVFSLEDEISFQTVY-HYYSRMA-NYRN---------TSE--IPLVLVGTQDAI--------------------S-------------------------------------------SANPRVIDD------------------ARARKLS-NDLKRCT----YYETCATYGLNVERVFQDVAQKIVA
->P62826#human ['RAN_HUMAN GTP-binding nu ;12;170
+>P62826 ['RAN_HUMAN GTP-binding nu ;12;170
 --------KLVLVGDGGTGKTTFVKRHLTGEF-------EKKYVATLG---------------------------VEVHPLVFHT------------NRGP----IKFNVWDTAGQE---------------KFGGLRDGYYIQAQCAIIMFDVTSRVTYKNVP-NWHRDLV--------------RVCENIPIVLCGNKVDI--------------------K----------------------------------------------DRKVKAKSIVFH--------------------RKK-NLQ----YYDISAKSNYNFEKPFLWLARKLIG
->Q6IQ22#human ['RAB12_HUMAN Ras-related  ;44;206
+>Q6IQ22 ['RAB12_HUMAN Ras-related  ;44;206
 --------QVIIIGSRGVGKTSLMERFTDDTF-------CEACKSTVG---------------------------VDFKIKTVEL------------RGKK----IRLQIWDTAGQE---------------RFNSITSAYYRSAKGIILVYDITKKETFDDLP-KWMKMID-KYA------------SEDAELLLVGNKLDC--------------------E----T-----------------------------------------DREITR------------------QQGEKFA-QQITGMR----FCEASAKDNFNVDEIFLKLVDDILK
 >TriadP29154 pep:annotated scaffold:ASM1 ;27;188
 --------KLLIIGNSSVGKTSFLFRYADDTF-------TPAFVSTVG---------------------------IDFKVKTVFR------------NDKR----VKLQIWDTAGQE---------------RYRTITTAYYRGAMGFILMYDITNEDSFNAVQ-DWSTQIK-TYS------------WDNAQVVLVGNKCDR--------------------E----D-----------------------------------------ERVVSI------------------DRGKQLA-DQL-GFP----FFETSAKDNINVKSTFETLVDIICE
@@ -176,7 +176,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLLVIGESGVGKSSLIRRFVENKF-------DENHDVTIG---------------------------MDFKSKVMNV------------DGID----YKVALWDTAGAE---------------RFRSLTPSFYRKALGAILVYDITNRDSLVKLE-AWLAELD-SYS-----------DNPNIAIIVVGNKIDQ--------------------E-----------------------------------------------RVVDR------------------EEGRKFA-RKH-RAL----FIETSAKCDQFVSDVFKDVVEKIVS
 >ENSRNOP00000016432.3 pep:known chromoso ;10;175
 --------KVIILGDSGVGKTSLMNQYVNKKF-------SNQYKATIG---------------------------ADFLTKEVMV------------DDRL----VTMQIWDTAGQE---------------RFQSLGVAFYRGADCCVLVFDVTAPNTFKTLD-SWRDEFL-IQAS--------PRDPENFPFVVLGNKIDL--------------------E----------------------------------------------NRQVAT------------------KRAQAWC-YSKNNIP----YFETSAKEAINVEQAFQTIARNALK
->P61106#human ['RAB14_HUMAN Ras-related  ;13;174
+>P61106 ['RAB14_HUMAN Ras-related  ;13;174
 --------KYIIIGDMGVGKSCLLHQFTEKKF-------MADCPHTIG---------------------------VEFGTRIIEV------------SGQK----IKLQIWDTAGQE---------------RFRAVTRSYYRGAAGALMVYDITRRSTYNHLS-SWLTDAR-NLT------------NPNTVIILIGNKADL--------------------E----A-----------------------------------------QRDVTY------------------EEAKQFA-EEN-GLL----FLEASAKTGENVEDAFLEAAKKIYQ
 >C39F7.4 pep:known chromosome:WBcel235:V ;13;174
 --------KLLLIGDSGVGKSCLLLRFADDTY-------TESYISTIG---------------------------VDFKIRTIEL------------DGKT----IKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIVVYDITDQETFNNVK-QWLQEID-RYA------------CENVNKLLVGNKCDL--------------------T----A-----------------------------------------KRAVET------------------QAAQDYA-GQL-GIP----FLETSAKSSTNVEQAFLTMASEIKS
@@ -184,7 +184,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLLLIGDSGVGKSCLLLRFADDTY-------TESYISTIG---------------------------VDFKIRTIEL------------DGKT----IKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIVVYDCTDQESFNNVK-QWLEEIE-RYA------------CENVNKLLVGNKSDL--------------------T----T-----------------------------------------KKVVDH------------------TTAAEYA-AQL-GIP----FLETSAKSATNVEQAFMTMAAEIKN
 >ENSMUSP00000058391.7 pep:known chromoso ;5;166
 --------KVVVLGSGGVGKSALTVQFVTGTF-------IEKYDPTIE---------------------------DFYR-KEIEV------------DSSP----SVLEILDTAGTE---------------QFASMRDLYIKNGQGFILVYSLVNQQSFQDIK-PMRDQIV-RVK-----------RYEKVPLILVGNKVDL--------------------E----P-----------------------------------------EREVMS------------------SEGRALA-QEW-GCP----FMETSAKSKSMVDELFAEIVRQMNY
->P61020#human ['RAB5B_HUMAN Ras-related  ;22;183
+>P61020 ['RAB5B_HUMAN Ras-related  ;22;183
 --------KLVLLGESAVGKSSLVLRFVKGQF-------HEYQESTIG---------------------------AAFLTQSVCL------------DDTT----VKFEIWDTAGQE---------------RYHSLAPMYYRGAQAAIVVYDITNQETFARAK-TWVKELQ-RQA------------SPSIVIALAGNKADL--------------------A----N-----------------------------------------KRMVEY------------------EEAQAYA-DDN-SLL----FMETSAKTAMNVNDLFLAIAKKLPK
 >AT5G09910.1_4208 , AT5G09910.1 ;24;191
 --------RVLVVGDSGVGKSSLVHLIVKGSS-------IVRPSQTIG---------------------------CTVGVKHLTYASPASSSSIIKGDSERD---FFVELWDVSGHE---------------RYKDCRSLFYSQINGVIFVHDLSQRTTKTNLQ-KWAGEVS-VTGEFSAPLSSGGPGGLPVPYIVIGNKADI-----------------AAKG----------------------------------------------GTNGSS--------GNLV------DAARHWV-EKQ-GLL-----------------------------
@@ -196,7 +196,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLVLLGESAVGKSSIVHRFVTDSF-------DDLRESTIG---------------------------AAFLTQTIQL-----------DERTT----IKFEIWDTAGQE---------------RYKSLAPMYYRNANCALVAYDITQESSLDRAK-SWIQELQ-KQA------------SADIVVALVGNKLDLEAE-----------------------------------------------------------------RKVST------------------KEAKEYA-DEL-GLI----FKEISAKTGEGIKDVFHSIASKLPV
 >FBpp0073327 pep:known chromosome:BDGP6: ;12;170
 --------KCVLVGDGGTGKTTFVKRHMTGEF-------EKKYVATLG---------------------------VEVHPLIFHT------------NRGA----IRFNVWDTAGQE---------------KFGGLRDGYYIQGQCAVIMFDVTSRVTYKNVP-NWHRDLV--------------RVCENIPIVLCGNKVDI--------------------K----------------------------------------------DRKVKAKSIVFH--------------------RKK-NLQ----YYDISAKSNYNFEKPFLWLARKLVG
->P62834#human ['RAP1A_HUMAN Ras-related  ;5;167
+>P62834 ['RAP1A_HUMAN Ras-related  ;5;167
 --------KLVVLGSGGVGKSALTVQFVQGIF-------VEKYDPTIE---------------------------DSYR-KQVEV------------DCQQ----CMLEILDTAGTE---------------QFTAMRDLYMKNGQGFALVYSITAQSTFNDLQ-DLREQIL-RVK-----------DTEDVPMILVGNKCDL--------------------E----D-----------------------------------------ERVVGK------------------EQGQNLA-RQWCNCA----FLESSAKSKINVNEIFYDLVRQINR
 >ENSMUSP00000019317.5 pep:known chromoso ;23;202
 --------KLVLLGESAVGKSSLVLRFVKGQF-------HEYQESTIG---------------------------AAFLTQTVCL------------DDTT----VKFEIWDTAGQE---------------RYHSLAPMYYRGAQAAIVVYDITNTDTFARAK-NWVKELQ-RQA------------SPNIVIALAGNKADL--------------------A----S-----------------------------------------KRAVEFQPCHLPCSPPTLFLTCLSQEAQAYA-DDN-SLL----FMETSAKTAMNVNEIFMAIAKKLPK
@@ -212,9 +212,9 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KCVVVGDGAVGKTCLLISYTTNAF-------PGEYIP------------------------------TVFDNYSANVMV----------DAKP----INLGLWDTAGQE---------------DYDRLRPLSYPQTDVFLICFSLVNPASFENVRAKWYPEVR-HHCP-------------STPIILVGTKLDL-------------------RD----DKNT------------------------IEKLR------DKKLAPITY------------------PQGLAMA-KEI-GAV---KYLECSALTQKGLKTVFDEAIRSVLC
 >FBpp0083891 pep:known chromosome:BDGP6: ;10;175
 --------KVIILGDSSVGKTSLMNQYVNKRF-------SNQYKATIG---------------------------ADFCTKEVVV------------NDRV----VTMQIWDTAGQE---------------RFQSLGVAFYRGADCCVLVYDVTAPNSFKNLD-SWRDEFL-IQAS--------PRDPDHFPFVVLGNKVDL--------------------D----------------------------------------------NRQVST------------------RRAQQWC-QSKNDIP----YYETSAKEGINVEMAFQVIAKNALE
->P61225#human ['RAP2B_HUMAN Ras-related  ;5;166
+>P61225 ['RAP2B_HUMAN Ras-related  ;5;166
 --------KVVVLGSGGVGKSALTVQFVTGSF-------IEKYDPTIE---------------------------DFYR-KEIEV------------DSSP----SVLEILDTAGTE---------------QFASMRDLYIKNGQGFILVYSLVNQQSFQDIK-PMRDQII-RVK-----------RYERVPMILVGNKVDL--------------------E----G-----------------------------------------EREVSY------------------GEGKALA-EEW-SCP----FMETSAKNKASVDELFAEIVRQMNY
->P62820#human ['RAB1A_HUMAN Ras-related  ;13;174
+>P62820 ['RAB1A_HUMAN Ras-related  ;13;174
 --------KLLLIGDSGVGKSCLLLRFADDTY-------TESYISTIG---------------------------VDFKIRTIEL------------DGKT----IKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIVVYDVTDQESFNNVK-QWLQEID-RYA------------SENVNKLLVGNKCDL--------------------T----T-----------------------------------------KKVVDY------------------TTAKEFA-DSL-GIP----FLETSAKNATNVEQSFMTMAAEIKK
 >ENSMUSP00000110021.4 pep:known chromoso ;13;174
 --------KVVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIQV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLKELR-DHA------------DSNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRAVPT------------------DEARAFA-EKN-NLS----FIETSALDSTNVEEAFKNILTEIYR
@@ -222,11 +222,11 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 -----------------------------DEY-------DY-----------------------------------------------------------L----FKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLRELR-DHA------------DQNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRSVPT------------------DEAKLFA-ERN-GLS----FIETSALDSTNVETAFQNILTEIYR
 >TGGT1_312050 | organism=Toxoplasma_gond ;9;169
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------RTDHDLTIG---------------------------VEFGARLVSI------------AGRQ----VKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRDTFLHLT-RWLDEVR-QNS------------NPHMTIMLIGNKSDL--------------------E----------------------------------------------RREVSF------------------DEGAAFA-RQH-GLI----FLETSAKTAQNVDEAFILTARKIYE
->P61224#human ['RAP1B_HUMAN Ras-related  ;5;167
+>P61224 ['RAP1B_HUMAN Ras-related  ;5;167
 --------KLVVLGSGGVGKSALTVQFVQGIF-------VEKYDPTIE---------------------------DSYR-KQVEV------------DAQQ----CMLEILDTAGTE---------------QFTAMRDLYMKNGQGFALVYSITAQSTFNDLQ-DLREQIL-RVK-----------DTDDVPMILVGNKCDL--------------------E----D-----------------------------------------ERVVGK------------------EQGQNLA-RQWNNCA----FLESSAKSKINVNEIFYDLVRQINR
 >C4QVA0_PICPG ;5;179
 --------KCVVVGDGAVGKTCLLISYTTNRF-------PHDYIP------------------------------TVFDNYSANVLV----------NGEP----FKLGLWDTAGQE---------------EYDRLRPLSYPQTEIFLICFSVVEPTSFENVKNKWIIEIR-HHVP------------SDVLILLVGTKIDL-------------------RD----DPHT------------------------LDSLH------EMGYDPITQ------------------EEGEALA-KEL-GCV---NYLECSASTQQGVKEIFDYAISAVVQ
->P10114#human ['RAP2A_HUMAN Ras-related  ;5;166
+>P10114 ['RAP2A_HUMAN Ras-related  ;5;166
 --------KVVVLGSGGVGKSALTVQFVTGTF-------IEKYDPTIE---------------------------DFYR-KEIEV------------DSSP----SVLEILDTAGTE---------------QFASMRDLYIKNGQGFILVYSLVNQQSFQDIK-PMRDQII-RVK-----------RYEKVPVILVGNKVDL--------------------E----S-----------------------------------------EREVSS------------------SEGRALA-EEW-GCP----FMETSAKSKTMVDELFAEIVRQMNY
 >TGGT1_248340 | organism=Toxoplasma_gond ;26;184
 --------KLILVGDGGVGKTTLVKRHLTGEF-------EKKYIPTLG---------------------------VEVHPLKFQT------------NFGM----ITFNVWDTAGQE---------------KFGGLRDGYYIKGQCAIMMFDVTARITYKNIP-NWYRDIT--------------RVCENIPIVLVGNKVDV--------------------K----------------------------------------------DRQVKARQIQFH--------------------RKR-NLQ----YYDISARSNYNFEKPFLWLARRLTN
@@ -236,11 +236,11 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLLLIGDSGVGKTCILFRFSDDAF-------TSTFISTIG---------------------------IDFKIKTVEL------------RGKK----IKLQIWDTAGQE---------------RFHTITTSYYRGAMGIMLVYDITNEKSFENIV-KWLRNID-EHA------------NEDVEKMILGNKCDM--------------------T----D-----------------------------------------KRVVNK------------------ERGEAIA-REH-GIR----FMETSAKSNINIERAFCELAEAILD
 >Q6YY17_8287 , ORGLA02G0217800.1 ;8;169
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------QPVHDLTIG---------------------------VEFGARMITI------------DNKP----IKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRETFNHLA-SWLEDAR-QHA------------NANMTVMLIGNKCDL--------------------S----H-----------------------------------------RRAVSY------------------EEGEQFA-KEH-GLV----FMEASAKTAQNVEEAFIKTAGTIYK
->O95716#human ['RAB3D_HUMAN Ras-related  ;24;185
+>O95716 ['RAB3D_HUMAN Ras-related  ;24;185
 --------KLLLIGNSSVGKTSFLFRYADDSF-------TPAFVSTVG---------------------------IDFKVKTVYR------------HDKR----IKLQIWDTAGQE---------------RYRTITTAYYRGAMGFLLMYDIANQESFAAVQ-DWATQIK-TYS------------WDNAQVILVGNKCDL--------------------E----D-----------------------------------------ERVVPA------------------EDGRRLA-DDL-GFE----FFEASAKENINVKQVFERLVDVICE
 >F53F10.4 pep:known chromosome:WBcel235: ;8;169
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------QPVHDLTIG---------------------------VEFGARMVTI------------DGKQ----IKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRDTFNHLT-SWLEDAR-QHS------------NSNMVIMLIGNKSDL--------------------E----A-----------------------------------------RREVKR------------------EEGEAFA-REH-GLV----FMETSAKTAANVEEAFIDTAKEIYR
->O00194#human ['RB27B_HUMAN Ras-related  ;11;183
+>O00194 ['RB27B_HUMAN Ras-related  ;11;183
 --------KLLALGDSGVGKTTFLYRYTDNKF-------NPKFITTVG---------------------------IDFREKRVVYNAQG--PNGSSGKAFK----VHLQLWDTAGQE---------------RFRSLTTAFFRDAMGFLLMFDLTSQQSFLNVR-NWMSQLQ-ANA-----------YCENPDIVLIGNKADL--------------------P----D-----------------------------------------QREVNE------------------RQARELA-DKY-GIP----YFETSAATGQNVEKAVETLLDLIMK
 >Q94J09_8709 , ORGLA01G0253600.1 ;20;181
 --------KTVLIGDSGVGKSNLLSRFTKNEF-------CLESKSTIG---------------------------VEFATRSIQV------------DGKV----VKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDVTRRATFDNVA-RWLKELR-DHT------------DPSIVVMLVGNKSDL--------------------R----H-----------------------------------------LVAVST------------------EDGKEYA-EAE-SLY----FMETSALDATNVENAFAEVLTQIYQ
@@ -248,11 +248,11 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLLIIGDSGVGKSSLLLRFADNTF-------SGSYITTIG---------------------------VDFKIRTVEI------------NGEK----VKLQIWDTAGQE---------------RFRTITSTYYRGTHGVIVVYDVTSAESFVNVK-RWLHEIN-QN-------------CDDVCRILVGNKNDD--------------------P----E-----------------------------------------RKVVET------------------EDAYKFA-GQM-GIQ----LFETSAKENVNVEEMFNCITELVLR
 >A3LSZ8_PICST ;16;209
 --------KIVILGDGACGKTSLLNVFTRGYF-------PQVYEP------------------------------TVFENYVHDIFI----------DGQS----VELSLWDTAGQE---------------EFDRLRSLSYSDTHCIMLCFSIDSPDSLENVQSKWVGEIA-DHCE-------------GVKLVLVALKCDL-------------------RS----DED------NESHAHINGTEEEFNPYS--QNASNNQY--QQNKRLITY------------------DEGLAVA-KKV-GAL---RYLECSAKKNRGVNEAFSEAARCALN
->Q13636#human ['RAB31_HUMAN Ras-related  ;7;168
+>Q13636 ['RAB31_HUMAN Ras-related  ;7;168
 --------KVCLLGDTGVGKSSIVCRFVQDHF-------DHNISPTIG---------------------------ASFMTKTVPC------------GNEL----HKFLIWDTAGQE---------------RFHSLAPMYYRGSAAAVIVYDITKQDSFYTLK-KWVKELK-EHG------------PENIVMAIAGNKCDL--------------------S----D-----------------------------------------IREVPL------------------KDAKEYA-ESI-GAI----VVETSAKNAINIEELFQGISRQIPP
 >PF3D7_0512600 | organism=Plasmodium_fal ;10;171
 --------KILLIGDSGVGKSCLLLRFADDTY-------TDSYISTIG---------------------------VDFKIKTIEI------------EDKI----IKLQIWDTAGQE---------------RFRTITSSYYRGAQGIIIVYDVTDRDSFNNVK-NWIIEIE-KYA------------SEDVQKILIGNKIDL--------------------K----N-----------------------------------------DRNVSY------------------EEGKELA-DSC-NIQ----FLETSAKIAHNVEQAFKTMAYEIKN
->Q96HU8#human ['DIRA2_HUMAN GTP-binding  ;9;171
+>Q96HU8 ['DIRA2_HUMAN GTP-binding  ;9;171
 --------RVAVFGAGGVGKSSLVLRFVKGTF-------RESYIPTVE---------------------------DTYR-QVISC------------DKSI----CTLQITDTTGSH---------------QFPAMQRLSISKGHAFILVYSITSRQSLEELK-PIYEQIC-EIK----------GDVESIPIMLVGNKCDE--------------------S----P-----------------------------------------SREVQS------------------SEAEALA-RTW-KCA----FMETSAKLNHNVKELFQELLNLEKR
 >NONE_14052 , MEDTR8G091980.1 ;23;188
 --------RVLVVGDSGVGKSSLVHLIVKGSP-------IARPSQTIG---------------------------CTVDVKHTTYGNSGSSSSSLKGDSERD---FFVELWDVSGHE---------------RYKDCRSLFYSQINGVIFVHDLSQRRTKTSLQ-KWAAEIA-ATGTFSAPLGSGGPGGLPVPYIVIGNKADI-----------------VAKE----------------------------------------------GARGSS--------GNLV------DVARQWV-EKQ-G-------------------------------
@@ -264,7 +264,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLLLIGDSGVGKSCLLLRFADDTY-------TESYISTIG---------------------------VDFKIRTIEL------------DGKT----IKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIVVYDCTDQESFNNVK-QWLEEIE-RYA------------CENVNKLLVGNKSDL--------------------T----T-----------------------------------------KKVVDH------------------TTAAEYA-AQL-GIP----FLETSAKSATNVEQAFMTMAAEIKN
 >ENSMUSP00000031986.4 pep:known chromoso ;19;181
 --------KVILIGDSNVGKTCVVQHFKSGVY-------SESQQNTIG---------------------------VDFTVRSLEI------------DGKK----VKMQVWDTAGQE---------------RFRTITQSYYRSAHAAIIAYDLTRRSTFESVP-HWIHEIE-KYG------------AANLVIMLIGNKSDL--------------------W----E-----------------------------------------KRHVLF------------------EDACTLA-EKH-GLL---AVLETSAKESRNIDEVFVLMAKELIA
->P20339#human ['RAB5A_HUMAN Ras-related  ;22;183
+>P20339 ['RAB5A_HUMAN Ras-related  ;22;183
 --------KLVLLGESAVGKSSLVLRFVKGQF-------HEFQESTIG---------------------------AAFLTQTVCL------------DDTT----VKFEIWDTAGQE---------------RYHSLAPMYYRGAQAAIVVYDITNEESFARAK-NWVKELQ-RQA------------SPNIVIALSGNKADL--------------------A----N-----------------------------------------KRAVDF------------------QEAQSYA-DDN-SLL----FMETSAKTSMNVNEIFMAIAKKLPK
 >Q6CNL3_KLULA ;102;244
 --------------------SNVYQNMAYSDS------QNTKYDATLK---------------------------------------------------------LDVQVVDVTHFDA-------------TDYSDLRHLQVNQADGFILCYDTTNPATLADMT-LYHRIIT-RIK------------GDDVPIIVCGTKIDC-----I--------------S----------------------------------------------ERKVSE------------------DEVIGLC-EEM-GVDFDTCYFENSAMENINIDETFYAILHLIEK
@@ -276,7 +276,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KIIMVGTGGVGKSALTLQFMYDEF-------VEDYEPTKA---------------------------DSYR-KKVVL------------DGVE----CQIDILDTAGQE---------------DYAAIRDNYFRSGEGFLCVFSVAERESFQATA-ELREQIL-RVK-----------ADERIPILLVGNKCDL--------------------E----D------------------------------------------RQVTA------------------EECQSKA-NEW-RIS----YVETSAKTKLNVDKVFYDLLREIKN
 >ENSMUSP00000038841.2 pep:known chromoso ;5;166
 --------KVVVLGSGGVGKSALTVQFVTGSF-------IEKYDPTIE---------------------------DFYR-KEIEV------------DSSP----SVLEILDTAGTE---------------QFASMRDLYIKNGQGFILVYSLVNQQSFQDIK-PMRDQII-RVK-----------RYERVPMILVGNKVDL--------------------E----G-----------------------------------------EREVSY------------------GEGKALA-EEW-SCP----FMETSAKNKASVDELFAEIVRQMNY
->Q9HBH0#human ['RHOF_HUMAN Rho-related G ;21;194
+>Q9HBH0 ['RHOF_HUMAN Rho-related G ;21;194
 --------KIVIVGDGGCGKTSLLMVYSQGSF-------PEHYAP------------------------------SVFEKYTASVTV----------GSKE----VTLNLYDTAGQE---------------DYDRLRPLSYQNTHLVLICYDVMNPTSYDNVLIKWFPEVT-HFCR-------------GIPMVLIGCKTDL-------------------RK----DKEQ------------------------LRKLR------AAQLEPITY------------------MQGLSAC-EQI-RAA---LYLECSAKFRENVEDVFREAAKVALS
 >Q6CLF3_KLULA ;16;202
 --------KIVILGDGACGKTSLLNVFTRGYF-------PKVYEP------------------------------TIFENYIHDIFV----------DNQH----ISLSLWDTAGQE---------------EFDRLRSLSYSDTHTIMLCFSVDSRDSLENVQNKWVGEIA-DHCE-------------GVKLVLVALKCDL-------------------RN----LEEF----GNESAAITPGSIQNRNSNA--KDNG-----------LISY------------------EEGLDMA-KKI-GAL---RYLECSAKMNRGVNEAFTEAARCALT
@@ -286,7 +286,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLVIVGDGACGKTCLLIVFSKGQF-------PEVYVP------------------------------TVFENYVADVEV----------DGRR----VELALWDTAGQE---------------DYDRLRPLSYPDSNVVLICFSIDLPDSLENVQEKWIAEVL-HFCQ-------------GVPIILVGCKVDL-------------------RN----DPQT------------------------IEQLR------QEGQQPVTS------------------QEGQSVA-DQI-GAT---GYYECSAKTGYGVREVFEAATRASLM
 >Spar_9.56 ;18;212
 --------KIVILGDGACGKTSLLNVFTRGYF-------PEVYEP------------------------------TVFENYIHDIFV----------DSKH----ITLSLWDTAGQE---------------EFDRLRSLSYSDTQCIMLCFSIDSRDSLENVQNKWVGEIT-DHCE-------------GVKLVLVALKCDL-------------------RN----SE-------TESNAITPNNIQQDNSVS--NDNGNNINSTSNTKNLISY------------------EEGLAMA-KKI-GAL---RYLECSAKLNKGVNEAFTEAARVALT
->Q9NP72#human ['RAB18_HUMAN Ras-related  ;10;171
+>Q9NP72 ['RAB18_HUMAN Ras-related  ;10;171
 --------KILIIGESGVGKSSLLLRFTDDTF-------DPELAATIG---------------------------VDFKVKTISV------------DGNK----AKLAIWDTAGQE---------------RFRTLTPSYYRGAQGVILVYDVTRRDTFVKLD-NWLNELE-TYC-----------TRNDIVNMLVGNKIDK--------------------E----N------------------------------------------REVDR------------------NEGLKFA-RKH-SML----FIEASAKTCDGVQCAFEELVEKIIQ
 >PF3D7_1320600 | organism=Plasmodium_fal ;13;175
 --------KIVLIGDSGVGKSNLLSRFTRDEF-------NLESKSTIG---------------------------VEFATKSIQL-----------KNNKI----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDITKKNSFENIE-KWLKELR-DNA------------DSNIVILLVGNKSDL--------------------K----H-----------------------------------------LRVIND------------------NDATQYA-KKE-KLA----FIETSALEATNVELAFHQLLNEIYN
@@ -294,19 +294,19 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KFLLVGDSDVGKGEILASLQDGAA-------ESPYGHPAG---------------------------IDHKTTTILL------------DGRR----VKLQLWDTSGQG---------------RFCTIFRSYSRGAQGVVLVYDIANRWSFDGIN-RWIKEID-EHA-------------PGVPKILVGNRLHL--------------------AF---------------------------------------------KRQVPT------------------EQAQAYA-ERL-GVT----FFEVSPLCNFNITESFTELARIVLL
 >YML064C pep:known chromosome:R64-1-1:XI ;22;187
 --------QVGLVGDAQVGKTSLMVKYVQNIY-------DKEYTQTLG---------------------------VNFLKRKVSI------------RSTD----IIFSIMDLGGQR---------------EFINMLPIATVGSSVIIFLFDLTRPETLSSIK-EWYRQAY--------------GLNDSAIPILVGTKYDL----LI--------------D---LDPEY--------------------------------------QEQIS-------------------RTSMKYA-QVM-NAP----LIFCSTAKSINIQKIFKIALAKIFN
->P51149#human ['RAB7A_HUMAN Ras-related  ;10;175
+>P51149 ['RAB7A_HUMAN Ras-related  ;10;175
 --------KVIILGDSGVGKTSLMNQYVNKKF-------SNQYKATIG---------------------------ADFLTKEVMV------------DDRL----VTMQIWDTAGQE---------------RFQSLGVAFYRGADCCVLVFDVTAPNTFKTLD-SWRDEFL-IQAS--------PRDPENFPFVVLGNKIDL--------------------E----------------------------------------------NRQVAT------------------KRAQAWC-YSKNNIP----YFETSAKEAINVEQAFQTIARNALK
->P61026#human ['RAB10_HUMAN Ras-related  ;11;172
+>P61026 ['RAB10_HUMAN Ras-related  ;11;172
 --------KLLLIGDSGVGKTCVLFRFSDDAF-------NTTFISTIG---------------------------IDFKIKTVEL------------QGKK----IKLQIWDTAGQE---------------RFHTITTSYYRGAMGIMLVYDITNGKSFENIS-KWLRNID-EHA------------NEDVERMLLGNKCDM--------------------D----D-----------------------------------------KRVVPK------------------GKGEQIA-REH-GIR----FFETSAKANINIEKAFLTLAEDILR
 >NONE_13931 , MEDTR2G027660.1 ;8;169
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------QPVHDLTIG---------------------------VEFGARMITI------------DNKP----IKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRETFNHLA-SWLEDAR-QHA------------NANMTIMLIGNKCDL--------------------A----H-----------------------------------------RRAVST------------------EEGEQFA-KEN-GLI----FMEASAKTAQNVEEAFIKTAGTIYK
->Q9NX57#human ['RAB20_HUMAN Ras-related  ;7;202
+>Q9NX57 ['RAB20_HUMAN Ras-related  ;7;202
 --------KIVLLGDMNVGKTSLLQRYMERRF--------PDTVSTVG---------------------------GAFYLKQWRS--------------------YNISIWDTAGRE---------------QFHGLGSMYCRGAAAIILTYDVNHRQSLVELEDRFLGLTD--------------TASKDCLFAIVGNKVDLTEEGAL---------AGQEKEECSPNMDA------------------------GDRVS------PRAPKQVQLEDAVALYK-KILKYKMLDEQDVPAA-EQM--------CFETSAKTGYNVDLLFETLFDLVV-
 >ENSMUSP00000095285.5 pep:known chromoso ;10;171
 --------KILIIGESGVGKSSLLLRFTDDTF-------DPELAATIG---------------------------VDFKVKTISV------------DGNK----AKLAIWDTAGQE---------------RFRTLTPSYYRGAQGVILVYDVTRRDTFVKLD-NWLNELE-TYC-----------TRNDIVNMLVGNKIDK--------------------E----N------------------------------------------REVDR------------------NEGLKFA-RKH-SML----FIEASAKTCDGVQCAFEELVEKIIQ
 >ENSMUSP00000088174.6 pep:known chromoso ;5;167
 --------KLVVLGSGGVGKSALTVQFVQGIF-------VEKYDPTIE---------------------------DSYR-KQVEV------------DCQQ----CMLEILDTAGTE---------------QFTAMRDLYMKNGQGFALVYSITAQSTFNDLQ-DLREQIL-RVK-----------DTEDVPMILVGNKCDL--------------------E----D-----------------------------------------ERVVGK------------------EQGQNLA-RQWCNCA----FLESSAKSKINVNEIFYDLVRQINR
->P01112#human ['RASH_HUMAN GTPase HRas O ;5;165
+>P01112 ['RASH_HUMAN GTPase HRas O ;5;165
 --------KLVVVGAGGVGKSALTIQLIQNHF-------VDEYDPTIE---------------------------DSYR-KQVVI------------DGET----CLLDILDTAGQE---------------EYSAMRDQYMRTGEGFLCVFAINNTKSFEDIH-QYREQIK-RVK-----------DSDDVPMVLVGNKCDL--------------------A----------------------------------------------ARTVES------------------RQAQDLA-RSY-GIP----YIETSAKTRQGVEDAFYTLVREIRQ
 >ENSMUSP00000105719.2 pep:known chromoso ;24;185
 --------KILIIGNSSVGKTSFLFRYADDSF-------TPAFVSTVG---------------------------IDFKVKTIYR------------NDKR----IKLQIWDTAGQE---------------RYRTITTAYYRGAMGFILMYDITNEESFNAVQ-DWSTQIK-TYS------------WDNAQVLLVGNKCDM--------------------E----D-----------------------------------------ERVVSS------------------ERGRQLA-DHL-GFE----FFEASAKDNINVKQTFERLVDVICE
@@ -322,7 +322,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KLVLLGEMGSGKSSLVLRYVKGQF-------FDYQASTVG---------------------------AAFLTKT--L------------PELN----VKFEIWDTAGQE---------------RYHSLAPMYYRGAAAAIIVYDITSPDSFTRAK-SWVRELQ-RQG------------NPNMIMALAGNKADL--------------------E----G-----------------------------------------QRAVTV------------------EEAQAYA-AEN-GLF----YVETSAKTSANVNELFEEIARKLPK
 >ENSMUSP00000032879.7 pep:known chromoso ;11;172
 --------KIVLIGNAGVGKTCLVRRFTQGLF-------PPGQGATIG---------------------------VDFMIKTVEI------------NGEK----VKLQIWDTAGQE---------------RFRSITQSYYRSANALILTYDITCEESFRCLP-EWLREIE-QYA------------SNKVITVLVGNKIDL--------------------A----E-----------------------------------------RREVSQ------------------QRAEEFS-EAQ-DMY----YLETSAKESDNVEKLFLDLACRLIS
->P20336#human ['RAB3A_HUMAN Ras-related  ;24;185
+>P20336 ['RAB3A_HUMAN Ras-related  ;24;185
 --------KILIIGNSSVGKTSFLFRYADDSF-------TPAFVSTVG---------------------------IDFKVKTIYR------------NDKR----IKLQIWDTAGQE---------------RYRTITTAYYRGAMGFILMYDITNEESFNAVQ-DWSTQIK-TYS------------WDNAQVLLVGNKCDM--------------------E----D-----------------------------------------ERVVSS------------------ERGRQLA-DHL-GFE----FFEASAKDNINVKQTFERLVDVICE
 >ENSMUSP00000056433.6 pep:known chromoso ;5;166
 --------KVVVLGSGGVGKSALTVQFVTGTF-------IEKYDPTIE---------------------------DFYR-KEIEV------------DSSP----SVLEILDTAGTE---------------QFASMRDLYIKNGQGFILVYSLVNQQSFQDIK-PMRDQII-RVK-----------RYEKVPVILVGNKVDL--------------------E----S-----------------------------------------EREVSS------------------NEGRALA-EEW-GCP----FMETSAKSKTMVDELFAEIVRQMNY
@@ -330,29 +330,29 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KVVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIEV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLRELR-DHA------------DQNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRSVPT------------------DEAKLFA-ERN-GLS----FIETSALDSTNVETAFQNILTEIYR
 >ENSMUSP00000021001.8 pep:known chromoso ;11;172
 --------KLLLIGDSGVGKTCVLFRFSDDAF-------NTTFISTIG---------------------------IDFKIKTVEL------------QGKK----IKLQIWDTAGQE---------------RFHTITTSYYRGAMGIMLVYDITNGKSFENIS-KWLRNID-EHA------------NEDVERMLLGNKCDM--------------------D----D-----------------------------------------KRVVPK------------------GKGEQIA-REH-GIR----FFETSAKANINIEKAFLTLAEDILR
->P20340#human ['RAB6A_HUMAN Ras-related  ;15;175
+>P20340 ['RAB6A_HUMAN Ras-related  ;15;175
 --------KLVFLGEQSVGKTSLITRFMYDSF-------DNTYQATIG---------------------------IDFLSKTMYL------------EDRT----VRLQLWDTAGQE---------------RFRSLIPSYIRDSTVAVVVYDITNVNSFQQTT-KWIDDVR-TER------------GSDVIIMLVGNKTDL--------------------A----D-----------------------------------------KRQVSI------------------EEGERKA-KEL-NVM----FIETSAKAGYNVKQLFRRVAAALP-
 >FBpp0217799 pep:known chromosome:GCA_00 ;13;172
 --------KVVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIEV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLRELR-DHA------------DQNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRSVPT------------------DEAKLFA-ERN-GLS----FIETSALDSTNVETAFQNILTGD--
->Q8WUD1#human ['RAB2B_HUMAN Ras-related  ;8;169
+>Q8WUD1 ['RAB2B_HUMAN Ras-related  ;8;169
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------QPVHDLTIG---------------------------VEFGARMVNI------------DGKQ----IKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRETFNHLT-SWLEDAR-QHS------------SSNMVIMLIGNKSDL--------------------E----S-----------------------------------------RRDVKR------------------EEGEAFA-REH-GLI----FMETSAKTACNVEEAFINTAKEIYR
 >Spar_14.159 ;60;219
 ----------------------------------------------------------------------GDDKRGSLSSASSSPTT----------DRKL----YKINLWDTAGQE---------------DYDRLRPLCYPQTDIFLICFSVSEHASFANVTEKWLPELK-QTSNIEG--TSLYTKLGKYPILLVGTKSDL-------------------RD----DPAT------------------------QKKLQ------ETNSDYVSQ------------------EEIDELV-QRC-GFM---GYTECSAATQAGVREVFEQAVRYAIY
->P62491#human ['RB11A_HUMAN Ras-related  ;13;174
+>P62491 ['RB11A_HUMAN Ras-related  ;13;174
 --------KVVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIQV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLKELR-DHA------------DSNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRAVPT------------------DEARAFA-EKN-GLS----FIETSALDSTNVEAAFQTILTEIYR
 >AT5G64813.1_2470 , AT5G64813.1 ;24;187
 --------RVLVVGDSGVGKTSLVHLINKGSS-------IVRPPQTIG---------------------------CTVGVKHITYGSPASSSSSIQGDSERD---FFVELWDVSGHE---------------RYKDCRSLFYSQINGVIFVHDLSQRRTKTSLQ-KWASEVA-ATGTFSAPLPSGGPGGLPVPYIVVGNKADI-----------------AAKE----------------------------------------------GTKGSS--------GNLV------DAARHWV-EK----------------------------------
 >Q8H4Q9_7260 , ORGLA07G0123200.1 ;11;171
 --------KLVFLGDQSVGKTSIITRFMYDKF-------DNTYQATIG---------------------------IDFLSKTMYL------------EDRT----VRLQLWDTAGQE---------------RFRSLIPSYIRDSSVAVIVFDVASRQSFLNTS-KWIEEVR-TER------------GSDVIIVLVGNKTDL--------------------V----D-----------------------------------------KRQVSI------------------EEGEGKA-KDL-GVM----FIETSAKAGFNIKALFRKIAAALP-
->Q9UL25#human ['RAB21_HUMAN Ras-related  ;21;182
+>Q9UL25 ['RAB21_HUMAN Ras-related  ;21;182
 --------KVVLLGEGCVGKTSLVLRYCENKF-------NDKHITTLQ---------------------------ASFLTKKLNI------------GGKR----VNLAIWDTAGQE---------------RFHALGPIYYRDSNGAILVYDITDEDSFQKVK-NWVKELR-KML------------GNEICLCIVGNKIDL--------------------E----K-----------------------------------------ERHVSI------------------QEAESYA-ESV-GAK----HYHTSAKQNKGIEELFLDLCKRMIE
->P11234#human ['RALB_HUMAN Ras-related p ;16;178
+>P11234 ['RALB_HUMAN Ras-related p ;16;178
 --------KVIMVGSGGVGKSALTLQFMYDEF-------VEDYEPTKA---------------------------DSYR-KKVVL------------DGEE----VQIDILDTAGQE---------------DYAAIRDNYFRSGEGFLLVFSITEHESFTATA-EFREQIL-RVK----------AEEDKIPLLVVGNKSDL--------------------E----E-----------------------------------------RRQVPV------------------EEARSKA-EEW-GVQ----YVETSAKTRANVDKVFFDLMREIRT
 >NONE_15067 , MEDTR7G100020.1 ;17;179
 --------KLLLIGDSGVGKSCLLLRFSDGSF-------TTSFITTIG---------------------------IDFKIRTIEL------------DGKR----IKLQIWDTAGQE---------------RFRTITTAYYRGAMGILLVYDVTDESSFNNIR-NWIRNIE-QHA------------SDNVNKILVGNKADM--------------------D----ES----------------------------------------KRAVPT------------------SKGQALA-DEY-GIK----FFETSAKTNLNVEEVFFSIARDIKQ
 >ENSMUSP00000055416.6 pep:known chromoso ;9;171
 --------RVAVFGAGGVGKSSLVLRFVKGTF-------RESYIPTVE---------------------------DTYR-QVISC------------DKSI----CTLQITDTTGSH---------------QFPAMQRLSISKGHAFILVYSITSRQSLEELK-PIYEQIC-EIK----------GDVESIPIMLVGNKCDE--------------------S----P-----------------------------------------NREVQS------------------SEAEALA-RTW-KCA----FMETSAKLNHNVKELFQELLNLEKR
->P11233#human ['RALA_HUMAN Ras-related p ;16;177
+>P11233 ['RALA_HUMAN Ras-related p ;16;177
 --------KVIMVGSGGVGKSALTLQFMYDEF-------VEDYEPTKA---------------------------DSYR-KKVVL------------DGEE----VQIDILDTAGQE---------------DYAAIRDNYFRSGEGFLCVFSITEMESFAATA-DFREQIL-RVK-----------EDENVPFLLVGNKSDL--------------------E----D-----------------------------------------KRQVSV------------------EEAKNRA-EQW-NVN----YVETSAKTRANVDKVFFDLMREIRA
 >ENSMUSP00000028238.8 pep:known chromoso ;13;174
 --------KYIIIGDMGVGKSCLLHQFTEKKF-------MADCPHTIG---------------------------VEFGTRIIEV------------SGQK----IKLQIWDTAGQE---------------RFRAVTRSYYRGAAGALMVYDITRRSTYNHLS-SWLTDAR-NLT------------NPNTVIILIGNKADL--------------------E----A-----------------------------------------QRDVTY------------------EEAKQFA-EEN-GLL----FLEASAKTGENVEDAFLEAAKKIYQ
@@ -362,11 +362,11 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------AFVLIGDSGVGKSNLLSRFTRNEF-------NLESKSTIG---------------------------VEFATRSIEV------------DGKT----IKAQIWDTAGQE---------------RYRAITSAYYRGAVGALLVYDIAKHLTYENVE-RWLRELR-DHA------------DQNIVIMLVGNKSDL--------------------R----H-----------------------------------------LRSVPT------------------DEAKLFA-ERN-GLS----FIETSALDSTNVETAFQNILTEIYR
 >Kwal_1116 ;10;171
 --------KLLLIGDSGVGKSCLLLRFSDDTY-------TNDYISTIG---------------------------VDFKIKTVEL------------DGKT----VKLQIWDTAGQE---------------RFRTITSSYYRGAHGIIIVYDVTDHDSFNDVK-MWLQEID-RYA------------TAGVLKLMVGNKSDL--------------------Q----D-----------------------------------------KRMVEY------------------DVAKEFA-DSL-QIP----FLETSALDSSNVEEAFLTMAKQIKE
->P61019#human ['RAB2A_HUMAN Ras-related  ;8;169
+>P61019 ['RAB2A_HUMAN Ras-related  ;8;169
 --------KYIIIGDTGVGKSCLLLQFTDKRF-------QPVHDLTIG---------------------------VEFGARMITI------------DGKQ----IKLQIWDTAGQE---------------SFRSITRSYYRGAAGALLVYDITRRDTFNHLT-TWLEDAR-QHS------------NSNMVIMLIGNKSDL--------------------E----S-----------------------------------------RREVKK------------------EEGEAFA-REH-GLI----FMETSAKTASNVEEAFINTAKEIYE
 >FBpp0214647 pep:known chromosome:GCA_00 ;7;167
 --------KLLVIGESGVGKSSLIRRFVENKF-------DNNHDVTIG---------------------------MDFKSKVMNV------------DGID----YKVALWDTAGAE---------------RFRSLTPSFYRKALGAILVYDITSRDSLVKLE-TWLAELD-SYS-----------DNPNIAIIVVGNKIDE--------------------E-----------------------------------------------RVVDR------------------EEGRKFA-RKH-RAL----FIETSAKCDQFVSDVFKDVVEKIVS
->Q9NRW1#human ['RAB6B_HUMAN Ras-related  ;15;175
+>Q9NRW1 ['RAB6B_HUMAN Ras-related  ;15;175
 --------KLVFLGEQSVGKTSLITRFMYDSF-------DNTYQATIG---------------------------IDFLSKTMYL------------EDRT----VRLQLWDTAGQE---------------RFRSLIPSYIRDSTVAVVVYDITNLNSFQQTS-KWIDDVR-TER------------GSDVIIMLVGNKTDL--------------------A----D-----------------------------------------KRQITI------------------EEGEQRA-KEL-SVM----FIETSAKTGYNVKQLFRRVASALP-
 >Smik_9.51 ;18;212
 --------KIVILGDGACGKTSLLNVFTRGYF-------PEVYEP------------------------------TVFENYIHDIFV----------DSKH----ITLSLWDTAGQE---------------EFDRLRSLSYSDTQCIMLCFSIDSRDSLENVQNKWVGEIT-DHCE-------------GVKLVLVALKCDL-------------------RN----NE-------NESNAITPNNIQQDNSVS--NNNGNNVNSTSNTKNLISY------------------EEGLAMA-KKI-GAL---RYLECSAKLNKGVNEAFTEAARVALT
@@ -376,7 +376,7 @@ DGSGQEKYRLVVVGGGGVGKSALTIQFIQSYF-------VTDYDPTIE---------------------------DSYT-
 --------KVILLGDGGVGKSSLMNRYVTNKF-------DSQAFHTIG---------------------------VEFLNRDLEV------------DGRF----VTLQIWDTAGQE---------------RFKSLRTPFYRGADCCLLTFSVDDRQSFENLG-NWQKEFI-YYAD--------VKDPDHFPFVVLGNKVDK--------------------E----------------------------------------------DRQVTT------------------EEAQAWC-MENGNYP----YLETSAKDDTNVTVAFEEAVRQVLA
 >FBpp0086353 pep:known chromosome:BDGP6: ;7;180
 --------KLVIVGDGACGKTCLLIVFSKDQF-------PEVYVP------------------------------TVFENYVADIEV----------DGKQ----VELALWDTAGQE---------------DYDRLRPLSYPDTDVILMCFSVDSPDSLENIPEKWTPEVK-HFCP-------------NVPIILVGNKKDL-------------------RN----DPNT------------------------IRDLA------KMKQEPVKP------------------QEGRAMA-EKI-NAF---AYLECSAKSKEGVRDVFETATRAALQ
->Q9Y3L5#human ['RAP2C_HUMAN Ras-related  ;5;166
+>Q9Y3L5 ['RAP2C_HUMAN Ras-related  ;5;166
 --------KVVVLGSGGVGKSALTVQFVTGTF-------IEKYDPTIE---------------------------DFYR-KEIEV------------DSSP----SVLEILDTAGTE---------------QFASMRDLYIKNGQGFILVYSLVNQQSFQDIK-PMRDQIV-RVK-----------RYEKVPLILVGNKVDL--------------------E----P-----------------------------------------EREVMS------------------SEGRALA-QEW-GCP----FMETSAKSKSMVDELFAEIVRQMNY
 >PF00071_5dha_A_12_168 A; 12; 168
 --------KLVLVGDGGTGKTTFVKRHLTGEF-------EKKYVATLG---------------------------VEVHPLVFHT------------NRGP----IKFNVWDTAGQE---------------KFGGLRDGYYIQAQCAIIMFDVTSRVTYKNVP-NWHRDLV--------------RVCENIPIVLCGNKVDI--------------------K----------------------------------------------DRKVKAKSIVFH--------------------RKK-NLQ----YYDISAKSNYNFEKPFLWLARKL--

@@ -1,4 +1,4 @@
->P43034#human ['LIS1_HUMAN Platelet-acti ;100;136
+>P43034 ['LIS1_HUMAN Platelet-acti ;100;136
 ----------EK----YAL-----S-G-----HR-SPV------------TRVIF------------H-PVFS---------------------VM-----VS--AS----------------------------EDAT--IKV-WD
 >ENSMUSP00000042509.6 pep:known chromoso ;107;145
 --------GFCM----STL-----R-T-----HK-DYV------------KALAY------------A-KDKE---------------------LV-----AS--AG----------------------------LDRQ--IFL-WD
@@ -6,17 +6,17 @@
 -----------G----SPIHK--FE-A-----HK-AAV------------LCVQW------------S-PDKS--------------------SVF-----GS--SA----------------------------EDGL--LNI-WD
 >ENSMUSP00000123588.1 pep:known chromoso ;169;207
 ------HIKMHK----RIL-------G-----HL-SSV------------YCVAF------------D-RSGR---------------------RI-----FT--GS----------------------------DDCL--VKI-W-
->O75083#human ['WDR1_HUMAN WD repeat-con ;179;217
+>O75083 ['WDR1_HUMAN WD repeat-con ;179;217
 ------------------FKFK-FTIG----DHS-RFV------------NCVRF------------S-PDGN---------------------RF-----AT--AS----------------------------ADGQ--IYI-YD
->O75717#human ['WDHD1_HUMAN WD repeat an ;126;164
+>O75717 ['WDHD1_HUMAN WD repeat an ;126;164
 --------SSQQ----KTF-----R-G----HDAP--V------------LSLSF------------D-PKDI---------------------FL-----AS--AS----------------------------CDGS--VRV-WQ
->Q13685#human ['AAMP_HUMAN Angio-associa ;247;287
+>Q13685 ['AAMP_HUMAN Angio-associa ;247;287
 --------GSPI----HVLKGT--E-G-----HQ-GPL------------TCVAA------------N-QDGS---------------------LI-----LT--GS----------------------------VDCQAKLV----
 >Q6FW89_CANGA ;138;182
 --------GDCL----ATL-----I-G-----HN-DWV------------SQVRI------------A--NSSDDDD---------------KVTV-----IS--AG----------------------------NDKM--VKVLWN
 >PF3D7_0826700 | organism=Plasmodium_fal ;11;51
 -----------------SLRGV-LEGG-----HS-DWV------------TSVST------------P-TDPKLK-------------------TI-----VS--AS----------------------------RDKK--LIV-WN
->P62873#human ['GBB1_HUMAN Guanine nucle ;133;170
+>P62873 ['GBB1_HUMAN Guanine nucle ;133;170
 -----------VR-VSRELA------G-----H-TGYL------------SCCRFLDDNQ-----------------------------------I-----VT--SS----------------------------GDTT--CAL-WD
 >C5DGD7_LACTC ;97;135
 --------GKCI----QRF-----V-G-----HK-SDV------------LSVTI------------D-RRAS---------------------QI-----VS--AS----------------------------RDKT--VKV-WN
@@ -24,7 +24,7 @@
 --------GDWV----GTF-----E-G-----HK-GAV------------WNATL------------N-RNAT---------------------LA-----AS--GA----------------------------ADFT--GKV-WN
 >FBpp0221324 pep:known chromosome:GCA_00 ;8;50
 ----------------YKLSCE-LL-G-----HS-MDV------------RAVAV------------G-P-PTPEGG----------------QTI-----LS--GS----------------------------RDKS--TKV-WK
->Q6UXN9#human ['WDR82_HUMAN WD repeat-co ;9;49
+>Q6UXN9 ['WDR82_HUMAN WD repeat-co ;9;49
 ----------------RSF-----RVAKVFRENS-DKI------------NCFDF------------S-PNGE---------------------TV-----IS--SS----------------------------DDDS--IVL-YD
 >YOR272W pep:known chromosome:R64-1-1:XV ;134;171
 --------GNVQ----KQY-----S-G-----HS-GPI------------RAVKY------------I-SNTR----------------------L-----VS--AG----------------------------NDRT--LRL-WK
@@ -42,13 +42,13 @@
 --------GTAK----KSL-----T-G-----HS-QAI------------SDVSI------------S-SDGL---------------------FA-----LS--GS----------------------------WDNS--IRL-WD
 >ENSMUSP00000116252.1 pep:known chromoso ;343;382
 --------GSPV----ATF-----K------QHM-APV------------TSVEW------------H-PQDS---------------------GV----FAA--SG----------------------------ADNQ--ITQ-WD
->Q13347#human ['EIF3I_HUMAN Eukaryotic t ;275;312
+>Q13347 ['EIF3I_HUMAN Eukaryotic t ;275;312
 --------EEEF----GRV-----K-G-----HF-GPI------------NSVAF------------H-PDGK---------------------SY-----SS--GG----------------------------EDGY--VRI-H-
 >NONE_15798 , MEDTR8G106790.1 ;136;179
 --------GECK----YTIQD--GD-A-----HS-DWV------------SCVRF------------S-PSTLQP-------------------TI-----VS--AS----------------------------WDRT--VKV-WN
->Q9GZL7#human ['WDR12_HUMAN Ribosome bio ;288;325
+>Q9GZL7 ['WDR12_HUMAN Ribosome bio ;288;325
 --------GSLK----STL-----T-G----NKV-FNC--------------ISY------------S-PLCK---------------------RL-----AS--GS----------------------------TDRH--IRL-WD
->Q13033#human ['STRN3_HUMAN Striatin-3 O ;523;561
+>Q13033 ['STRN3_HUMAN Striatin-3 O ;523;561
 --------VEPI----YTF-----R-A-----HI-GPV------------LSLAI------------S-SNGE---------------------QC-----FS--GG----------------------------IDAT--IQW-WN
 >Q0JB56_7581 , LOC_Os04g46892.1 ;190;258
 --------EGPM----HVLR------G-----HL-EEV------------TSCSV------------S-PDLG---------------------LV-----VS--SSNMSGVLLHSLRTGRLIRKLNVAEAHAVCLSSQGVILV-WN
@@ -72,7 +72,7 @@
 ---------PEL----LFI----HG-G-----HT-AKI------------SDFSW------------NPNEPW---------------------II-----CS--VS----------------------------EDNI--MQV-WQ
 >Sbay_13.295 ;97;135
 --------GETY----QRF-----V-G-----HK-SDV------------MSVDI------------D-KKAS---------------------MI-----IS--GS----------------------------RDKT--IKV-WT
->O43172#human ['PRP4_HUMAN U4/U6 small n ;482;520
+>O43172 ['PRP4_HUMAN U4/U6 small n ;482;520
 -------WSPL------KT----LA-G-----HE-GKV------------MGLDI------------S-SDGQ---------------------LI-----AT--CS----------------------------YDRT--FKL-WM
 >ENSMUSP00000097101.2 pep:known chromoso ;175;214
 ------HIKMHR----RIL-------G-----HL-SAV------------YCVAF------------D-RTGH---------------------RI-----FT--GS----------------------------DDCL--VKI-WS
@@ -86,7 +86,7 @@
 --------GETY----QRF-----V-G-----HK-SDV------------MSVDI------------D-KKAS---------------------MI-----IS--GS----------------------------RDKT--IKV-WT
 >FBpp0071028 pep:known chromosome:BDGP6: ;256;310
 -----------WK-CDKDFV------G-----H-RKAV------------TCVRFHNSILSRQENDGS-PSKP-----------------LQYCCL-----AV--GS----------------------------RDRS--LSV-WM
->P63244#human ['RACK1_HUMAN Receptor of  ;273;311
+>P63244 ['RACK1_HUMAN Receptor of  ;273;311
 ---------EVI----STS-----S-K----AEP-PQC------------TSLAW------------S-ADGQ---------------------TL-----FA--GY----------------------------TDNL--VRV-WQ
 >ENSMUSP00000044616.6 pep:known chromoso ;502;540
 --------IKVV----QDL-----S-G----EHM-GAV------------WTMKF------------S-HCGR---------------------LL-----AS--AG----------------------------QDNI--VRI-W-
@@ -98,19 +98,19 @@
 ---------VDQ----RPL-----V-G-----HK-NSV------------EDLQW------------S-PSER--------------------SVL-----AS--CS----------------------------VDKS--IRI-WD
 >ENSMUSP00000005234.9 pep:known chromoso ;225;262
 ---CA-LGES--------------K-A-----HD-GGI------------YAISW------------S-PDST---------------------HL-----LS--AS----------------------------GDKT--SKI-WD
->P55735#human ['SEC13_HUMAN Protein SEC1 ;254;290
+>P55735 ['SEC13_HUMAN Protein SEC1 ;254;290
 -------SPKLL----HKF-----N-D--VVWHV-S------------------W------------S-ITAN----------------------I-----LAV-SG----------------------------GDNK--VTL-WK
->O75083#human ['WDR1_HUMAN WD repeat-con ;223;262
+>O75083 ['WDR1_HUMAN WD repeat-con ;223;262
 -KVCA-LGGS--------------K-A-----HD-GGI------------YAISW------------S-PDST---------------------HL-----LS--AS----------------------------GDKT--SKI-WD
->Q9C0J8#human ["WDR33_HUMAN pre-mRNA 3'  ;234;268
+>Q9C0J8 ["WDR33_HUMAN pre-mRNA 3'  ;234;268
 --------CHEE----RIL-----R-G-----HG-ADV------------KCVDW------------H-P-TK--------------------GLV-----VS--GS----------------------------KDSQ--Q-----
 >Sbay_13.295 ;138;182
 --------GQCL----ATL-----L-G-----HN-DWV------------SQVRV------------V-PNEKADDD---------------SVTI-----IS--AG----------------------------NDKM--VKA-WN
 >T01G1.3 pep:known chromosome:WBcel235:I ;112;149
 -----------------EVLLS-RR-D-----HH-GHV------------LTIDV------------S-RDGR---------------------WM-----AS--GG----------------------------GSGQ--ILL-WD
->O15143#human ['ARC1B_HUMAN Actin-relate ;132;170
+>O15143 ['ARC1B_HUMAN Actin-relate ;132;170
 ---------WVC----KHI-----K-K-----PIRSTV------------LSLDW------------H-PNNV---------------------LL-----AA--GS----------------------------CDFK--CRI-FS
->Q9UNX4#human ['WDR3_HUMAN WD repeat-con ;181;219
+>Q9UNX4 ['WDR3_HUMAN WD repeat-con ;181;219
 -----------QH-CFKTMV------G-----HRTEVW------------GLVLLSEEKR-----------------------------------L-----IT--GA----------------------------SDSE--LRV-WD
 >BRADI2G44530.1 pep:novel chromosome:v1. ;15;55
 ---------NPN----KSL-----E-V---NSPPGDSV------------SSLSF------------S-P---------------------KANHL-----VA--TS----------------------------WDNQ--VRC-WE
@@ -118,7 +118,7 @@
 --------ATTI----AIL-----E-G-----HK-APV------------LSLAL------------D-SPTN---------------------RI-----LS--GS----------------------------ADHS--LAF-WS
 >FBpp0079785 pep:known chromosome:BDGP6: ;120;158
 ---------HYE----MSL-----R-G-----HT-RTV------------TDIDW------------H-GKDP--------------------NLL-----VS--CS----------------------------IDTF--SHI-WD
->Q8NBT0#human ['POC1A_HUMAN POC1 centrio ;51;89
+>Q8NBT0 ['POC1A_HUMAN POC1 centrio ;51;89
 --------QSRA----YRF-----T-G-----HK-DAV------------TCVNF------------S-PSGH---------------------LL-----AS--GS----------------------------RDKT--VRI-WV
 >TGGT1_319570 | organism=Toxoplasma_gond ;297;335
 --------GPAV----YVLP------G-----QR-CPV------------NALAV------------H-PLLA---------------------QL-----VT--AA----------------------------DDGI--VRV-FH
@@ -130,17 +130,17 @@
 --------GQCL----QTL-----S-GP--NKHH-SAV------------TCLQF------------N-SR-----------------------FV-----VT--SS----------------------------DDGT--VKL-WD
 >FBpp0232058 pep:known supercontig:GCA_0 ;183;221
 --------VECV----SVC-----K-G-----HE-RGV------------DSVCV------------S-PDAQ---------------------RF-----AT--GS----------------------------WDTM--LKI-WS
->Q5JSH3#human ['WDR44_HUMAN WD repeat-co ;597;634
+>Q5JSH3 ['WDR44_HUMAN WD repeat-co ;597;634
 -----------Q----RPFCK--YK-G-----HT-ADL------------LDLSW------------S---KN--------------------YFL-----LS--SS----------------------------MDKT--VRL-WH
 >A7TJ52_VANPO ;177;216
 ------RQNST------TN-----V-S----DTS-RAI------------WSTKF------------S-PDGK---------------------YL-----AT--GS----------------------------KDGS--INI-WK
->Q86W42#human ['THOC6_HUMAN THO complex  ;158;196
+>Q86W42 ['THOC6_HUMAN THO complex  ;158;196
 --------GTFT----RVL-----R-G-----HT-DYI------------HCLAL------------R-ERSP---------------------EV-----LS--GG----------------------------EDGA--VRL-WD
->Q6Q0C0#human ['TRAF7_HUMAN E3 ubiquitin ;633;669
+>Q6Q0C0 ['TRAF7_HUMAN E3 ubiquitin ;633;669
 --------MICT----QTL-----L-R-----HQ-GSV------------TALAV------------S-RG-----------------------RL-----FS--GA----------------------------VDST--VKV-WT
 >FBpp0117923 pep:known supercontig:GCA_0 ;8;50
 ----------------FKLSCE-LL-G-----HS-MDV------------RAVAA------------G-G-VSPEGG----------------QLI-----LS--GS----------------------------RDKS--TKL-WR
->Q9HAV0#human ['GBB4_HUMAN Guanine nucle ;133;170
+>Q9HAV0 ['GBB4_HUMAN Guanine nucle ;133;170
 -----------VR-VSRELP------G-----H-TGYL------------SCCRFLDDSQ-----------------------------------I-----VT--SS----------------------------GDTT--CAL-WD
 >FBpp0072023 pep:known chromosome:BDGP6: ;52;90
 --------GDWV----GTF-----E-G-----HK-GAV------------WNATL------------N-RNAT---------------------LA-----AS--GA----------------------------ADFT--GKV-WN
@@ -154,9 +154,9 @@
 --------GEVV----NIL-----R-G-----HE-SHV------------NCVAV------------H-P-HG--------------------SCI-----AT--SG----------------------------IDDF--IKI-WT
 >Skud_13.275 ;138;182
 --------GQCL----ATL-----L-G-----HN-DWV------------SQVRV------------V-PNEKADDD---------------SVTI-----IS--AG----------------------------NDKM--VKA-WN
->Q32P44#human ['EMAL3_HUMAN Echinoderm m ;829;868
+>Q32P44 ['EMAL3_HUMAN Echinoderm m ;829;868
 -------KAPS------RM----YG-G-----HG-SHV------------TSVRF------------THDDSH---------------------LV-----SL--GG----------------------------KDAS--IFQ-WR
->Q13610#human ['PWP1_HUMAN Periodic tryp ;246;285
+>Q13610 ['PWP1_HUMAN Periodic tryp ;246;285
 --------GKKS----SSA-----E-G-----HT-DAV------------LDLSW------------N-KLIR--------------------NVL-----AS--AS----------------------------ADNT--VIL-WD
 >EDP07942 pep:novel supercontig:v3.1:DS4 ;107;148
 --------GSQR----AQL-----K-G-----HT-GGLAP--------GGLV--F------------S-PDGC---------------------LL-----LSL-AA----------------------------GDPV--ARL-WN
@@ -164,13 +164,13 @@
 ---------QAE----SII-------G----AHE-EPI------------RCVEH---------------------AE-------------YVNGI-----LT--GS----------------------------WDNT--VKL-WD
 >FBpp0220867 pep:known chromosome:GCA_00 ;5;44
 ----------------LQLRGT-LI-G-----HN-GWV------------TQIAT------------N-P-KDPD-------------------TI-----IS--AS----------------------------RDKT--LIV-WK
->P57737#human ['CORO7_HUMAN Coronin-7 OS ;584;623
+>P57737 ['CORO7_HUMAN Coronin-7 OS ;584;623
 --------TTPE----TVL-----T-G-----HT-EKI------------CSLRF------------H-PLAA--------------------NVL-----AS--SS----------------------------YDLT--VRI-WD
 >FBpp0209570 pep:known chromosome:GCA_00 ;140;178
 --------GEYE----RSL-----K-G-----HT-DSV------------QDVAF------------D--AQG--------------------KLL-----AS--CS----------------------------ADLS--IKL-WD
 >EDO98911 pep:novel supercontig:v3.1:DS4 ;136;174
 --------GEEL----QVL-----E-G-----HG-G------------------W------------V-VSAA---------------------FVGTTHRLVT-AS----------------------------HDCT--ARI-WN
->Q96BP3#human ['PPWD1_HUMAN Peptidylprol ;276;308
+>Q96BP3 ['PPWD1_HUMAN Peptidylprol ;276;308
 ------------------------F-A----KCK-AYP------------TSVCF------------S-PDGK---------------------KI-----AT--IG----------------------------SDRK--VRI-FR
 >C4YCU1_CANAW ;250;288
 --------GKEE----RTL-----S-G-----HH-WEV------------KSADW------------H-P-NL--------------------GLI-----VS--GS----------------------------KDNL--VKL-WD
@@ -186,7 +186,7 @@
 ---------CQA----LVY-----R-G-----HS-DLV------------RCLSV------------S-PGGQ---------------------WL-----AS--GS----------------------------DDGT--LKL-WE
 >TGGT1_216880 | organism=Toxoplasma_gond ;7;46
 ----------------LEFKGV-LE-G-----HT-DCV------------TAIST------------P-S-LKSN-------------------TI-----VS--SS----------------------------RDHK--VIV-WT
->Q9ULV4#human ['COR1C_HUMAN Coronin-1C O ;167;202
+>Q9ULV4 ['COR1C_HUMAN Coronin-1C O ;167;202
 ----------------INL-----D-----DMHS-DMI------------YNVSW------------N-RNGS---------------------LI-----CT--AS----------------------------KDKK--VRV-ID
 >ENSMUSP00000023217.9 pep:known chromoso ;555;592
 --------RRSQ----SPF-----R-R----SHGQ--V------------QCVAF------------H-PSRP---------------------FL-----LV--AS-----------------------------QRS--IRI-YH
@@ -196,19 +196,19 @@
 -----------IG--GDTT-----T-K----KKV-IYC------------TSLNW------------S-ADGS---------------------TL-----FS--GY----------------------------TDGV--VRV-W-
 >FBpp0115030 pep:known supercontig:GCA_0 ;94;131
 --------GAEI----HSF-----Q-------HK-HIV------------KSVAF------------D-ADSE---------------------NV-----VT--GS----------------------------NERL--VRV-FN
->Q9UKT8#human ['FBXW2_HUMAN F-box/WD rep ;216;253
+>Q9UKT8 ['FBXW2_HUMAN F-box/WD rep ;216;253
 --------GART----QHF-----R-G-----HT-GAV------------FSVDY------------N-DELD---------------------IL-----VS--GS----------------------------ADFT--VKV-W-
->Q9Y263#human ['PLAP_HUMAN Phospholipase ;181;218
+>Q9Y263 ['PLAP_HUMAN Phospholipase ;181;218
 --------GRCE----RTF-----S-G-----HE-DCV------------RGLAIL-------------SETE----------F-----------------LS--CA----------------------------NDAS--IRR-WQ
->P63244#human ['RACK1_HUMAN Receptor of  ;136;178
+>P63244 ['RACK1_HUMAN Receptor of  ;136;178
 --------GVCK----YTVQD---E-S-----HS-EWV------------SCVRF------------S-PNSSNP-------------------II-----VS--CG----------------------------WDKL--VKV-WN
->P35606#human ["COPB2_HUMAN Coatomer sub ;175;215
+>P35606 ["COPB2_HUMAN Coatomer sub ;175;215
 --------SSPN----FTL-----E-G-----HE-KGV------------NCIDYY----------SG-GDKP---------------------YL-----IS--GA----------------------------DDRL--VKI-WD
 >SPAC6B12.15 ;182;220
 ----------------FSLRTS-HY-G-----HT-GYV------------SAVTI------------S-PDGS---------------------LC-----AS--GG----------------------------RDGT--LML-WD
 >ENSMUSP00000020640.7 pep:known chromoso ;136;178
 --------GVCK----YTVQD---E-S-----HS-EWV------------SCVRF------------S-PNSSNP-------------------II-----VS--CG----------------------------WDKL--VKV-WN
->O43172#human ['PRP4_HUMAN U4/U6 small n ;215;259
+>O43172 ['PRP4_HUMAN U4/U6 small n ;215;259
 --------HKSL----RSLNNFCSQIG----DDR-PIS------------YC-HF------------S-PNSK---------------------ML-----AT--AC----------------------------WSGL--CKL-WS
 >FBpp0278018 pep:known chromosome:GCA_00 ;94;131
 --------GAEI----HSF-----Q-------HK-HIV------------KSVAF------------D-ADSE---------------------NI-----VT--GS----------------------------NEKL--VRV-FN
@@ -216,7 +216,7 @@
 ----------------RSVQR--YR-G-----HK-QGC------------YVIRS------------T---------------F----GGVNEAFV-----VS--GS----------------------------EDSQ--VYI-WH
 >FBpp0070303 pep:known chromosome:BDGP6: ;547;585
 ------------RKC-VTL-------A---SRHL-FPV------------VTIKW------------R-PLDD---------------------FL-----IV--GC----------------------------SDGS--VYV-WQ
->Q9BQ67#human ['GRWD1_HUMAN Glutamate-ri ;343;382
+>Q9BQ67 ['GRWD1_HUMAN Glutamate-ri ;343;382
 --------GSPV----ATF-----K------QHV-APV------------TSVEW------------H-PQDS---------------------GV----FAA--SG----------------------------ADHQ--ITQ-WD
 >ENSMUSP00000081572.3 pep:known chromoso ;481;519
 -------WSPL------KT----LA-G-----HE-GKV------------MGLDI------------S-SDGQ---------------------LI-----AT--CS----------------------------YDRT--FKL-WM
@@ -224,23 +224,23 @@
 --------SNEL----GSI-----K-G-----HF-GPV------------HSIKF------------L-PHGD---------------------GF-----VS--GG----------------------------EDGF--ARI-YH
 >FBpp0221407 pep:known chromosome:GCA_00 ;306;342
 --------RRIL----YKLP------G-----HN-GSV------------NAVDF------------S-PKEP---------------------LI-----LS--GS----------------------------SDKT--LYL---
->A0A1W2PNV4#human ['A0A1W2PNV4_HUMAN Unc ;464;502
+>A0A1W2PNV4 ['A0A1W2PNV4_HUMAN Unc ;464;502
 ---------WVC----KHI-----K-K-----PIRSTV------------LSLDW------------H-PNNV---------------------LL-----AA--GS----------------------------CDFK--CRI-FS
->P62879#human ['GBB2_HUMAN Guanine nucle ;133;170
+>P62879 ['GBB2_HUMAN Guanine nucle ;133;170
 -----------VR-VSRELP------G-----H-TGYL------------SCCRFLDDNQ-----------------------------------I-----IT--SS----------------------------GDTT--CAL-WD
 >FBpp0220867 pep:known chromosome:GCA_00 ;96;134
 --------GKTT----RRF-----E-G-----HT-KDV------------LSVAF------------S-ADNR---------------------QI-----VS--GS----------------------------RDKT--IKL-WN
 >NONE_15798 , MEDTR8G106790.1 ;225;261
 -----------G----KRL-----Y-S----LDAGSII------------HALCF------------S-PNRY---------------------WL-----CA--AT-----------------------------ESS--IKI-WD
->Q8TC44#human ['POC1B_HUMAN POC1 centrio ;8;46
+>Q8TC44 ['POC1B_HUMAN POC1 centrio ;8;46
 ---------PVL----ERY----FK-G-----HK-AAI------------TSLDL------------S-PNGK---------------------QL-----AT--AS----------------------------WDTF--LML-WN
->P63244#human ['RACK1_HUMAN Receptor of  ;95;133
+>P63244 ['RACK1_HUMAN Receptor of  ;95;133
 --------GTTT----RRF-----V-G-----HT-KDV------------LSVAF------------S-SDNR---------------------QI-----VS--GS----------------------------RDKT--IKL-WN
 >PBANKA_144540 | organism=Plasmodium_ber ;2;40
 ---------SEL----IVF-----D-S----NHT-KSIND-CELDY------------------------YSK---------------------KL-----AT--CS----------------------------NDNT--VKI-FD
 >TriadP61795 pep:annotated scaffold:ASM1 ;263;306
 --------GDKV----RQY-----L-G-----HS-RRI------------ECLQL------------R-MTDPDN-V---------------IGYI-----VS--AG----------------------------RDGF--VKY-WD
->Q9BZK7#human ['TBL1R_HUMAN F-box-like/W ;432;470
+>Q9BZK7 ['TBL1R_HUMAN F-box-like/W ;432;470
 --------GICI----HTL-----T-K-----HQ-EPV------------YSVAF------------S-PDGR---------------------YL-----AS--GS----------------------------FDKC--VHI-WN
 >C4YTI4_CANAW ;139;179
 --------GECM----ATL-----T-G-----HN-DWV------------SAVRI------------S-PSDQSS-------------------TV-----IS--AS----------------------------WDKT--VKS-WD
@@ -248,7 +248,7 @@
 -----------------GM-----Q-A---EAHF-GPI------------SQVKY------------D-PSS-------------------G--LV-----AS--AS----------------------------YDKT--IRL-WQ
 >EDP08419 pep:novel supercontig:v3.1:DS4 ;111;149
 --------VRMI----QEV-----L-G-----HE-GVV------------WVLRF------------S-SDSR---------------------LL-----AS--GG----------------------------RDGV--VRL-WS
->P63244#human ['RACK1_HUMAN Receptor of  ;5;44
+>P63244 ['RACK1_HUMAN Receptor of  ;5;44
 ----------------MTLRGT-LK-G-----HN-GWV------------TQIAT------------T-P-QFPD-------------------MI-----LS--AS----------------------------RDKT--IIM-WK
 >FBpp0261801 pep:known chromosome:GCA_00 ;617;655
 --------GSCI----HTL-----T-K-----HT-EPV------------YSVAF------------S-PDGK---------------------HL-----AS--GS----------------------------FDKC--VHI-WS
@@ -262,7 +262,7 @@ NWMCIWHCKT-----------------------A-SQV------------HLMKF------------S-PDGE-------
 --------MVKQ----ADL-----T-G-----HT-SRV------------LQMAM------------S-PDGS---------------------TV-----IS--AG----------------------------ADET--LRL-WN
 >Spar_13.296 ;138;182
 --------GQCL----ATL-----L-G-----HN-DWV------------SQVRV------------V-PNEKADDD---------------SVTI-----IS--AG----------------------------NDKM--VKA-WN
->O75083#human ['WDR1_HUMAN WD repeat-con ;310;350
+>O75083 ['WDR1_HUMAN WD repeat-con ;310;350
 --------SKPL----HVI-----K-G-----HS-KSI------------QCLTV------------H-KNGGK-------------------SYI-----YS--GS----------------------------HDGH--INY-WD
 >ENSMUSP00000082822.6 pep:known chromoso ;42;80
 --------WNKV----HEL-----K------EHN-GQV------------TGIDW------------A-PESN---------------------RI-----VT--CG----------------------------TDRN--AYV-WT
@@ -272,7 +272,7 @@ NWMCIWHCKT-----------------------A-SQV------------HLMKF------------S-PDGE-------
 --------LKQM----ARL-----S-G-----HT-QRV------------LHLSV------------S-PDNE---------------------SI-----VT--GG----------------------------ADET--LRF-WT
 >FBpp0125570 pep:known supercontig:GCA_0 ;155;191
 -----------H----ERIVPE-VD-A---------SI------------QDVAI------------S-PDGR---------------------YL-----AA--AN----------------------------NKGN--CYI-WS
->Q676U5#human ['A16L1_HUMAN Autophagy-re ;313;350
+>Q676U5 ['A16L1_HUMAN Autophagy-re ;313;350
 ----------TA----LCV-----F-D----AHD-GEV------------NAVQF------------S-PGSR---------------------LL-----AT--GG----------------------------MDRR--VKL-WE
 >ENSMUSP00000067102.3 pep:known chromoso ;188;226
 --------GKYV----ATL-----T-G-----HD-DEI------------LDSCF------------D-YTGK---------------------LI-----AT--AS----------------------------ADGT--ARV-YN
@@ -286,7 +286,7 @@ NWMCIWHCKT-----------------------A-SQV------------HLMKF------------S-PDGE-------
 --------GETF----QTF-----V-G-----HK-GDV------------MSVAI------------D-KKAS---------------------MI-----IS--GS----------------------------RDKS--IKV-WS
 >Sbay_3.121 ;436;475
 --------ENLN----TSS-----T-P----SSD-LYI------------RSVCF------------S-PDGK---------------------FL-----AT--GA----------------------------EDRL--IRI-WD
->Q9BQA1#human ['MEP50_HUMAN Methylosome  ;157;196
+>Q9BQA1 ['MEP50_HUMAN Methylosome  ;157;196
 ----------------QVVLSS-YR-A-----HA-AQV------------TCVAA------------S-PHKD--------------------SVF-----LS--CS----------------------------EDNR--ILL-WD
 >ENSMUSP00000020640.7 pep:known chromoso ;273;311
 ---------EVI----STS-----S-K----AEP-PQC------------TSLAW------------S-ADGQ---------------------TL-----FA--GY----------------------------TDNL--VRV-WQ

@@ -1,4 +1,4 @@
->Q9UIS9#human ['MBD1_HUMAN Methyl-CpG-bi ;1;88
+>Q9UIS9 ['MBD1_HUMAN Methyl-CpG-bi ;1;88
 MAEDWLDCPALGPGWKRREVFRKSGATC---------------------GRSDTYYQ-SP-TGDRIRSKVELTRYL------------------------------------------GPAC-DLTLFDFK-QGILCYPAPKAHPVAVASKKRKK
 >BRADI4G21540.1 pep:novel chromosome:v1. ;16;98
 AEEVVSVEMPAPDGWTKKFTPQSGG-------------------------RSEVIFV-SP-TGEEIKNKRQLSQYL-------------------------------------KAH--PGGP-AASEFDWG-SGYTPRR----SARISEKVKVFD
@@ -20,11 +20,11 @@ IERKRVDCSVLPKGWQRDEV-RKSGSSANNNASSNNN-SSATASSNNNNNKVDVFYY-SP-TGKRAEGKPQ---------
 -EEPVSFELPAPSGWTKKFFPKKSG-TP---------------------KKNEIVFT-SP-TGEEIRTKRQLEKYL-------------------------------------KTN---GGP-NISEFDWG-TGETPRR----------------
 >NONE_14146 , MEDTR1G089750.1 ;79;152
 WVIDKPNIPKTPQGFKKILVLRKDY------------------------SKLDSYYI-TP-TGKKLRTRNEIAAYL-------------------------------------KDHPQPSGV-SAADFDFS-SPKI----------------MQD
->Q9UBB5#human ['MBD2_HUMAN Methyl-CpG-bi ;146;216
+>Q9UBB5 ['MBD2_HUMAN Methyl-CpG-bi ;146;216
 -SGKRMDCPALPPGWKKEEVIRKSGLSA---------------------GKSDVYYF-SP-SGKKFRSKPQLARYL------------------------------------------GNTV-DLSSFDFR-TGKM----------------MPS
->Q9UIF9#human ['BAZ2A_HUMAN Bromodomain  ;546;620
+>Q9UIF9 ['BAZ2A_HUMAN Bromodomain  ;546;620
 IATPEEVRLPLQHGWRREVRIKKGS-HR---------------------WQGETWYY-GP-CGKRMKQFPEVIKYL-------------------------------------SRNV-VHSV-RREHFSFS--PRMP---------------VGD
->O95983#human ['MBD3_HUMAN Methyl-CpG-bi ;1;72
+>O95983 ['MBD3_HUMAN Methyl-CpG-bi ;1;72
 MERKRWECPALPQGWEREEVPRRSGLSA---------------------GHRDVFYY-SP-SGKKFRSKPQLARYL------------------------------------------GGSM-DLSTFDFR-TGKM----------------LMS
 >ENSMUSP00000033770.6 pep:known chromoso ;108;179
 -RGPMYDDPTLPEGWTRKLKQRKSGRSA---------------------GKYDVYLI-NP-QGKAFRSKVELIAYFE------------------------------------KVG--DTSL-DPNDFDFTVTGR--------------------
@@ -32,7 +32,7 @@ MERKRWECPALPQGWEREEVPRRSGLSA---------------------GHRDVFYY-SP-SGKKFRSKPQLARYL----
 MERKRWECPALPQGWEREEVPRRSGLSA---------------------GHRDVFYY-SP-SGKKFRSKPQLARYL------------------------------------------GGSM-DLSTFDFR-TGKM----------------LMN
 >EFJ31592 pep:novel supercontig:v1.0:GL3 ;53;123
 ---IVWEELPAPPGWKKKVAQRRGG-TP---------------------RRGDITFV-AP-DGEEIKSKRQLERYL-------------------------------------KAN--SGGP-PVADFDWG-TGETPRR----------------
->P51608#human ['MECP2_HUMAN Methyl-CpG-b ;91;162
+>P51608 ['MECP2_HUMAN Methyl-CpG-b ;91;162
 -RGPMYDDPTLPEGWTRKLKQRKSGRSA---------------------GKYDVYLI-NP-QGKAFRSKVELIAYFE------------------------------------KVG--DTSL-DPNDFDFTVTGR--------------------
 >FBpp0306716 pep:known chromosome:BDGP6: ;9;101
 IERKRVDCSVLPKGWQRDEV-RKSGSSANNNASSNNN-SSATASSNNNNNKVDVFYYSSP-TGKRAEGKPQ----------------------------------------------------DIAIPDFQ-PGKMPHC---ALPSPSISLY---

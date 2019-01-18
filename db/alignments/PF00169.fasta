@@ -1,18 +1,18 @@
 >ENSMUSP00000102639.1 pep:known chromoso ;478;593
 -------------------LDKAGV-------LH---------RTKTV--DKGK----------RLRKKHW----------ST----------SW-TVLEG------------------------GVLTFFK-----------DS--------KT-------------------SA----------------------------------AGGLRQP--SKLST----------PE-----YTVELKGASLSWAPKDKSSK-KNVLE-LRS--RD-----------------G--------------S---EYL---I-----QHDSEAIISTWHKAIAEGIS---
->Q9HB19#human ['PKHA2_HUMAN Pleckstrin h ;199;298
+>Q9HB19 ['PKHA2_HUMAN Pleckstrin h ;199;298
 -------------------LIKSGY-------CV-----------KQ------GNV-----------RKSW----------KR----------RF-FALDD------------------------FTICYFK----------C-E--------QD----------------RE-PL----------------------------------RTIFLKD-VLKTHE-----------------CLVK-SGDLLM--------R-DNLFE-IIT--SS--------------------------------R---TFY---V-----QADSPEDMHSWIKEIGAAVQ---
 >FBpp0072803 pep:known chromosome:BDGP6: ;4;113
 -------------------TFYEGW-------LI-----------K-------------SPPTKRIWRARW----------RR----------RY-FTLKQ-----------------GEIPE-QFCLEYYT----------DHN--------CR----------------K---L----------------------------------KGVIDLD-QCEQVD-----------------CGLR-LENRKQ--------KFQYMFD-IKT----------------------------------PKR---TYY---L-----AAETEADMRDWVNCICQVCH---
 >ENSMUSP00000099945.3 pep:known chromoso ;245;347
 -------------------IIKQGC-------LL-----------KQ-----GH------------RRKNW----------KV----------RK-FILRE----------------------DPAYLHYY-----------DPA--------GG----------------ED--P----------------------------------LGAVHLR-GCVVTS-----------------VESS---HDVK-----KSDE-ENLFE-I---------------------------------ITADEV---HYY---L-----QAATSKERTEWIKAIQVASR---
->Q9H2D6#human ['TARA_HUMAN TRIO and F-ac ;1779;1887
+>Q9H2D6 ['TARA_HUMAN TRIO and F-ac ;1779;1887
 -------------------NFKKGW-------MS-----------IL-----DEPGEPPSPSLTTTSTSQW----------KK----------HW-FVLTD------------------------SSLKYYR----------DST--------AE----------------EADEL----------------------------------DGEIDLR-S----------------------CTDV-TEYAVQ--------R-NYGFQ-IHT--KD---------AVYTLS-----------AMTSGIR-----------------------RNWIEALRKTVR---
 >Sbay_9.90 ;461;573
 -------------------EIKSGF-------LE-----------RR-----SK------------FLKSY----------SK----------GY-YVLTP------------------------NFLHEFK----------TAD--------RK----------------K--DL----------------------------------VPVMSLA-LSECTV-----------------TEHS-RKNTTSSP-N-SAGS-DAKFV-LHA--KQ--------NGI-------------------IRR---GHNW-VF-----KADSYETMMSWFDNLKILTS---
->Q5JSP0#human ['FGD3_HUMAN FYVE, RhoGEF  ;371;469
+>Q5JSP0 ['FGD3_HUMAN FYVE, RhoGEF  ;371;469
 -------------------LIKEGQ-------IQ-----------KL-----SAKN------------GTP----------QD----------RH-LFLFN------------------------SMILYCV----------P---KLRLMG-------------------QKFS----------------------------------VREKMDIS-GLQVQD-------------I--VKPNTA-----------------HTF-IITGR----------------------------------KR---SLE---L-----QTRTEEEKKEWIQIIQATIE---
->Q9BYX2#human ['TBD2A_HUMAN TBC1 domain  ;46;140
+>Q9BYX2 ['TBD2A_HUMAN TBC1 domain  ;46;140
 -------------------KKLCGY-------LS------------KF----GGKGP----------IRGW----------KS----------RW-FFYDE----------------------RKCQLYYSR--------TAQDA--------N---------------------PLD----------------------------------------------------------------------------------SIDLSSA-VFDCKADAEE--------------GI------FEIKTPSR----VI--TL-----KAATKQAMLYWLQQLQMK-----
 >ENSMUSP00000038514.6 pep:known chromoso ;31;144
 ---------------------VRKCGY-----LR-----------KQ-----KHG--------------------------HK----------RF-FVLRGPGTGGD------EASAAGGSPPQPPRLEYYE----------SEKK------WRS----------------KAGAPK----------------------------------RVIALDCCLNIN-----------------KRADA-----------------KHKYL-IAL--------------------------------YTKDE---YFA---V-----AAENEQEQEGWYRALTDLVS---
@@ -20,15 +20,15 @@
 -------------------VERCGV-------LS-----------KW-----TN------------YIHGW----------QD----------RW-VVL------------------------KNNTLSYYK----------SED--------ET----------------EY-GC----------------------------------RGSICLS-KAVITP-----------------HDFD-----------------ECRFD-I---------------------------------SVND-S---VWY---L-----RAQDPEHRQQWVDAIEQHKT---
 >C5DZ00_ZYGRC ;89;214
 -------------------RYCEGVF------LIL----------EDL----KSDGNP--------GSRKW----------KE----------VY-GMLVG------------------------TQLALWDAKELAA---CNTK--------ES----------------KY-KLKQVT----------------------------SKPGYVNFA-DAAVKS-------------LD-GTEAVVTESNKKL---------NNTLV-VST---------------------------------TLKN---RYF---L-----QFNDEDALSGWNAAIQLSLF---
->O43374#human ['RASL2_HUMAN Ras GTPase-a ;567;672
+>O43374 ['RASL2_HUMAN Ras GTPase-a ;567;672
 -------------------PVKEGP-------LFI----------HR-----TKGKG-------PLMSSSF----------KK----------LY-FSLTT------------------------EALSFAK----------TPS-------SKK-------------------------------------------------------SALIKLA-NIRAAE----------------KVEEK------------SFGG-SHVMQ-VIY--TD---------------------------DAGRPQ---TAY---L-----QCKCVNELNQWLSALRKVS----
->Q8N556#human ['AFAP1_HUMAN Actin filame ;333;438
+>Q8N556 ['AFAP1_HUMAN Actin filame ;333;438
 ----KKPSTDEQTSSAEEDVPTCGY-------L------------------------------NVLSNSRW----------RE----------RW-CRVKD---------------------NK---LIFHK----------DRT--------DL-------------------KT---------------------------------HIVSIPLR-GCEVI---------------PGLDSKH-----------------PLTFR-LL---------------------------------RNGQE---VAV---L-----EASSSEDMGRWIGILLA------
->Q8WZ64#human ['ARAP2_HUMAN Arf-GAP with ;483;574
+>Q8WZ64 ['ARAP2_HUMAN Arf-GAP with ;483;574
 -------------------KVKSGW-------LD-----------KL-----SPQGK-----------RMF----------QK----------R--WVKFD------------------------GLSISYY----------NNE---------K----------------EMYSKGI------------------------------IPLSAISTV-RVQ---------------------GDNK-------------------F-EVVTT----------------------------------QR---TFV---F-----RVEKEEERNDWISILLNALK---
 >ENSMUSP00000033468.4 pep:known chromoso ;470;571
 ----------------------LGNVI-----FM-----------SQVVMQHGACE-----------------------EKEE----------RY-FLLFS------------------------SVLIMLSA---------SPR--------MS----------GFMY-----------------------------------------QGKIPIA-GMVVNR-----------------LDEI-------------EGS-DCMFE-ITGSTVE--------RIV-------------------------------V-----HCNNNQDFQEWMEQLNRLTK---
->Q6IQ23#human ['PKHA7_HUMAN Pleckstrin h ;165;282
+>Q6IQ23 ['PKHA7_HUMAN Pleckstrin h ;165;282
 -------------------VVVRGW-------LH-----------KQ-----DSSG-----------MRLW----------KR----------RW-FVLAD------------------------YCLFYYK----------DSR--------EE-------------------AV----------------------------------LGSIPLP-SY--VI-----------------SPVA-PEDRIS--------R-KYSFKAVHTGMRA---------LIYNSSTAGS------QAEQSGMR---TYY---F-----SADTQEDMNAWVRAMNQAAQ---
 >FBpp0082680 pep:known chromosome:BDGP6: ;26;130
 -------------------VVKEGW-------LM-----------KR-----GE------------HIKNW----------RQ----------RY-FVLHS----------------------DGRLMGYRS----------KPA--------DS----------------AS-TPSDF------------------------------LLNNFTVR-GC--QI-----------------MTVD-------------RPK-PFTFI-IRGL----------------------------QWTTVIER---TFA---V-----ESEL--ERQQWTEAIRNVSS---
@@ -36,15 +36,15 @@
 -------------------IKFEGF-------LW-----------QE-----GGDVE-----------TSL----------QK----------RY-FVLRG------------------------TQLIAH-HEI--------SK--------KP----------------R---A----------------------------------L--INLL-KVV-----SVIGEG------------KLTETNVKKV-R------NFSDV-VLF--SE------CLKLVFENG-----------------E---VIN---L-----DAESTELKEKWTDLLTRVVE---
 >ENSMUSP00000091011.5 pep:known chromoso ;294;402
 -----------------PEIQ--GF-------L-------------QV----KEVGR-----------KSW----------KK----------LY-VCL------------------------RRSGLYYST--------KGTSK--------E---------------------PRHLQLLADL-----------------------EESSIFYLIAGKKQYN-----------------APN------------------EHGMC-IKPNK-----------------------------AKTEMK---ELR--LL-----CAEDEQIRTCWMTAFRLLKY---
->Q9NYT0#human ['PLEK2_HUMAN Pleckstrin-2 ;248;353
+>Q9NYT0 ['PLEK2_HUMAN Pleckstrin-2 ;248;353
 -------------------VVKQGY-------LA-----------KQ-----GH------------KRKNW----------KV----------RR-FVLRK----------------------DPAFLHYY-----------DPS--------KE----------------EN-RP----------------------------------VGGFSLR-GSLVSA-----------------LEDNGVPTGVK-----GNVQ-GNLFK-V---------------------------------ITKDDT---HYY---I-----QASSKAERAEWIEAIKKLT----
 >ENSMUSP00000033617.6 pep:known chromoso ;4;133
 -------------------VILESI-------FL-----------KR-----SQQKK-------KTSPLNF----------KK----------RL-FLLTV------------------------HKLSYYEYDFERG--RRGSK--------KG----------------S-----------------------------------------IDVE-KITCVE--TVIPEKNPP--PERQIPRRGEESSEMEQ-ISIIERFPYPFQ-VVY--DE--------------------------------G---PLY---V-----FSPTEELRKRWIHQLKNVIR---
 >ENSMUSP00000041294.5 pep:known chromoso ;322;432
 -------------------IRHLGW-------LA-----------EKV----PGESE-----------KQW----------KP----------AL-VVL-T----------------------EKDLLIYDS--------MPRRK--------EA----------WF-------SPVH----------------------------------SYPLLATRLVHS-----------------GPGK----------GSPQAGMDLSFA-T----------------------------------RTGTKQGIETH--LF-----RAEISRDLSHWTRSIVQGCH---
->Q9Y243#human ['AKT3_HUMAN RAC-gamma ser ;6;107
+>Q9Y243 ['AKT3_HUMAN RAC-gamma ser ;6;107
 -------------------IVKEGW-------VQ-----------KR-----GE------------YIKNW----------RP----------RY-FLLKT----------------------DGSFIGYKE----------KPQ--------DV----------------D--LPYP--------------------------------LNNFSVA-KC--QL-----------------MKTE-------------RPK-PNTFI-IRCL----------------------------QWTTVIER---TFH---V-----DTPE--EREEWTEAIQAVAD---
->P52735#human ['VAV2_HUMAN Guanine nucle ;406;512
+>P52735 ['VAV2_HUMAN Guanine nucle ;406;512
 -------------------PKIDGE-------LKV----------RSIV-----------------------------NHTKQ---------DRY-LFLFD-----KVVIVC-KRKGYSYELKEIIELLFHKMTDDPMN---NKDVK------KSHG--------------KMWSYG---------------------------------FYLIHLQ--------------G------------------------------KQGFQ--------------------------------------------------F-----FCKTEDMKRKWMEQFEMAMS---
 >ENSMUSP00000033325.7 pep:known chromoso ;211;306
 -------------------VLKQGY-------MM-----------KK-----GH------------KRKNW----------TE----------RW-FVLKP----------------------N--IISYYV----------S-E--------DL----------------KD-KKGDI------------------------------LLDE-----NCCVES-----------------LPDK-------------DGK-KCLFL-IKCF----------------------------------DK---TFE---I-----SASDKKKKQEWIQAIYSTIH---
@@ -52,55 +52,55 @@
 -------------------FTKRGYL-----FLM-----------EK------KPF-----------KATWTKYYCTFKKQKR----------EF-TMLQF------------------------NQMNHNF----------TRP--------EA----------------R-------------------------------------------DD-EKLTLF-----------------SCQR-RASEFE--------K-RFCFD-LTF--KE-----------------K------------PGV---VYT---F-----QALSEKDHRYWISAMDGT-----
 >ENSMUSP00000024810.6 pep:known chromoso ;528;641
 --DKRRGILEKEASAAPEQSLVCSF-------LQL---------------------------IGDKCSRSL----------PR----------SW-CVIPR---------------------DDPLVLYVYA----------APQ--------DT-------------------KA---------------------------------HT-SIPL--LGYQVI-------------SGPQGD-------------------PRVFQ-L----------------------------------QQSGQ---QYT---F-----KAESVELQGRWVTAIKRAAS---
->Q96M96#human ['FGD4_HUMAN FYVE, RhoGEF  ;627;740
+>Q96M96 ['FGD4_HUMAN FYVE, RhoGEF  ;627;740
 --KKRKGILEIESAEVSGNSVVCSF-------LQY---------------------------MEK--SKPW----------QK----------AW-CVIPK---------------------QDPLVLYMYG----------APQ--------DV-------------------RA---------------------------------QA-TIPL--LGYVVD-------------EMPRSADL-----------------PHSFK-L----------------------------------TQSKS---VHS---F-----AADSEELKQKWLKVILLAVT---
->Q12979#human ['ABR_HUMAN Active breakpo ;302;459
+>Q12979 ['ABR_HUMAN Active breakpo ;302;459
 -------------------LVKDGF-------LV-----------EV-----SESSR------------------------KL----------RH-VFLFT------------------------DVLLCAK----------LKK----TSAGKH----------------QQYDCKWYIPLADLVFPSPEESEASPQVHPFPDHELEDMKMKISAL-KSEIQK-------------EKANKGQSRAIERLKKKMF------ENEFLLLLNS-PTIPF----------------------RIHNRNGK---SYL---F-----LLSSDYERSEWREAIQKLQK---
->P50570#human ['DYN2_HUMAN Dynamin-2 OS= ;520;624
+>P50570 ['DYN2_HUMAN Dynamin-2 OS= ;520;624
 -------------------VIRRGWLTINNISLM-----------KG-----GS---------------------------KE----------YW-FVLTA------------------------ESLSWYK----------DEE--------EK----------------EK-------------------------------------KYMLPLD-NLKIR--------------------------DVEKG-F-MS-NKHV-FA-IFN--TE---------------------------QRNVYK---DLRQIEL-----ACDSQEDVDSWKASFLRAG----
 >YIL105C pep:known chromosome:R64-1-1:IX ;469;581
 -------------------EIKSGF-------LE-----------RR-----SK------------FLKSY----------SK----------GY-YVLTP------------------------NFLHEFK----------TAD--------RK----------------K--DL----------------------------------VPVMSLA-LSECTV-----------------TEHS-RKNSTSSP-N-STGS-DAKFV-LHA--KQ--------NGI-------------------IRR---GHNW-VF-----KADSYESMMSWFDNLKILTS---
->Q9ULZ2#human ['STAP1_HUMAN Signal-trans ;26;121
+>Q9ULZ2 ['STAP1_HUMAN Signal-trans ;26;121
 -------------------LYFEGF-------LLI----------KR-----SGYRE-------------Y----------EH----------YW-TELRG------------------------TTLFFY------------TD--------KK----------------S----------------------------------------IIYVD-KLDIVD-LTCLTEQ------------NSTEKNCAK------------FT-LVL--PK--------------------------------E---EVQ---L-----KTENTESGEEWRGFILTVTE---
 >ENSMUSP00000113286.1 pep:known chromoso ;221;316
 -------------------CRICAF-------L-----------------------------LRKKRFGQW----------AK----------QL-TVIKE---------------------EQ---LLCYK----------SSK--------DR-------------------QP---------------------------------HL-RLALD-VCTVIY-------------VPKDSRHK-----------------RHELR-FS---------------------------------QGATE---VLV---L-----ALQSREQAEEWLKVIREVSR---
->P35568#human ['IRS1_HUMAN Insulin recep ;7;114
+>P35568 ['IRS1_HUMAN Insulin recep ;7;114
 ---------------SDGFSDVRKVGY-----LR-----------KP-----KSM--------------------------HK----------RF-FVLRA-------------ASEAGG----PARLEYYE----------NEKK------WRH----------------KSSAPK----------------------------------RSIPLESCFNIN-----------------KRADS-----------------KNKHL-VAL--------------------------------YTRDE---HFA---I-----AADSEAEQDSWYQALLQLH----
->O75689#human ['ADAP1_HUMAN Arf-GAP with ;130;229
+>O75689 ['ADAP1_HUMAN Arf-GAP with ;130;229
 -------------------GYREGF-------LW-----------KR-----GRDNG---------------QFLS-----RK-------------FVLTE----------------------REGALKYFN----------RND--------AK-------------------EP----------------------------------KAVMKIE-HLNATF-----------------QPAK-------------IGH-PHGLQ-VTYL------------------------------KDNSTR---NIF---I-----YHEDGKEIVDWFNALRAAR----
->Q8N4X5#human ['AF1L2_HUMAN Actin filame ;169;271
+>Q8N4X5 ['AF1L2_HUMAN Actin filame ;169;271
 -------GIELM-----RDARICAF-------L-----------------------------WRKKWLGQW----------AK----------QL-CVIKD---------------------NR---LLCYK----------SSK--------DH-------------------SP---------------------------------QL-DVNLL-GSSVIH-------------KEKQVRKK-----------------EHKLK-IT---------------------------------PMNAD---VIV---L-----GLQSKDQAEQWLRVIQEVSG---
->Q13009#human ['TIAM1_HUMAN T-lymphoma i ;1263;1395
+>Q13009 ['TIAM1_HUMAN T-lymphoma i ;1263;1395
 ---------------------SMGD-------LLL----------HTTVI----------WLNPPASLGKW----------KKEPELAA-------FVFKT------------------------AVVLVYK--------DGSKQ--------KK---KLVGSHRLSIY--EDWDP-------------------------------FRFRHMIPTE-ALQVRALAS--------------ADAE-----------------ANAVCEIVHVKSE--------------------------SEGRPER---VFH---L-----CCSSPESRKDFLKAVHSILR---
->Q15027#human ['ACAP1_HUMAN Arf-GAP with ;266;360
+>Q15027 ['ACAP1_HUMAN Arf-GAP with ;266;360
 -------------------LVMEGH-------LF-----------KR-----ASNA-----------FKTW----------SR----------RW-FTIQS------------------------NQLVYQK----------K-Y--------KD----------------P--------------------------------------VTVVVDD-L---RL-----------------CTVK-LCPDSE--------R-RFCFE-VVS--TS--------------------------------K---SCL---L-----QADSERLLQLWVSAVQSSIA---
 >ENSMUSP00000034984.6 pep:known chromoso ;604;704
 -------------------HLKEGE-------MY-----------KR-----AQGRT-------RIGKKNF----------KK----------RW-FCLTS------------------------RELTYH------------RQ--------QG----------------KD--A----------------------------------IYTIPVK-NILAVE--------------------KLEEGSFNK---------KNMFQ-VIH--TE--------------------------------K---TLY---I-----QANNCVEANEWIDVLCRVSR---
->Q53QZ3#human ['RHG15_HUMAN Rho GTPase-a ;80;189
+>Q53QZ3 ['RHG15_HUMAN Rho GTPase-a ;80;189
 -------------------VEKEGY-------LQ---------KAKIA--DGGK----------KLR-KNW----------ST----------SW-IVLSS------------------------RRIEFYK-----------ES--------KQ-------------------QA----------------------------------LSNMKTG--HKPE-------------------SVDLCGAHIEWA-KEKSSR-KNVFQ-ITT--VS-----------------G--------------N---EFL---L-----QSDIDFIILDWFHAIKNAID---
 >ENSMUSP00000107210.2 pep:known chromoso ;355;463
 MNLGRKKSTSLE--PPERSLETSSY-------L------------------------------NVLVNSQW----------KS----------RW-CFVRD---------------------SH---LHFYQ----------DRN--------RS-------------------KV---------------------------------AQQPLSLV-GCDVL---------------PDPSPDH-----------------LYSFR-IL---------------------------------HNGEE---LAK---L-----EAKSSEEMGHWLGLLLSE-----
->Q9UQ16#human ['DYN3_HUMAN Dynamin-3 OS= ;526;630
+>Q9UQ16 ['DYN3_HUMAN Dynamin-3 OS= ;526;630
 -------------------VIRKGWLTISNIGIM-----------KG-----GS---------------------------KG----------YW-FVLTA------------------------ESLSWYK----------DDE--------EK----------------EK-------------------------------------KYMLPLD-NLKVR--------------------------DVEKS-F-MS-SKHI-FA-LFN--TE---------------------------QRNVYK---DYRFLEL-----ACDSQEDVDSWKASLLRAG----
 >Spar_9.69 ;468;580
 -------------------EIKSGF-------LE-----------RR-----SK------------FLKSY----------SK----------GY-YVLTP------------------------NFLHEFK----------TAD--------RK----------------K--DL----------------------------------VPVMSLA-LSECTV-----------------TEHS-RKNNTSSP-N-STGS-DAKFV-LHA--KQ--------NGI-------------------IRR---GHNW-VF-----KADSYESMMSWFDNLKILTS---
->P08567#human ['PLEK_HUMAN Pleckstrin OS ;5;101
+>P08567 ['PLEK_HUMAN Pleckstrin OS ;5;101
 -------------------RIREGY-------LV-----------KK-----GS------------VFNTW----------KP----------MW-VVLLE------------------------DGIEFYK----------KKS--------DN-------------------SP----------------------------------KGMIPLK-GSTLTS-----------------PCQDF---------------GKRMFV-FKI-------------------------------TTTKQQ---DHF---F-----QAAFLEERDAWVRDIKKAIK---
->Q8NEU8#human ['DP13B_HUMAN DCC-interact ;278;375
+>Q8NEU8 ['DP13B_HUMAN DCC-interact ;278;375
 -------------------IQKAGYL-----NLR-----------NK-----TGLV-----------TTTW----------ER----------LY-FFTQG------------------------GNLM---------------C--------QP----------------RG-AV----------------------------------AGGLIQD-L---DN-----------------CSVM-AVDCED--------R-RYCFQ-ITT--PN-----------------G-------------KS---GII---L-----QAESRKENEEWICAINNISR---
 >FBpp0099488 pep:known chromosome:BDGP6: ;311;404
 -------------------VTRQGH-------LL-----------KK-----S-EGK---------VRRVW----------QK----------RRCRVTSD------------------------GFLDIFH----------ADE---------S----------------K-------------------------------------PPTRVNLL-TCQIKP-----------------VPDDK-----------------RGF-DLISY----------------------------------NR---PYH---F-----QAEDEGDQKAWMAVLVNCKE---
->Q96BY6#human ['DOC10_HUMAN Dedicator of ;182;290
+>Q96BY6 ['DOC10_HUMAN Dedicator of ;182;290
 -------------------VFKSGW-------LY-----------KG-----N----FNSTVNNTVTVRSF----------KK----------RY-FQLTQ-------------------LPDNSYIMNFYK----------DEK--------IS----------------K--EP----------------------------------KGCIFLD-SC---------------------TGVV-QNNRLR--------K--YAFE-LKM----------------------------------NDL---TYF--VL-----AAETESDMDEWIHTLNRILQ---
->Q15139#human ['KPCD1_HUMAN Serine/threo ;423;541
+>Q15139 ['KPCD1_HUMAN Serine/threo ;423;541
 -------------------VMKEGW-------MV-----------HYT----SKDTL-----------------------RKR----------HY-WRLDS------------------------KCITLFQ----------NDT--------GS----------------RY-------------------------------------YKEIPLSEILSLEP----------------------VKTSALI----PNGANPHCFE-ITT--AN---------VVYYVG-----ENVVNPSSPSPNN---SVL---T-----SGVGADVARMWEIAIQHALM---
->Q5VV41#human ['ARHGG_HUMAN Rho guanine  ;502;620
+>Q5VV41 ['ARHGG_HUMAN Rho guanine  ;502;620
 -------------------LLKRGELF-----LV-----------EE-----TGL---------------F----------RKI----ASRPTCY-LFLFN-----DVLVVTKKKSEESYMVQDYAQMNHIQ----------VEKI------EPS----------------ELPLPGGGN------------------------------------------------------------RSSSV-----------------PHPFQ-VTLL-RN---------------------------SEGRQE---QLL---L-----SSDSASDRARWIVALTHSER---
->O60333#human ['KIF1B_HUMAN Kinesin-like ;1702;1799
+>O60333 ['KIF1B_HUMAN Kinesin-like ;1702;1799
 -------------------VSKKGY-------LH-----------FK-----EP------------LYSNW----------AK----------HF-VVVRR-----------------------PYVFIYNS----------DKD--------PV----------------E--------------------------------------RGIINLS-T----------------------AQVE-YSEDQQAM-V----KTPNTFA-VCT--KH--------------------------------R---GVL---L-----QALNDKDMNDWLYAFNPLLA---
->Q15052#human ['ARHG6_HUMAN Rho guanine  ;442;548
+>Q15052 ['ARHG6_HUMAN Rho guanine  ;442;548
 -----------------EDIKNLGNVI-----FM-----------SQVMVQYGACE-----------------------EKEE----------RY-LMLFS------------------------NVLIMLSA---------SPR--------MS----------GFIY-----------------------------------------QGKIPIA-GTVVTR-----------------LDEI-------------EGN-DCTFE-ITGNTVE--------RIV-------------------------------V-----HCNNNQDFQEWLEQLNRLIR---
->P31751#human ['AKT2_HUMAN RAC-beta seri ;6;108
+>P31751 ['AKT2_HUMAN RAC-beta seri ;6;108
 -------------------VIKEGW-------LH-----------KR-----GE------------YIKTW----------RP----------RY-FLLKS----------------------DGSFIGYKE----------RPE--------AP----------------DQ-TLPP--------------------------------LNNFSVA-EC--QL-----------------MKTE-------------RPR-PNTFV-IRCL----------------------------QWTTVIER---TFH---V-----DSPD--EREEWMRAIQMVAN---
 >ENSMUSP00000030898.5 pep:known chromoso ;506;623
 -------------------LLKRGELF-----LL-----------EE-----SSI---------------F----------RKI----ASRPTCY-LFLFN-----DVLVVTKKKSEESYLVQDYAQLDHVQ----------VRKL------EPS----------------EPLLPGGSS------------------------------------------------------------RSSSV-----------------PYPFQ-VNLL-HN---------------------------SEGRQE---QIL---L-----SSDSASDRARWITALTYKE----
@@ -108,17 +108,17 @@ MNLGRKKSTSLE--PPERSLETSSY-------L------------------------------NVLVNSQW---------
 --------------------AREGW-------LF-----------KW-----TN------------YIKGY----------QR----------RW-FVL------------------------SNGLLSYYR----------SKA--------EM----------------RH-TC----------------------------------RGTINLA-TANI-------------------TVED-----------------SCNFI-I---------------------------------SNGGAQ---TYH---L-----KASSEVERQRWVTALELAKA---
 >FBpp0219404 pep:known chromosome:GCA_00 ;258;353
 -------------------NKIEGY-------LF-----------KK-----KSKG-----------FKTW----------CR----------RW-FYLSD------------------------NQLVYRK----------RSN--------ED----------------S--------------------------------------FSVMEED-L---RI-----------------CSVR-PVNEGD--------R-RFCFE-VIS--PT--------------------------------K---SHI---L-----QADSADMLSLWISALQHSIG---
->P08567#human ['PLEK_HUMAN Pleckstrin OS ;245;347
+>P08567 ['PLEK_HUMAN Pleckstrin OS ;245;347
 -------------------IIKQGC-------LL-----------KQ-----GH------------RRKNW----------KV----------RK-FILRE----------------------DPAYLHYY-----------DPA--------GA----------------ED--P----------------------------------LGAIHLR-GCVVTS-----------------VESN---SNGR-----KSEE-ENLFE-I---------------------------------ITADEV---HYF---L-----QAATPKERTEWIRAIQMASR---
 >ENSMUSP00000106489.1 pep:known chromoso ;130;229
 -------------------GYREGL-------LW-----------KR-----GRDNG---------------QFLS-----RK-------------FVLTE----------------------REGALKYFN----------KND--------AK-------------------EP----------------------------------KAVMKIE-HLNATF-----------------QPAK-------------MGH-PHGLQ-VTYL------------------------------KDNSTR---NIF---I-----YHEDGKEIVDWFNALRAAR----
->Q86UX7#human ['URP2_HUMAN Fermitin fami ;355;457
+>Q86UX7 ['URP2_HUMAN Fermitin fami ;355;457
 ------------------------H-------LRI------FRIPRR---------------PRKLTLKGY----------RQ----------HW-VVFKE---------------------TT---LSYYK----------SQD--------EAPG-----------------DP---------------------------------IQ-QLNLK-GCEVV--------------PDVNVSGQ-----------------KFCIK-LLV--PS----------------------------PEGMS---EIY---L-----RCQDEQQYARWMAGCRLASK---
 >ENSMUSP00000001780.3 pep:known chromoso ;6;108
 -------------------IVKEGW-------LH-----------KR-----GE------------YIKTW----------RP----------RY-FLLKN----------------------DGTFIGYKE----------RPQ--------DV----------------DQ-RESP--------------------------------LNNFSVA-QC--QL-----------------MKTE-------------RPR-PNTFI-IRCL----------------------------QWTTVIER---TFH---V-----ETPE--EREEWATAIQTVAD---
->Q13884#human ['SNTB1_HUMAN Beta-1-syntr ;323;433
+>Q13884 ['SNTB1_HUMAN Beta-1-syntr ;323;433
 -------------------IRHLGW-------LA-----------EKV----PGESK-----------KQW----------KP----------AL-VVL-T----------------------EKDLLIYDS--------MPRRK--------EA----------WF-------SPVH----------------------------------TYPLLATRLVHS-----------------GPGK----------GSPQAGVDLSFA-T----------------------------------RTGTRQGIETH--LF-----RAETSRDLSHWTRSIVQGCH---
->C9J798#human ['RAS4B_HUMAN Ras GTPase-a ;567;672
+>C9J798 ['RAS4B_HUMAN Ras GTPase-a ;567;672
 -------------------PVKEGP-------LFI----------HR-----TKGKG-------PLMSSSF----------KK----------LY-FSLTT------------------------EALSFAK----------TPS-------SKK-------------------------------------------------------SALIKLA-NIRAAE----------------KVEEK------------SFGG-SHVMQ-VIY--TD---------------------------DAGRPQ---TAY---L-----QCKCVNELNQWLSALRKVS----
 >ENSMUSP00000034912.4 pep:known chromoso ;461;588
 -------------------FVRQGS-------LM------QMSLSEK-----SKSSRG--------RLGSL--------STKK-------EGERQCFLFSK-----HLIICTR---------GSGGKLHLTK------------------------------------------------------------------------------NGVISLI-DCTLLD-------------EPENLDDEAKGAGPEIE--------HLEFK-IGVEPKDSLPF--------------------------------TVI---L-----VASTRQEKAAWTSDIIQCVD---
@@ -138,25 +138,25 @@ MNLGRKKSTSLE--PPERSLETSSY-------L------------------------------NVLVNSQW---------
 -------------------PIYGGWL-----LLA-----------PD-----GTDF--DNPVHR---SRKW----------QR----------RF-FILYE-----------------------HGLLRYAL----------D-------------------------------EM----------------------------------PTTLPQG-TINMNQ-----------------CTDV-VDGEAR------TGQ-KFSLC-ILT--PD--------------------------------K---EHF---I-----RAETKEIISGWLEMLM-------
 >TriadP53484 pep:annotated scaffold:ASM1 ;515;620
 -------------------VIRKGWLTLTSVGFM-----------KG-----MS---------------------------KD----------YW-FVLSA------------------------ETLAWYK----------DEQ--------EQ----------------DQ-------------------------------------KYLLNLE-GCKIR--------------------------DLDAG-F-MGRKAHS-FA-LFN--PD---------------------------KRNLYK---EHKTLDL-----CASSDEDLDSWKASFLRAG----
->Q86WV1#human ['SKAP1_HUMAN Src kinase-a ;108;210
+>Q86WV1 ['SKAP1_HUMAN Src kinase-a ;108;210
 -------------------VIKQGY-------LE-----------KK-----SKDH--------SFFGSEW----------QK----------RW-CVVSR------------------------GLFYYYA----------N-E--------KS----------------K--QP----------------------------------KGTFLIK-GYGVRM-----------------APHL-RRDSK---------K-ESCFE-LTS--QD-------------------------------RR---SYE---F-----TATSPAEARDWVDQISFLLK---
->Q9Y4F1#human ['FARP1_HUMAN FERM, ARHGEF ;760;856
+>Q9Y4F1 ['FARP1_HUMAN FERM, ARHGEF ;760;856
 -------------------FIRLGS-------LS-----------KL-----SG--------------KGL----------QQ----------RM-FFLFN----------------------D--VLLYTS----------RGL--------TASN--------------QF-KV----------------------------------HGQLPLY-GMTIEE-----------------SEDE-------------WGV-PHCLT-LR----------------------------------GQRQ---SII---V-----AASSRSEMEKWVEDIQMAID---
->Q6WCQ1#human ['MPRIP_HUMAN Myosin phosp ;44;146
+>Q6WCQ1 ['MPRIP_HUMAN Myosin phosp ;44;146
 -------------------PIYGGWL-----LLA-----------PD-----GTDF--DNPVHR---SRKW----------QR----------RF-FILYE-----------------------HGLLRYAL----------D-------------------------------EM----------------------------------PTTLPQG-TINMNQ-----------------CTDV-VDGEGR------TGQ-KFSLC-ILT--PE--------------------------------K---EHF---I-----RAETKEIVSGWLEMLM-------
 >ENSMUSP00000087079.5 pep:known chromoso ;4;119
 -------------------AVMEGPLF-----LQ-----------SQ-----RFG------------TKRW----------RK----------TW-AVLYP-------------ASPHG-----VARLEFFD----------------------H----------------KGSSSRGGRGGSR-----------------------RLDCKMIRLAECVSVVP-VTV------------ESPPE-----------------PGAVA-FRL--------------------------------DTAQR---SHL---L-----AADAVSST-AWVQTLCRTAF---
 >FBpp0076440 pep:known chromosome:BDGP6: ;40;134
 -------------------IELRGY-------LS-----------KW-----TN------------YIYGW----------QP----------RY-IVL------------------------KDGTLSYYK----------SES--------ES----------------DF-GC----------------------------------RGAISLT-KATIKA-----------------HESD-----------------ELRFD-V---------------------------------VVNNLN---NWC---L-----RAETSEDRMHWVDVLQLYKA---
->Q96AC1#human ['FERM2_HUMAN Fermitin fam ;375;476
+>Q96AC1 ['FERM2_HUMAN Fermitin fam ;375;476
 ---------------------LADY-------IKV------F----K---------------PKKLTLKGY----------KQ----------YW-CTFKD---------------------TS---ISCYK----------SKE--------ESSG-----------------TP---------------------------------AH-QMNLR-GCEVT--------------PDVNISGQ-----------------KFNIK-LLI--PV----------------------------AEGMN---EIW---L-----RCDNEKQYAHWMAACRLASK---
->C9J4A7#human ['C9J4A7_HUMAN Uncharacter ;19;119
+>C9J4A7 ['C9J4A7_HUMAN Uncharacter ;19;119
 --------------------VDKAG-------WI-----------KKS---SGG------------LLGFW----------KD----------RY-LLLCQ------------------------AQLLVYE----------NED--------DQ-------------------KC----------------------------------VETVEL--GS--YE-----------------KCQDLRA---------LLKRKHRFIL-LRS-------------------------------PGNKVS---DIK---F-----QAPTGEEKESWIKALNEGIN---
 >ENSMUSP00000125174.1 pep:known chromoso ;627;740
 --KKRRGILEIESAEVSGNSEVCSF-------LQY---------------------------MEK--SKPW----------QK----------IW-CVIPK---------------------QDPLVLYMYG----------APQ--------DV-------------------RA---------------------------------QA-TIPL--LGYVVD-------------DMPKSADL-----------------PHSFK-L----------------------------------TQSKS---VHS---F-----AADNEELKQKWLKIILLAVT---
 >ENSMUSP00000067786.5 pep:known chromoso ;428;546
 ---NIDGWEGKDIGQCCNEFIMEGT-------LT-----------RV-----GAK--------------------------HE----------RH-IFLFD------------------------GLMICCK----------SNHGQPRLPGASS----------------AEYR----------------------------------LKEKFFMR-KVQIND-----------------KDDTSE--------Y------KHAFEIILKD----------------------------------GN---SVI---F-----SAKSAEEKNNW---MAALISLQY
->Q8TD55#human ['PKHO2_HUMAN Pleckstrin h ;19;119
+>Q8TD55 ['PKHO2_HUMAN Pleckstrin h ;19;119
 --------------------VDKAG-------WI-----------KKS---SGG------------LLGFW----------KD----------RY-LLLCQ------------------------AQLLVYE----------NED--------DQ-------------------KC----------------------------------VETVEL--GS--YE-----------------KCQDLRA---------LLKRKHRFIL-LRS-------------------------------PGNKVS---DIK---F-----QAPTGEEKESWIKALNEGIN---
 >FBpp0118460 pep:known supercontig:GCA_0 ;42;183
 -------------------IVKSGS-------MV-----------KR-----AQNKK-------RFTPVNY----------KH----------RW-FELTK------------------------RTLCY--FDVENV--ERRRE--------RG----------------R-----------------------------------------IHLK-GVRLVEEATVSGEGGDPFAPD-----------------------GYPFQ-VGY--CEISSSSNSQHQQLENGGGGGLEGQQQSGRAVPQY---TLY---V-----IANSEKERTEWIRAIRQVCE---
@@ -164,19 +164,19 @@ MNLGRKKSTSLE--PPERSLETSSY-------L------------------------------NVLVNSQW---------
 -------------------LIGEGVLT----KLC-----------RK-----KP---------------------------KA----------RQ-FFLFN------------------------DILVYGNIV-------IQKK--------KY----------------NK-------------------------------------QHIIPLE-NVTIDS-----------------IKDE---GELRNG-W-LIKTPTKSFA-VY------------------------------------------------------AATATEKSEWMNHINKCVT---
 >ENSMUSP00000037858.8 pep:known chromoso ;351;453
 --------------------ELKDH-------LRI------F----R---------------PRKLTLKGY----------RQ----------YW-VVFKD---------------------TT---LSYYK----------SQD--------EAPG-----------------DP---------------------------------TQ-QLNLK-GCEVV--------------PDVNVSGQ-----------------KFCIK-LLV--PS----------------------------PEGMS---EIY---L-----RCQDEQQYAQWMAACRLASK---
->Q8N4X5#human ['AF1L2_HUMAN Actin filame ;338;445
+>Q8N4X5 ['AF1L2_HUMAN Actin filame ;338;445
 -NLGRKKSTSLE--PVERSLETSSY-------L------------------------------NVLVNSQW----------KS----------RW-CSVRD---------------------NH---LHFYQ----------DRN--------RS-------------------KV---------------------------------AQQPLSLV-GCEVV---------------PDPSPDH-----------------LYSFR-IL---------------------------------HKGEE---LAK---L-----EAKSSEEMGHWLGLLLSE-----
->Q06187#human ['BTK_HUMAN Tyrosine-prote ;4;133
+>Q06187 ['BTK_HUMAN Tyrosine-prote ;4;133
 -------------------VILESI-------FL-----------KR-----SQQKK-------KTSPLNF----------KK----------RL-FLLTV------------------------HKLSYYEYDFERG--RRGSK--------KG----------------S-----------------------------------------IDVE-KITCVE--TVVPEKNPP--PERQIPRRGEESSEMEQ-ISIIERFPYPFQ-VVY--DE--------------------------------G---PLY---V-----FSPTEELRKRWIHQLKNVIR---
->Q14451#human ['GRB7_HUMAN Growth factor ;230;338
+>Q14451 ['GRB7_HUMAN Growth factor ;230;338
 -----------------PEIQ--GF-------L-------------QL----RGSGR-----------KLW----------KR----------FF-CFL------------------------RRSGLYYST--------KGTSK--------D---------------------PRHLQYVADV-----------------------NESNVYVVTQGRKLYG-----------------MPT------------------DFGFC-VKPNK-----------------------------LRNGHK---GLR--IF-----CSEDEQSRTCWLAAFRLFKY---
->O94806#human ['KPCD3_HUMAN Serine/threo ;417;532
+>O94806 ['KPCD3_HUMAN Serine/threo ;417;532
 -------------------MVKEGW-------MV-----------HYT----SRDNL-----------------------RKR----------HY-WRLDS------------------------KCLTLFQ----------NES--------GS----------------KY-------------------------------------YKEIPLSEILRISS----------------------PRDFTNI----SQGSNPHCFE-IIT--DT---------MVYFVG-----EN----NGDSSHN---PVL--AA-----TGVGLDVAQSWEKAIRQALM---
 >ENSMUSP00000103981.2 pep:known chromoso ;6;108
 -------------------VIKEGW-------LH-----------KR-----GE------------YIKTW----------RP----------RY-FLLKS----------------------DGSFIGYKE----------RPE--------AP----------------DQ-TLPP--------------------------------LNNFSVA-EC--QL-----------------MKTE-------------RPR-PNTFV-IRCL----------------------------QWTTVIER---TFH---V-----DSPD--EREEWMRAIQMVAN---
->Q15057#human ['ACAP2_HUMAN Arf-GAP with ;267;361
+>Q15057 ['ACAP2_HUMAN Arf-GAP with ;267;361
 -------------------IVMEGY-------LF-----------KR-----ASNA-----------FKTW----------NR----------RW-FSIQN------------------------NQLVYQK----------K-F--------KD----------------N--------------------------------------PTVVVED-L---RL-----------------CTVK-HCEDIE--------R-RFCFE-VVS--PT--------------------------------K---SCM---L-----QADSEKLRQAWIKAVQTSIA---
->Q9BXB4#human ['OSB11_HUMAN Oxysterol-bi ;60;155
+>Q9BXB4 ['OSB11_HUMAN Oxysterol-bi ;60;155
 --------------------NVYGY-------LM-----------KY-----TN------------LVTGW----------QY----------RF-FVLNN----------------------EAGLLEYFV----------NEQ--------SR----------------NQ-KP----------------------------------RGTLQLA-GAVISP-----------------SDED-----------------SHTFT-V---------------------------------NAASGE---QYK---L-----RATDAKERQHWVSRLQICTQ---
 >TGGT1_260370 | organism=Toxoplasma_gond ;18;114
 -------------------VVKEGW-------LC-----------KQ-----SK------------FLKDW----------RR----------RW-FVLTP------------------------YCLCSFK----------TSDI------YHS-------------------KP----------------------------------TEILFLRDCSTVKS-----------------ADEDIQKENAF-----RVDTPNRVFF-LIA-------------------------------DNN-----------------------QEKESWIGHIGRQM----
@@ -188,31 +188,31 @@ MNLGRKKSTSLE--PPERSLETSSY-------L------------------------------NVLVNSQW---------
 -------------------VIRKGHMVIQNLGIM-----------KG-----GS---------------------------RP----------YW-FVLTS------------------------ESISWYK----------DED--------EK----------------EK-------------------------------------KFMLPLD-GLKLR--------------------------DIEQG-F-MSMSRRVTFA-LFS--PD---------------------------GRNVYK---DYKQLEL-----SCETVEDVESWKASFLRAG----
 >ENSMUSP00000106789.1 pep:known chromoso ;6;107
 -------------------IVKEGW-------VQ-----------KR-----GE------------YIKNW----------RP----------RY-FLLKT----------------------DGSFIGYKE----------KPQ--------DV----------------D--LPYP--------------------------------LNNFSVA-KC--QL-----------------MKTE-------------RPK-PNTFI-IRCL----------------------------QWTTVIER---TFH---V-----DTPE--EREEWTEAIQAVAD---
->Q6ZV73#human ['FGD6_HUMAN FYVE, RhoGEF  ;1090;1183
+>Q6ZV73 ['FGD6_HUMAN FYVE, RhoGEF  ;1090;1183
 -------------------FLKEGI-------LM-----------KL-----SRK--------------VM----------QP----------RM-FFLFN------------------------DALLYTT----------PVQ---------S----------------GMYK----------------------------------LNNMLSLA-GMKVR------------------KPTQEA--------Y------QNEL-KIESV----------------------------------ER---SFI---L-----SASSATERDEWLEAISRAIE---
 >F10G8.8a pep:known chromosome:WBcel235: ;41;152
 -------------------VTACGF-------LYVAPPNLDF----S---------------MQSHSAKRW----------QR----------RW-FTLFD---------------------SGDLT-YAID----------NSM--------DT-------------------LP---------------------------------QL-SIDMS-LCYRVS-------------EAHAITGN-----------------AHSIL-LAF--NK--------------------------TREDQPS---IIY---I-----KADTTEEIRWWQNGLSKYA----
->O75563#human ['SKAP2_HUMAN Src kinase-a ;117;219
+>O75563 ['SKAP2_HUMAN Src kinase-a ;117;219
 -------------------VLKAGY-------LE-----------KR-----RKDH--------SFLGFEW----------QK----------RW-CALSK------------------------TVFYYYG----------S-D--------KD----------------K--QQ----------------------------------KGEFAID-GYSVRM-----------------NNTL-RKDGK---------K-DCCFE-ISA--PD-------------------------------KR---IYQ---F-----TAASPKDAEEWVQQLKFVLQ---
 >ENSMUSP00000106534.2 pep:known chromoso ;457;557
 -----------------------GSVT-----YM-----------SQVTIQCAGSE-----------------------EKNE----------RY-LLLFP------------------------NLLLMLSA---------SPR--------MS----------GFIY-----------------------------------------QGKLPTT-GMTITK-----------------LEDS-------------ENH-RNAFE-ISGSMIE--------RIL-------------------------------V-----SCTSQQDLHEWVEHLQKQTK---
->Q14155#human ['ARHG7_HUMAN Rho guanine  ;478;578
+>Q14155 ['ARHG7_HUMAN Rho guanine  ;478;578
 -----------------------GNVT-----YM-----------SQVLIQCAGSE-----------------------EKNE----------RY-LLLFP------------------------NVLLMLSA---------SPR--------MS----------GFIY-----------------------------------------QGKLPTT-GMTITK-----------------LEDS-------------ENH-RNAFE-ISGSMIE--------RIL-------------------------------V-----SCNNQQDLQEWVEHLQKQTK---
 >Sbay_14.65 ;77;205
 -------------------RYHEGVF------LIL----------QDL----KNDGTH--------AARKW----------KD----------VY-GVLLG------------------------TQLALWDAKELAEFTDSSSP--------VS----------------EK-KLKEIA----------------------------SKPTYINLT-DATIRT-------------LD-GSDNIVMESGKSL---------TNALV-VST---------------------------------TLKN---RYF---L-----QFGNKEFFNKWNAAIRLCLY---
 >FBpp0127619 pep:known supercontig:GCA_0 ;15;123
 -------------------LKLSGQ-------LS-----------KY-----TN------------VMKGW----------QY----------RW-FSVDA----------------------KTGSLSYYL----------CDS--------STVGDDI----APSPHVLAS-AP----------------------------------RGQVQLA-GAVVYP-----------------SDED-----------------SRTFA-I---------------------------------ACASGD---TVK---L-----RANDARARQEWVDGLRAVVE---
->Q9NRF2#human ['SH2B1_HUMAN SH2B adapter ;270;376
+>Q9NRF2 ['SH2B1_HUMAN SH2B adapter ;270;376
 ----------------------RGGGV-----AG-----------PP-----SGGG----------GQPQW----------QK----------CR-LLLRS-------------EGEGGG----GSRLEFFV----------PP---------------------------KASRPR----------------------------------LSIPCSSITDVRT-TTA-----------LEMPDR-----------------ENTFV-VKV--------------------------------EGPSE---YIM---E-----TVDAQHVK-AWVSDIQECLS---
 >ENSMUSP00000133564.1 pep:known chromoso ;520;624
 -------------------VIRRGWLTINNISLM-----------KG-----GS---------------------------KE----------YW-FVLTA------------------------ESLSWYK----------DEE--------EK----------------EK-------------------------------------KYMLPLD-NLKIR--------------------------DVEKG-F-MS-NKHV-FA-IFN--TE---------------------------QRNVYK---DLRQIEL-----ACDSQEDVDSWKASFLRAG----
 >ATG26_VANPO ;247;343
 -------------------VVLCGK-------LK-----------LR-----SRLKG-------------N----------PR----------YW-CVLKH------------------------STLALY------------ND--------PS----------------DIYFP----------------------------------ILSIDLN-HVEEIS-----------------LENSLKDENTMT------------FV-LEA--SS--------------------------------K---NYK---F-----IAGSSHSAKTWVKCLKKQLF---
->O95248#human ['MTMR5_HUMAN Myotubularin ;1762;1865
+>O95248 ['MTMR5_HUMAN Myotubularin ;1762;1865
 -------------------RSYEGT-------LY-----------KK-----GA------------FMKPW----------KA----------RW-FVLDK----------------------TKHQLRYYD----------HRV--------DT---EC--------------------------------------------------KGVIDLA-EVEAVA-----------------PGTP-TMGAPK-----TVDE-KAFFD-VK----------------------------------TTRR---VYN---F-----CAQDVPSAQQWVDRIQSCLS---
 >FBpp0125248 pep:known supercontig:GCA_0 ;759;864
 -------------------PTVQGW-------VT---------KVKN---------------------GHA----------KK----------CW-CVLLG------------------------KMFLYFK----------APA--------ET-------------------NP----------------------------------LGQINMR-DARVEE----------VE-----HVSDSDSEEREDA-AQDQAR-LTVAI-YPA--HQ-----------------G--------------P---TYL---ILSGKPERD------NWLYHL-TVVS---
->Q99704#human ['DOK1_HUMAN Docking prote ;4;119
+>Q99704 ['DOK1_HUMAN Docking prote ;4;119
 -------------------AVMEGPLF-----LQ-----------SQ-----RFG------------TKRW----------RK----------TW-AVLYP-------------ASPHG-----VARLEFFD----------------------H----------------KGSSSGGGRGSSR-----------------------RLDCKVIRLAECVSVAP-VTV------------ETPPE-----------------PGATA-FRL--------------------------------DTAQR---SHL---L-----AADAPSSA-AWVQTLCRNAF---
 >ENSMUSP00000077099.5 pep:known chromoso ;182;290
 -------------------VFKSGW-------LY-----------KG-----N----FNSTVNNTVTVRSF----------KK----------RY-FQLTQ-------------------LPDNSYIMNFYK----------DEK--------IS----------------K--EP----------------------------------KGCIFLD-SC---------------------TGVV-QNNRLR--------K--YAFE-LKM----------------------------------NDL---TYF--VL-----AAETESDMDEWIHTLNRILQ---
