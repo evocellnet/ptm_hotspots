@@ -99,12 +99,11 @@ def count_window_for_list(list):
     return(window_values)                                                        
 
 ## background construction
-## make_random_histogram(phosp,total_S) of phosphosites across all available S (or T or Y or whatever)
 def make_random_histogram(elements, size):
     rlist = [0 for i in range(size)]
-    for i in [random.randint(0, size-1) for i in range(elements)]:
-        rlist[i] += 1
-    return(rlist)
+    my_list = [1]*elements + [0]*(size-elements)
+    random.shuffle(my_list)
+    return(my_list)
 
 ## returns one permutated column of rolled window on background
 def permutated_dataframe(letter_alignment,phosp_alignment, column_names, indexes):
