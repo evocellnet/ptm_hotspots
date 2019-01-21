@@ -81,7 +81,7 @@ def phos_dataframe(phosp_info, letter_alignment, position_alignment, column_name
             if protein_id == protein_id2 and start_no <= phosp_pos:
                 row_with_pos = position_alignment.index[position_alignment[column] == phosp_pos].tolist()
                 if len(row_with_pos) == 1:
-                    phosp_alignment.at[row_with_pos[0], column] += 1
+                    phosp_alignment.at[row_with_pos[0], column] = 1
     return(phosp_alignment)
 
 # rolling window for a list (returns list [2:-2] of original length)
