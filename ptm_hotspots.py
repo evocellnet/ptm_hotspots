@@ -11,8 +11,8 @@ from scipy.stats import norm
 import pandas as pd
 from itertools import chain 
 import statsmodels.api as sm
-
-## prepare column names and indexes
+    
+# prepare column names and indexes
 def prepare_cols_indx(alignment_file):
     alignment=open(alignment_file,"r").readlines()
     ali_len=len(alignment[1])
@@ -28,7 +28,7 @@ def prepare_cols_indx(alignment_file):
         indexes.append(i)
     return(column_names, indexes)       
 
-## dataframe with alignment as letters
+# dataframe with alignment as letters
 def letter_ali_dataframe(alignment_file, column_names, indexes):
     alignment=open(alignment_file,"r").readlines()
     ali_len=len(alignment[1])
@@ -50,62 +50,62 @@ def letter_ali_dataframe(alignment_file, column_names, indexes):
     letter_alignment=pd.DataFrame(alignment_list, columns=column_names, index=indexes)
     return(letter_alignment)
 
-## dataframe with alignment as positions
+# dataframe with alignment as positions
 def pos_dataframe(letter_alignment, column_names, indexes):
     position_alignment=pd.DataFrame(index=indexes[2:])
     for protein in column_names:
-        pos_seq=[]
-        start=letter_alignment.loc['start1',protein]
-        seq=letter_alignment[protein].tolist()[2:]
-        counter=0
+        pos_seq = []
+        start = letter_alignment.loc['start1', protein]
+        seq = letter_alignment[protein].tolist()[2:]
+        counter = 0
         for aa in seq:
-            if aa=="-":
+            if aa == "-":
                 pos_seq.append(0)
             else:
                 pos_seq.append(start+counter)
-                counter+=1
-        position_alignment[protein]=pos_seq
+                counter += 1
+        position_alignment[protein] = pos_seq
     return(position_alignment)
 
-###### 0/1 dataframe with mapped phosphorylations onto alignment
+# 0/1 dataframe with mapped phosphorylations onto alignment
 def phos_dataframe(phosp_info, letter_alignment, position_alignment, column_names, indexes):
-    phosp_alignment=pd.DataFrame(0,index=indexes[2:], columns=column_names)
+    phosp_alignment = pd.DataFrame(0, index=indexes[2:], columns=column_names)
     for column in column_names:
-        protein_id=column.split("+")[0].strip()
-        start_no=int(column.split("+")[1].strip())
-        for i in range(0,len(phosp_info)):
-            l=phosp_info[i].split(",")
-            protein_id2=l[1].strip()
-            phosp_pos=int(l[2].strip())
-            phosp_aa=l[3].strip()
-            if protein_id==protein_id2 and start_no<=phosp_pos:
-                row_with_pos=position_alignment.index[position_alignment[column]==phosp_pos].tolist()
-                if len(row_with_pos)==1:
-                    phosp_alignment.at[row_with_pos[0],column]+=1
+        protein_id = column.split("+")[0].strip()
+        start_no = int(column.split("+")[1].strip())
+        for i in range(0, len(phosp_info)):
+            l = phosp_info[i].split(",")
+            protein_id2 = l[1].strip()
+            phosp_pos = int(l[2].strip())
+            phosp_aa = l[3].strip()
+            if protein_id == protein_id2 and start_no <= phosp_pos:
+                row_with_pos = position_alignment.index[position_alignment[column] == phosp_pos].tolist()
+                if len(row_with_pos) == 1:
+                    phosp_alignment.at[row_with_pos[0], column] += 1
     return(phosp_alignment)
 
-#######rolling window for a list (returns list [2:-2] of original length)
-def count_window_for_list(list):                                                 
-    window_values=[]                                                             
-    for i in range(2,len(list)-2):                                               
-        a=int(list[i-2])                                                         
-        b=int(list[i-1])                                                         
-        c=int(list[i])                                                           
-        d=int(list[i+1])                                                         
-        e=int(list[i+2])                                                         
-        how_many=a+b+c+d+e                                                       
-        bg=float(how_many/5.)                                                    
-        window_values.append(bg)                                                 
-    return(window_values)                                                        
+# rolling window for a list (returns list [2:-2] of original length)
+def count_window_for_list(list):
+    window_values = []
+    for i in range(2, len(list)-2):
+        a = int(list[i-2])
+        b = int(list[i-1])
+        c = int(list[i])
+        d = int(list[i+1])
+        e = int(list[i+2])
+        how_many = a+b+c+d+e
+        bg = float(how_many/5.)
+        window_values.append(bg)
+    return(window_values)
 
-## background construction
+# background construction
 def make_random_histogram(elements, size):
     rlist = [0 for i in range(size)]
     my_list = [1]*elements + [0]*(size-elements)
     random.shuffle(my_list)
     return(my_list)
 
-## returns one permutated column of rolled window on background
+# returns one permutated column of rolled window on background
 def permutated_dataframe(letter_alignment,phosp_alignment, column_names, indexes):
     permutated_alignment=pd.DataFrame(0, index=indexes[2:], columns=column_names)
     for protein_id in column_names:
@@ -134,7 +134,7 @@ def permutated_dataframe(letter_alignment,phosp_alignment, column_names, indexes
     one_of_bg=count_window_for_list(sum_of_phosps)
     return(one_of_bg)
 
-#permutated_alignment=permutated_dataframe(letter_alignment,phosp_alignment, column_names, indexes)
+# permutated_alignment=permutated_dataframe(letter_alignment,phosp_alignment, column_names, indexes)
 def count_zscore(fg,mean,stdev):
     if stdev==0:
         zscore=0
@@ -155,15 +155,15 @@ def count_pval(fg, mean, stdev):
     return(p_val)
 
 def getHotspotSitesInFile(alignment_path, ptms, how_many_permuts):
-    ## Starting dataframes
-    (column_names, indexes)=prepare_cols_indx(alignment_path)
-    letter_alignment=letter_ali_dataframe(alignment_path, column_names, indexes)
-    position_alignment=pos_dataframe(letter_alignment, column_names, indexes)
-    phosp_alignment=phos_dataframe(ptms, letter_alignment, position_alignment, column_names, indexes)
-    ## Foreground dataframe
+    # Starting dataframes
+    (column_names, indexes) = prepare_cols_indx(alignment_path)
+    letter_alignment = letter_ali_dataframe(alignment_path, column_names, indexes)
+    position_alignment = pos_dataframe(letter_alignment, column_names, indexes)
+    phosp_alignment = phos_dataframe(ptms, letter_alignment, position_alignment, column_names, indexes)
+    # Foreground dataframe
     sum_of_phosps=phosp_alignment.loc[0:].sum(axis=1).tolist()
     foreground=count_window_for_list(sum_of_phosps)
-    ## dataframe (and permutations)
+    # dataframe (and permutations)
     background_dataframe=pd.DataFrame(index=indexes[4:-2],columns=list(range(0,how_many_permuts)))
     for k in range(0,how_many_permuts):
         background_dataframe[k]=permutated_dataframe(letter_alignment, phosp_alignment, column_names, indexes)
@@ -377,7 +377,8 @@ if __name__ == '__main__':
     print("Done!")
 
     if printSites:
-        hotspot_sites[hotspot_sites.hotspot].to_csv(outputFile, index = False)
+        # hotspot_sites[hotspot_sites.hotspot].to_csv(outputFile, index = False)
+        hotspot_sites.to_csv(outputFile, index = False)
     else:
         if(len(hotspot_regions) == 0):
             f = open(outputFile, 'w')
