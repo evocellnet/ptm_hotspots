@@ -266,8 +266,7 @@ def get_hotspot_regions(h_sites):
         .value_counts() \
         .rename("counts") \
         .reset_index()
-    h_def = hotspot_definitions[hotspot_definitions.counts > 1] \
-        .drop(columns="counts")
+    h_def = h_def[h_def.counts > 1].drop(columns="counts")
     h_def = pd.merge(h_dom,
                      h_def,
                      on=["domain", "in_hotspot_region_cumsum"])
