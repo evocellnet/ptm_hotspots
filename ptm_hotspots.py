@@ -83,12 +83,15 @@ def phos_dataframe(phosp_info, letter_alignment, position_alignment,
             line = phosp_info[i].split(",")
             protein_id2 = line[1].strip()
             phosp_pos = int(line[2].strip())
+            phosp_aa = line[3].strip()
             if protein_id == protein_id2 and start_no <= phosp_pos:
                 row_with_pos = position_alignment.index[
                     position_alignment[column] == phosp_pos,
                 ].tolist()
                 if len(row_with_pos) == 1:
-                    phosp_alignment.at[row_with_pos[0], column] = 1
+                    aa_in_pos = letter_alignment.loc[row_with_pos[0], column]
+                    if phosp_aa == aa_in_pos:
+                        phosp_alignment.at[row_with_pos[0], column] = 1
     return(phosp_alignment)
 
 
