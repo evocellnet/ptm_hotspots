@@ -31,26 +31,24 @@ You can obtain more help and options by typing:
 
 `python3 ptm_hotspots.py -h`
 
+
 	usage: ptm_hotspots.py [-h] [--dir [PATH]] [--ptmfile [PATH]] [-d [PFXXXXX]]
-                       [--iter [INTEGER]] [--threshold [FLOAT]]
-                       [--foreground [FLOAT]] -o PATH [--printSites]
-	
+						   [--iter [INTEGER]] [--threshold [FLOAT]]
+						   [--foreground [FLOAT]] -o PATH [--printSites]
+
 	Estimate PTM hotspots in sequence alignments
 
 	optional arguments:
 	  -h, --help            show this help message and exit
-	  --dir [PATH]          directory containing fasta alignments (default:
-                            db/alignments)
+	  --dir [PATH]          fasta alignments dir (default: db/alignments)
 	  --ptmfile [PATH]      file containing PTMs (default: db/all_phosps)
 	  -d [PFXXXXX], --domain [PFXXXXX]
-                            predictions in domain (i.e. Protein kinase domain
-                            PF00069)
+							query single domain (i.e. PF00069)
 	  --iter [INTEGER]      number of permutations (default: 100)
-	  --threshold [FLOAT]   Bonferroni-corrected p-value threshold for calling
-                            hotspots (default: 0.05)
-	  --foreground [FLOAT]  effect-size cutoff for calling hotspots (default: 2)
+	  --threshold [FLOAT]   Corrected p-value threshold (default: 0.01)
+	  --foreground [FLOAT]  effect-size foreground cutoff (default: 2)
 	  -o PATH, --out PATH   output csv file
-	  --printSites          print all site predictions instead of hotspot regions
+	  --printSites          print all residue predictions
 
 Note: Since the Bonferroni correction depends on the total number of predictions, small disimilarities might emerge in the same domain hotspots depending on whether you run only a domain or the full set of domains. Similarly, the stochastic nature of the permutation analysis might make the results vary between runs.
 
