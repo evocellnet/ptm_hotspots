@@ -233,6 +233,16 @@ def getHotspotSitesInFile(alignment_path, ptms, repeat):
     return(expanded_df)
 
 
+def multipletesting(h_sites):
+    tmp = h_sites.loc[:, ("domain", "position_aln", "pvals")] \
+                 .drop_duplicates()
+    tmp["p_adjust"] = sm.stats.multipletests(tmp.pvals.tolist(),
+                                             method='b')[1].tolist()
+    h_sites = h_sites.merge(tmp,
+                            on=["domain", "position_aln", "pvals"])
+    return(tmp)
+
+
 def get_hotspot_regions(h_sites):
     # Creting hotspot regions (+/-2)
     #  Positions + neighboring positions and whether they are hotspots or not
@@ -369,18 +379,18 @@ if __name__ == '__main__':
                         help='number of permutations (default: 100)')
     parser.add_argument('--threshold',
                         nargs='?',
-                        default=1e-3,
+                        default=0.01,
                         action="store",
                         metavar="FLOAT",
                         dest="threshold",
                         type=float,
-                        help='Corrected p-value threshold (default: 0.001)')
+                        help='Corrected p-value threshold (default: 0.01)')
     parser.add_argument('--foreground',
                         nargs='?',
                         default=2,
                         action="store",
                         metavar="FLOAT",
-                        dest="fore_val",
+                        dest="FORE_VAL",
                         type=float,
                         help='effect-size foreground cutoff (default: 2)')
     parser.add_argument('-o',
@@ -400,8 +410,8 @@ if __name__ == '__main__':
     alignments_dir = results.alignments_dir
     ptm_file = results.ptm_file
     ITER = results.ITER
-    threshold = results.threshold
-    fore_val = results.fore_val
+    THRESHOLD = results.THRESHOLD
+    FORE_VAL = results.FORE_VAL
     outputFile = results.outputFile
     printSites = results.printSites
 
@@ -428,10 +438,9 @@ if __name__ == '__main__':
     h_sites = h_sites.loc[:, ("domain", "protein", "position", "residue",
                               "position_aln", "foreground", "pvals")] \
                      .copy()
-    h_sites["p_adjust"] = sm.stats.multipletests(h_sites.pvals.tolist(),
-                                                 method='fdr_bh')[1]
-    h_sites["hotspot"] = (h_sites.p_adjust <= threshold) & \
-        (h_sites.foreground >= fore_val)
+    h_sites = multipletesting(h_sites)
+    h_sites["hotspot"] = (h_sites.p_adjust <= THRESHOLD) & \
+        (h_sites.foreground >= FORE_VAL)
 
     # estimating hotspot ranges
     # All hotspot range-definitions
