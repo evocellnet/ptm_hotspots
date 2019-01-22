@@ -353,14 +353,14 @@ if __name__ == '__main__':
                         default="db/alignments",
                         action="store",
                         metavar="PATH",
-                        dest="alignments_dir",
+                        dest="ALIGNMENTS_DIR",
                         help='fasta alignments dir (default: db/alignments)')
     parser.add_argument('--ptmfile',
                         nargs='?',
                         default="db/all_phosps",
                         action="store",
                         metavar="PATH",
-                        dest="ptm_file",
+                        dest="PTM_FILE",
                         help='file containing PTMs (default: db/all_phosps)')
     parser.add_argument('-d',
                         '--domain',
@@ -382,7 +382,7 @@ if __name__ == '__main__':
                         default=0.01,
                         action="store",
                         metavar="FLOAT",
-                        dest="threshold",
+                        dest="THRESHOLD",
                         type=float,
                         help='Corrected p-value threshold (default: 0.01)')
     parser.add_argument('--foreground',
@@ -398,40 +398,40 @@ if __name__ == '__main__':
                         required=True,
                         action="store",
                         metavar="PATH",
-                        dest="outputFile",
+                        dest="OUTPUTFILE",
                         help='output csv file')
     parser.add_argument('--printSites',
-                        dest="printSites",
+                        dest="PRINTSITES",
                         action="store_true",
                         help='print all residue predictions',
                         default=False)
 
     results = parser.parse_args()
-    alignments_dir = results.alignments_dir
-    ptm_file = results.ptm_file
+    ALIGNMENTS_DIR = results.ALIGNMENTS_DIR
+    PTM_FILE = results.PTM_FILE
     ITER = results.ITER
     THRESHOLD = results.THRESHOLD
     FORE_VAL = results.FORE_VAL
-    outputFile = results.outputFile
-    printSites = results.printSites
+    OUTPUTFILE = results.OUTPUTFILE
+    PRINTSITES = results.PRINTSITES
 
     # reading all PTMs
-    ptms = open(ptm_file, "r").readlines()
+    ptms = open(PTM_FILE, "r").readlines()
     # check if domain is specified. read all otherwise
     if results.domain:
         alignmentFiles = [results.domain + ".fasta"]
-        if not os.path.isfile(os.path.join(alignments_dir, alignmentFiles[0])):
+        if not os.path.isfile(os.path.join(ALIGNMENTS_DIR, alignmentFiles[0])):
             sys.stderr.write("Domain file does not exist!")
             sys.exit(1)
             # read all
     else:
-        alignmentFiles = os.listdir(alignments_dir)
+        alignmentFiles = os.listdir(ALIGNMENTS_DIR)
 
     # estimating all hotspot sites
     allHotspots = []
     for filename in alignmentFiles:
         print("* " + filename)
-        alignment_path = os.path.join(alignments_dir, filename)
+        alignment_path = os.path.join(ALIGNMENTS_DIR, filename)
         expanded_dataframe = getHotspotSitesInFile(alignment_path, ptms, ITER)
         allHotspots.append(expanded_dataframe)
     h_sites = pd.concat(allHotspots)
@@ -450,13 +450,13 @@ if __name__ == '__main__':
 
     print("Done!")
 
-    if printSites:
-        # h_sites[h_sites.hotspot].to_csv(outputFile, index = False)
-        h_sites.to_csv(outputFile, index=False)
+    if PRINTSITES:
+        # h_sites[h_sites.hotspot].to_csv(OUTPUTFILE, index = False)
+        h_sites.to_csv(OUTPUTFILE, index=False)
     else:
         if(len(hotspot_regions) == 0):
-            thisfile = open(outputFile, 'w')
+            thisfile = open(OUTPUTFILE, 'w')
             thisfile.write('0 hotspots found\n')
             thisfile.close()
         else:
-            hotspot_regions.to_csv(outputFile, index=False)
+            hotspot_regions.to_csv(OUTPUTFILE, index=False)
