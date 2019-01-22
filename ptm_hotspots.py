@@ -235,12 +235,13 @@ def getHotspotSitesInFile(alignment_path, ptms, repeat):
 
 def multipletesting(h_sites):
     tmp = h_sites.loc[:, ("domain", "position_aln", "pvals")] \
+                 .copy() \
                  .drop_duplicates()
     tmp["p_adjust"] = sm.stats.multipletests(tmp.pvals.tolist(),
                                              method='b')[1].tolist()
     h_sites = h_sites.merge(tmp,
                             on=["domain", "position_aln", "pvals"])
-    return(tmp)
+    return(h_sites)
 
 
 def get_hotspot_regions(h_sites):
