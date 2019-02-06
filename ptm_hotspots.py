@@ -6,8 +6,9 @@ import argparse
 import random
 import numpy as np
 import scipy
+import scipy.stats
 import pandas as pd
-import statsmodels.api as sm
+from statsmodels.stats.multitest import multipletests
 
 
 # prepare column names and indexes
@@ -237,10 +238,8 @@ def multipletesting(h_sites):
     tmp = h_sites.loc[:, ("domain", "position_aln", "pvals")] \
                  .copy() \
                  .drop_duplicates()
-    tmp["p_adjust"] = sm.stats.multipletests(tmp.pvals.tolist(),
-                                             method='b')[1].tolist()
-    h_sites = h_sites.merge(tmp,
-                            on=["domain", "position_aln", "pvals"])
+    tmp["p_adjust"] = multipletests(tmp["pvals"], method='bonferroni')[1]
+    h_sites = h_sites.merge(tmp, on=["domain", "position_aln", "pvals"])
     return(h_sites)
 
 
